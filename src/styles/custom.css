@@ -96,12 +96,15 @@ header.header {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
-.kh-head-btn {
+.kh-head-btn,
+.kh-head-btn:hover,
+.kh-head-btn:focus {
   display: inline-block;
-  padding: 0.45rem 0.95rem;
-  border-radius: 999px;
+  padding: 0.45rem 0.95rem !important;
+  margin: 0 !important;
+  border-radius: 999px !important;
   background: var(--kh-ink);
-  color: var(--kh-bg);
+  color: var(--kh-bg) !important;
   font-size: 0.85rem;
   font-weight: 600;
   text-decoration: none;
@@ -723,5 +726,18 @@ h1#_top {
   }
   .kh-hero-tagline {
     font-size: 1rem;
+  }
+}
+
+/* Home page: phones and small tablets get the normal menu button (the page has a sidebar),
+   but from 50rem up the sidebar is hidden so the landing page stays full width. */
+@media (min-width: 50rem) {
+  html[data-has-hero] {
+    --sl-content-inline-start: 0rem !important;
+    --sl-content-width: 67.5rem;
+    --__sidebar-pad: 0rem !important;
+  }
+  html[data-has-hero] nav.sidebar {
+    display: none;
   }
 }

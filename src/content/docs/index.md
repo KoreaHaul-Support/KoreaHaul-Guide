@@ -2,7 +2,7 @@
 title: "KoreaHaul Guide"
 description: "How KoreaHaul works: buying, receiving and shipping Korean products worldwide, with fees, carriers, customs and country guides."
 lastUpdated: 2026-09-26
-template: splash
+template: doc
 hero:
   title: "How can we help?"
   tagline: "Welcome to KoreaHaul. This guide covers everything you need to get started and make the most of our services."
