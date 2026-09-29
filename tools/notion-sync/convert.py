@@ -261,8 +261,8 @@ def home_page():
     for t in TOPICS:
         links = "".join(f'<li><a href="{link(s)}">{TREE[s]["title"]}</a></li>' for s in t[3])
         cards.append(
-            f'<div class="kh-cat"><h2 class="kh-cat-title"><a href="{topic_url(t)}">{t[1]}</a></h2>'
-            f'<p class="kh-cat-desc">{t[2]}</p><ul class="kh-cat-links">{links}</ul>'
+            f'<div class="kh-cat"><div class="kh-cat-head"><h2 class="kh-cat-title"><a href="{topic_url(t)}">{t[1]}</a></h2>'
+            f'<p class="kh-cat-desc">{t[2]}</p></div><ul class="kh-cat-links">{links}</ul>'
             f'<a class="kh-cat-all" href="{topic_url(t)}">All {count(t)} articles <span aria-hidden="true">&rarr;</span></a></div>')
 
     faq_md = []
