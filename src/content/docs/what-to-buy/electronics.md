@@ -16,15 +16,19 @@ Start with the Electronics category on [**KoreaHaul Picks (KH Picks)**](https://
 - [**Danawa**](https://danawa.com) - price history and spec comparison before you pick a store.
 - **Naver Smart Stores** - accessories and niche brands.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Brand-name electronics cannot use International Standard Shipping.** Samsung, LG, Apple and other international brands must go by FedEx or SF Express. EMS Korea Post is out too if the device has a battery.
-:::
+
+</div>
 
 ## Before you order
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 Korea runs **220V at 60Hz** with Type C and F plugs. A Korean appliance on a 110V supply will not work, and an adapter does not change the voltage. Check the label says 100-240V before you buy.
-:::
+
+</div>
 
 - **Batteries must be built into the device.** Loose batteries and power banks cannot be shipped at all.
     - Every carrier that accepts batteries caps it at 1 to 2 devices per shipment.

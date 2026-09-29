@@ -10,11 +10,13 @@ sidebar:
 
 Based on customer feedback, we are changing how we price. Korean won is now the base currency, and all service fees are stated in won.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 **Welcome Coupon** - a ₩5,000 coupon (about $3.70) is issued when you sign up.
 
 **Launch promotion** - Basic and Standard Buy For Me are ₩0 for requests submitted by 31 December 2026. Premium is not included.
-:::
+
+</div>
 
 ## How pricing works now
 

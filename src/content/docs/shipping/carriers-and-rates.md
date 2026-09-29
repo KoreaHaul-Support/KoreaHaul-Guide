@@ -33,11 +33,14 @@ Prices and transit times differ by country. You see the real quote for your box 
 - **International Standard Shipping** - accepted, except to Japan, China, and Hong Kong
 - **EMS Korea Post** - not accepted, including built-in
 
-:::caution
-Carrier rules change without notice. Check with us before ordering anything battery-powered.
-:::
+<div class="kh-callout kh-callout--caution">
 
-:::caution
+Carrier rules change without notice. Check with us before ordering anything battery-powered.
+
+</div>
+
+<div class="kh-callout kh-callout--caution">
+
 **Maximum weight per shipment**, depending on the destination:
 
 - FedEx International Connect Plus - 25 kg
@@ -45,7 +48,8 @@ Carrier rules change without notice. Check with us before ordering anything batt
 - EMS Korea Post - 20 kg
 - SF Express - 10 kg
 - International Standard Shipping - 5 kg. Above that it can cost more than a better carrier, so it is not worth using.
-:::
+
+</div>
 
 ## How shipping weight is calculated
 
@@ -56,9 +60,11 @@ Carriers charge the higher of two numbers:
 
 We show both and mark which applies. Optimized Pack and Vacuum Packing often bring the volumetric weight down.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 A 40 × 30 × 25 cm box of clothing weighs 3 kg on the scale, but 40 × 30 × 25 ÷ 5000 = 6 kg volumetric. You are charged for 6 kg.
-:::
+
+</div>
 
 ## Coverage
 

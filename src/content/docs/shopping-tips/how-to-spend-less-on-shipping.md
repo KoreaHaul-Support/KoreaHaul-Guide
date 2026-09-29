@@ -15,9 +15,11 @@ Shipping is usually the biggest line on your invoice, and the one you control mo
 - **Vacuum Packing, ₩6,000 per package.** On clothing and bedding it usually saves more than it costs.
 - **Optimized Pack, ₩2,000 + ₩1,000 per package.** We repack to cut volume and dead space. Original parcel boxes may be removed, never sealed packaging.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 Not sure? Request the shipment anyway. You see every carrier price before you pay, and nothing is charged until you choose.
-:::
+
+</div>
 
 ## Watch your duty threshold
 
@@ -34,14 +36,20 @@ The customs handling fee is charged on top of the duty itself, and it differs by
 - **FedEx International Connect Plus (DDP)** - ₩6,000, or ₩12,000 where estimated import charges exceed ₩120,000. Use it where it is available for your country.
 - **International Standard Shipping** - ₩2,000 to ₩5,000, the cheapest of the lot. It does not accept branded products, so Nike, Adidas, LEGO, Pokémon, Casio, Chanel, Louis Vuitton, Gucci and similar have to go by FedEx, EMS Korea Post, or SF Express.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 **To the United States, International Standard Shipping includes duties in the shipping price.** Nothing more to pay on arrival.
-:::
 
-:::caution
+</div>
+
+<div class="kh-callout kh-callout--caution">
+
 **Shipping K-beauty to the United States on International Standard Shipping?** Cosmetics must be shipped separately, with a ₩6,000 handling fee. Submit a separate Ship For Me request for them.
-:::
 
-:::note
+</div>
+
+<div class="kh-callout kh-callout--note">
+
 On DDP we prepay an estimate. If customs assesses less than we collected, anything over ₩5,000 comes back to you as Store Credit.
-:::
+
+</div>

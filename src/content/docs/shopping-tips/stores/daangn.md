@@ -18,9 +18,11 @@ Korea's neighbourhood second-hand marketplace. Sellers usually trade locally, fa
 - **Standard ₩5,000** - the seller agrees to ship, and we handle the conversation in Korean
 - **Premium ₩30,000 per unit** - the seller only deals in person, so someone has to collect
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Safe Payment orders are final.** Once placed, they cannot be cancelled or returned, and no refund is possible. Check the listing carefully before you request.
-:::
+
+</div>
 
 ## Good to know
 

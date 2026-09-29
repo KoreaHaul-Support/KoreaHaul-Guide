@@ -34,9 +34,11 @@ KRW figures are approximate and move with the exchange rate.
 
 Three of the four services do not cover damage in transit. If your items are fragile, that is the most important line on this page.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Over $300 on FedEx? Buy insurance.** The complimentary $300 cover applies only at or below $300. Above that it does not apply at all, so an uninsured $400 shipment has no cover whatsoever - not even the first $300.
-:::
+
+</div>
 
 ## Optional Shipping Insurance
 
@@ -54,9 +56,11 @@ What is covered, and whether a claim is paid, is decided by the carrier or insur
 
 ## If something goes wrong
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Record an uninterrupted unboxing video.** Start filming before you cut the tape and keep recording until everything is out of the box, in one take. Carriers reject damage claims without it. Take photos as well.
-:::
+
+</div>
 
 1. Keep the box and the packaging. Claims fail without them.
 2. Photograph the outer box, the packaging inside, and the damaged item.
@@ -65,9 +69,11 @@ What is covered, and whether a claim is paid, is decided by the carrier or insur
 
 The claim is filed with the carrier or insurer, and they decide it. We support the claim, we do not settle it.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 Report damage within **14 days** of international delivery. Carriers reject late claims, and there is nothing we can do once the window closes.
-:::
+
+</div>
 
 ## Lost parcels
 

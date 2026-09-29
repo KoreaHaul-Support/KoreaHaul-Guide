@@ -16,11 +16,15 @@ Everything you need to buy Korean products and get them to your door in the EU -
 - **Receive For Me** - ship your Korean orders to our warehouse. We receive and store them.
 - **Ship For Me** - we consolidate, pack, and ship your orders to the EU.
 
-:::caution[Payment]
+<div class="kh-callout kh-callout--caution">
+
+<p class="kh-callout-title">Payment</p>
+
 PayPal, Wise, and Credit Card (3D Secure), including Italy and Spain. See Payment Methods for limits.
 
 Payment processing fees vary by method and are added at checkout.
-:::
+
+</div>
 
 ## Delivery
 
@@ -33,11 +37,13 @@ Payment processing fees vary by method and are added at checkout.
     - Loss insurance included, up to USD $155.
 - **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 5-10 business days.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 **Prepaid (DDP)** = You pay import charges before your package is shipped.
 
 **Recipient-paid (DAP/DDU)** = You pay import charges when your package arrives in your country.
-:::
+
+</div>
 
 *\\* Import charges may include duties, taxes, customs handling fees, and other import-related charges.\*
 
@@ -55,9 +61,11 @@ We are working to expand the areas we can serve. If you live in a remote area, p
 
 ## Customs, duty and tax
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
-:::
+
+</div>
 
 - **EUR 150 duty exemption ended.** The former EUR 150 customs-duty exemption ended on 1 July 2026. Customs duty can now apply at any value.
 - **VAT** is charged from the first euro. The rate depends on the destination country (see the table below).
@@ -126,9 +134,13 @@ On a EUR 100 order with EUR 30 shipping (example value EUR 130), VAT applies at 
 
 See the [Prohibited and Restricted Items](https://koreahaul.com/shipping-info/restricted) page for full details.
 
-:::caution[Spain]
+<div class="kh-callout kh-callout--caution">
+
+<p class="kh-callout-title">Spain</p>
+
 K-beauty and cosmetics are not currently available.
-:::
+
+</div>
 
 ## Questions
 
@@ -147,9 +159,13 @@ K-beauty and cosmetics are not currently available.
 
 *We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
 
-:::note[Spotted something wrong?]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Spotted something wrong?</p>
+
 Let us know. The first person to report an error that we correct gets a $10 coupon.
-:::
+
+</div>
 
 **Our services are governed by these policies:**
 

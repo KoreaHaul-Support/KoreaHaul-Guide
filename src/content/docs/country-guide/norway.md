@@ -16,22 +16,28 @@ Everything you need to buy Korean products and get them to your door in Norway -
 - **Receive For Me** - ship your Korean orders to our warehouse. We receive and store them.
 - **Ship For Me** - we consolidate, pack, and ship your orders to Norway.
 
-:::note[Payment]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Payment</p>
+
 Wise and Credit Card (3D Secure). See Payment Methods for limits.
 
 Payment processing fees vary by method and are added at checkout.
-:::
+
+</div>
 
 ## Delivery
 
 - **FedEx International Priority** - import charges paid by the recipient (DAP). Estimated 2-3 business days.
 - **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 5-10 business days.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 **Prepaid (DDP)** = You pay import charges before your package is shipped.
 
 **Recipient-paid (DAP/DDU)** = You pay import charges when your package arrives in your country.
-:::
+
+</div>
 
 *\\* Import charges may include duties, taxes, customs handling fees, and other import-related charges.\*
 
@@ -41,13 +47,17 @@ To estimate the shipping cost and transit time, use the Shipping Calculator at [
 
 ## Customs, duty and tax
 
-:::caution
-**Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
-:::
+<div class="kh-callout kh-callout--caution">
 
-:::caution
+**Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
+
+</div>
+
+<div class="kh-callout kh-callout--caution">
+
 **We are not VOEC-registered.** VAT is not collected at checkout, so your parcel goes through ordinary border clearance and you pay VAT on arrival.
-:::
+
+</div>
 
 - **VAT:** 25%, charged from the first krone. The old NOK 350 relief ended on 1 January 2024.
 - **Duty:** depends on the commodity code. In practice, Norwegian duty mainly applies to clothing, food, and other foodstuffs. Shoes are generally exempt.
@@ -97,9 +107,13 @@ See the [Prohibited and Restricted Items](https://koreahaul.com/shipping-info/re
 
 *We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
 
-:::note[Spotted something wrong?]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Spotted something wrong?</p>
+
 Let us know. The first person to report an error that we correct gets a $10 coupon.
-:::
+
+</div>
 
 **Our services are governed by these policies:**
 

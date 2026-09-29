@@ -18,9 +18,11 @@ The official store for HYBE artists, including BTS, SEVENTEEN, TXT, ENHYPEN, and
 
 ## Good to know
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Weverse is not the same as Weverse Shop.** Many artists from other agencies have a Weverse community, but their merchandise is usually sold on their agency's own store - [SMTOWN & STORE](https://smtownandstore.com/) for SM artists, [YG Select](https://www.ygselect.com/) for YG artists, [FANS Shop](https://app.fans/shop) for JYP artists. Check where your artist sells before you request.
-:::
+
+</div>
 
 - Official albums, merchandise, and fan club items.
 - Pre-orders and limited drops sell out fast. Submit your request early. See [Pre-order, Presale & Group Order](/shopping-tips/pre-order-presale-and-group-order/).

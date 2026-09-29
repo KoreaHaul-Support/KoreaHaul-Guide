@@ -18,11 +18,13 @@ Start with the Pokemon category on [**KoreaHaul Picks (KH Picks)**](https://kore
 - **Bunjang, Joongonara** - singles, sealed older sets, anything discontinued.
 - [**KREAM**](https://kream.co.kr), [**Soldout**](https://soldout.co.kr) - authenticated cards and collectibles.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Buying a high-value card or collectible? Use **[**KREAM**](https://kream.co.kr)**.** They authenticate before shipping, which no open marketplace does. Their cards are on KH Picks.
 
 We do not authenticate cards, grade condition, or open sealed product to check. Our unboxing media shows what arrived, nothing more.
-:::
+
+</div>
 
 ## Packing
 

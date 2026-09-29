@@ -8,9 +8,11 @@ sidebar:
 
 KREAM, Bunjang, Joongonara, Karrot, and Soldout are where sold-out and discontinued Korean items surface. They are also where most problems start.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 These platforms are **as-is**. Once we place the order it cannot be cancelled, returned, or exchanged. We are buying from a private individual, not a retailer.
-:::
+
+</div>
 
 ## What is different
 
@@ -37,10 +39,12 @@ These platforms are **as-is**. Once we place the order it cannot be cancelled, r
 - [**Bunjang**](https://bunjang.co.kr), [**Joongonara**](https://web.joongna.com/) - general second-hand, heavy on photocards and collectibles.
 - [**Karrot**](https://daangn.com) - local pickup based, so listings are often a Seoul or Incheon meetup. Premium Proxy covers in-person pickup.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Box condition is not guaranteed.**
 
 - KREAM and Soldout: packaging usually arrives in good shape, but not always. Authentication covers the item, not the box, and they do not open sealed packaging.
 - Bunjang, Joongonara, Karrot: depends entirely on the seller. We have no way of knowing beforehand.
 - Box condition is never grounds for a return.
-:::
+
+</div>

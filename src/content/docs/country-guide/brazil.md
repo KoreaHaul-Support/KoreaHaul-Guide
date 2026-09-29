@@ -16,22 +16,28 @@ Everything you need to buy Korean products and get them to your door in Brazil -
 - **Receive For Me** - ship your Korean orders to our warehouse. We receive and store them.
 - **Ship For Me** - we consolidate, pack, and ship your orders to Brazil.
 
-:::caution[Payment]
+<div class="kh-callout kh-callout--caution">
+
+<p class="kh-callout-title">Payment</p>
+
 for Brazil, Wise, Western Union, and Bank Transfer are accepted. See Payment Methods for limits.
 
 Payment processing fees vary by method and are added at checkout.
-:::
+
+</div>
 
 ## Delivery
 
 - **FedEx International Priority** - import charges paid by the recipient (DAP). Estimated 2-3 business days.
 - **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 10-20 business days.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 **Recipient-paid (DAP/DDU)** = You pay import charges when your package arrives in your country.
 
 EMS is the recommended option for Brazil - carrier fees on courier services are high.
-:::
+
+</div>
 
 *\\* Import charges may include duties, taxes, customs handling fees, and other import-related charges.\*
 
@@ -39,15 +45,19 @@ To estimate the shipping cost and transit time, use the Shipping Calculator at [
 
 *Maximum weight per shipment: 30 kg on FedEx International Priority, 20 kg on EMS Korea Post.*
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Brazil requires a valid CPF** (Brazilian tax ID) on the shipment. Without it, the parcel is held and eventually returned to sender.
-:::
+
+</div>
 
 ## Customs, duty and tax
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
-:::
+
+</div>
 
 - **No duty-free allowance for our shipments.** Every order is taxed from the first dollar.
 - **Sales tax:** 17-20% ICMS (varies by state), calculated on a tax-inclusive base, so the effective rate runs a little higher.
@@ -94,9 +104,13 @@ See the [Prohibited and Restricted Items](https://koreahaul.com/shipping-info/re
 
 *We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
 
-:::note[Spotted something wrong?]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Spotted something wrong?</p>
+
 Let us know. The first person to report an error that we correct gets a $10 coupon.
-:::
+
+</div>
 
 **Our services are governed by these policies:**
 

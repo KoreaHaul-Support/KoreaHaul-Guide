@@ -21,9 +21,11 @@ Naver Smart Store is not one shop. It is the storefront platform behind hundreds
 - **품절** - sold out. **재입고** - restocked.
 - **교환·반품 불가** - no exchanges or returns.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 Submit the full product URL through a [Buy For Me request](https://koreahaul.com/services/buy-for-me/create), not a search result, and paste the option text in Korean exactly as shown. Near-identical options at different prices are the most common cause of a wrong item.
-:::
+
+</div>
 
 ## Official store or reseller?
 

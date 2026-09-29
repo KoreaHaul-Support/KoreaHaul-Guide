@@ -16,9 +16,11 @@ Start with the K-Fashion category on [**KoreaHaul Picks (KH Picks)**](https://ko
 - **29CM, W Concept** - designer and mid-tier brands, better product information.
 - **Ably, Zigzag** - app-first and cheap, fast fashion.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **International brands cannot go by International Standard Shipping.** Nike, Adidas, and any other international label must ship by FedEx, EMS Korea Post, or SF Express. Korean brands are usually fine on any service.
-:::
+
+</div>
 
 ## Sizing
 
@@ -37,6 +39,8 @@ Free size means one size, usually cutting off around a Korean M. Shoes are in mm
 - **주문제작** made to order and **예약판매** pre-order can take weeks.
 - Returns are only possible while the item is still in our Korean warehouse, and within **5 days** of your unboxing media being issued. Once a shipment leaves Korea it cannot be returned. The seller decides and deducts return shipping.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **A wrong size is not a seller fault.** A return costs you the return fee and the seller's return shipping. Measure before you order.
-:::
+
+</div>

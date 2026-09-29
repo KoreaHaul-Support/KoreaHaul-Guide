@@ -1,0 +1,6 @@
+---
+title: "News & Updates"
+description: "Holiday schedules, pricing changes, and new customs rules."
+---
+
+<div class="kh-list not-content"><a class="kh-item" href="/news/chuseok-holiday-schedule/"><span class="kh-item-title">Chuseok holiday schedule</span><span class="kh-item-desc">Posted 12 September 2026</span></a><a class="kh-item" href="/news/currency-and-pricing-update/"><span class="kh-item-title">Currency and pricing update</span><span class="kh-item-desc">Based on customer feedback, we are changing how we price. Korean won is now the base currency, and all service fees are stated in won.</span></a><a class="kh-item" href="/news/cpsc-efiling-for-us-shipments/"><span class="kh-item-title">CPSC eFiling for U.S. shipments</span><span class="kh-item-desc">Since July 8, 2026, the U.S. Consumer Product Safety Commission (CPSC) requires electronic filing (eFiling) of safety certificate information for certain...</span></a><a class="kh-item" href="/news/customs-handling-fee-ranges-updated/"><span class="kh-item-title">Customs handling fee ranges updated</span><span class="kh-item-desc">Posted 17 September 2026</span></a><a class="kh-item" href="/news/unboxing-media-free-for-receive-for-me/"><span class="kh-item-title">Unboxing media stays free for Receive For Me</span><span class="kh-item-desc">Posted 5 September 2026</span></a></div>

@@ -22,21 +22,27 @@ This is why so many Korean eBay sellers deal in retired LEGO.
 - [**Lotte On**](https://lotteon.com), [**SSG**](https://ssg.com) - during department store sale periods.
 - **Bunjang, Joongonara** - retired sets. Condition claims are the seller's, not ours. Retired sets need Premium Proxy.
 
-:::caution
-**LEGO ships by FedEx only.** International Standard Shipping does not accept branded products, and LEGO is on that list.
-:::
+<div class="kh-callout kh-callout--caution">
 
-:::caution
+**LEGO ships by FedEx only.** International Standard Shipping does not accept branded products, and LEGO is on that list.
+
+</div>
+
+<div class="kh-callout kh-callout--caution">
+
 **Box condition is not guaranteed.** Retired sets have usually sat in storage for years. Getting one with sharp corners, no dents, and no damage is luck, not something we can promise or check for.
 
 If you need the box in perfect condition, we are not the right service. Box condition is never grounds for a return.
-:::
+
+</div>
 
 ## The problem with LEGO
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 LEGO boxes are mostly air. Carriers charge the higher of actual and dimensional weight, so a large set can cost more to ship than it cost to buy.
-:::
+
+</div>
 
 **We do not remove LEGO boxes.** The set ships in its retail packaging and you pay for the volume.
 

@@ -16,22 +16,28 @@ Everything you need to buy Korean products and get them to your door in Mexico -
 - **Receive For Me** - ship your Korean orders to our warehouse. We receive and store them.
 - **Ship For Me** - we consolidate, pack, and ship your orders to Mexico.
 
-:::note[Payment]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Payment</p>
+
 PayPal, Wise, and Credit Card (3D Secure). See Payment Methods for limits.
 
 Payment processing fees vary by method and are added at checkout.
-:::
+
+</div>
 
 ## Delivery
 
 - **FedEx International Connect Plus** - prepaid import charges (DDP). Customs handling fee ₩6,000, or ₩12,000 where estimated import charges exceed ₩120,000. Estimated 3-5 business days.
 - **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 10-15 business days.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 **Prepaid (DDP)** = You pay import charges before your package is shipped.
 
 **Recipient-paid (DAP/DDU)** = You pay import charges when your package arrives in your country.
-:::
+
+</div>
 
 *\\* Import charges may include duties, taxes, customs handling fees, and other import-related charges.\*
 
@@ -39,19 +45,25 @@ To estimate the shipping cost and transit time, use the Shipping Calculator at [
 
 *Maximum weight per shipment: 25 kg on FedEx International Connect Plus, 20 kg on EMS.*
 
-:::caution
-**We cannot ship K-beauty or other cosmetics to Mexico.** Customs clearance for cosmetics is close to impossible on this route.
-:::
+<div class="kh-callout kh-callout--caution">
 
-:::caution
+**We cannot ship K-beauty or other cosmetics to Mexico.** Customs clearance for cosmetics is close to impossible on this route.
+
+</div>
+
+<div class="kh-callout kh-callout--caution">
+
 Mexico may require the recipient's **RFC tax ID** and consignee details for customs clearance. If it is missing or incorrect, the shipment may be delayed, returned, or need a different clearance process.
-:::
+
+</div>
 
 ## Customs, duty and tax
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
-:::
+
+</div>
 
 - **Flat 33.5% import rate.** On the eligible simplified courier lane, a flat 33.5% global import rate applies from the first dollar of declared value, replacing separate duty and IVA.
 - **Simplified courier** covers imports up to about US$2,500 (subject to conditions). The recipient's Mexican RFC tax ID may be required.
@@ -101,9 +113,13 @@ See the [Prohibited and Restricted Items](https://koreahaul.com/shipping-info/re
 
 *We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
 
-:::note[Spotted something wrong?]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Spotted something wrong?</p>
+
 Let us know. The first person to report an error that we correct gets a $10 coupon.
-:::
+
+</div>
 
 **Our services are governed by these policies:**
 

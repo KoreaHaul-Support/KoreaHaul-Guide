@@ -16,11 +16,15 @@ Everything you need to buy Korean products and get them to your door in Canada -
 - **Receive For Me** - ship your Korean orders to our warehouse. We receive and store them.
 - **Ship For Me** - we consolidate, pack, and ship your orders to Canada.
 
-:::note[Payment]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Payment</p>
+
 PayPal, Wise, and Credit Card (3D Secure). See Payment Methods for limits.
 
 Payment processing fees vary by method and are added at checkout.
-:::
+
+</div>
 
 ## Delivery
 
@@ -33,11 +37,13 @@ Payment processing fees vary by method and are added at checkout.
     - Loss insurance included, up to $50.
 - **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 5-10 business days.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 **Prepaid (DDP)** = You pay import charges before your package is shipped.
 
 **Recipient-paid (DAP/DDU)** = You pay import charges when your package arrives in your country.
-:::
+
+</div>
 
 *\\* Import charges may include duties, taxes, customs handling fees, and other import-related charges.\*
 
@@ -47,9 +53,11 @@ To estimate the shipping cost and transit time, use the Shipping Calculator at [
 
 ## Customs, duty and tax
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
-:::
+
+</div>
 
 - **CAD 20, mail only.** Goods imported by mail at CAD 20 or less are duty- and tax-free.
     - Above CAD 20, duty, GST/HST, and provincial tax apply to the full value.
@@ -61,11 +69,13 @@ To estimate the shipping cost and transit time, use the Shipping Calculator at [
 
 To estimate duty and tax yourself, use the [CBSA duty and taxes estimator](https://www.cbsa-asfc.gc.ca/travel-voyage/dte-acl/est-cal-eng.html).
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Multiple shipments arriving together can trigger formal clearance.** If several of your shipments reach Canadian customs at around the same time, the CBSA may treat them as one commercial importation. That means formal commercial clearance, which typically costs CAD $2,000 to $5,000 in broker and processing charges.
 
 If you are placing several orders, space them out or contact us first.
-:::
+
+</div>
 
 ## What it costs
 
@@ -84,9 +94,11 @@ On a $100 order (goods value; Canada generally excludes international shipping w
 - Where duty or other charges apply, the final GST/HST, PST, or QST may be higher.
 - A carrier brokerage or customs-clearance fee may also apply on recipient-paid services.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 ***Illustrative only. Final duty and tax are set by the CBSA and the carrier or customs broker.***
-:::
+
+</div>
 
 **Via International Standard Shipping:**
 
@@ -122,9 +134,13 @@ See the [Prohibited and Restricted Items](https://koreahaul.com/shipping-info/re
 
 *We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
 
-:::note[Spotted something wrong?]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Spotted something wrong?</p>
+
 Let us know. The first person to report an error that we correct gets a $10 coupon.
-:::
+
+</div>
 
 **Our services are governed by these policies:**
 

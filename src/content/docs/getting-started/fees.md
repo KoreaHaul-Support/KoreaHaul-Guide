@@ -12,13 +12,19 @@ All prices in Korean won (KRW).
 
 Charged per product line, not per unit. Three copies of the same album count as one. **Premium is charged per unit.** Quantity limits apply to every Buy For Me request.
 
-:::caution[Launch promotion]
-Basic and Standard are **₩0** for requests submitted by 31 December 2026. Premium is not included.
-:::
+<div class="kh-callout kh-callout--caution">
 
-:::note
+<p class="kh-callout-title">Launch promotion</p>
+
+Basic and Standard are **₩0** for requests submitted by 31 December 2026. Premium is not included.
+
+</div>
+
+<div class="kh-callout kh-callout--note">
+
 **Bulk, wholesale, and business orders** are priced separately. Email [business@koreahaul.com](mailto:business@koreahaul.com).
-:::
+
+</div>
 
 ### Basic Proxy - ₩2,000
 
@@ -63,9 +69,11 @@ Optional. Choose when you request a shipment.
 | Adult Signature Required | ₩6,000 | An adult must sign on delivery. FedEx only. |
 | Shipping Insurance | 2% of declared value | Covers loss or damage in transit. FedEx and selected Standard Shipping destinations. |
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 Need something not listed here? Custom services are available on request. Email [support@koreahaul.com](mailto:support@koreahaul.com) to check availability first.
-:::
+
+</div>
 
 ## Other fees
 
@@ -85,9 +93,11 @@ Free for 45 days from check-in. Each package has its own countdown.
 
 Dimensional weight: L × W × H (cm) ÷ 5000.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 Storage is not billed separately. It appears as an Additional Charge on your shipping invoice.
-:::
+
+</div>
 
 ## International shipping
 

@@ -8,27 +8,19 @@ sidebar:
 
 Korean stores our customers use most. The full directory of 415+ verified stores is on [Where to Shop](https://koreahaul.com/where-to-shop).
 
-:::note[Not listed?]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Not listed?</p>
+
 We buy from almost any Korean store. Submit the product URL through a [Buy For Me request](https://koreahaul.com/services/buy-for-me/create).
-:::
+
+</div>
 
 ## Store guides
 
 Tier, tips, and shipping notes for the stores our customers use most.
 
-- [Bunjang](/shopping-tips/stores/bunjang/)
-- [Kream](/shopping-tips/stores/kream/)
-- [Soldout](/shopping-tips/stores/soldout/)
-- [Daangn (Karrot)](/shopping-tips/stores/daangn/)
-- [Olive Young](/shopping-tips/stores/olive-young/)
-- [Coupang](/shopping-tips/stores/coupang/)
-- [Naver Smart Stores](/shopping-tips/stores/naver-smart-stores/)
-- [Weverse Shop](/shopping-tips/stores/weverse-shop/)
-- [YG Select](/shopping-tips/stores/yg-select/)
-- [FANS Shop](/shopping-tips/stores/fans-shop/)
-- [SMTOWN & STORE](/shopping-tips/stores/smtown-and-store/)
-- [Yes24](/shopping-tips/stores/yes24/)
-- [Aladin](/shopping-tips/stores/aladin/)
+<div class="kh-chips not-content"><a class="kh-chip" href="/shopping-tips/stores/bunjang/">Bunjang</a><a class="kh-chip" href="/shopping-tips/stores/kream/">Kream</a><a class="kh-chip" href="/shopping-tips/stores/soldout/">Soldout</a><a class="kh-chip" href="/shopping-tips/stores/daangn/">Daangn (Karrot)</a><a class="kh-chip" href="/shopping-tips/stores/olive-young/">Olive Young</a><a class="kh-chip" href="/shopping-tips/stores/coupang/">Coupang</a><a class="kh-chip" href="/shopping-tips/stores/naver-smart-stores/">Naver Smart Stores</a><a class="kh-chip" href="/shopping-tips/stores/weverse-shop/">Weverse Shop</a><a class="kh-chip" href="/shopping-tips/stores/yg-select/">YG Select</a><a class="kh-chip" href="/shopping-tips/stores/fans-shop/">FANS Shop</a><a class="kh-chip" href="/shopping-tips/stores/smtown-and-store/">SMTOWN & STORE</a><a class="kh-chip" href="/shopping-tips/stores/yes24/">Yes24</a><a class="kh-chip" href="/shopping-tips/stores/aladin/">Aladin</a></div>
 
 ## Price comparison
 
@@ -85,6 +77,8 @@ Bomtoon, Hot Tracks Books, [Kakao Page](https://page.kakao.com/), Lezhin Comics,
 - **Standard ₩5,000** - needs us to message the seller in Korean. Joongonara, Karrot sellers who agree to ship, and any Bunjang listing where we have to negotiate or ask the seller questions.
 - **Premium ₩30,000 per unit** - needs someone to collect in person, or the item is over ₩500,000. Karrot pickups, Daiso store-only items, pop-ups.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 Store URLs change. Always check the current link before you submit a [Buy For Me request](https://koreahaul.com/services/buy-for-me/create).
-:::
+
+</div>

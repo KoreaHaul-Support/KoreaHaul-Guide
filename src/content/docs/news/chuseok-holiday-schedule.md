@@ -8,9 +8,11 @@ sidebar:
 
 Posted 12 September 2026
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 Our warehouse is closed from **24 to 27 September**. Shipments already packed go out on 28 September.
-:::
+
+</div>
 
 Chuseok is one of the two largest holidays in Korea. Stores, couriers, and our warehouse all pause, and the slowdown runs for about a week either side of the closure itself.
 

@@ -19,14 +19,16 @@ Starting points for the products our customers ship most often.
 
 ## Common products
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 **For reference only.**
 
 - A listed code does not mean the item can be shipped.
 - Perfume, supplements, and health foods all have codes but are restricted or prohibited.
 - Clothing codes split by fibre and by gender. The codes here assume the fibre named - swap the fibre and the code changes.
 - Check Batteries? Snacks? Cosmetics? before you order.
-:::
+
+</div>
 
 | Product | HS code |
 | --- | --- |

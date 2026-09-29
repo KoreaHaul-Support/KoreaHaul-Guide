@@ -34,9 +34,11 @@ Fitment is your responsibility. We buy the part number you submit and nothing mo
 
 ## Shipping
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Car parts ship by FedEx or EMS Korea Post only.** Genuine Mobis parts are branded, and International Standard Shipping does not accept branded products.
-:::
+
+</div>
 
 Parts are dense and body panels are bulky. Check the Shipping Calculator on [KoreaHaul](https://koreahaul.com/) before you buy - on anything large, shipping can exceed the part price.
 

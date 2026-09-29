@@ -22,9 +22,11 @@ Many Korean magazines ship with posters, postcards, or photocards. Listings usua
 
 ## Shipping notes
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 Books are dense. One Korean magazine weighs 1 to 1.5 kg, and 1.5 to 2 kg once packed.
-:::
+
+</div>
 
 - Corners and spines take the worst of transit, so art books and photobooks need careful packing.
 - Books classify under different tariff headings, and several countries apply a reduced or zero rate to books specifically. Worth checking if you are ordering a lot.

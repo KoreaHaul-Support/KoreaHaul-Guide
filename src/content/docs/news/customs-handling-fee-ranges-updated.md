@@ -19,9 +19,11 @@ DDP customs handling fees have been updated and now vary more widely by destinat
 - EMS Korea Post, SF Express, and FedEx International Priority are DAP only, so no DDP handling fee applies.
 - On those services the carrier and your local customs charge you instead, if applicable.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 The exact fee for your box always appears in your quote before you pay. Nothing is charged until you choose a carrier.
-:::
+
+</div>
 
 ## Worth knowing
 

@@ -2,81 +2,24 @@
 title: "KoreaHaul Guide"
 description: "How KoreaHaul works: buying, receiving and shipping Korean products worldwide, with fees, carriers, customs and country guides."
 lastUpdated: 2026-09-26
+template: splash
+hero:
+  title: "How can we help?"
+  tagline: "Welcome to KoreaHaul. This guide covers everything you need to get started and make the most of our services."
+  actions:
+    - text: "Create a request"
+      link: "https://www.koreahaul.com/"
+      variant: primary
+    - text: "Contact support"
+      link: "mailto:support@koreahaul.com"
+      variant: minimal
 ---
 
-:::note[Welcome to KoreaHaul!]
-This guide covers everything you need to get started and make the most of our services.
-:::
+<div class="kh-cats not-content"><div class="kh-cat"><h2 class="kh-cat-title"><a href="/topics/getting-started/">Getting Started & Services</a></h2><p class="kh-cat-desc">How our services work, what they cost, how to pay, and what happens at the warehouse.</p><ul class="kh-cat-links"><li><a href="/getting-started/">Getting started</a></li><li><a href="/getting-started/buy-for-me/">Buy For Me</a></li><li><a href="/getting-started/receive-for-me/">Receive For Me</a></li><li><a href="/getting-started/fees/">Fees</a></li></ul><a class="kh-cat-all" href="/topics/getting-started/">All 8 articles <span aria-hidden="true">&rarr;</span></a></div><div class="kh-cat"><h2 class="kh-cat-title"><a href="/topics/shipping/">International Shipping Tips</a></h2><p class="kh-cat-desc">Carriers and rates, duties and taxes, HS codes, and insurance.</p><ul class="kh-cat-links"><li><a href="/shipping/carriers-and-rates/">Carriers & Rates</a></li><li><a href="/shipping/duty-and-tax-calculation/">Duty & Tax Calculation</a></li><li><a href="/shipping/hs-codes-for-common-items/">HS codes for common items</a></li><li><a href="/shipping/insurance-and-claims/">Insurance and claims</a></li></ul><a class="kh-cat-all" href="/topics/shipping/">All 4 articles <span aria-hidden="true">&rarr;</span></a></div><div class="kh-cat"><h2 class="kh-cat-title"><a href="/country-guide/">Country Guide</a></h2><p class="kh-cat-desc">Delivery options, customs rules, and cost examples for 25 destinations.</p><ul class="kh-cat-links"><li><a href="/country-guide/united-states/">United States</a></li><li><a href="/country-guide/united-kingdom/">United Kingdom</a></li><li><a href="/country-guide/australia/">Australia</a></li><li><a href="/country-guide/european-union/">European Union</a></li></ul><a class="kh-cat-all" href="/country-guide/">All 25 articles <span aria-hidden="true">&rarr;</span></a></div><div class="kh-cat"><h2 class="kh-cat-title"><a href="/topics/shopping-tips/">Shopping Tips</a></h2><p class="kh-cat-desc">Spend less on shipping, compare prices, and shop Korea's popular stores.</p><ul class="kh-cat-links"><li><a href="/shopping-tips/how-to-spend-less-on-shipping/">How to spend less on shipping</a></li><li><a href="/shopping-tips/price-comparison/">Price Comparison</a></li><li><a href="/shopping-tips/shop-from-popular-stores/">Shop from popular stores</a></li><li><a href="/shopping-tips/secondhand-and-resale-platforms/">Secondhand & Resale Platforms</a></li></ul><a class="kh-cat-all" href="/topics/shopping-tips/">All 20 articles <span aria-hidden="true">&rarr;</span></a></div><div class="kh-cat"><h2 class="kh-cat-title"><a href="/topics/what-to-buy/">What to Buy</a></h2><p class="kh-cat-desc">Tips for K-beauty, K-pop, fashion, snacks, LEGO, and more.</p><ul class="kh-cat-links"><li><a href="/what-to-buy/k-beauty/">K-Beauty</a></li><li><a href="/what-to-buy/k-pop-md/">K-Pop MD</a></li><li><a href="/what-to-buy/k-fashion/">K-Fashion</a></li><li><a href="/what-to-buy/lego/">LEGO</a></li></ul><a class="kh-cat-all" href="/topics/what-to-buy/">All 11 articles <span aria-hidden="true">&rarr;</span></a></div><div class="kh-cat"><h2 class="kh-cat-title"><a href="/topics/news/">News & Updates</a></h2><p class="kh-cat-desc">Holiday schedules, pricing changes, and new customs rules.</p><ul class="kh-cat-links"><li><a href="/news/chuseok-holiday-schedule/">Chuseok holiday schedule</a></li><li><a href="/news/currency-and-pricing-update/">Currency and pricing update</a></li><li><a href="/news/cpsc-efiling-for-us-shipments/">CPSC eFiling for U.S. shipments</a></li><li><a href="/news/customs-handling-fee-ranges-updated/">Customs handling fee ranges updated</a></li></ul><a class="kh-cat-all" href="/topics/news/">All 5 articles <span aria-hidden="true">&rarr;</span></a></div></div>
 
-If you have any questions about our services, please email [support@koreahaul.com](mailto:support@koreahaul.com) or reach out to us on WhatsApp: +82-10-5725-1222
-
-Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
-
-## News & Updates
-
-- [Chuseok holiday schedule](/news/chuseok-holiday-schedule/)
-- [Currency and pricing update](/news/currency-and-pricing-update/)
-- [CPSC eFiling for U.S. shipments](/news/cpsc-efiling-for-us-shipments/)
-- [Customs handling fee ranges updated](/news/customs-handling-fee-ranges-updated/)
-- [Unboxing media stays free for Receive For Me](/news/unboxing-media-free-for-receive-for-me/)
-
-## Getting Started & Services
-
----
-
-- [Getting started](/getting-started/)
-- [Buy For Me](/getting-started/buy-for-me/)
-- [Setting Purchase Rules](/getting-started/setting-purchase-rules/)
-- [Receive For Me](/getting-started/receive-for-me/)
-- [Warehouse](/getting-started/warehouse/)
-- [Ship For Me](/getting-started/ship-for-me/)
-- [Fees](/getting-started/fees/)
-- [Payment Methods](/getting-started/payment-methods/)
-
-## International Shipping Tips
-
----
-
-- [Carriers & Rates](/shipping/carriers-and-rates/)
-- [Duty & Tax Calculation](/shipping/duty-and-tax-calculation/)
-- [Country Guide](/country-guide/)
-- [HS codes for common items](/shipping/hs-codes-for-common-items/)
-- [Insurance and claims](/shipping/insurance-and-claims/)
-
-## Shopping Tips
-
----
-
-- [How to spend less on shipping](/shopping-tips/how-to-spend-less-on-shipping/)
-- [Price Comparison](/shopping-tips/price-comparison/)
-- [Naver Smart Stores & other shops](/shopping-tips/naver-smart-stores-and-other-shops/)
-- [Shop from popular stores](/shopping-tips/shop-from-popular-stores/)
-- [Secondhand & Resale Platforms](/shopping-tips/secondhand-and-resale-platforms/)
-- [Pre-order, Presale & Group Order](/shopping-tips/pre-order-presale-and-group-order/)
-- [Pop-up & Concert Merchandise](/shopping-tips/pop-up-and-concert-merchandise/)
-
-## What to Buy
-
----
-
-- [K-Beauty](/what-to-buy/k-beauty/)
-- [K-Fashion](/what-to-buy/k-fashion/)
-- [K-Pop MD](/what-to-buy/k-pop-md/)
-- [K-Snack](/what-to-buy/k-snack/)
-- [Books & Magazines](/what-to-buy/books-and-magazines/)
-- [Pokemon & Collectibles](/what-to-buy/pokemon-and-collectibles/)
-- [LEGO](/what-to-buy/lego/)
-- [Car Parts](/what-to-buy/car-parts/)
-- [Daiso](/what-to-buy/daiso/)
-- [Electronics](/what-to-buy/electronics/)
-- [Starbucks](/what-to-buy/starbucks/)
-
----
-
-## More FAQs
+## Frequently asked questions
 
 <details>
-
 <summary>What is my Postbox code and where do I find it?</summary>
 
 Two letters and four numbers, like KF2331. It is on your dashboard from the moment you sign up and it never changes. Always put it on the recipient line when a Korean store asks where to deliver.
@@ -84,7 +27,6 @@ Two letters and four numbers, like KF2331. It is on your dashboard from the mome
 </details>
 
 <details>
-
 <summary>Do I put KoreaHaul as the recipient name?</summary>
 
 No. Use your own name plus your Postbox code. A package addressed to KoreaHaul with no Postbox code cannot be matched to you, and we cannot ship it until you claim it.
@@ -92,7 +34,6 @@ No. Use your own name plus your Postbox code. A package addressed to KoreaHaul w
 </details>
 
 <details>
-
 <summary>Can I combine orders from different stores into one box?</summary>
 
 Yes. Anything in storage at the warehouse can go into the same shipment, whether we bought it or you did.
@@ -100,7 +41,6 @@ Yes. Anything in storage at the warehouse can go into the same shipment, whether
 </details>
 
 <details>
-
 <summary>How long can you store my items for free?</summary>
 
 45 days from the date each package checks in. After that it is ₩1,000 per day per package, or ₩2,000 per day for packages with a dimensional weight of 10 kg or more, added to your shipping invoice. Packages checked in on different days each have their own countdown.
@@ -108,7 +48,6 @@ Yes. Anything in storage at the warehouse can go into the same shipment, whether
 </details>
 
 <details>
-
 <summary>Can you declare a lower value or mark it as a gift?</summary>
 
 No. We declare what you actually paid. Under-declaring is illegal, risks seizure, and voids any insurance you bought.
@@ -116,9 +55,10 @@ No. We declare what you actually paid. Under-declaring is illegal, risks seizure
 </details>
 
 <details>
-
 <summary>How do I pay?</summary>
 
 See Payment Methods for what is available in your country. You pay twice: once for the purchase, once for international shipping.
 
 </details>
+
+<div class="kh-help not-content"><div><h2>Still need help?</h2><p>If you have any questions about our services, please email <a href="mailto:support@koreahaul.com">support@koreahaul.com</a> or reach out to us on WhatsApp: <a href="https://wa.me/821057251222">+82-10-5725-1222</a></p><p class="kh-help-social">Follow us on <a href="https://www.instagram.com/koreahaulofficial/">Instagram</a> and <a href="https://www.tiktok.com/@koreahaulofficial">TikTok</a></p></div><a class="kh-btn kh-btn-dark" href="mailto:support@koreahaul.com">Email support</a></div>

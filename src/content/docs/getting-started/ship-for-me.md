@@ -46,21 +46,29 @@ Chosen per shipment.
 - Standard packing takes up to 2 business days.
 - Carriers charge the higher of actual weight and volumetric weight. Optimized Pack and Vacuum Packing often lower it.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 A shipping quote is valid for **5 days**. After that your request stays open - we may requote it or the price may stay the same. Storage runs on its normal terms throughout: 45 free days from check-in, then the daily rate.
-:::
 
-:::caution
+</div>
+
+<div class="kh-callout kh-callout--caution">
+
 **Your delivery address must match your payment billing address.** For PayPal and credit card payments we ship to the billing address on the payment account. If they do not match, we may refuse the payment, ask you to update it, or request ID verification.
-:::
 
-:::caution
+</div>
+
+<div class="kh-callout kh-callout--caution">
+
 **Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
-:::
 
-:::caution
+</div>
+
+<div class="kh-callout kh-callout--caution">
+
 Commercial invoices are marked as **"Personal Use / Not For Resale"** by default for Individual accounts. If this is not correct for your shipment, please notify us before shipment. Customs treatment and import requirements are determined by the laws and regulations of the destination country and its customs authorities.
-:::
+
+</div>
 
 ## Delivery restrictions
 

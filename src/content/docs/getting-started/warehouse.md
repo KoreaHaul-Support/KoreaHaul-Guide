@@ -16,9 +16,11 @@ Everything we buy for you and everything you send us lands in the same place. Th
 
 ## Storage
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 **45 days free**, counted from the check-in date. After that it is **₩1,000 per day per package**, or **₩2,000 per day** for packages with a dimensional weight of 10 kg or more. Storage is added to your shipping invoice rather than billed separately.
-:::
+
+</div>
 
 - Packages checked in on different days each have their own countdown.
 - **Maximum storage period is 90 days.** After 90 days with no activity on a package we send a notice. If there is no response within 14 days, we may sell, donate, or dispose of the contents.
@@ -32,14 +34,18 @@ Everything we buy for you and everything you send us lands in the same place. Th
 - Extra Protection and Vacuum Packing are chosen later, when you request a shipment.
 - Want a package disposed of? Email [support@koreahaul.com](mailto:support@koreahaul.com) from the address registered to your account.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 **Unboxing media is a record, not an inspection.** It shows the package and contents at the time of opening. Pre-packing media shows what gets shipped. We do not:
 
 - verify authenticity
 - test electronics or assess functionality
 - confirm the item matches the listing, description, specifications, or seller claims
-:::
 
-:::caution
+</div>
+
+<div class="kh-callout kh-callout--caution">
+
 **Check your unboxing media within 5 days.** You are responsible for reviewing the unboxing media we provide. If you do not report a seller-related issue within 5 calendar days, the item is treated as accepted as received for Buy For Me purposes.
-:::
+
+</div>

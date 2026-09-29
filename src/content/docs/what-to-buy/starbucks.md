@@ -16,18 +16,22 @@ Start with the Starbucks category on [**KoreaHaul Picks (KH Picks)**](https://ko
 
 Some items are sold online at the [official Starbucks store on Naver](https://brand.naver.com/starbucks).
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Much of Starbucks Korea's merchandise is in-store only**, not sold online to the public. For those items:
 
 - **Premium Buy For Me** at ₩30,000 per unit, or
 - second-hand through [Bunjang](https://bunjang.co.kr), [Joongonara](https://web.joongna.com/), or [KREAM](https://kream.co.kr)
-:::
+
+</div>
 
 ## Shipping notes
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Starbucks cannot use International Standard Shipping.** It does not accept branded products, so these go by FedEx, EMS Korea Post, or SF Express.
-:::
+
+</div>
 
 - Some countries ban the import of cups, mugs, plates, tumblers, and utensils without an import permit or certificate. Confirming your country's rules is your responsibility.
 - Metal, aluminium, and stainless steel items can carry high tariffs.

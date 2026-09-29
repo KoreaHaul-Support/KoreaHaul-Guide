@@ -45,9 +45,11 @@ Additional information or certification details may be requested for:
 3. If the product is registered in the CPSC Product Registry, complete the FedEx Registered Product Form and send it to us before shipment.
 4. If the product is not registered, complete the FedEx Not Registered Product Form and send it to us before shipment.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 Products bought on second-hand or peer-to-peer platforms - Bunjang, Karrot, Joongonara, X, Instagram sellers and similar - may not have certification or compliance information available. Check before you buy. If the required information cannot be provided, customs clearance may be delayed, suspended, or refused, and the shipment may be returned.
-:::
+
+</div>
 
 ## Useful links
 

@@ -92,14 +92,20 @@ If customs revalues or reclassifies your shipment, the resulting charge is yours
 
 Several countries will not release a parcel without a personal tax or customs ID for the recipient. If yours needs one, it is listed on your country page.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 A missing ID stops the box at the border. We cannot add it once the shipment has left Korea.
-:::
 
-:::caution
+</div>
+
+<div class="kh-callout kh-callout--caution">
+
 **Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
-:::
 
-:::caution
+</div>
+
+<div class="kh-callout kh-callout--caution">
+
 Commercial invoices are marked as **"Personal Use / Not For Resale"** by default for Individual accounts. If this is not correct for your shipment, please notify us before shipment. Customs treatment and import requirements are determined by the laws and regulations of the destination country and its customs authorities.
-:::
+
+</div>

@@ -16,17 +16,23 @@ Everything you need to buy Korean products and get them to your door in the US -
 - **Receive For Me** - ship your Korean orders to our warehouse. We receive and store them.
 - **Ship For Me** - we consolidate, pack, and ship your orders to the US.
 
-:::note[Payment]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Payment</p>
+
 PayPal, Wise, and Credit Card (3D Secure). See Payment Methods for limits.
 
 Payment processing fees vary by method and are added at checkout.
-:::
+
+</div>
 
 ## Delivery
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Maximum declared value per shipment: US$2,500.** We cannot ship above this.
-:::
+
+</div>
 
 - **FedEx International Connect Plus** - prepaid import charges (DDP). Customs handling fee ₩6,000, or ₩12,000 where estimated import charges exceed ₩120,000. Estimated 3-5 business days.
 - **International Standard Shipping** - 10-30 business days.
@@ -36,11 +42,13 @@ Payment processing fees vary by method and are added at checkout.
     - **K-beauty must be shipped separately**, with a ₩6,000 handling fee. Submit a separate Ship For Me request for them.
     - Loss insurance included, but damage-in-transit claims are not offered.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 **Prepaid (DDP)** = You pay import charges before your package is shipped.
 
 **Recipient-paid (DAP/DDU)** = You pay import charges when your package arrives in your country.
-:::
+
+</div>
 
 Import charges may include duties, taxes, customs handling fees, and other import-related charges.
 
@@ -50,11 +58,14 @@ To estimate the shipping cost and transit time, use the Shipping Calculator at [
 
 ## Customs, duty and tax
 
-:::caution
-**Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
-:::
+<div class="kh-callout kh-callout--caution">
 
-:::caution
+**Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
+
+</div>
+
+<div class="kh-callout kh-callout--caution">
+
 **CPSC eFiling.** Since 8 July 2026, certain consumer products need safety certificate information filed electronically before they clear US customs. This includes some personal shipments.
 
 - Affects toys, plush dolls, children's and baby products, some clothing and footwear, electronics, and anything containing batteries.
@@ -63,7 +74,8 @@ To estimate the shipping cost and transit time, use the Shipping Calculator at [
 - Without it, clearance may be delayed, suspended, or refused.
 
 See** **[**CPSC eFiling**](/news/cpsc-efiling-for-us-shipments/) for U.S. shipments for the full details and forms.
-:::
+
+</div>
 
 - **No more US$800 duty-free.** Duty, government fees, and entry requirements can apply at any value.
 - **Under US$2,500** uses simplified informal entry - not a duty-free limit.
@@ -73,9 +85,11 @@ See** **[**CPSC eFiling**](/news/cpsc-efiling-for-us-shipments/) for U.S. shipme
 - **Printed items** (photocards, posters, prints) can classify differently - do not assume they are exempt.
 - **No national sales tax** - state or local sales tax may apply by address.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **HS codes.** US customs requires a 10-digit HTS code for each item. A missing or incorrect code can delay clearance and result in higher duty than you should have paid. Look up codes at [hts.usitc.gov](https://hts.usitc.gov/).
-:::
+
+</div>
 
 ## What it costs
 
@@ -143,9 +157,13 @@ See the [Prohibited and Restricted Items](https://koreahaul.com/shipping-info/re
 
 *We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
 
-:::note[Spotted something wrong?]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Spotted something wrong?</p>
+
 Let us know. The first person to report an error that we correct gets a $10 coupon.
-:::
+
+</div>
 
 **Our services are governed by these policies:**
 

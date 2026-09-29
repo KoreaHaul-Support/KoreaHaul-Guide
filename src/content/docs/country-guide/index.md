@@ -14,54 +14,38 @@ The European Union guide covers the general EU rules. VAT rates vary by member s
 
 ---
 
-- [Japan](/country-guide/japan/)
-- [China](/country-guide/china/)
-- [Hong Kong](/country-guide/hong-kong/)
-- [Taiwan](/country-guide/taiwan/)
-- [Singapore](/country-guide/singapore/)
-- [Philippines](/country-guide/philippines/)
-- [Malaysia](/country-guide/malaysia/)
-- [Indonesia](/country-guide/indonesia/)
-- [Thailand](/country-guide/thailand/)
-- [Vietnam](/country-guide/vietnam/)
-- [India](/country-guide/india/)
+<div class="kh-chips not-content"><a class="kh-chip" href="/country-guide/japan/">Japan</a><a class="kh-chip" href="/country-guide/china/">China</a><a class="kh-chip" href="/country-guide/hong-kong/">Hong Kong</a><a class="kh-chip" href="/country-guide/taiwan/">Taiwan</a><a class="kh-chip" href="/country-guide/singapore/">Singapore</a><a class="kh-chip" href="/country-guide/philippines/">Philippines</a><a class="kh-chip" href="/country-guide/malaysia/">Malaysia</a><a class="kh-chip" href="/country-guide/indonesia/">Indonesia</a><a class="kh-chip" href="/country-guide/thailand/">Thailand</a><a class="kh-chip" href="/country-guide/vietnam/">Vietnam</a><a class="kh-chip" href="/country-guide/india/">India</a></div>
 
 ## Oceania
 
 ---
 
-- [Australia](/country-guide/australia/)
-- [New Zealand](/country-guide/new-zealand/)
+<div class="kh-chips not-content"><a class="kh-chip" href="/country-guide/australia/">Australia</a><a class="kh-chip" href="/country-guide/new-zealand/">New Zealand</a></div>
 
 ## North America
 
 ---
 
-- [United States](/country-guide/united-states/)
-- [Canada](/country-guide/canada/)
-- [Mexico](/country-guide/mexico/)
+<div class="kh-chips not-content"><a class="kh-chip" href="/country-guide/united-states/">United States</a><a class="kh-chip" href="/country-guide/canada/">Canada</a><a class="kh-chip" href="/country-guide/mexico/">Mexico</a></div>
 
 ## South America
 
 ---
 
-- [Brazil](/country-guide/brazil/)
-- [Chile](/country-guide/chile/)
-- [Argentina](/country-guide/argentina/)
-- [Colombia](/country-guide/colombia/)
-- [Peru](/country-guide/peru/)
+<div class="kh-chips not-content"><a class="kh-chip" href="/country-guide/brazil/">Brazil</a><a class="kh-chip" href="/country-guide/chile/">Chile</a><a class="kh-chip" href="/country-guide/argentina/">Argentina</a><a class="kh-chip" href="/country-guide/colombia/">Colombia</a><a class="kh-chip" href="/country-guide/peru/">Peru</a></div>
 
 ## Europe
 
 ---
 
-- [European Union](/country-guide/european-union/)
-- [United Kingdom](/country-guide/united-kingdom/)
-- [Switzerland](/country-guide/switzerland/)
-- [Norway](/country-guide/norway/)
+<div class="kh-chips not-content"><a class="kh-chip" href="/country-guide/european-union/">European Union</a><a class="kh-chip" href="/country-guide/united-kingdom/">United Kingdom</a><a class="kh-chip" href="/country-guide/switzerland/">Switzerland</a><a class="kh-chip" href="/country-guide/norway/">Norway</a></div>
 
-:::note[Not listed yet?]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Not listed yet?</p>
+
 More guides are being added. Email [support@koreahaul.com](mailto:support@koreahaul.com) and we will share what we find. Our information is based on our own research and may not be fully accurate - confirm with your local customs authority.
-:::
+
+</div>
 
 *Customs rules change often. Each guide is written as a general reference, not a ruling. Confirm with your own customs authority before you order.*

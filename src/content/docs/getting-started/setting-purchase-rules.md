@@ -8,9 +8,13 @@ sidebar:
 
 Tell us what to do if something changes before we buy. You set three rules for each product on a Buy For Me request.
 
-:::note[Why they matter]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Why they matter</p>
+
 Korea is likely several hours ahead of you. Prices change and limited items sell out in minutes. Purchase rules let us buy right away, within limits you already approved, instead of waiting for your reply.
-:::
+
+</div>
 
 ## Quantity rule
 
@@ -61,10 +65,16 @@ When we go to buy, the store has 2 left at ₩21,000. We buy 2, bill you ₩1,00
 - Quantity limits apply to every Buy For Me request. K-Beauty is limited to 2 of the same product per request (Daiso K-Beauty: 5).
 - Refunds are issued as Store Credit. You can ask for a cash-out to your original payment method instead. Fees apply - see the [Terms of Service](https://koreahaul.com/terms-of-service).
 
-:::caution
-**Second-hand marketplaces** (Bunjang, Karrot (Daangn), Joongonara, KREAM, Soldout): orders cannot be canceled once placed, and price rules may not apply. You pay the full purchase amount once the order is placed.
-:::
+<div class="kh-callout kh-callout--caution">
 
-:::note[Need a large quantity?]
+**Second-hand marketplaces** (Bunjang, Karrot (Daangn), Joongonara, KREAM, Soldout): orders cannot be canceled once placed, and price rules may not apply. You pay the full purchase amount once the order is placed.
+
+</div>
+
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Need a large quantity?</p>
+
 Email [business@koreahaul.com](mailto:business@koreahaul.com) before you submit the request. Bulk orders are priced and handled separately.
-:::
+
+</div>

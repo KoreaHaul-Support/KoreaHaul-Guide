@@ -8,9 +8,11 @@ sidebar:
 
 Snacks are the most commonly refused category at customs, and food imports are prohibited outright in many countries. Check your country's rules before you submit a Buy For Me request, not after.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 Nothing fresh, frozen, or containing meat - including meat-based instant soups and most dried meat snacks. Many countries also block dairy and egg ingredients.
-:::
+
+</div>
 
 ## Where to buy
 
@@ -34,9 +36,11 @@ A refused food item is destroyed, not returned, and the shipping already paid is
 
 ## Practical notes
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Watch the shelf life.** Check the date on the original product listing or the product label before you order, and ship food promptly rather than holding it.
-:::
+
+</div>
 
 - Snacks are bulky and light, so volumetric weight climbs fast.
 - Crisps arrive crushed unless packed with care.

@@ -41,9 +41,11 @@ Fees vary by method and are added at checkout. They cover the transaction cost c
 
 Wise usually carries the lowest fee. Where it is available, it is often the cheapest way to pay.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 **To pay by Western Union or Bank Transfer**, contact us at [support@koreahaul.com](mailto:support@koreahaul.com) or on WhatsApp +82-10-5725-1222. These are arranged manually and are available for any destination on request.
-:::
+
+</div>
 
 ## Order Limits
 

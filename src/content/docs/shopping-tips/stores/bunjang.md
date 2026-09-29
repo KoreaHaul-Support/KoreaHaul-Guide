@@ -17,9 +17,11 @@ Korea's biggest second-hand marketplace for K-pop, fashion, collectibles, and so
 - **Basic ₩2,000** - listings that can be bought outright
 - **Standard ₩5,000** - listings where we need to message the seller, negotiate, or ask questions
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Orders are final.** Once placed, they cannot be cancelled or returned, and no refund is possible. Check the listing carefully before you request.
-:::
+
+</div>
 
 ## Good to know
 

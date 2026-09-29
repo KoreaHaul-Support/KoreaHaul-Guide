@@ -15,22 +15,30 @@ export default defineConfig({
       title: 'KoreaHaul Guide',
       description: 'How KoreaHaul works: buying, receiving and shipping Korean products worldwide.',
       lastUpdated: true,
-      social: [
-        { icon: 'email', label: 'Email support', href: 'mailto:support@koreahaul.com' },
-        { icon: 'instagram', label: 'Instagram', href: 'https://www.instagram.com/koreahaulofficial/' },
-        { icon: 'tiktok', label: 'TikTok', href: 'https://www.tiktok.com/@koreahaulofficial' },
+      // Help-center layout: no "On this page" column, no Previous/Next buttons
+      tableOfContents: false,
+      pagination: false,
+      favicon: '/favicon.svg',
+      // Shown as text links in the header (see src/components/SocialIcons.astro)
+      social: [{ icon: 'email', label: 'Contact us', href: 'mailto:support@koreahaul.com' }],
+      customCss: [
+        '@fontsource-variable/inter',
+        '@fontsource-variable/fraunces/opsz.css',
+        './src/styles/custom.css',
       ],
-      customCss: ['./src/styles/custom.css'],
       components: {
         Footer: './src/components/Footer.astro',
+        Hero: './src/components/Hero.astro',
+        PageTitle: './src/components/PageTitle.astro',
+        SocialIcons: './src/components/SocialIcons.astro',
       },
       expressiveCode: {
         defaultProps: { wrap: true },
       },
       sidebar: [
-        { label: 'Welcome', slug: '' },
+        { label: 'Home', link: '/' },
         {
-          label: 'News & Updates',
+          label: 'News & Updates', collapsed: true,
           items: [
           { slug: 'news/chuseok-holiday-schedule' },
           { slug: 'news/currency-and-pricing-update' },
@@ -40,7 +48,7 @@ export default defineConfig({
           ],
         },
         {
-          label: 'Getting Started & Services',
+          label: 'Getting Started & Services', collapsed: true,
           items: [
           { slug: 'getting-started' },
           { slug: 'getting-started/buy-for-me' },
@@ -53,7 +61,7 @@ export default defineConfig({
           ],
         },
         {
-          label: 'International Shipping Tips',
+          label: 'International Shipping Tips', collapsed: true,
           items: [
           { slug: 'shipping/carriers-and-rates' },
           { slug: 'shipping/duty-and-tax-calculation' },
@@ -118,7 +126,7 @@ export default defineConfig({
           ],
         },
         {
-          label: 'Shopping Tips',
+          label: 'Shopping Tips', collapsed: true,
           items: [
           { slug: 'shopping-tips/how-to-spend-less-on-shipping' },
           { slug: 'shopping-tips/price-comparison' },
@@ -148,7 +156,7 @@ export default defineConfig({
           ],
         },
         {
-          label: 'What to Buy',
+          label: 'What to Buy', collapsed: true,
           items: [
           { slug: 'what-to-buy/k-beauty' },
           { slug: 'what-to-buy/k-fashion' },

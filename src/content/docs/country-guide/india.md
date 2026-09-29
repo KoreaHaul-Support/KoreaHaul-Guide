@@ -16,20 +16,26 @@ Everything you need to buy Korean products and get them to your door in India - 
 - **Receive For Me** - ship your Korean orders to our warehouse. We receive and store them.
 - **Ship For Me** - we consolidate, pack, and ship your orders to India.
 
-:::note[Payment]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Payment</p>
+
 Wise and Credit Card (3D Secure). See Payment Methods for limits.
 
 Payment processing fees vary by method and are added at checkout.
-:::
+
+</div>
 
 ## Delivery
 
 - **FedEx International Priority** - import charges paid by the recipient (DAP). Estimated 3-6 business days.
 - **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 7-15 business days.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 **Recipient-paid (DAP/DDU)** = You pay import charges when your package arrives in your country.
-:::
+
+</div>
 
 *Maximum weight per shipment: 30 kg on FedEx International Priority, 20 kg on EMS Korea Post.*
 
@@ -37,18 +43,24 @@ Payment processing fees vary by method and are added at checkout.
 
 To estimate the shipping cost and transit time, use the Shipping Calculator at [koreahaul.com](https://koreahaul.com/).
 
-:::caution[Before you order]
+<div class="kh-callout kh-callout--caution">
+
+<p class="kh-callout-title">Before you order</p>
+
 - India requires recipient KYC documents and an authorization for courier clearance.
 - Individuals are commonly asked for a government photo ID and address proof.
 - The carrier may also request PAN or other details.
 - Missing or mismatched details can delay, return, or prevent clearance.
-:::
+
+</div>
 
 ## Customs, duty and tax
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 **Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
-:::
+
+</div>
 
 - **No general duty-free allowance.** Do not rely on a gift exemption: Indian Customs restricts gift clearance for e-commerce goods sent by post or courier. Marking an order a gift does not make it duty-free.
 - **Import duty (Basic Customs Duty):** varies by product and tariff classification, commonly around 10-20% or more.
@@ -102,9 +114,13 @@ See the [Prohibited and Restricted Items](https://koreahaul.com/shipping-info/re
 
 *We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
 
-:::note[Spotted something wrong?]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Spotted something wrong?</p>
+
 Let us know. The first person to report an error that we correct gets a $10 coupon.
-:::
+
+</div>
 
 **Our services are governed by these policies:**
 

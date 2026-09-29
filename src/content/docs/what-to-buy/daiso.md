@@ -14,9 +14,11 @@ Start with the Daiso category on [**KoreaHaul Picks (KH Picks)**](https://koreah
 
 The [online store](https://www.daisomall.co.kr/ds) carries the full range. Check the item is in stock before ordering - popular and seasonal lines sell out and are not always restocked.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 **No Buy For Me fee on Daiso online orders.** You pay the item price and domestic shipping only. Spend ₩30,000 or more and domestic shipping is free too.
-:::
+
+</div>
 
 ## What is worth shipping
 

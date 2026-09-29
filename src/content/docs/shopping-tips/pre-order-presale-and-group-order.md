@@ -12,9 +12,11 @@ Pre-orders, presales, and group orders are how most limited Korean merchandise i
 
 You pay now, the store ships on a release date later. Common for albums, figures, and collaboration goods.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 The release date is when the store ships, not when it reaches us. Add Korean domestic delivery on top. Your 45 free storage days start only at check-in.
-:::
+
+</div>
 
 - Keep pre-order items in their own request. Bundling them means the whole request waits.
 - Release dates slip. The store decides, not us.
@@ -38,8 +40,12 @@ Buyers pool together to hit a minimum quantity or unlock a bulk price. Organised
 - Contacting the organiser means seller communication, so **Standard Buy For Me** applies.
 - Bulk quantities may be priced separately. Email [business@koreahaul.com](mailto:business@koreahaul.com) for wholesale volumes.
 
-:::note[Need large quantities?]
+<div class="kh-callout kh-callout--note">
+
+<p class="kh-callout-title">Need large quantities?</p>
+
 We work with established Korean resellers who hold sold-out merchandise in bulk - light sticks for BTS, BIGBANG and other groups, often in the hundreds. If a group order needs volume we can usually source it. Email [business@koreahaul.com](mailto:business@koreahaul.com).
-:::
+
+</div>
 
 Budget for the wait. A pre-order placed in March can reach your door in July. That is normal.

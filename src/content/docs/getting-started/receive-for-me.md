@@ -8,9 +8,11 @@ sidebar:
 
 Shop yourself and use our warehouse as your Korean delivery address.
 
-:::note
+<div class="kh-callout kh-callout--note">
+
 No service fee. You pay only for storage past your free days and for international shipping.
-:::
+
+</div>
 
 ## How do I place a Receive For Me request?
 
@@ -31,6 +33,8 @@ Your package includes up to 45 days of free storage. Unboxing media is normally 
 - We repack and hand the parcel over at the warehouse.
 - **₩5,000 per return request.** All related costs, including return shipping, are paid by you.
 
-:::caution
+<div class="kh-callout kh-callout--caution">
+
 Without a Postbox code we cannot match your package to your account, which causes delays. We hold it as an unidentified package and list it on our [Notice page](https://koreahaul.com/support/notice) - check there and claim it.
-:::
+
+</div>
