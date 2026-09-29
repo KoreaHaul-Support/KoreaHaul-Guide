@@ -1,6 +1,6 @@
 ---
 title: "Naver Smart Stores & other shops"
-description: "Naver Smart Store is not one shop. It is the storefront platform behind hundreds of thousands of independent Korean sellers, and where most of what we buy..."
+description: "How Naver Smart Stores work, why they need Buy For Me, how to read a listing, and how to tell an official store from a reseller."
 lastUpdated: 2026-09-18
 sidebar:
   order: 3

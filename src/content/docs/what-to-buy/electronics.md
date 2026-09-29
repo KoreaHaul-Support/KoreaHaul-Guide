@@ -1,6 +1,6 @@
 ---
 title: "Electronics"
-description: "Korean electronics are often cheaper at home than abroad, but they are the category most likely to be blocked, restricted, or useless on arrival."
+description: "Buying Korean electronics: where to shop, what to check before you order, what we do not do, and customs notes."
 lastUpdated: 2026-09-18
 sidebar:
   order: 10

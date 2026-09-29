@@ -1,0 +1,125 @@
+TITLE: Payment Methods
+EDITED: 2026-09-26T14:17:38.191Z
+<content>
+What you can pay with, by destination.
+*Last updated 26 September 2026*
+Available payment methods depend on the destination country, order value, risk assessment, and compliance requirements. KoreaHaul reserves the right to determine available payment methods and may refuse, restrict, or withdraw any payment method at its sole discretion.
+## By destination
+<table header-row="true">
+<colgroup>
+<col width="215.109375">
+<col width="477">
+</colgroup>
+<tr>
+<td>Destination</td>
+<td>Payment methods</td>
+</tr>
+<tr>
+<td>United States</td>
+<td>PayPal, Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>European Union</td>
+<td>PayPal, Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>United Kingdom</td>
+<td>PayPal, Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>Canada</td>
+<td>PayPal, Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>Australia</td>
+<td>PayPal, Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>New Zealand</td>
+<td>PayPal, Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>Singapore</td>
+<td>PayPal, Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>Japan</td>
+<td>PayPal, Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>China</td>
+<td>Alipay, WeChat Pay, Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>Hong Kong</td>
+<td>PayPal, Alipay, WeChat Pay, Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>Taiwan</td>
+<td>PayPal, Alipay, WeChat Pay, Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>Mexico</td>
+<td>PayPal, Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>Chile</td>
+<td>PayPal, Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>Argentina</td>
+<td>Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>Peru</td>
+<td>Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>Uruguay</td>
+<td>Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>Brazil</td>
+<td>Wise, Credit Card (3D Secure), Western Union, Bank Transfer</td>
+</tr>
+<tr>
+<td>All other countries</td>
+<td>Wise, Western Union, Bank Transfer</td>
+</tr>
+</table>
+## Processing fees
+Fees vary by method and are added at checkout. They cover the transaction cost charged by the payment provider.
+Wise usually carries the lowest fee. Where it is available, it is often the cheapest way to pay.
+<callout color="gray_bg">
+	**To pay by Western Union or Bank Transfer**, contact us at [support@koreahaul.com](mailto:support@koreahaul.com) or on WhatsApp +82-10-5725-1222. These are arranged manually and are available for any destination on request.
+</callout>
+## Order Limits
+The following limits apply per order:
+- PayPal: maximum KRW 500,000 per order
+- Credit Card (3D Secure): maximum KRW 500,000 per order
+- Alipay: maximum KRW 500,000 per order
+- WeChat Pay: maximum KRW 500,000 per order
+- Wise: no standard limit
+- Western Union: no standard limit
+- Bank Transfer: no standard limit
+If your order is of higher value and needs a higher payment limit for your payment method, contact us at [support@koreahaul.com](mailto:support@koreahaul.com) for prior approval before you pay.
+**KRW 500,000 is roughly USD 370.** The limit is set in Korean won, so the amount in your currency moves with the exchange rate.
+Additional verification may be required for high-value transactions.
+KoreaHaul reserves the right to impose lower or higher limits, request additional verification, require a specific payment method, or refuse a transaction based on destination, order value, risk assessment, compliance requirements, or payment provider restrictions.
+## Important
+- Credit card payments require 3D Secure (3DS) authentication where supported.
+- Payment availability may vary based on destination, order value, product type, risk assessment, and compliance requirements.
+- We may request payment through a specific method, refuse a payment, cancel a transaction, or require additional verification.
+- You are responsible for any fees charged by your payment provider, bank, or intermediary institution.
+- Orders are not processed until payment has been received and verified.
+---
+## Ready to start?
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+**Our services are governed by these policies:**
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
+<callout color="gray_bg">
+	**Spotted something wrong?** Let us know. The first person to report an error that we correct gets a \$10 coupon.
+</callout>
+</content>

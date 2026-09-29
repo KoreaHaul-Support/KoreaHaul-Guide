@@ -1,6 +1,6 @@
 ---
 title: "Books & Magazines"
-description: "Korean photobooks, art books, magazines, and webtoon volumes, plus magazine issues that come with K-pop inclusions."
+description: "Korean photobooks, art books, magazines, and webtoon volumes: where to buy, magazines with K-pop inclusions, and shipping notes."
 lastUpdated: 2026-09-18
 sidebar:
   order: 5

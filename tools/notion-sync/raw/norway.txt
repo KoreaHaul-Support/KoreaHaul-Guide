@@ -1,0 +1,71 @@
+TITLE: Norway
+EDITED: 2026-09-24T17:39:13.515Z
+<content>
+Everything you need to buy Korean products and get them to your door in Norway - from ordering to customs.
+*Last updated 17 September 2026*
+## How it works
+- **Buy For Me** - can't check out on a Korean site? Request through [Bunjang](https://koreahaul.com/bunjang), [KH Picks](https://koreahaul.com/koreahaul-shop), or the [custom request form](https://koreahaul.com/services/buy-for-me/create).
+- **Receive For Me** - ship your Korean orders to our warehouse. We receive and store them.
+- **Ship For Me** - we consolidate, pack, and ship your orders to Norway.
+<callout color="gray_bg">
+	**Payment:** Wise and Credit Card (3D Secure). See Payment Methods for limits.
+	Payment processing fees vary by method and are added at checkout.
+</callout>
+## Delivery
+- **FedEx International Priority** - import charges paid by the recipient (DAP). Estimated 2-3 business days.
+- **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 5-10 business days.
+<callout icon="💡" color="gray_bg">
+	**Prepaid (DDP)** = You pay import charges before your package is shipped.
+	**Recipient-paid (DAP/DDU)** = You pay import charges when your package arrives in your country.
+</callout>
+*\\* Import charges may include duties, taxes, customs handling fees, and other import-related charges.\*
+To estimate the shipping cost and transit time, use the Shipping Calculator at [koreahaul.com](https://koreahaul.com/).
+*Maximum weight per shipment: 30 kg on FedEx International Priority, 20 kg on EMS.*
+## Customs, duty and tax
+<callout color="yellow_bg">
+	**Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
+</callout>
+<callout color="yellow_bg">
+	**We are not VOEC-registered.** VAT is not collected at checkout, so your parcel goes through ordinary border clearance and you pay VAT on arrival.
+</callout>
+- **VAT:** 25%, charged from the first krone. The old NOK 350 relief ended on 1 January 2024.
+- **Duty:** depends on the commodity code. In practice, Norwegian duty mainly applies to clothing, food, and other foodstuffs. Shoes are generally exempt.
+- **Carrier fee:** the carrier usually adds a handling or clearance fee on delivery.
+- **Customs value** is generally based on the transaction value and may include goods, international freight, insurance, and other applicable additions.
+## What it costs
+Example: K-pop album order
+- Goods: NOK 2,500
+- International shipping: NOK 300
+- VAT base: NOK 2,800, including shipping
+- Norwegian VAT at 25%: NOK 700, collected at the border
+- Customs duty: normally none for this type of product
+- Carrier clearance fee: usually applies
+*Illustrative only. Final charges are set by Norwegian Customs, the Tax Administration, and the carrier.*
+## What we can't ship
+- Flammables and pressurized items (perfume, cologne, nail polish, aerosols, lighters, hand warmers)
+- Loose batteries and power banks
+- Alcohol, tobacco, and vapes
+- Fresh or perishable food, meat, plants, and seeds
+- Weapons, replicas, and self-defense sprays; counterfeit goods
+- Medicines and supplements (often restricted)
+- Sunscreen and other regulated cosmetic or drug products that may have extra import requirements
+- Cash, gift cards, and precious metals
+See the [Prohibited and Restricted Items](https://koreahaul.com/shipping-info/restricted) page for full details.
+## Questions
+- **Do I pay on delivery?**
+	- **Prepaid (DDP):** in most cases no. Additional charges may apply due to incorrect information, inaccurate documents, undervaluation, or other import-related issues.
+	- **Recipient-paid (DAP):** you pay import charges at clearance or delivery.
+- **Is a small order tax-free?** No. VAT applies from the first krone, collected at the border.
+- **Can you buy from any Korean site?** Most of them. Submit the link through a [Buy For Me request](https://koreahaul.com/services/buy-for-me/create) and we will check.
+- **Can I combine orders?** Yes - consolidating saves on shipping (it can raise the declared value).
+## Ready to start?
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+---
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+<callout color="gray_bg">
+	**Spotted something wrong?** Let us know. The first person to report an error that we correct gets a \$10 coupon.
+</callout>
+**Our services are governed by these policies:**
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
+</content>

@@ -1,0 +1,47 @@
+TITLE: Getting started
+EDITED: 2026-09-23T17:51:54.729Z
+<content>
+Three steps from a Korean store to your door.
+1. **Create your account.** You get a personal Postbox code, for example `KF2331`, and our warehouse address in Incheon. A ₩5,000 Welcome Coupon is issued when you sign up.
+2. **Get your items to our warehouse.** We buy them for you with Buy For Me, or you shop yourself and ship to us with Receive For Me.
+3. **Ship them home.** Combine everything into one box, choose a carrier, and pay.
+## Your Postbox code
+Your Postbox code is how we match a package to you. Two letters and four numbers, like `KF2331`. It appears on your dashboard the moment you sign up, and it never changes.
+> Always include your Postbox code when you send something to our warehouse.
+## Your Korean address
+Use this exactly as written when a Korean store asks where to deliver. Put **your own name** as the recipient, not "KoreaHaul".
+```javascript
+Recipient: [Your name]
+인천광역시 부평구 부평북로 58, 2층 201호 [Your Postbox code]
+58, Bupyeongbuk-ro, Bupyeong-gu, Incheon
+2F, Suite # 201 [Your Postbox code]
+Postal code 21302
+Republic of Korea
+Phone: 010-5725-1222
+```
+Korean checkout forms usually want the Korean lines.
+- **Address search (주소 찾기):** search for `인천광역시 부평구 부평북로 58`. The form fills in the postal code (우편번호) for you.
+- **Address 2 (상세주소):** `2층 201호 [Your Postbox code]`
+> Without a Postbox code we cannot match your package to your account, which causes delays. We hold it as an unidentified package and list it on our [Notice page](https://koreahaul.com/support/notice) - check there and claim it.
+## What happens after your package arrives
+- We usually check it in 1-2 days after it reaches the warehouse.
+- We document unboxing media and upload it to your dashboard for you to review.
+- It appears in your warehouse list with its check-in date.
+- Your 45 free storage days start from that check-in date.
+Items checked in on different days each have their own countdown.
+## Ready to ship
+- Request a shipment from [Ship For Me](https://koreahaul.com/account/ship-for-me).
+- We pack, weigh, and measure the box.
+- Pick a carrier from the real prices we quote.
+- Check the Shipping Calculator on [KoreaHaul](https://koreahaul.com/) to estimate the cost before you request.
+---
+## Ready to start?
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+<callout color="gray_bg">
+	**Spotted something wrong?** Let us know. The first person to report an error that we correct gets a \$10 coupon.
+</callout>
+**Our services are governed by these policies:**
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
+</content>

@@ -1,6 +1,6 @@
 ---
 title: "HS codes for common items"
-description: "Starting points for the products our customers ship most often."
+description: "HS customs codes for the products our customers ship most often, how to read them, and why one item can get different codes."
 lastUpdated: 2026-09-18
 sidebar:
   order: 3

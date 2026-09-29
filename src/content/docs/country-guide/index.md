@@ -1,6 +1,6 @@
 ---
 title: "Country Guide"
-description: "Pick your country for delivery options, duty and tax rules, worked cost examples, and what we cannot ship there."
+description: "Delivery options, duty and tax rules, cost examples, and restricted items for 25 destinations across Asia, Oceania, the Americas, and Europe."
 lastUpdated: 2026-09-18
 sidebar:
   order: 0

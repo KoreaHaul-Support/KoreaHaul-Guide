@@ -1,6 +1,6 @@
 ---
 title: "Daiso"
-description: "Daiso Korea sells stationery, kitchenware, storage, K-beauty, cosmetics tools, and seasonal goods, mostly between ₩1,000 and ₩5,000."
+description: "Daiso Korea stationery, kitchenware, K-beauty, and seasonal goods: how to order, what is worth shipping, and practical tips."
 lastUpdated: 2026-09-18
 sidebar:
   order: 9

@@ -1,7 +1,7 @@
 ---
 title: "Price Comparison"
-description: "Korean prices move constantly. The same item can differ by 30% between stores on the same day."
-lastUpdated: 2026-09-18
+description: "Compare Korean prices on Naver Shopping, Danawa, and Enuri, spot hidden costs, and group orders by store to save on domestic shipping."
+lastUpdated: 2026-09-29
 sidebar:
   order: 2
 ---
@@ -66,8 +66,8 @@ The price we pay excludes discounts tied to selected Korean credit cards, points
 - Ordered separately: ₩54,000 + ₩3,000 × 3 = **₩63,000**
 - One order: ₩54,000 + ₩3,000 = **₩57,000**
 - One order, above the store's ₩50,000 free-shipping threshold: **₩54,000**
-- Buy For Me fee either way: $2 × 3 = **$6**
+- Buy For Me fee either way: ₩2,000 × 3 = **₩6,000**
 
-Three copies of the same album would be one product, so **$2**.
+Three copies of the same album would be one product, so **₩2,000**.
 
 </div>

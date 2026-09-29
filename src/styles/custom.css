@@ -43,7 +43,7 @@
 :root[data-theme='light'] {
   --kh-ink: #111111;
   --kh-body: #37352f;
-  --kh-muted: #787774;
+  --kh-muted: #6b6a66;
   --kh-line: #e9e9e7;
   --kh-line-strong: #d3d2ce;
   --kh-soft: #f7f7f5;
@@ -60,7 +60,7 @@
   --sl-color-white: #111111;
   --sl-color-gray-1: #2b2a26;
   --sl-color-gray-2: #37352f;
-  --sl-color-gray-3: #787774;
+  --sl-color-gray-3: #6b6a66;
   --sl-color-gray-4: #9b9a97;
   --sl-color-gray-5: #e3e2df;
   --sl-color-gray-6: #efefed;

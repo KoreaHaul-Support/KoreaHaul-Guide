@@ -1,6 +1,6 @@
 ---
 title: "Aladin"
-description: "Korean bookstore for new and used books, plus albums and stationery."
+description: "Buying from Aladin, a Korean bookstore for new and used books, albums, and stationery: Buy For Me tier and shipping notes."
 lastUpdated: 2026-09-26
 sidebar:
   order: 13

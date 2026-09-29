@@ -1,6 +1,6 @@
 ---
 title: "K-Snack"
-description: "Snacks are the most commonly refused category at customs, and food imports are prohibited outright in many countries. Check your country's rules before you..."
+description: "Buying Korean snacks: where to shop, what usually clears customs, what is often restricted, and how country rules differ."
 lastUpdated: 2026-09-18
 sidebar:
   order: 4

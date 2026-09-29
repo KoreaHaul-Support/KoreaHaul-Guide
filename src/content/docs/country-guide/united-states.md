@@ -1,14 +1,14 @@
 ---
 title: "United States"
-description: "Everything you need to buy Korean products and get them to your door in the US - from ordering to customs."
-lastUpdated: 2026-09-27
+description: "Shipping from Korea to the United States: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+lastUpdated: 2026-09-29
 sidebar:
   order: 14
 ---
 
 Everything you need to buy Korean products and get them to your door in the US - from ordering to customs.
 
-*Last updated 17 September 2026*
+*Last updated 29 September 2026*
 
 ## How it works
 
@@ -95,7 +95,7 @@ See** **[**CPSC eFiling**](/news/cpsc-efiling-for-us-shipments/) for U.S. shipme
 
 Estimated total for a $100 item, made in Korea vs made in China.
 
-- $100 item + $2 Buy For Me fee + $3 packing + $30 shipping, plus duty
+- $100 item + ₩2,000 Buy For Me fee + ₩3,000 packing + $30 shipping, plus duty (₩1,000 ≈ $1 in this example)
 - $5 customs handling, only where duty is charged
 - Duty is calculated on $105 - item, service fee, and packing. Not shipping.
 - $30 shipping is a placeholder. Use the calculator for your real rate.
@@ -117,7 +117,7 @@ To check a rate yourself, use the tariff calculator at [flexport.com](https://fl
 
 **International Standard Shipping**
 
-- $100 goods + $2 Buy For Me fee + $3 packing + $30 shipping = **$135**
+- $100 goods + ₩2,000 Buy For Me fee + ₩3,000 packing + $30 shipping = about **$135**
 - $135 is what you pay for the shipment.
 - Duty is included in the shipping price. No handling fee.
 - Available for shipments with a declared value of $200 or less
@@ -148,25 +148,3 @@ See the [Prohibited and Restricted Items](https://koreahaul.com/shipping-info/re
 - **Does Korea-made mean lower duty?** Often yes. Made-in-Korea generally lands well below made-in-China, and printed items like photocards can be Free.
 - **Can you buy from any Korean site?** Most of them. Submit the link through a [Buy For Me request](https://koreahaul.com/services/buy-for-me/create) and we will check.
 - **Can I combine orders?** Yes - consolidating saves on shipping (it can raise the declared value).
-
-## Ready to start?
-
-[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
-
----
-
-*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
-
-<div class="kh-callout kh-callout--note">
-
-<p class="kh-callout-title">Spotted something wrong?</p>
-
-Let us know. The first person to report an error that we correct gets a $10 coupon.
-
-</div>
-
-**Our services are governed by these policies:**
-
-[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
-
-Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)

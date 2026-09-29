@@ -1,6 +1,6 @@
 ---
 title: "Duty & Tax Calculation"
-description: "What you pay at your border, and what decides it."
+description: "How import duty and tax are worked out: customs value, FOB vs CIF, DDP vs DAP, and worked examples of what you pay at your border."
 lastUpdated: 2026-09-27
 sidebar:
   order: 2

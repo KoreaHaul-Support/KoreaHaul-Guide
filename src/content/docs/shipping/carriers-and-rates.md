@@ -1,6 +1,6 @@
 ---
 title: "Carriers & Rates"
-description: "Prices and transit times differ by country. You see the real quote for your box before you pay, with every available carrier priced side by side."
+description: "The carriers we use, how shipping weight is calculated, coverage and tracking, and how you see real quotes for your box before paying."
 lastUpdated: 2026-09-19
 sidebar:
   order: 1

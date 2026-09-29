@@ -1,6 +1,6 @@
 ---
 title: "Fees"
-description: "All prices in Korean won (KRW)."
+description: "Every KoreaHaul fee in Korean won: Buy For Me service fees, handling and packing options, storage, customs clearance, and payment."
 lastUpdated: 2026-09-23
 sidebar:
   order: 7

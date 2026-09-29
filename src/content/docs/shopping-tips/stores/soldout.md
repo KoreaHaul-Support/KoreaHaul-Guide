@@ -1,6 +1,6 @@
 ---
 title: "Soldout"
-description: "Musinsa's resale platform for sneakers and streetwear."
+description: "Buying on Soldout, Musinsa's resale platform for sneakers and streetwear: Buy For Me tier, what to know, and shipping notes."
 lastUpdated: 2026-09-26
 sidebar:
   order: 3

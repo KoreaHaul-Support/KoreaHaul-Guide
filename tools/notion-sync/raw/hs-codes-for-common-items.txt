@@ -1,0 +1,256 @@
+TITLE: HS codes for common items
+EDITED: 2026-09-18T05:05:38.733Z
+<content>
+Starting points for the products our customers ship most often.
+## How to read these
+- The first six digits are the same worldwide.
+- Most countries add further digits of their own, and the duty rate is set at that longer national line.
+- Classification is decided by the destination country, so the same item does not always fall under the same heading everywhere.
+- To find your code, look up the six-digit heading in your national tariff or ask a licensed customs broker. For certainty, request an advance ruling before you order.
+> These are a starting point, not a ruling. The final code depends on the materials, the packaging, how the item is used, and the destination country's reading of the tariff.
+## Common products
+<callout icon="ℹ️" color="gray_bg">
+	**For reference only.**
+	- A listed code does not mean the item can be shipped.
+	- Perfume, supplements, and health foods all have codes but are restricted or prohibited.
+	- Clothing codes split by fibre and by gender. The codes here assume the fibre named - swap the fibre and the code changes.
+	- Check Batteries? Snacks? Cosmetics? before you order.
+</callout>
+<table header-row="true">
+<colgroup>
+<col width="417">
+<col width="258.859375">
+</colgroup>
+<tr>
+<td>Product</td>
+<td>HS code</td>
+</tr>
+<tr>
+<td>K-pop albums (CDs)</td>
+<td>8523.49</td>
+</tr>
+<tr>
+<td>DVDs and Blu-ray concert media</td>
+<td>8523.49</td>
+</tr>
+<tr>
+<td>Photocards, posters, prints</td>
+<td>4911.91</td>
+</tr>
+<tr>
+<td>Photobooks</td>
+<td>4901.99</td>
+</tr>
+<tr>
+<td>Season's greetings / calendar sets</td>
+<td>4910.00</td>
+</tr>
+<tr>
+<td>Stationery (notebooks, planners)</td>
+<td>4820.10</td>
+</tr>
+<tr>
+<td>Pens</td>
+<td>9608.10</td>
+</tr>
+<tr>
+<td>Light sticks</td>
+<td>9505.90 or 8513.10</td>
+</tr>
+<tr>
+<td>Plush toys and dolls</td>
+<td>9503.00</td>
+</tr>
+<tr>
+<td>LEGO and construction sets</td>
+<td>9503.00</td>
+</tr>
+<tr>
+<td>Trading card games (Pokémon and similar)</td>
+<td>9504.40</td>
+</tr>
+<tr>
+<td>Blind box and designer figures</td>
+<td>9503.00 or 3926.40</td>
+</tr>
+<tr>
+<td>Phone cases, plastic or silicone</td>
+<td>3926.90</td>
+</tr>
+<tr>
+<td>Phone cases, plastic or textile outer</td>
+<td>4202.32</td>
+</tr>
+<tr>
+<td>Phone cases, leather outer</td>
+<td>4202.31</td>
+</tr>
+<tr>
+<td>Chargers and adapters</td>
+<td>8504.40</td>
+</tr>
+<tr>
+<td>Cables</td>
+<td>8544.42</td>
+</tr>
+<tr>
+<td>Red ginseng and health foods</td>
+<td>2106.90</td>
+</tr>
+<tr>
+<td>T-shirts, cotton knit</td>
+<td>6109.10</td>
+</tr>
+<tr>
+<td>Hoodies and sweaters, cotton knit</td>
+<td>6110.20</td>
+</tr>
+<tr>
+<td>Dresses, cotton woven</td>
+<td>6204.42</td>
+</tr>
+<tr>
+<td>Jeans and trousers, cotton woven</td>
+<td>6203.42</td>
+</tr>
+<tr>
+<td>Sneakers, textile upper, sports</td>
+<td>6404.11</td>
+</tr>
+<tr>
+<td>Other footwear, textile upper</td>
+<td>6404.19</td>
+</tr>
+<tr>
+<td>Handbags, textile or plastic outer</td>
+<td>4202.22</td>
+</tr>
+<tr>
+<td>Cosmetic pouches and toilet bags</td>
+<td>4202.92</td>
+</tr>
+<tr>
+<td>Caps and hats</td>
+<td>6505.00</td>
+</tr>
+<tr>
+<td>Socks, cotton knit</td>
+<td>6115.95</td>
+</tr>
+<tr>
+<td>Skirts, cotton woven</td>
+<td>6204.52</td>
+</tr>
+<tr>
+<td>Jackets and coats, women's, man-made fibre</td>
+<td>6202.93</td>
+</tr>
+<tr>
+<td>Jackets and coats, women's, cotton</td>
+<td>6202.92</td>
+</tr>
+<tr>
+<td>Jackets and coats, men's, cotton</td>
+<td>6201.92</td>
+</tr>
+<tr>
+<td>Scarves, synthetic fibre</td>
+<td>6214.30</td>
+</tr>
+<tr>
+<td>Scarves, silk</td>
+<td>6214.10</td>
+</tr>
+<tr>
+<td>Scarves, wool</td>
+<td>6214.20</td>
+</tr>
+<tr>
+<td>Sunglasses</td>
+<td>9004.10</td>
+</tr>
+<tr>
+<td>Costume jewelry</td>
+<td>7117.90</td>
+</tr>
+<tr>
+<td>Belts, leather</td>
+<td>4203.30</td>
+</tr>
+<tr>
+<td>Skincare (creams, serums)</td>
+<td>3304.99</td>
+</tr>
+<tr>
+<td>Makeup, eye</td>
+<td>3304.20</td>
+</tr>
+<tr>
+<td>Makeup, lip</td>
+<td>3304.10</td>
+</tr>
+<tr>
+<td>Nail products</td>
+<td>3304.30</td>
+</tr>
+<tr>
+<td>Powders and cushions</td>
+<td>3304.91</td>
+</tr>
+<tr>
+<td>Perfume</td>
+<td>3303.00</td>
+</tr>
+<tr>
+<td>Shampoo</td>
+<td>3305.10</td>
+</tr>
+<tr>
+<td>Other hair care (treatments, sprays)</td>
+<td>3305.90</td>
+</tr>
+<tr>
+<td>Snacks (biscuits, cakes)</td>
+<td>1905.90</td>
+</tr>
+<tr>
+<td>Instant noodles</td>
+<td>1902.30</td>
+</tr>
+<tr>
+<td>Chocolate and candy</td>
+<td>1806.90</td>
+</tr>
+</table>
+## Why the same item gets different codes
+The destination country decides the code, so the same product can sit under different headings in different places.
+Items that commonly split two ways:
+- **Light sticks** - 9505.90 as a festive article, or 8513.10 as a portable lamp.
+	- Decided by cheering vs illumination. The lamp reading can add battery or safety requirements.
+- **Photocards vs trading cards** - 4911.91 as printed matter, or 9504.40 as playing cards.
+	- Game rules and stats point to 9504. Plain idol photocards stay at 4911.
+- **Albums with inclusions** - 8523.49 as a recorded disc, or 4901/4911 as printed matter.
+	- Essential character decides. Music album with photobook goes to the CD. Photobook with bonus CD goes the other way.
+- **Sunscreen and SPF cushions** - 3304.99 as a cosmetic, almost everywhere.
+	- Only products registered as medicines reach 3004, even where sunscreen is regulated as a drug.
+- **Plush toys vs display figures** - 9503.00 for play, or by material such as 3926.40 for display pieces.
+	- Age labelling and marketing decide it.
+- **Blind box figures** - 9503.00 for child-oriented toys, 3926.40 for adult collector art toys.
+- **Red ginseng and health foods** - 2106.90 as a food preparation.
+	- Bulk extract is 1302.19. Only registered medicines reach 3004.
+- **Phone cases** - 3926.90 for plastic or silicone, 4202 for leather or textile, 8517 with built-in electronics.
+	- The outer surface material decides between 3926 and 4202.
+- **Bags, shoes, and clothing** - the heading follows the dominant material, so a mixed-fabric item can land in more than one place.
+> Value matters too. Under a country's low-value threshold the code often goes unexamined. Above it, customs scrutinise the classification and can reassess it. Their decision is final.
+We declare what you actually paid and classify in good faith. Your customs authority makes the final call on both the code and the duty due.
+---
+## Ready to start?
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+<callout color="gray_bg">
+	**Spotted something wrong?** Let us know. The first person to report an error that we correct gets a \$10 coupon.
+</callout>
+**Our services are governed by these policies:**
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
+</content>

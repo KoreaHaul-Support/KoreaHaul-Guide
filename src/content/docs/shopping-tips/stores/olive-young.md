@@ -1,6 +1,6 @@
 ---
 title: "Olive Young"
-description: "Korea's biggest beauty store, with the widest range of K-beauty brands in one place."
+description: "Buying from Olive Young, Korea's biggest beauty store: Buy For Me tier, quantity limits, and shipping notes for cosmetics."
 lastUpdated: 2026-09-26
 sidebar:
   order: 5

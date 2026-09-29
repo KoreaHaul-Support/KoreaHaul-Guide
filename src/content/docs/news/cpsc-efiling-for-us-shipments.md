@@ -1,6 +1,6 @@
 ---
 title: "CPSC eFiling for U.S. shipments"
-description: "Since July 8, 2026, the U.S. Consumer Product Safety Commission (CPSC) requires electronic filing (eFiling) of safety certificate information for certain..."
+description: "New U.S. CPSC eFiling rules for shipments to the United States: which products are affected, including K-pop merch, and what to do."
 lastUpdated: 2026-09-18
 sidebar:
   order: 3

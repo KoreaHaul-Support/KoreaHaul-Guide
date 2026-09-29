@@ -1,6 +1,6 @@
 ---
 title: "Starbucks"
-description: "Starbucks Korea runs seasonal merchandise that is exclusive to Korea and collected worldwide. Tumblers, mugs, blankets, keyrings, and the summer and winter..."
+description: "Korea-exclusive Starbucks tumblers, mugs, and seasonal merchandise: where to buy and shipping notes."
 lastUpdated: 2026-09-23
 sidebar:
   order: 11

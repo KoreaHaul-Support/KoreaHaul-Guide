@@ -1,0 +1,601 @@
+{
+ "index": {
+  "title": "KoreaHaul Guide",
+  "path": "index",
+  "order": 0,
+  "notion": "3dbdc07682c28184bb8acd96dc55bc29",
+  "section": "root"
+ },
+ "chuseok-holiday-schedule": {
+  "title": "Chuseok holiday schedule",
+  "path": "news/chuseok-holiday-schedule",
+  "order": 1,
+  "notion": "3dbdc07682c28109ac80d136c2e936f3",
+  "section": "news",
+  "desc": "Our warehouse is closed 24-27 September for Chuseok. How the holiday affects Buy For Me orders, domestic deliveries, check-ins, and support."
+ },
+ "currency-and-pricing-update": {
+  "title": "Currency and pricing update",
+  "path": "news/currency-and-pricing-update",
+  "order": 2,
+  "notion": "3dfdc07682c281d7a734cbd7049916ad",
+  "section": "news",
+  "desc": "Korean won is now our base currency. How pricing works, service fees in won, no exchange rate markup, and the launch promotion."
+ },
+ "cpsc-efiling-for-us-shipments": {
+  "title": "CPSC eFiling for U.S. shipments",
+  "path": "news/cpsc-efiling-for-us-shipments",
+  "order": 3,
+  "notion": "3dedc07682c281a0ae6bfc823fb0196d",
+  "section": "news",
+  "desc": "New U.S. CPSC eFiling rules for shipments to the United States: which products are affected, including K-pop merch, and what to do."
+ },
+ "customs-handling-fee-ranges-updated": {
+  "title": "Customs handling fee ranges updated",
+  "path": "news/customs-handling-fee-ranges-updated",
+  "order": 4,
+  "notion": "3dbdc07682c281ba9c50ee7622f0cfe3",
+  "section": "news",
+  "desc": "Updated DDP customs handling fees for International Standard Shipping and FedEx International Connect Plus."
+ },
+ "unboxing-media-free-for-receive-for-me": {
+  "title": "Unboxing media stays free for Receive For Me",
+  "path": "news/unboxing-media-free-for-receive-for-me",
+  "order": 5,
+  "notion": "3dbdc07682c281fb8a8cfbf745f9b13e",
+  "section": "news",
+  "desc": "Unboxing photos and video stay free for Receive For Me requests. What is included, why it matters, and when the offer ends."
+ },
+ "getting-started": {
+  "title": "Getting started",
+  "path": "getting-started/index",
+  "order": 1,
+  "notion": "3dbdc07682c2814583b2eec2bfb5d003",
+  "section": "getting-started",
+  "desc": "Three steps from a Korean store to your door: create your account, use your Postbox code and Korean address, and ship home."
+ },
+ "buy-for-me": {
+  "title": "Buy For Me",
+  "path": "getting-started/buy-for-me",
+  "order": 2,
+  "notion": "3dbdc07682c281ec9c12e4856ceb95e4",
+  "section": "getting-started",
+  "desc": "Send us a product link and we buy it in Korea for you. How Buy For Me works, the Basic, Standard, and Premium fees, and what to know."
+ },
+ "setting-purchase-rules": {
+  "title": "Setting Purchase Rules",
+  "path": "getting-started/setting-purchase-rules",
+  "order": 3,
+  "notion": "3e7dc07682c2815ea43cf62dc8b45803",
+  "section": "getting-started",
+  "desc": "Set quantity, price, and domestic shipping rules for each Buy For Me product, so we can buy right away if something changes."
+ },
+ "receive-for-me": {
+  "title": "Receive For Me",
+  "path": "getting-started/receive-for-me",
+  "order": 4,
+  "notion": "3dbdc07682c28130aef3ed536ca0f4cf",
+  "section": "getting-started",
+  "desc": "Shop Korean stores yourself and use our Incheon warehouse as your delivery address. How to place a Receive For Me request, and returns."
+ },
+ "warehouse": {
+  "title": "Warehouse",
+  "path": "getting-started/warehouse",
+  "order": 5,
+  "notion": "3dbdc07682c281a7aabeefe35469fa68",
+  "section": "getting-started",
+  "desc": "What happens when your package reaches our warehouse: check-in, unboxing media, 45 days of free storage, and storage fees after that."
+ },
+ "ship-for-me": {
+  "title": "Ship For Me",
+  "path": "getting-started/ship-for-me",
+  "order": 6,
+  "notion": "3dbdc07682c281a7b710e7b74e86b54f",
+  "section": "getting-started",
+  "desc": "We pack everything in your warehouse into one shipment and send it to your country. How Ship For Me works, with handling and packing options."
+ },
+ "fees": {
+  "title": "Fees",
+  "path": "getting-started/fees",
+  "order": 7,
+  "notion": "3dbdc07682c281a79b64c14435d8b62c",
+  "section": "getting-started",
+  "desc": "Every KoreaHaul fee in Korean won: Buy For Me service fees, handling and packing options, storage, customs clearance, and payment."
+ },
+ "payment-methods": {
+  "title": "Payment Methods",
+  "path": "getting-started/payment-methods",
+  "order": 8,
+  "notion": "3dedc07682c281628995d37e379cbb24",
+  "section": "getting-started",
+  "desc": "Payment methods available for your country, the processing fee for each, and per-payment order limits."
+ },
+ "carriers-and-rates": {
+  "title": "Carriers & Rates",
+  "path": "shipping/carriers-and-rates",
+  "order": 1,
+  "notion": "3dbdc07682c28174a8bdce84cefbb82c",
+  "section": "shipping",
+  "desc": "The carriers we use, how shipping weight is calculated, coverage and tracking, and how you see real quotes for your box before paying."
+ },
+ "duty-and-tax-calculation": {
+  "title": "Duty & Tax Calculation",
+  "path": "shipping/duty-and-tax-calculation",
+  "order": 2,
+  "notion": "3dbdc07682c2815ba574da5dfbec28e6",
+  "section": "shipping",
+  "desc": "How import duty and tax are worked out: customs value, FOB vs CIF, DDP vs DAP, and worked examples of what you pay at your border."
+ },
+ "hs-codes-for-common-items": {
+  "title": "HS codes for common items",
+  "path": "shipping/hs-codes-for-common-items",
+  "order": 3,
+  "notion": "3dbdc07682c281e292c4e75cc08fbf8e",
+  "section": "shipping",
+  "desc": "HS customs codes for the products our customers ship most often, how to read them, and why one item can get different codes."
+ },
+ "insurance-and-claims": {
+  "title": "Insurance and claims",
+  "path": "shipping/insurance-and-claims",
+  "order": 4,
+  "notion": "3dddc07682c2819eada9f3ca5d23eef7",
+  "section": "shipping",
+  "desc": "What is covered if a shipment is lost or damaged, optional Shipping Insurance, how to lower the risk, and how to make a claim."
+ },
+ "country-guide": {
+  "title": "Country Guide",
+  "path": "country-guide/index",
+  "order": 0,
+  "notion": "3dbdc07682c281cf96efc267212e99f2",
+  "section": "country-guide",
+  "desc": "Delivery options, duty and tax rules, cost examples, and restricted items for 25 destinations across Asia, Oceania, the Americas, and Europe."
+ },
+ "japan": {
+  "title": "Japan",
+  "path": "country-guide/japan",
+  "order": 1,
+  "notion": "3dcdc07682c281e99610fe68dcc308bc",
+  "section": "country-guide/asia",
+  "desc": "Shipping from Korea to Japan: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "china": {
+  "title": "China",
+  "path": "country-guide/china",
+  "order": 2,
+  "notion": "3dcdc07682c2815d96ccc2543617156a",
+  "section": "country-guide/asia",
+  "desc": "Shipping from Korea to China: how it works, delivery options, customs duty and tax, and items we cannot ship."
+ },
+ "hong-kong": {
+  "title": "Hong Kong",
+  "path": "country-guide/hong-kong",
+  "order": 3,
+  "notion": "3dcdc07682c28104be4ec96e7b0452c2",
+  "section": "country-guide/asia",
+  "desc": "Shipping from Korea to Hong Kong: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "taiwan": {
+  "title": "Taiwan",
+  "path": "country-guide/taiwan",
+  "order": 4,
+  "notion": "3dcdc07682c28172b8d1c83f52a09ef6",
+  "section": "country-guide/asia",
+  "desc": "Shipping from Korea to Taiwan: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "singapore": {
+  "title": "Singapore",
+  "path": "country-guide/singapore",
+  "order": 5,
+  "notion": "3dcdc07682c2818782a8c802195d624f",
+  "section": "country-guide/asia",
+  "desc": "Shipping from Korea to Singapore: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "philippines": {
+  "title": "Philippines",
+  "path": "country-guide/philippines",
+  "order": 6,
+  "notion": "3dcdc07682c2813f99cbfb7495a18a2e",
+  "section": "country-guide/asia",
+  "desc": "Shipping from Korea to the Philippines: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "malaysia": {
+  "title": "Malaysia",
+  "path": "country-guide/malaysia",
+  "order": 7,
+  "notion": "3dcdc07682c28114af72e1f521c16722",
+  "section": "country-guide/asia",
+  "desc": "Shipping from Korea to Malaysia: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "indonesia": {
+  "title": "Indonesia",
+  "path": "country-guide/indonesia",
+  "order": 8,
+  "notion": "3dcdc07682c2811ba97bfca283a67c9d",
+  "section": "country-guide/asia",
+  "desc": "Shipping from Korea to Indonesia: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "thailand": {
+  "title": "Thailand",
+  "path": "country-guide/thailand",
+  "order": 9,
+  "notion": "3dcdc07682c2810cb4b9f8999903c347",
+  "section": "country-guide/asia",
+  "desc": "Shipping from Korea to Thailand: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "vietnam": {
+  "title": "Vietnam",
+  "path": "country-guide/vietnam",
+  "order": 10,
+  "notion": "3dcdc07682c281169ca2fdf9f4a06693",
+  "section": "country-guide/asia",
+  "desc": "Shipping from Korea to Vietnam: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "india": {
+  "title": "India",
+  "path": "country-guide/india",
+  "order": 11,
+  "notion": "3dcdc07682c2816584f5e71da02fa63b",
+  "section": "country-guide/asia",
+  "desc": "Shipping from Korea to India: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "australia": {
+  "title": "Australia",
+  "path": "country-guide/australia",
+  "order": 12,
+  "notion": "3dcdc07682c28190812efedec047033c",
+  "section": "country-guide/oceania",
+  "desc": "Shipping from Korea to Australia: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "new-zealand": {
+  "title": "New Zealand",
+  "path": "country-guide/new-zealand",
+  "order": 13,
+  "notion": "3dcdc07682c281509913e5a9df56011b",
+  "section": "country-guide/oceania",
+  "desc": "Shipping from Korea to New Zealand: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "united-states": {
+  "title": "United States",
+  "path": "country-guide/united-states",
+  "order": 14,
+  "notion": "3dcdc07682c28131ab20f66851d8ffd7",
+  "section": "country-guide/north-america",
+  "desc": "Shipping from Korea to the United States: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "canada": {
+  "title": "Canada",
+  "path": "country-guide/canada",
+  "order": 15,
+  "notion": "3dcdc07682c281299b8ee0e1a2334c2f",
+  "section": "country-guide/north-america",
+  "desc": "Shipping from Korea to Canada: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "mexico": {
+  "title": "Mexico",
+  "path": "country-guide/mexico",
+  "order": 16,
+  "notion": "3dcdc07682c2817cb384e1bcbc912199",
+  "section": "country-guide/north-america",
+  "desc": "Shipping from Korea to Mexico: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "brazil": {
+  "title": "Brazil",
+  "path": "country-guide/brazil",
+  "order": 17,
+  "notion": "3dcdc07682c281bd9859f6a60ae7a995",
+  "section": "country-guide/south-america",
+  "desc": "Shipping from Korea to Brazil: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "chile": {
+  "title": "Chile",
+  "path": "country-guide/chile",
+  "order": 18,
+  "notion": "3dcdc07682c2815185e3dd432a93f271",
+  "section": "country-guide/south-america",
+  "desc": "Shipping from Korea to Chile: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "argentina": {
+  "title": "Argentina",
+  "path": "country-guide/argentina",
+  "order": 19,
+  "notion": "3dcdc07682c28161b494df207168d6b9",
+  "section": "country-guide/south-america",
+  "desc": "Shipping from Korea to Argentina: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "colombia": {
+  "title": "Colombia",
+  "path": "country-guide/colombia",
+  "order": 20,
+  "notion": "3dcdc07682c2819293dcfe7e5b55c7bd",
+  "section": "country-guide/south-america",
+  "desc": "Shipping from Korea to Colombia: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "peru": {
+  "title": "Peru",
+  "path": "country-guide/peru",
+  "order": 21,
+  "notion": "3dcdc07682c281ccb426f81ce32909ec",
+  "section": "country-guide/south-america",
+  "desc": "Shipping from Korea to Peru: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "european-union": {
+  "title": "European Union",
+  "path": "country-guide/european-union",
+  "order": 22,
+  "notion": "3dcdc07682c2817a8cf0e513a548f58f",
+  "section": "country-guide/europe",
+  "desc": "Shipping from Korea to the EU: delivery options, customs duty, IOSS and VAT rates by country, cost examples, and items we cannot ship."
+ },
+ "united-kingdom": {
+  "title": "United Kingdom",
+  "path": "country-guide/united-kingdom",
+  "order": 23,
+  "notion": "3dcdc07682c281cb9fd2e8632a39b9e1",
+  "section": "country-guide/europe",
+  "desc": "Shipping from Korea to the United Kingdom: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "switzerland": {
+  "title": "Switzerland",
+  "path": "country-guide/switzerland",
+  "order": 24,
+  "notion": "3dcdc07682c281fdb909d1185d582baf",
+  "section": "country-guide/europe",
+  "desc": "Shipping from Korea to Switzerland: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "norway": {
+  "title": "Norway",
+  "path": "country-guide/norway",
+  "order": 25,
+  "notion": "3dcdc07682c2817ba2a3dfa07ff3a251",
+  "section": "country-guide/europe",
+  "desc": "Shipping from Korea to Norway: delivery options, customs duty and tax, what it costs, and items we cannot ship."
+ },
+ "how-to-spend-less-on-shipping": {
+  "title": "How to spend less on shipping",
+  "path": "shopping-tips/how-to-spend-less-on-shipping",
+  "order": 1,
+  "notion": "3dbdc07682c281eb8430c95279b96db8",
+  "section": "shopping-tips",
+  "desc": "Ways to cut your shipping bill: consolidate and repack, watch your duty threshold, and pick the cheaper duty method."
+ },
+ "price-comparison": {
+  "title": "Price Comparison",
+  "path": "shopping-tips/price-comparison",
+  "order": 2,
+  "notion": "3dbdc07682c2816b9b3ccb0d8bb5ebeb",
+  "section": "shopping-tips",
+  "desc": "Compare Korean prices on Naver Shopping, Danawa, and Enuri, spot hidden costs, and group orders by store to save on domestic shipping."
+ },
+ "naver-smart-stores-and-other-shops": {
+  "title": "Naver Smart Stores & other shops",
+  "path": "shopping-tips/naver-smart-stores-and-other-shops",
+  "order": 3,
+  "notion": "3dbdc07682c28135b526cb47dd0ead79",
+  "section": "shopping-tips",
+  "desc": "How Naver Smart Stores work, why they need Buy For Me, how to read a listing, and how to tell an official store from a reseller."
+ },
+ "shop-from-popular-stores": {
+  "title": "Shop from popular stores",
+  "path": "shopping-tips/shop-from-popular-stores",
+  "order": 4,
+  "notion": "3dbdc07682c28103924fd7ccf1167b42",
+  "section": "shopping-tips",
+  "desc": "Guides to the Korean stores our customers use most, from Olive Young and Coupang to Weverse Shop, Bunjang, and Kream."
+ },
+ "secondhand-and-resale-platforms": {
+  "title": "Secondhand & Resale Platforms",
+  "path": "shopping-tips/secondhand-and-resale-platforms",
+  "order": 5,
+  "notion": "3dbdc07682c281579360dec86ce6abcb",
+  "section": "shopping-tips",
+  "desc": "Buying on KREAM, Bunjang, Joongonara, Karrot, and Soldout: what is different, how to reduce the risk, and notes on each platform."
+ },
+ "pre-order-presale-and-group-order": {
+  "title": "Pre-order, Presale & Group Order",
+  "path": "shopping-tips/pre-order-presale-and-group-order",
+  "order": 6,
+  "notion": "3dbdc07682c2813596f4ff939a1ee26a",
+  "section": "shopping-tips",
+  "desc": "How pre-orders, presales, and group orders work in Korea, and how to buy limited merchandise through each one."
+ },
+ "pop-up-and-concert-merchandise": {
+  "title": "Pop-up & Concert Merchandise",
+  "path": "shopping-tips/pop-up-and-concert-merchandise",
+  "order": 7,
+  "notion": "3dbdc07682c281dba9f0c26101c23a6f",
+  "section": "shopping-tips",
+  "desc": "How we buy exclusive pop-up and concert merchandise, what to submit, what we cannot promise, and notes on light sticks and timing."
+ },
+ "k-beauty": {
+  "title": "K-Beauty",
+  "path": "what-to-buy/k-beauty",
+  "order": 1,
+  "notion": "3dbdc07682c281438968f3e311eee65d",
+  "section": "what-to-buy",
+  "desc": "Where to buy K-beauty, when the big sales happen, and the customs and shipping limits for cosmetics."
+ },
+ "k-fashion": {
+  "title": "K-Fashion",
+  "path": "what-to-buy/k-fashion",
+  "order": 2,
+  "notion": "3dbdc07682c28143aea0d7dc4dcfb1be",
+  "section": "what-to-buy",
+  "desc": "Where to buy Korean fashion, how Korean sizing works, and how to order with fewer wrong fits."
+ },
+ "k-pop-md": {
+  "title": "K-Pop MD",
+  "path": "what-to-buy/k-pop-md",
+  "order": 3,
+  "notion": "3dbdc07682c281aebfa5c540d40402c4",
+  "section": "what-to-buy",
+  "desc": "Buying K-pop albums, photocards, light sticks, and season's greetings: where to buy, pre-orders, inclusions, and shipping notes."
+ },
+ "k-snack": {
+  "title": "K-Snack",
+  "path": "what-to-buy/k-snack",
+  "order": 4,
+  "notion": "3dbdc07682c281999f07dbd9c34c5d34",
+  "section": "what-to-buy",
+  "desc": "Buying Korean snacks: where to shop, what usually clears customs, what is often restricted, and how country rules differ."
+ },
+ "books-and-magazines": {
+  "title": "Books & Magazines",
+  "path": "what-to-buy/books-and-magazines",
+  "order": 5,
+  "notion": "3dbdc07682c2811f9d22c47a96929b62",
+  "section": "what-to-buy",
+  "desc": "Korean photobooks, art books, magazines, and webtoon volumes: where to buy, magazines with K-pop inclusions, and shipping notes."
+ },
+ "pokemon-and-collectibles": {
+  "title": "Pokemon & Collectibles",
+  "path": "what-to-buy/pokemon-and-collectibles",
+  "order": 6,
+  "notion": "3dbdc07682c281b4a5d9d6a776d9391b",
+  "section": "what-to-buy",
+  "desc": "Korean Pokémon releases, trading cards, figures, and blind boxes: where to buy, how we pack them, and customs notes."
+ },
+ "lego": {
+  "title": "LEGO",
+  "path": "what-to-buy/lego",
+  "order": 7,
+  "notion": "3dbdc07682c281138cf5e5508eb2aa62",
+  "section": "what-to-buy",
+  "desc": "Retired LEGO sets are often cheaper in Korea. Where to buy, the problem with LEGO boxes, and other notes."
+ },
+ "car-parts": {
+  "title": "Car Parts",
+  "path": "what-to-buy/car-parts",
+  "order": 8,
+  "notion": "3dbdc07682c2818ba182f38f2c8e31e1",
+  "section": "what-to-buy",
+  "desc": "Genuine Hyundai and Kia parts from Korea, usually below dealer prices abroad: start with the part number, where to order, and shipping."
+ },
+ "daiso": {
+  "title": "Daiso",
+  "path": "what-to-buy/daiso",
+  "order": 9,
+  "notion": "3dbdc07682c28137bef4ca13b75d4801",
+  "section": "what-to-buy",
+  "desc": "Daiso Korea stationery, kitchenware, K-beauty, and seasonal goods: how to order, what is worth shipping, and practical tips."
+ },
+ "electronics": {
+  "title": "Electronics",
+  "path": "what-to-buy/electronics",
+  "order": 10,
+  "notion": "3dbdc07682c2810b86a0e9fa67afda8c",
+  "section": "what-to-buy",
+  "desc": "Buying Korean electronics: where to shop, what to check before you order, what we do not do, and customs notes."
+ },
+ "starbucks": {
+  "title": "Starbucks",
+  "path": "what-to-buy/starbucks",
+  "order": 11,
+  "notion": "3dbdc07682c28117828af5c9e55bf07b",
+  "section": "what-to-buy",
+  "desc": "Korea-exclusive Starbucks tumblers, mugs, and seasonal merchandise: where to buy and shipping notes."
+ },
+ "store-bunjang": {
+  "title": "Bunjang",
+  "path": "shopping-tips/stores/bunjang",
+  "order": 1,
+  "notion": "3e7dc07682c281888617e5598394e42c",
+  "section": "stores",
+  "desc": "Buying on Bunjang, Korea's biggest second-hand marketplace, through KoreaHaul: Buy For Me tier, what to know, and shipping notes."
+ },
+ "store-kream": {
+  "title": "Kream",
+  "path": "shopping-tips/stores/kream",
+  "order": 2,
+  "notion": "3e7dc07682c281d3a99eef10d13f0b08",
+  "section": "stores",
+  "desc": "Buying on Kream, Korea's largest resale platform for sneakers, streetwear, and luxury: Buy For Me tier, what to know, and shipping."
+ },
+ "store-soldout": {
+  "title": "Soldout",
+  "path": "shopping-tips/stores/soldout",
+  "order": 3,
+  "notion": "3e7dc07682c281afa194db602bcef594",
+  "section": "stores",
+  "desc": "Buying on Soldout, Musinsa's resale platform for sneakers and streetwear: Buy For Me tier, what to know, and shipping notes."
+ },
+ "store-daangn": {
+  "title": "Daangn (Karrot)",
+  "path": "shopping-tips/stores/daangn",
+  "order": 4,
+  "notion": "3e7dc07682c2818b9ff3fa47b878e341",
+  "section": "stores",
+  "desc": "Buying on Daangn (Karrot), Korea's neighbourhood second-hand marketplace: Buy For Me tier, what to know, and shipping notes."
+ },
+ "store-olive-young": {
+  "title": "Olive Young",
+  "path": "shopping-tips/stores/olive-young",
+  "order": 5,
+  "notion": "3e7dc07682c2810fb17bf979bb6cbeb3",
+  "section": "stores",
+  "desc": "Buying from Olive Young, Korea's biggest beauty store: Buy For Me tier, quantity limits, and shipping notes for cosmetics."
+ },
+ "store-coupang": {
+  "title": "Coupang",
+  "path": "shopping-tips/stores/coupang",
+  "order": 6,
+  "notion": "3e7dc07682c28128b515fe932ba52350",
+  "section": "stores",
+  "desc": "Buying from Coupang, Korea's biggest online mall, through KoreaHaul: Buy For Me tier and what to know."
+ },
+ "store-naver-smart-stores": {
+  "title": "Naver Smart Stores",
+  "path": "shopping-tips/stores/naver-smart-stores",
+  "order": 7,
+  "notion": "3e7dc07682c281f7ae30d747fd0c71a1",
+  "section": "stores",
+  "desc": "Buying from Naver Smart Stores, home to official brand stores and independent sellers: Buy For Me tier and what to know."
+ },
+ "store-weverse-shop": {
+  "title": "Weverse Shop",
+  "path": "shopping-tips/stores/weverse-shop",
+  "order": 8,
+  "notion": "3e7dc07682c28173901df20d8a92e538",
+  "section": "stores",
+  "desc": "Buying from Weverse Shop, the official store for HYBE artists like BTS and SEVENTEEN: Buy For Me tier, what to know, and shipping."
+ },
+ "store-yg-select": {
+  "title": "YG Select",
+  "path": "shopping-tips/stores/yg-select",
+  "order": 9,
+  "notion": "3e7dc07682c2815f953ff928e70adad5",
+  "section": "stores",
+  "desc": "Buying from YG Select, the official store for BIGBANG, BLACKPINK, TREASURE, and BABYMONSTER: Buy For Me tier and shipping notes."
+ },
+ "store-fans-shop": {
+  "title": "FANS Shop",
+  "path": "shopping-tips/stores/fans-shop",
+  "order": 10,
+  "notion": "3e7dc07682c28125a9c8dc4d6a0e1272",
+  "section": "stores",
+  "desc": "Buying from FANS Shop, the official JYP Entertainment store: Buy For Me tier, artists, what to know, and shipping notes."
+ },
+ "store-smtown-and-store": {
+  "title": "SMTOWN & STORE",
+  "path": "shopping-tips/stores/smtown-and-store",
+  "order": 11,
+  "notion": "3e7dc07682c2817fafe0f947365424d9",
+  "section": "stores",
+  "desc": "Buying from SMTOWN & STORE, the official SM Entertainment store: Buy For Me tier, artists, what to know, and shipping notes."
+ },
+ "store-yes24": {
+  "title": "Yes24",
+  "path": "shopping-tips/stores/yes24",
+  "order": 12,
+  "notion": "3e7dc07682c2817b82ecca61b33f0c29",
+  "section": "stores",
+  "desc": "Buying from Yes24, a major Korean bookstore and K-pop album seller: Buy For Me tier, what to know, and shipping notes."
+ },
+ "store-aladin": {
+  "title": "Aladin",
+  "path": "shopping-tips/stores/aladin",
+  "order": 13,
+  "notion": "3e7dc07682c2813b9500f17906f8468b",
+  "section": "stores",
+  "desc": "Buying from Aladin, a Korean bookstore for new and used books, albums, and stationery: Buy For Me tier and shipping notes."
+ }
+}

@@ -1,6 +1,6 @@
 ---
 title: "Pokemon & Collectibles"
-description: "Korean Pokémon releases, trading cards, figures, and blind-box collectibles."
+description: "Korean Pokémon releases, trading cards, figures, and blind boxes: where to buy, how we pack them, and customs notes."
 lastUpdated: 2026-09-18
 sidebar:
   order: 6

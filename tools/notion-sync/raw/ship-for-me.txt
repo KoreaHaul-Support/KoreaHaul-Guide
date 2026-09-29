@@ -1,0 +1,110 @@
+TITLE: Ship For Me
+EDITED: 2026-09-24T17:40:32.078Z
+<content>
+We pack everything in your warehouse into one shipment and send it to your country.
+## How it works
+1. Select the items you want to ship from your [warehouse storage](https://koreahaul.com/account/warehouse-storage).
+2. Choose handling options per item and packing options for the shipment.
+3. Confirm your delivery address and declared value.
+4. We pack, weigh, and measure the box, then send you carrier prices.
+5. Pick a carrier, pay, and get your tracking number.
+## Handling options
+Chosen per item or per package.
+<table header-row="true">
+<tr>
+<td>Option</td>
+<td>Price</td>
+<td>Notes</td>
+</tr>
+<tr>
+<td>Inclusions Basic</td>
+<td>₩1,000 / unit</td>
+<td>Album purchases only. Photocards and POBs only.</td>
+</tr>
+<tr>
+<td>Inclusions Premium</td>
+<td>₩2,000 / unit</td>
+<td>Album purchases only. Choose exactly which inclusions to keep.</td>
+</tr>
+<tr>
+<td>Extra Protection</td>
+<td>₩3,000 / package</td>
+<td>Additional bubble wrap and protective padding.</td>
+</tr>
+<tr>
+<td>Vacuum Packing</td>
+<td>₩6,000 / package</td>
+<td>Only if size permits. Compresses clothing and bedding to lower your chargeable weight.</td>
+</tr>
+</table>
+## Packing options
+Chosen per shipment.
+<table header-row="true">
+<tr>
+<td>Option</td>
+<td>Price</td>
+<td>Notes</td>
+</tr>
+<tr>
+<td>Optimized Pack</td>
+<td>₩2,000 + ₩1,000 / package</td>
+<td>We repack to cut volume and cost. Includes basic protection and prepacking media. Original parcel boxes may be removed, never sealed packaging.</td>
+</tr>
+<tr>
+<td>Remove Original Box</td>
+<td>₩3,000 + ₩2,000 / package</td>
+<td>We discard the original retail or parcel box during repacking. **Currently not available.**</td>
+</tr>
+<tr>
+<td>Priority Pack</td>
+<td>₩5,000 / shipment</td>
+<td>Your shipment is packed and ready for dispatch within 24 hours.</td>
+</tr>
+<tr>
+<td>Package Split</td>
+<td>₩5,000 / split package</td>
+<td>Create multiple outbound packages from items stored in your warehouse.</td>
+</tr>
+<tr>
+<td>Adult Signature Required</td>
+<td>₩6,000</td>
+<td>An adult must sign on delivery. FedEx only.</td>
+</tr>
+<tr>
+<td>Shipping Insurance</td>
+<td>2% of the declared value</td>
+<td>Covers loss or damage in transit. FedEx and selected Standard Shipping destinations.</td>
+</tr>
+</table>
+## Good to know
+- Everything goes in one box wherever the carrier's size and weight rules allow.
+- Standard packing takes up to 2 business days.
+- Carriers charge the higher of actual weight and volumetric weight. Optimized Pack and Vacuum Packing often lower it.
+<callout icon="⏱️" color="yellow_bg">
+	A shipping quote is valid for **5 days**. After that your request stays open - we may requote it or the price may stay the same. Storage runs on its normal terms throughout: 45 free days from check-in, then the daily rate.
+</callout>
+<callout color="yellow_bg">
+	**Your delivery address must match your payment billing address.** For PayPal and credit card payments we ship to the billing address on the payment account. If they do not match, we may refuse the payment, ask you to update it, or request ID verification.
+</callout>
+<callout color="yellow_bg">
+	**Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
+</callout>
+<callout color="yellow_bg">
+	Commercial invoices are marked as **"Personal Use / Not For Resale"** by default for Individual accounts. If this is not correct for your shipment, please notify us before shipment. Customs treatment and import requirements are determined by the laws and regulations of the destination country and its customs authorities.
+</callout>
+## Delivery restrictions
+- We cannot deliver to PO boxes or military addresses (APO, FPO, DPO).
+- Delivery to islands within the EU is generally not possible.
+- Remote area surcharges apply where the carrier classifies your address as remote. We include the surcharge in your shipping quote.
+We are working to expand the areas we can serve. If you live in a remote area, please contact us before requesting our services.
+---
+## Ready to start?
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+<callout color="gray_bg">
+	**Spotted something wrong?** Let us know. The first person to report an error that we correct gets a \$10 coupon.
+</callout>
+**Our services are governed by these policies:**
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
+</content>

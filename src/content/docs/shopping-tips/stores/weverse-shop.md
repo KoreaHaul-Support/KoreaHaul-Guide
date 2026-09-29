@@ -1,6 +1,6 @@
 ---
 title: "Weverse Shop"
-description: "The official store for HYBE artists, including BTS, SEVENTEEN, TXT, ENHYPEN, and LE SSERAFIM, plus selected artists from other agencies."
+description: "Buying from Weverse Shop, the official store for HYBE artists like BTS and SEVENTEEN: Buy For Me tier, what to know, and shipping."
 lastUpdated: 2026-09-26
 sidebar:
   order: 8

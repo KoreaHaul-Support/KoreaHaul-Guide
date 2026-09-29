@@ -1,6 +1,6 @@
 ---
 title: "K-Pop MD"
-description: "Albums, photocards, light sticks, and season's greetings. Tight deadlines and the most packing care."
+description: "Buying K-pop albums, photocards, light sticks, and season's greetings: where to buy, pre-orders, inclusions, and shipping notes."
 lastUpdated: 2026-09-18
 sidebar:
   order: 3

@@ -1,6 +1,6 @@
 ---
 title: "Insurance and claims"
-description: "What is covered if a shipment is lost or damaged, and what to do about it."
+description: "What is covered if a shipment is lost or damaged, optional Shipping Insurance, how to lower the risk, and how to make a claim."
 lastUpdated: 2026-09-18
 sidebar:
   order: 4

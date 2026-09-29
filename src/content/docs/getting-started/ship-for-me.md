@@ -1,6 +1,6 @@
 ---
 title: "Ship For Me"
-description: "We pack everything in your warehouse into one shipment and send it to your country."
+description: "We pack everything in your warehouse into one shipment and send it to your country. How Ship For Me works, with handling and packing options."
 lastUpdated: 2026-09-24
 sidebar:
   order: 6

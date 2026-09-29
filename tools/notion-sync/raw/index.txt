@@ -1,0 +1,99 @@
+TITLE: KoreaHaul Guide Version 1.2
+EDITED: 2026-09-26T17:37:58.759Z
+<content>
+<callout icon="📖" color="gray_bg">
+	**Welcome to KoreaHaul!** This guide covers everything you need to get started and make the most of our services.
+</callout>
+If you have any questions about our services, please email [support@koreahaul.com](mailto:support@koreahaul.com) or reach out to us on WhatsApp: +82-10-5725-1222
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
+<columns>
+	<column>
+		## News & Updates
+	</column>
+	<column>
+		<empty-block/>
+	</column>
+</columns>
+<page url="https://app.notion.com/p/3dbdc07682c28109ac80d136c2e936f3">Chuseok holiday schedule</page>
+<page url="https://app.notion.com/p/3dfdc07682c281d7a734cbd7049916ad">Currency and pricing update</page>
+<page url="https://app.notion.com/p/3dedc07682c281a0ae6bfc823fb0196d">CPSC eFiling for U.S. shipments</page>
+<page url="https://app.notion.com/p/3dbdc07682c281ba9c50ee7622f0cfe3">Customs handling fee ranges updated</page>
+<page url="https://app.notion.com/p/3dbdc07682c281fb8a8cfbf745f9b13e">Unboxing media stays free for Receive For Me</page>
+<columns>
+	<column ratio="50">
+		## Getting Started & Services
+		---
+		<page url="https://app.notion.com/p/3dbdc07682c2814583b2eec2bfb5d003">Getting started</page>
+		<page url="https://app.notion.com/p/3dbdc07682c281ec9c12e4856ceb95e4">Buy For Me</page>
+		<page url="https://app.notion.com/p/3e7dc07682c2815ea43cf62dc8b45803">Setting Purchase Rules</page>
+		<page url="https://app.notion.com/p/3dbdc07682c28130aef3ed536ca0f4cf">Receive For Me</page>
+		<page url="https://app.notion.com/p/3dbdc07682c281a7aabeefe35469fa68">Warehouse</page>
+		<page url="https://app.notion.com/p/3dbdc07682c281a7b710e7b74e86b54f">Ship For Me</page>
+		<page url="https://app.notion.com/p/3dbdc07682c281a79b64c14435d8b62c">Fees</page>
+		<page url="https://app.notion.com/p/3dedc07682c281628995d37e379cbb24">Payment Methods</page>
+	</column>
+	<column ratio="50">
+		## International Shipping Tips
+		---
+		<page url="https://app.notion.com/p/3dbdc07682c28174a8bdce84cefbb82c">Carriers & Rates</page>
+		<page url="https://app.notion.com/p/3dbdc07682c2815ba574da5dfbec28e6">Duty & Tax Calculation</page>
+		<page url="https://app.notion.com/p/3dbdc07682c281cf96efc267212e99f2">Country Guide</page>
+		<page url="https://app.notion.com/p/3dbdc07682c281e292c4e75cc08fbf8e">HS codes for common items</page>
+		<page url="https://app.notion.com/p/3dddc07682c2819eada9f3ca5d23eef7">Insurance and claims</page>
+	</column>
+</columns>
+<columns>
+	<column ratio="50">
+		## Shopping Tips
+		---
+		<page url="https://app.notion.com/p/3dbdc07682c281eb8430c95279b96db8">How to spend less on shipping</page>
+		<page url="https://app.notion.com/p/3dbdc07682c2816b9b3ccb0d8bb5ebeb">Price Comparison</page>
+		<page url="https://app.notion.com/p/3dbdc07682c28135b526cb47dd0ead79">Naver Smart Stores & other shops</page>
+		<page url="https://app.notion.com/p/3dbdc07682c28103924fd7ccf1167b42">Shop from popular stores</page>
+		<page url="https://app.notion.com/p/3dbdc07682c281579360dec86ce6abcb">Secondhand & Resale Platforms</page>
+		<page url="https://app.notion.com/p/3dbdc07682c2813596f4ff939a1ee26a">Pre-order, Presale & Group Order</page>
+		<page url="https://app.notion.com/p/3dbdc07682c281dba9f0c26101c23a6f">Pop-up & Concert Merchandise</page>
+	</column>
+	<column ratio="50">
+		## What to Buy
+		---
+		<page url="https://app.notion.com/p/3dbdc07682c281438968f3e311eee65d">K-Beauty</page>
+		<page url="https://app.notion.com/p/3dbdc07682c28143aea0d7dc4dcfb1be">K-Fashion</page>
+		<page url="https://app.notion.com/p/3dbdc07682c281aebfa5c540d40402c4">K-Pop MD</page>
+		<page url="https://app.notion.com/p/3dbdc07682c281999f07dbd9c34c5d34">K-Snack</page>
+		<page url="https://app.notion.com/p/3dbdc07682c2811f9d22c47a96929b62">Books & Magazines</page>
+		<page url="https://app.notion.com/p/3dbdc07682c281b4a5d9d6a776d9391b">Pokemon & Collectibles</page>
+		<page url="https://app.notion.com/p/3dbdc07682c281138cf5e5508eb2aa62">LEGO</page>
+		<page url="https://app.notion.com/p/3dbdc07682c2818ba182f38f2c8e31e1">Car Parts</page>
+		<page url="https://app.notion.com/p/3dbdc07682c28137bef4ca13b75d4801">Daiso</page>
+		<page url="https://app.notion.com/p/3dbdc07682c2810b86a0e9fa67afda8c">Electronics</page>
+		<page url="https://app.notion.com/p/3dbdc07682c28117828af5c9e55bf07b">Starbucks</page>
+	</column>
+</columns>
+---
+## More FAQs
+<details>
+<summary>**What is my Postbox code and where do I find it?**</summary>
+	Two letters and four numbers, like KF2331. It is on your dashboard from the moment you sign up and it never changes. Always put it on the recipient line when a Korean store asks where to deliver.
+</details>
+<details>
+<summary>**Do I put KoreaHaul as the recipient name?**</summary>
+	No. Use your own name plus your Postbox code. A package addressed to KoreaHaul with no Postbox code cannot be matched to you, and we cannot ship it until you claim it.
+</details>
+<details>
+<summary>**Can I combine orders from different stores into one box?**</summary>
+	Yes. Anything in storage at the warehouse can go into the same shipment, whether we bought it or you did.
+</details>
+<details>
+<summary>**How long can you store my items for free?**</summary>
+	45 days from the date each package checks in. After that it is ₩1,000 per day per package, or ₩2,000 per day for packages with a dimensional weight of 10 kg or more, added to your shipping invoice. Packages checked in on different days each have their own countdown.
+</details>
+<details>
+<summary>**Can you declare a lower value or mark it as a gift?**</summary>
+	No. We declare what you actually paid. Under-declaring is illegal, risks seizure, and voids any insurance you bought.
+</details>
+<details>
+<summary>**How do I pay?**</summary>
+	See Payment Methods for what is available in your country. You pay twice: once for the purchase, once for international shipping.
+</details>
+</content>

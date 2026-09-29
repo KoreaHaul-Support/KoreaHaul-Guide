@@ -1,6 +1,6 @@
 ---
 title: "How to spend less on shipping"
-description: "Shipping is usually the biggest line on your invoice, and the one you control most."
+description: "Ways to cut your shipping bill: consolidate and repack, watch your duty threshold, and pick the cheaper duty method."
 lastUpdated: 2026-09-23
 sidebar:
   order: 1

@@ -1,6 +1,6 @@
 ---
 title: "Daangn (Karrot)"
-description: "Korea's neighbourhood second-hand marketplace. Sellers usually trade locally, face to face."
+description: "Buying on Daangn (Karrot), Korea's neighbourhood second-hand marketplace: Buy For Me tier, what to know, and shipping notes."
 lastUpdated: 2026-09-26
 sidebar:
   order: 4

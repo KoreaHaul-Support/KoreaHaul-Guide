@@ -1,6 +1,6 @@
 ---
 title: "Buy For Me"
-description: "Send us the product link, the options you want, and how many. We buy it with our own Korean payment methods and have it delivered to our warehouse."
+description: "Send us a product link and we buy it in Korea for you. How Buy For Me works, the Basic, Standard, and Premium fees, and what to know."
 lastUpdated: 2026-09-26
 sidebar:
   order: 2

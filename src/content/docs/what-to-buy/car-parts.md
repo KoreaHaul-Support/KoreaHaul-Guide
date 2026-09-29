@@ -1,6 +1,6 @@
 ---
 title: "Car Parts"
-description: "Korea is a good source of genuine Hyundai and Kia parts, usually well below dealer pricing abroad."
+description: "Genuine Hyundai and Kia parts from Korea, usually below dealer prices abroad: start with the part number, where to order, and shipping."
 lastUpdated: 2026-09-23
 sidebar:
   order: 8

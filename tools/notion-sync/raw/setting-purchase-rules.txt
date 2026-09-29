@@ -1,0 +1,86 @@
+TITLE: Setting Purchase Rules
+EDITED: 2026-09-26T14:55:37.184Z
+<content>
+Tell us what to do if something changes before we buy. You set three rules for each product on a Buy For Me request.
+<callout icon="📋" color="gray_bg">
+	**Why they matter:** Korea is likely several hours ahead of you. Prices change and limited items sell out in minutes. Purchase rules let us buy right away, within limits you already approved, instead of waiting for your reply.
+</callout>
+## Quantity rule
+What we do if we cannot buy the full quantity - the item is low on stock, the store has a purchase limit, or a KoreaHaul quantity limit applies.
+<table header-row="true">
+<tr>
+<td>Option</td>
+<td>What happens</td>
+</tr>
+<tr>
+<td>Exact quantity or cancel</td>
+<td>We buy only if we can get the full quantity. If not, we cancel the item and refund it as Store Credit.</td>
+</tr>
+<tr>
+<td>Partial quantity allowed</td>
+<td>We buy what we can and refund the rest as Store Credit.</td>
+</tr>
+</table>
+## Price rule
+What we do if the price has gone up since you submitted the request.
+<table header-row="true">
+<tr>
+<td>Option</td>
+<td>What happens</td>
+</tr>
+<tr>
+<td>Requested price or less</td>
+<td>We buy only at the price you paid or lower. If the price went up, we cancel the item and refund it as Store Credit.</td>
+</tr>
+<tr>
+<td>Allow up to an amount you set</td>
+<td>We buy if the new price is within your limit and bill you the difference. If it is above your limit, we cancel the item.</td>
+</tr>
+</table>
+If the price went down, we refund the difference as Store Credit. Your dashboard shows the requested price, the actual price, and the difference for each product.
+## Domestic shipping rule
+What we do if the store charges domestic shipping you did not pay for, or charges more than you paid.
+<table header-row="true">
+<tr>
+<td>Option</td>
+<td>What happens</td>
+</tr>
+<tr>
+<td>Accept if required</td>
+<td>We buy the item and bill you the extra domestic shipping.</td>
+</tr>
+<tr>
+<td>Cancel if required</td>
+<td>We cancel the item and refund it as Store Credit.</td>
+</tr>
+</table>
+If you paid domestic shipping and the store ships for free, we refund it as Store Credit.
+## Example
+You request 3 copies of an album at ₩20,000 each, with these rules:
+- Quantity: **Partial quantity allowed**
+- Price: **Allow up to ₩22,000**
+- Domestic shipping: **Accept if required**
+When we go to buy, the store has 2 left at ₩21,000. We buy 2, bill you ₩1,000 per copy for the price increase, and refund the third copy (₩20,000) as Store Credit.
+## Good to know
+- Rules are set for each product, not for the whole request.
+- Without purchase rules we cannot buy for you. A request with missing or unclear rules may be canceled.
+- The Buy For Me fee is not refunded when an item is canceled under your rules.
+- Quantity limits apply to every Buy For Me request. K-Beauty is limited to 2 of the same product per request (Daiso K-Beauty: 5).
+- Refunds are issued as Store Credit. You can ask for a cash-out to your original payment method instead. Fees apply - see the [Terms of Service](https://koreahaul.com/terms-of-service).
+<callout color="yellow_bg">
+	**Second-hand marketplaces** (Bunjang, Karrot (Daangn), Joongonara, KREAM, Soldout): orders cannot be canceled once placed, and price rules may not apply. You pay the full purchase amount once the order is placed.
+</callout>
+<callout icon="🏢" color="blue_bg">
+	**Need a large quantity?** Email [business@koreahaul.com](mailto:business@koreahaul.com) before you submit the request. Bulk orders are priced and handled separately.
+</callout>
+---
+## Ready to start?
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+<callout color="gray_bg">
+	**Spotted something wrong?** Let us know. The first person to report an error that we correct gets a \$10 coupon.
+</callout>
+**Our services are governed by these policies:**
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
+</content>

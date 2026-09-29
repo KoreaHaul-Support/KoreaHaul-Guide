@@ -1,6 +1,6 @@
 ---
 title: "Pre-order, Presale & Group Order"
-description: "Pre-orders, presales, and group orders are how most limited Korean merchandise is sold. All three work on different rules to normal shopping."
+description: "How pre-orders, presales, and group orders work in Korea, and how to buy limited merchandise through each one."
 lastUpdated: 2026-09-18
 sidebar:
   order: 6

@@ -1,6 +1,6 @@
 ---
 title: "Getting started"
-description: "Three steps from a Korean store to your door."
+description: "Three steps from a Korean store to your door: create your account, use your Postbox code and Korean address, and ship home."
 lastUpdated: 2026-09-23
 sidebar:
   order: 1

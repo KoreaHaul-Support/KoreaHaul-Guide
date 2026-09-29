@@ -44,3 +44,14 @@ Shopping Tips (with 13 store pages), What to Buy.
   A bold lead-in ending in ":", "?" or "!" becomes the aside title.
 - Links between guide pages point to the site paths, not Notion.
 - Each page's `lastUpdated` is Notion's last-edited date.
+
+## Updating from Notion
+
+Notion ("KoreaHaul Guide Version 1.2") is the source of truth. The converter lives in `tools/notion-sync/`:
+
+- `raw/` - a copy of each Notion page (one file per page)
+- `tree.json` - page list: title, site path, sidebar order, Notion page ID
+- `convert.py` - turns `raw/` into `src/content/docs/`, and builds the home page and `/topics/` section pages
+
+After a Notion edit: update the matching file in `raw/`, run `python3 tools/notion-sync/convert.py`, commit, push.
+Do not edit files in `src/content/docs/` by hand - the next conversion overwrites them.

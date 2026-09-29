@@ -1,6 +1,6 @@
 ---
 title: "LEGO"
-description: "Retired LEGO sets are often cheaper in Korea than anywhere else."
+description: "Retired LEGO sets are often cheaper in Korea. Where to buy, the problem with LEGO boxes, and other notes."
 lastUpdated: 2026-09-18
 sidebar:
   order: 7

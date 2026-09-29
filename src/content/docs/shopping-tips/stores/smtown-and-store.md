@@ -1,6 +1,6 @@
 ---
 title: "SMTOWN & STORE"
-description: "The official store for SM Entertainment artists."
+description: "Buying from SMTOWN & STORE, the official SM Entertainment store: Buy For Me tier, artists, what to know, and shipping notes."
 lastUpdated: 2026-09-26
 sidebar:
   order: 11

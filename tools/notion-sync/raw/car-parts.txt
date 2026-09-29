@@ -1,0 +1,34 @@
+TITLE: Car Parts
+EDITED: 2026-09-23T16:54:18.654Z
+<content>
+Korea is a good source of genuine Hyundai and Kia parts, usually well below dealer pricing abroad.
+## Start with the part number
+Submit the **OEM part number**, in the form 97133-3K000. We buy exactly the number you give us - we do not decode VINs or work out which part fits your car.
+- Model year and trim alone are not enough. Korean domestic models often differ from export models.
+- Confirm the number yourself before you submit it. A wrong number means a wrong part, and it cannot be returned.
+## Where to order
+Check [**KoreaHaul Picks (KH Picks)**](https://koreahaul.com/koreahaul-shop) first - we list most common car parts there so you can submit a Buy For Me request in a few clicks. These are curated links, not stock. We do not hold parts ourselves.
+Not listed? Submit a [Buy For Me request](https://koreahaul.com/services/buy-for-me/create) with the part number and we will find the product and add it to KH Picks.
+## Genuine parts only
+We buy **genuine (OEM) parts only** - from Hyundai Mobis, in the Mobis box with the part number on it. We do not source aftermarket or used parts.
+We buy them two ways:
+- **Online authorised dealer stores.** Basic or Standard Buy For Me, depending on whether the store needs us to message the seller.
+- **Offline parts stores.** Premium Buy For Me at ₩30,000, because someone has to go in person. This is how we get parts that are not listed online.
+Fitment is your responsibility. We buy the part number you submit and nothing more.
+## Shipping
+<callout color="yellow_bg">
+	**Car parts ship by FedEx or EMS Korea Post only.** Genuine Mobis parts are branded, and International Standard Shipping does not accept branded products.
+</callout>
+Parts are dense and body panels are bulky. Check the Shipping Calculator on [KoreaHaul](https://koreahaul.com/) before you buy - on anything large, shipping can exceed the part price.
+Brackets, sensors, trim clips, and emblems ship cheaply and are where the saving is best.
+---
+## Ready to start?
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+<callout color="gray_bg">
+	**Spotted something wrong?** Let us know. The first person to report an error that we correct gets a \$10 coupon.
+</callout>
+**Our services are governed by these policies:**
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
+</content>

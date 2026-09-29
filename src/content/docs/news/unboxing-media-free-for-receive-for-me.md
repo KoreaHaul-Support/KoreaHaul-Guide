@@ -1,6 +1,6 @@
 ---
 title: "Unboxing media stays free for Receive For Me"
-description: "Posted 5 September 2026"
+description: "Unboxing photos and video stay free for Receive For Me requests. What is included, why it matters, and when the offer ends."
 lastUpdated: 2026-09-23
 sidebar:
   order: 5

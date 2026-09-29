@@ -1,6 +1,6 @@
 ---
 title: "Payment Methods"
-description: "What you can pay with, by destination."
+description: "Payment methods available for your country, the processing fee for each, and per-payment order limits."
 lastUpdated: 2026-09-26
 sidebar:
   order: 8

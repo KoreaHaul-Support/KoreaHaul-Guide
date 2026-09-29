@@ -1,6 +1,6 @@
 ---
 title: "Currency and pricing update"
-description: "Based on customer feedback, we are changing how we price. Korean won is now the base currency, and all service fees are stated in won."
+description: "Korean won is now our base currency. How pricing works, service fees in won, no exchange rate markup, and the launch promotion."
 lastUpdated: 2026-09-23
 sidebar:
   order: 2

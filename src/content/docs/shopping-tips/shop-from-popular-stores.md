@@ -1,6 +1,6 @@
 ---
 title: "Shop from popular stores"
-description: "Korean stores our customers use most. The full directory of 415+ verified stores is on Where to Shop."
+description: "Guides to the Korean stores our customers use most, from Olive Young and Coupang to Weverse Shop, Bunjang, and Kream."
 lastUpdated: 2026-09-26
 sidebar:
   order: 4

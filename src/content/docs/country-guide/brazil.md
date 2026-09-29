@@ -1,6 +1,6 @@
 ---
 title: "Brazil"
-description: "Everything you need to buy Korean products and get them to your door in Brazil - from ordering to customs."
+description: "Shipping from Korea to Brazil: delivery options, customs duty and tax, what it costs, and items we cannot ship."
 lastUpdated: 2026-09-24
 sidebar:
   order: 17
@@ -8,7 +8,7 @@ sidebar:
 
 Everything you need to buy Korean products and get them to your door in Brazil - from ordering to customs.
 
-*Last updated 17 September 2026*
+*Last updated 24 September 2026*
 
 ## How it works
 
@@ -39,7 +39,7 @@ EMS is the recommended option for Brazil - carrier fees on courier services are 
 
 </div>
 
-*\\* Import charges may include duties, taxes, customs handling fees, and other import-related charges.\*
+Import charges may include duties, taxes, customs handling fees, and other import-related charges.
 
 To estimate the shipping cost and transit time, use the Shipping Calculator at [koreahaul.com](https://koreahaul.com/).
 
@@ -95,25 +95,3 @@ See the [Prohibited and Restricted Items](https://koreahaul.com/shipping-info/re
 - **Do I really need a CPF?** Yes. Without a valid CPF on the shipment, the parcel is held and eventually returned.
 - **Can you buy from any Korean site?** Most of them. Submit the link through a [Buy For Me request](https://koreahaul.com/services/buy-for-me/create) and we will check.
 - **Can I combine orders?** Yes - consolidating saves on shipping, but a larger declared value can push you past the US$50 line into much higher duty.
-
-## Ready to start?
-
-[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
-
----
-
-*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
-
-<div class="kh-callout kh-callout--note">
-
-<p class="kh-callout-title">Spotted something wrong?</p>
-
-Let us know. The first person to report an error that we correct gets a $10 coupon.
-
-</div>
-
-**Our services are governed by these policies:**
-
-[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
-
-Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)

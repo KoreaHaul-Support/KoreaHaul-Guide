@@ -1,6 +1,6 @@
 ---
 title: "Warehouse"
-description: "Everything we buy for you and everything you send us lands in the same place. The warehouse is where your items wait while you gather the rest of your order."
+description: "What happens when your package reaches our warehouse: check-in, unboxing media, 45 days of free storage, and storage fees after that."
 lastUpdated: 2026-09-23
 sidebar:
   order: 5

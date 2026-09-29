@@ -1,6 +1,6 @@
 ---
 title: "YG Select"
-description: "The official store for YG artists, including BIGBANG, BLACKPINK, TREASURE, and BABYMONSTER."
+description: "Buying from YG Select, the official store for BIGBANG, BLACKPINK, TREASURE, and BABYMONSTER: Buy For Me tier and shipping notes."
 lastUpdated: 2026-09-26
 sidebar:
   order: 9

@@ -1,6 +1,6 @@
 ---
 title: "Setting Purchase Rules"
-description: "Tell us what to do if something changes before we buy. You set three rules for each product on a Buy For Me request."
+description: "Set quantity, price, and domestic shipping rules for each Buy For Me product, so we can buy right away if something changes."
 lastUpdated: 2026-09-26
 sidebar:
   order: 3

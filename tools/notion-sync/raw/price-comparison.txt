@@ -1,0 +1,55 @@
+TITLE: Price Comparison
+EDITED: 2026-09-29T10:35:12.000Z
+<content>
+Korean prices move constantly. The same item can differ by 30% between stores on the same day.
+## Where to compare
+- [**Naver Shopping**](https://shopping.naver.com/ns/home) - most Korean sellers. Search the Korean product name and sort by price.
+- [**Danawa**](https://danawa.com) - electronics and appliances, with price history charts.
+- [**Enuri**](https://enuri.com) - general goods, often catches card-linked discounts.
+Naver Shopping is not reachable from every country. If it will not load for you, use Enuri instead.
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/514dc076-82c2-8112-910e-0003a1f440d1/8a6ac5ca-d3bf-4b60-b889-71992539ba73/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2026-09-17_14.49.59.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662S62J3RQ%2F20260927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260927T154254Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFgaCXVzLXdlc3QtMiJHMEUCIE8KqurfFDn8kGU8rLiyIrvKKr2U9wwOVG%2F7Y6jsmqvVAiEA79JFI4kGF%2BOMwxjn2FdNNfNIaUztDASW1U1L9Xf9lAAq%2FwMIIRAAGgw2Mzc0MjMxODM4MDUiDMzaITBUQzqDdBA4iSrcA1ptQ9jGO1g33%2FLjnD%2FyrueOszXhJ7rvDICpWgsWV7Cy7rTj5EI4a8JqmBId2qZcDaecPOr4jkR1SmkiHhAM%2BVEAz0jyOsWwCLLvYPM501%2FXFctapQrPUcy90Izdpb6ZKvejDOiCpqRya7ZMneq30T2ueOnzG37a5nW%2BA3B6rY1szMJD403c6uh113vKIGivL%2FbBSe4d05EXTJrqpCe2p%2F0Y0AFybKclCxxgYb1kppGuN1%2BAF0jY%2B84Pch4Oddyq0StvS8gJsR8msgKnGHB2vPEF6pP6Uaf7bwCdhcjlb3UQlmCscU5DLs3FYWEKEea%2FyAS9tH1dNmqHijFFjXD62HHsJWPmCRqbRUOaLAZi%2FJfnOMWwNIb7xCLBbcYpl%2FpgCYkyeNFoDO9gYoj6citSFZWeaTA7WjsLmuL5J2AIVJqPv6ncXZ59pRiHET8xPG8jQCTZC0orwfEIait5eh4rPm%2FEIHoRY4yzE0laGBJxnXqVVDZDFDg7FqgcjeHI1QU5rmNujkF9hHvNj0wtgOla2xOGKnG8ItWUK6zmao%2FyFfMY5QAoE4cRxFuWz5Sb2Gmcoqmf51CdCUIT79HG49FkeRdSkckhHomg4VusHRFpSaPPMgZ5xARmwFnzZTS6MNTx5NUGOqUBscbGHlu1oIXJDJQNQqVLCjuCvz0RHFjKKfVC3y1YB%2FAeWv7ZkRcKvzMc3tpQyMXG67MCkSCMEBt0YbT%2FTv4Zv7RCSO3%2BjDzuWsJBMfKKjdJsPM8AwzSGxcmU1A6uE1WyYrTt1r7NAtd4q5gRqrJSf0BNV%2FHvhLlu2ZHX8F7ozEGNYCeN9xO1ihfVnPgFA8%2BPEcm4pv2s48nlYE2PK9mXF21bn3WB&X-Amz-Signature=f05e826bd94221451e5743926bfeb3a83249a3ddf432d8d052a7597877630bc3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+<callout color="gray_bg">
+	**Reading an Enuri result.** Searching 조선미녀 (Beauty of Joseon) brings up the Rice Sunscreen 50ml with a price per quantity tier:
+	- 1개 ₩7,560 - **₩1,512 per 10ml**
+	- 2개 ₩18,040 - ₩1,804 per 10ml
+	- 3개 ₩32,810 - ₩2,187 per 10ml
+	Buying more is not always cheaper. Here the single unit is the best value, and the per-10ml column is what tells you.
+	Watch for 카드특가 (card special price) too - that price needs a specific Korean credit card, so it is not included in our Buy For Me service.
+</callout>
+## What the listed price may hide
+The price we pay excludes discounts tied to selected Korean credit cards, points earned from the purchase, and limited coupons issued to select members. These are not included in our Buy For Me service.
+<callout color="yellow_bg">
+	**Cheapest is often a reseller.**
+	- Comparison sites list resellers alongside official stores.
+	- Authenticity cannot be guaranteed from reseller listings.
+	- For K-beauty, buy from the brand's own store or an authorised retailer.
+	- Every K-beauty store in our [Where to Shop](https://koreahaul.com/where-to-shop) directory is official or authorised.
+</callout>
+- **Domestic shipping.** A cheaper item with ₩3,000 shipping is not cheaper. Many stores offer free domestic shipping (무료배송) above a spend threshold, so buying two items from one store can cost less than one item from the cheapest store.
+- **Option surcharges.** The headline price is the cheapest option. Size, colour, or set upgrades add on at checkout.
+- **Member-only prices.** Some stores show a lower price once logged in.
+## Group by store
+- One order from one store usually means one delivery and one domestic shipping charge.
+- Order the same items separately and you get a delivery and a charge for each, even from the same store.
+- Some stores split an order anyway, by warehouse or by supplier, so one order does not always mean one parcel.
+- Put everything from one store in one Buy For Me request. That usually saves more than hunting the lowest unit price.
+- The Buy For Me fee is charged per product, so five items cost five fees either way. Grouping saves on domestic delivery, not on our fee.
+<callout color="gray_bg">
+	**Three different albums at ₩18,000 each, from one store**
+	- Ordered separately: ₩54,000 + ₩3,000 × 3 = **₩63,000**
+	- One order: ₩54,000 + ₩3,000 = **₩57,000**
+	- One order, above the store's ₩50,000 free-shipping threshold: **₩54,000**
+	- Buy For Me fee either way: ₩2,000 × 3 = **₩6,000**
+	Three copies of the same album would be one product, so **₩2,000**.
+</callout>
+---
+## Ready to start?
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+<callout color="gray_bg">
+	**Spotted something wrong?** Let us know. The first person to report an error that we correct gets a \$10 coupon.
+</callout>
+**Our services are governed by these policies:**
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
+</content>

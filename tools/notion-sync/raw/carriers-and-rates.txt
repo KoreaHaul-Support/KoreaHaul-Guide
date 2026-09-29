@@ -1,0 +1,94 @@
+TITLE: Carriers & Rates
+EDITED: 2026-09-19T11:47:07.788Z
+<content>
+Prices and transit times differ by country. You see the real quote for your box before you pay, with every available carrier priced side by side.
+## Services we use
+<table header-row="true">
+<tr>
+<td>Service</td>
+<td>Duties</td>
+<td>Estimated delivery</td>
+</tr>
+<tr>
+<td>FedEx International Connect Plus</td>
+<td>DDP only</td>
+<td>3-5 business days</td>
+</tr>
+<tr>
+<td>FedEx International Priority</td>
+<td>DAP only</td>
+<td>2-3 business days</td>
+</tr>
+<tr>
+<td>EMS Korea Post</td>
+<td>DAP only</td>
+<td>5-15 business days</td>
+</tr>
+<tr>
+<td>SF Express</td>
+<td>DAP only</td>
+<td>3-10 business days</td>
+</tr>
+<tr>
+<td>International Standard Shipping</td>
+<td>DDP or DAP</td>
+<td>10-30 business days</td>
+</tr>
+</table>
+- Delivery times vary by destination. Your country page gives the range for your country.
+- Remote areas, South America, and Africa take longer.
+- International Standard Shipping is carried by Yun Express, Rincos, or similar carriers, assigned by route.
+## Restrictions
+**Branded products.** International Standard Shipping does not accept them. Nike, Adidas, LEGO, Pokémon, Casio, Chanel, Louis Vuitton, Gucci and similar must go by FedEx, EMS Korea Post, or SF Express.
+**Batteries.** Must be built into the device. Loose batteries and power banks cannot be shipped by any service. Every carrier that accepts them caps it at 1 to 2 devices per shipment.
+- **FedEx** - accepted
+- **SF Express** - accepted
+- **International Standard Shipping** - accepted, except to Japan, China, and Hong Kong
+- **EMS Korea Post** - not accepted, including built-in
+<callout icon="⚠️" color="yellow_bg">
+	Carrier rules change without notice. Check with us before ordering anything battery-powered.
+</callout>
+<callout color="yellow_bg">
+	**Maximum weight per shipment**, depending on the destination:
+	- FedEx International Connect Plus - 25 kg
+	- FedEx International Priority - 30 kg
+	- EMS Korea Post - 20 kg
+	- SF Express - 10 kg
+	- International Standard Shipping - 5 kg. Above that it can cost more than a better carrier, so it is not worth using.
+</callout>
+## How shipping weight is calculated
+Carriers charge the higher of two numbers:
+- **Actual weight** - what the packed box weighs.
+- **Volumetric weight** - how much space it takes up. L × W × H (cm) ÷ 5000.
+We show both and mark which applies. Optimized Pack and Vacuum Packing often bring the volumetric weight down.
+<callout icon="💡" color="gray_bg">
+	A 40 × 30 × 25 cm box of clothing weighs 3 kg on the scale, but 40 × 30 × 25 ÷ 5000 = 6 kg volumetric. You are charged for 6 kg.
+</callout>
+## Coverage
+- FedEx includes complimentary cover up to USD \$300 for loss and damage.
+- International Standard Shipping, EMS Korea Post, and SF Express do not cover damage in transit. Loss cover on International Standard Shipping varies by destination, from \$200 to none.
+- Insurance costs 2% of declared value and is available on FedEx only.
+See Insurance and claims for the full picture, including the destinations with no cover.
+## Tracking
+- You get a tracking number as soon as the box leaves our warehouse.
+- The carrier's site can take 1-2 business days to show the first scan.
+- No movement for more than five business days? Send us your request number and we will open a trace.
+## Rates
+- We book carriers, we do not operate them. Carrier delays, routing decisions, and service suspensions are outside our control.
+- Rate changes are announced at least 5 days before they take effect. Pricing errors are the exception - we correct those as soon as we find them.
+## Delivery restrictions
+- We cannot deliver to PO boxes or military addresses (APO, FPO, DPO).
+- Delivery to islands within the EU is generally not possible.
+- Remote area surcharges apply where the carrier classifies your address as remote. We include the surcharge in your shipping quote.
+We are working to expand the areas we can serve. If you live in a remote area, please contact us before requesting our services.
+---
+## Ready to start?
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+<callout color="gray_bg">
+	**Spotted something wrong?** Let us know. The first person to report an error that we correct gets a \$10 coupon.
+</callout>
+**Our services are governed by these policies:**
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
+</content>

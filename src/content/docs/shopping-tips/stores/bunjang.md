@@ -1,6 +1,6 @@
 ---
 title: "Bunjang"
-description: "Korea's biggest second-hand marketplace for K-pop, fashion, collectibles, and sold-out items."
+description: "Buying on Bunjang, Korea's biggest second-hand marketplace, through KoreaHaul: Buy For Me tier, what to know, and shipping notes."
 lastUpdated: 2026-09-26
 sidebar:
   order: 1

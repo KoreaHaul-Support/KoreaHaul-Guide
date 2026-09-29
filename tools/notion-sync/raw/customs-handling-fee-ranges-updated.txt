@@ -1,0 +1,43 @@
+TITLE: Customs handling fee ranges updated
+EDITED: 2026-09-23T17:01:19.105Z
+<content>
+Posted 17 September 2026
+DDP customs handling fees have been updated and now vary more widely by destination.
+<table header-row="true">
+<colgroup>
+<col>
+<col width="380">
+</colgroup>
+<tr>
+<td>Service</td>
+<td>DDP customs handling fee</td>
+</tr>
+<tr>
+<td>International Standard Shipping</td>
+<td>₩2,000 to ₩5,000</td>
+</tr>
+<tr>
+<td>FedEx International Connect Plus</td>
+<td>₩6,000, or ₩12,000 where estimated import charges exceed ₩120,000</td>
+</tr>
+</table>
+- Fees can go higher on some destinations. Treat the figures above as the usual range, not a cap.
+- EMS Korea Post, SF Express, and FedEx International Priority are DAP only, so no DDP handling fee applies.
+- On those services the carrier and your local customs charge you instead, if applicable.
+<callout icon="ℹ️" color="gray_bg">
+	The exact fee for your box always appears in your quote before you pay. Nothing is charged until you choose a carrier.
+</callout>
+## Worth knowing
+Where a shipment is refused, returned, or seized, prepaid duties and customs handling fees are not refundable.
+This fee applies to DDP only. On DAP the carrier bills you directly on arrival and usually adds its own handling charge.
+---
+## Ready to start?
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+<callout color="gray_bg">
+	**Spotted something wrong?** Let us know. The first person to report an error that we correct gets a \$10 coupon.
+</callout>
+**Our services are governed by these policies:**
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
+</content>

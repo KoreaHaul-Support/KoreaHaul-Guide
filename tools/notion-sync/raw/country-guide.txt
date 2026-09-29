@@ -1,0 +1,63 @@
+TITLE: Country Guide
+EDITED: 2026-09-18T05:05:32.966Z
+<content>
+Pick your country for delivery options, duty and tax rules, worked cost examples, and what we cannot ship there.
+The European Union guide covers the general EU rules. VAT rates vary by member state - see the table inside it.
+<columns>
+	<column ratio="34">
+		## Asia
+		---
+		<page url="https://app.notion.com/p/3dcdc07682c281e99610fe68dcc308bc">Japan</page>
+		<page url="https://app.notion.com/p/3dcdc07682c2815d96ccc2543617156a">China</page>
+		<page url="https://app.notion.com/p/3dcdc07682c28104be4ec96e7b0452c2">Hong Kong</page>
+		<page url="https://app.notion.com/p/3dcdc07682c28172b8d1c83f52a09ef6">Taiwan</page>
+		<page url="https://app.notion.com/p/3dcdc07682c2818782a8c802195d624f">Singapore</page>
+		<page url="https://app.notion.com/p/3dcdc07682c2813f99cbfb7495a18a2e">Philippines</page>
+		<page url="https://app.notion.com/p/3dcdc07682c28114af72e1f521c16722">Malaysia</page>
+		<page url="https://app.notion.com/p/3dcdc07682c2811ba97bfca283a67c9d">Indonesia</page>
+		<page url="https://app.notion.com/p/3dcdc07682c2810cb4b9f8999903c347">Thailand</page>
+		<page url="https://app.notion.com/p/3dcdc07682c281169ca2fdf9f4a06693">Vietnam</page>
+		<page url="https://app.notion.com/p/3dcdc07682c2816584f5e71da02fa63b">India</page>
+		## Oceania
+		---
+		<page url="https://app.notion.com/p/3dcdc07682c28190812efedec047033c">Australia</page>
+		<page url="https://app.notion.com/p/3dcdc07682c281509913e5a9df56011b">New Zealand</page>
+	</column>
+	<column ratio="33">
+		## North America
+		---
+		<page url="https://app.notion.com/p/3dcdc07682c28131ab20f66851d8ffd7">United States</page>
+		<page url="https://app.notion.com/p/3dcdc07682c281299b8ee0e1a2334c2f">Canada</page>
+		<page url="https://app.notion.com/p/3dcdc07682c2817cb384e1bcbc912199">Mexico</page>
+		## South America
+		---
+		<page url="https://app.notion.com/p/3dcdc07682c281bd9859f6a60ae7a995">Brazil</page>
+		<page url="https://app.notion.com/p/3dcdc07682c2815185e3dd432a93f271">Chile</page>
+		<page url="https://app.notion.com/p/3dcdc07682c28161b494df207168d6b9">Argentina</page>
+		<page url="https://app.notion.com/p/3dcdc07682c2819293dcfe7e5b55c7bd">Colombia</page>
+		<page url="https://app.notion.com/p/3dcdc07682c281ccb426f81ce32909ec">Peru</page>
+	</column>
+	<column ratio="33">
+		## Europe
+		---
+		<page url="https://app.notion.com/p/3dcdc07682c2817a8cf0e513a548f58f">European Union</page>
+		<page url="https://app.notion.com/p/3dcdc07682c281cb9fd2e8632a39b9e1">United Kingdom</page>
+		<page url="https://app.notion.com/p/3dcdc07682c281fdb909d1185d582baf">Switzerland</page>
+		<page url="https://app.notion.com/p/3dcdc07682c2817ba2a3dfa07ff3a251">Norway</page>
+	</column>
+</columns>
+<callout icon="🌍" color="gray_bg">
+	**Not listed yet?** More guides are being added. Email [support@koreahaul.com](mailto:support@koreahaul.com) and we will share what we find. Our information is based on our own research and may not be fully accurate - confirm with your local customs authority.
+</callout>
+*Customs rules change often. Each guide is written as a general reference, not a ruling. Confirm with your own customs authority before you order.*
+---
+## Ready to start?
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+<callout color="gray_bg">
+	**Spotted something wrong?** Let us know. The first person to report an error that we correct gets a \$10 coupon.
+</callout>
+**Our services are governed by these policies:**
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
+</content>

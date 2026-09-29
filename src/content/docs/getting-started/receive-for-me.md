@@ -1,6 +1,6 @@
 ---
 title: "Receive For Me"
-description: "Shop yourself and use our warehouse as your Korean delivery address."
+description: "Shop Korean stores yourself and use our Incheon warehouse as your delivery address. How to place a Receive For Me request, and returns."
 lastUpdated: 2026-09-23
 sidebar:
   order: 4

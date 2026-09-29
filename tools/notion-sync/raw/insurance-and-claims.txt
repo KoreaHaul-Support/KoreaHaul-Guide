@@ -1,0 +1,113 @@
+TITLE: Insurance and claims
+EDITED: 2026-09-18T07:03:26.643Z
+<content>
+What is covered if a shipment is lost or damaged, and what to do about it.
+## What you get by default
+Every service carries whatever protection the carrier provides. That is not the same as insurance, and it differs sharply.
+<table header-row="true">
+<colgroup>
+<col width="220.828125">
+<col width="301.3984375">
+<col width="155.7734375">
+</colgroup>
+<tr>
+<td>Service</td>
+<td>Loss</td>
+<td>Damage in transit</td>
+</tr>
+<tr>
+<td>FedEx</td>
+<td>Up to USD \$300 (about KRW 405,000), complimentary</td>
+<td>Up to USD \$300 (about KRW 405,000), complimentary</td>
+</tr>
+<tr>
+<td>EMS Korea Post</td>
+<td>Carrier policy</td>
+<td>Not covered</td>
+</tr>
+<tr>
+<td>SF Express</td>
+<td>Carrier policy</td>
+<td>Not covered</td>
+</tr>
+<tr>
+<td>International Standard Shipping</td>
+<td>Varies by destination - see below</td>
+<td>Not covered</td>
+</tr>
+</table>
+**International Standard Shipping loss cover by destination**
+<table header-row="true">
+<colgroup>
+<col width="279.4609375">
+<col width="237">
+</colgroup>
+<tr>
+<td>Destination</td>
+<td>Covered up to</td>
+</tr>
+<tr>
+<td>United States</td>
+<td>USD \$200 (about KRW 270,000)</td>
+</tr>
+<tr>
+<td>European Union</td>
+<td>USD \$155 (about KRW 209,000)</td>
+</tr>
+<tr>
+<td>Canada</td>
+<td>USD \$50 (about KRW 67,500)</td>
+</tr>
+<tr>
+<td>Japan, China, Hong Kong</td>
+<td>USD \$40 (about KRW 54,000)</td>
+</tr>
+<tr>
+<td>Mexico, Israel, Saudi Arabia, Turkey</td>
+<td>No cover</td>
+</tr>
+<tr>
+<td>Everywhere else</td>
+<td>USD \$50 (about KRW 67,500)</td>
+</tr>
+</table>
+KRW figures are approximate and move with the exchange rate.
+Three of the four services do not cover damage in transit. If your items are fragile, that is the most important line on this page.
+<callout icon="💵" color="yellow_bg">
+	**Over \$300 on FedEx? Buy insurance.** The complimentary \$300 cover applies only at or below \$300. Above that it does not apply at all, so an uninsured \$400 shipment has no cover whatsoever - not even the first \$300.
+</callout>
+## Optional Shipping Insurance
+- **FedEx only.** Not available on any other service.
+- **2% of the declared value**, chosen when you request a shipment.
+- Covers loss or damage in transit, subject to the insurer's terms.
+What is covered, and whether a claim is paid, is decided by the carrier or insurer. We are not the insurer and do not make that decision.
+## Lower the risk before you ship
+- **Extra Protection, \$3 per package.** Additional bubble wrap and padding. Worth it on ceramics, glass, tumblers, sealed booster boxes, and photobooks.
+- **Optimized Pack, \$2 + \$1 per package.** Removes dead space, which is what lets contents move and break. Original parcel boxes may be removed, never sealed packaging.
+- Choose a service that covers damage if the contents matter.
+## If something goes wrong
+<callout color="yellow_bg">
+	**Record an uninterrupted unboxing video.** Start filming before you cut the tape and keep recording until everything is out of the box, in one take. Carriers reject damage claims without it. Take photos as well.
+</callout>
+1. Keep the box and the packaging. Claims fail without them.
+2. Photograph the outer box, the packaging inside, and the damaged item.
+3. Contact [support@koreahaul.com](mailto:support@koreahaul.com) with your request number, the video, and the photos.
+4. We supply the shipping records and documentation the carrier needs.
+The claim is filed with the carrier or insurer, and they decide it. We support the claim, we do not settle it.
+<callout icon="⏱️" color="yellow_bg">
+	Report damage within **14 days** of international delivery. Carriers reject late claims, and there is nothing we can do once the window closes.
+</callout>
+## Lost parcels
+- No movement for more than five business days? Send us your request number and we will open a trace.
+- A trace takes time. Carriers usually will not declare a parcel lost until their own investigation closes.
+---
+## Ready to start?
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+<callout color="gray_bg">
+	**Spotted something wrong?** Let us know. The first person to report an error that we correct gets a \$10 coupon.
+</callout>
+**Our services are governed by these policies:**
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
+</content>

@@ -1,6 +1,6 @@
 ---
 title: "Yes24"
-description: "One of Korea's biggest bookstores, and a major seller of K-pop albums."
+description: "Buying from Yes24, a major Korean bookstore and K-pop album seller: Buy For Me tier, what to know, and shipping notes."
 lastUpdated: 2026-09-26
 sidebar:
   order: 12

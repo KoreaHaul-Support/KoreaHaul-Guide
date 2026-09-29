@@ -1,6 +1,6 @@
 ---
 title: "Secondhand & Resale Platforms"
-description: "KREAM, Bunjang, Joongonara, Karrot, and Soldout are where sold-out and discontinued Korean items surface. They are also where most problems start."
+description: "Buying on KREAM, Bunjang, Joongonara, Karrot, and Soldout: what is different, how to reduce the risk, and notes on each platform."
 lastUpdated: 2026-09-26
 sidebar:
   order: 5

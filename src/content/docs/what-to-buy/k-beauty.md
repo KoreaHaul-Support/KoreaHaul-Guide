@@ -1,6 +1,6 @@
 ---
 title: "K-Beauty"
-description: "The most shipped category out of our warehouse, and the one with the most customs surprises."
+description: "Where to buy K-beauty, when the big sales happen, and the customs and shipping limits for cosmetics."
 lastUpdated: 2026-09-23
 sidebar:
   order: 1

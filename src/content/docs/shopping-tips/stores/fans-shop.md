@@ -1,6 +1,6 @@
 ---
 title: "FANS Shop"
-description: "The official store for JYP Entertainment artists."
+description: "Buying from FANS Shop, the official JYP Entertainment store: Buy For Me tier, artists, what to know, and shipping notes."
 lastUpdated: 2026-09-26
 sidebar:
   order: 10

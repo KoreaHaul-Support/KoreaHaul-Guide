@@ -1,6 +1,6 @@
 ---
 title: "K-Fashion"
-description: "Korean sizing runs small and the photos are styled, so the guesswork is real. Here is how to lower the odds of a wrong fit."
+description: "Where to buy Korean fashion, how Korean sizing works, and how to order with fewer wrong fits."
 lastUpdated: 2026-09-18
 sidebar:
   order: 2

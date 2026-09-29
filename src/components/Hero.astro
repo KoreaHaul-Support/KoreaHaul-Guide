@@ -27,7 +27,10 @@ const { title = data.title, tagline, actions = [] } = data.hero || {};
 
 <script>
   document.querySelectorAll('[data-kh-search]').forEach((el) =>
-    el.addEventListener('click', () => {
+    el.addEventListener('click', (event) => {
+      // Stop this click here, or Starlight treats it as a click outside the search
+      // window and closes it again straight away.
+      event.stopPropagation();
       document.querySelector<HTMLButtonElement>('site-search button[data-open-modal]')?.click();
     })
   );

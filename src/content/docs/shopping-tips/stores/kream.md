@@ -1,6 +1,6 @@
 ---
 title: "Kream"
-description: "Korea's largest resale platform for sneakers, streetwear, and luxury goods. Kream checks items before they ship to buyers."
+description: "Buying on Kream, Korea's largest resale platform for sneakers, streetwear, and luxury: Buy For Me tier, what to know, and shipping."
 lastUpdated: 2026-09-26
 sidebar:
   order: 2

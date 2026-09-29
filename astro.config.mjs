@@ -3,10 +3,15 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import rehypeTableLabels from './src/plugins/rehype-table-labels.mjs';
 
+// Cloudflare Web Analytics.
+// Leave empty if Cloudflare's automatic setup is on for guides.koreahaul.com.
+// If Cloudflare shows a JS snippet instead, paste the token from it here
+// (Web Analytics > guides.koreahaul.com > Manage site).
+const CF_ANALYTICS_TOKEN = '';
+
 export default defineConfig({
-  // Set this to your live domain so the sitemap and canonical URLs are correct,
-  // e.g. 'https://guide.koreahaul.com'
-  // site: 'https://guide.koreahaul.com',
+  // Live domain: used for the sitemap and canonical URLs
+  site: 'https://guides.koreahaul.com',
   markdown: {
     rehypePlugins: [rehypeTableLabels],
   },
@@ -24,6 +29,18 @@ export default defineConfig({
         { tag: 'link', attrs: { rel: 'icon', type: 'image/png', sizes: '48x48', href: '/favicon-48.png' } },
         { tag: 'link', attrs: { rel: 'icon', type: 'image/png', sizes: '192x192', href: '/icon-192.png' } },
         { tag: 'link', attrs: { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' } },
+        ...(CF_ANALYTICS_TOKEN
+          ? [
+              {
+                tag: 'script',
+                attrs: {
+                  defer: true,
+                  src: 'https://static.cloudflareinsights.com/beacon.min.js',
+                  'data-cf-beacon': JSON.stringify({ token: CF_ANALYTICS_TOKEN }),
+                },
+              },
+            ]
+          : []),
       ],
       // Shown as text links in the header (see src/components/SocialIcons.astro)
       social: [{ icon: 'email', label: 'Contact us', href: 'mailto:support@koreahaul.com' }],

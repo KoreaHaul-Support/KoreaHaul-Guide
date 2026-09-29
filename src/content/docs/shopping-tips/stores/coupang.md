@@ -1,6 +1,6 @@
 ---
 title: "Coupang"
-description: "Korea's biggest online mall, known for fast Rocket Delivery."
+description: "Buying from Coupang, Korea's biggest online mall, through KoreaHaul: Buy For Me tier and what to know."
 lastUpdated: 2026-09-26
 sidebar:
   order: 6

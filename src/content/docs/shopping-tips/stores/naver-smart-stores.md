@@ -1,6 +1,6 @@
 ---
 title: "Naver Smart Stores"
-description: "Naver's store platform, home to official brand stores and thousands of independent sellers."
+description: "Buying from Naver Smart Stores, home to official brand stores and independent sellers: Buy For Me tier and what to know."
 lastUpdated: 2026-09-26
 sidebar:
   order: 7

@@ -1,6 +1,6 @@
 ---
 title: "Pop-up & Concert Merchandise"
-description: "Korean pop-up stores and concert venues sell exclusive merchandise for a few weeks, then vanish. Nothing restocks and almost none of it goes online."
+description: "How we buy exclusive pop-up and concert merchandise, what to submit, what we cannot promise, and notes on light sticks and timing."
 lastUpdated: 2026-09-23
 sidebar:
   order: 7
