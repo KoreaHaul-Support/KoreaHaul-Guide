@@ -299,13 +299,20 @@ h1#_top {
 }
 
 /* ---------- Tables ---------- */
+.kh-table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--kh-line);
+  border-radius: 10px;
+}
 .sl-markdown-content table.kh-table {
+  display: table;
   width: 100%;
+  margin: 0;
+  overflow: visible;
   font-size: var(--sl-text-sm);
   border-collapse: separate;
   border-spacing: 0;
-  border: 1px solid var(--kh-line);
-  border-radius: 10px;
+  border: 0;
 }
 .sl-markdown-content table.kh-table th {
   background: var(--kh-soft);
@@ -332,6 +339,11 @@ h1#_top {
 
 /* Tables: stacked cards on phones (tablets and up keep the normal table) */
 @media (max-width: 40rem) {
+  .kh-table-wrap {
+    overflow: visible;
+    border: 0;
+    border-radius: 0;
+  }
   .sl-markdown-content table.kh-table,
   .sl-markdown-content table.kh-table tbody,
   .sl-markdown-content table.kh-table tr,
