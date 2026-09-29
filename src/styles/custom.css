@@ -358,8 +358,7 @@ h1#_top {
     border-radius: 10px;
     background: var(--kh-bg);
   }
-  .sl-markdown-content table.kh-table td,
-  .sl-markdown-content table.kh-table tr:last-child td {
+  .sl-markdown-content table.kh-table td {
     position: relative;
     margin: 0;
     padding: 0.4rem 0 0.4rem calc(36% + 0.75rem);
@@ -739,5 +738,16 @@ h1#_top {
   }
   html[data-has-hero] nav.sidebar {
     display: none;
+  }
+}
+
+/* Tables with an outer border need inner padding on the outside columns
+   (Starlight removes it by default). Phones use the card layout instead. */
+@media (min-width: 40.0625rem) {
+  .sl-markdown-content table.kh-table :is(th, td):first-child {
+    padding-inline-start: 1rem;
+  }
+  .sl-markdown-content table.kh-table :is(th, td):last-child {
+    padding-inline-end: 1rem;
   }
 }
