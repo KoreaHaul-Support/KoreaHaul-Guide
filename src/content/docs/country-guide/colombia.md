@@ -1,0 +1,110 @@
+---
+title: "Colombia"
+description: "Everything you need to buy Korean products and get them to your door in Colombia - from ordering to customs."
+lastUpdated: 2026-09-24
+sidebar:
+  order: 20
+---
+
+Everything you need to buy Korean products and get them to your door in Colombia - from ordering to customs.
+
+*Last updated 17 September 2026*
+
+## How it works
+
+- **Buy For Me** - can't check out on a Korean site? Request through [Bunjang](https://koreahaul.com/bunjang), [KH Picks](https://koreahaul.com/koreahaul-shop), or the [custom request form](https://koreahaul.com/services/buy-for-me/create).
+- **Receive For Me** - ship your Korean orders to our warehouse. We receive and store them.
+- **Ship For Me** - we consolidate, pack, and ship your orders to Colombia.
+
+:::caution[Payment]
+for Colombia, Wise, Western Union, and Bank Transfer are accepted. See Payment Methods for limits.
+
+Payment processing fees vary by method and are added at checkout.
+:::
+
+## Delivery
+
+- **FedEx International Connect Plus** - prepaid import charges (DDP). Customs handling fee $5, or $10 where import charges exceed $100. Estimated 3-5 business days.
+- **FedEx International Priority** - import charges paid by the recipient (DAP). Estimated 2-3 business days.
+- **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 10-20 business days.
+
+:::note
+**Prepaid (DDP)** = You pay import charges before your package is shipped.
+
+**Recipient-paid (DAP/DDU)** = You pay import charges when your package arrives in your country.
+:::
+
+*\\* Import charges may include duties, taxes, customs handling fees, and other import-related charges.\*
+
+To estimate the shipping cost and transit time, use the Shipping Calculator at [koreahaul.com](https://koreahaul.com/).
+
+*Maximum weight per shipment: 30 kg on FedEx International Priority, 20 kg on EMS Korea Post.*
+
+## Customs, duty and tax
+
+:::caution
+**Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
+:::
+
+- **Duty-free threshold (US$200 FOB):**
+    - Postal/urgent shipments with an FOB value of US$200 or less (excluding delivery) are generally exempt from customs duty.
+    - This is a duty exemption, not an IVA exemption.
+- **IVA:** 19%, and it can apply even when duty is exempt under the US$200 threshold.
+- **Above US$200 FOB:**
+    - Simplified postal/urgent duty is generally 10% of FOB value, plus 19% IVA.
+    - Treatment can differ by import regime, product, classification, and trade preference.
+- **Customs value:**
+    - Duty and IVA are calculated under the applicable import modality and can include the goods price, freight, insurance, and other charges.
+    - The US$200 duty threshold is based on FOB goods value, excluding international delivery.
+
+## What it costs
+
+Example shipment from Korea with goods value of US$100 FOB and international shipping of US$30:
+
+- Customs duty: generally exempt under the US$200 FOB postal/urgent-shipment threshold, subject to the applicable requirements
+- IVA: 19% may apply
+- Carrier or broker fee: may apply
+
+For shipments above US$200 FOB, simplified postal/urgent treatment generally applies customs duty at 10% of FOB value plus 19% IVA.
+
+*Illustrative only. Final duty, IVA, customs value, and clearance charges are determined by DIAN and the carrier or customs broker.*
+
+## What we can't ship
+
+- Flammables and pressurized items (perfume, cologne, nail polish, aerosols, lighters, hand warmers)
+- Loose batteries and power banks
+- Alcohol, tobacco, and vapes
+- Fresh or perishable food, meat, plants, and seeds
+- Weapons, replicas, and self-defense sprays; counterfeit goods
+- Medicines and supplements (often restricted)
+- Sunscreen and other regulated cosmetic or drug products that may have extra import requirements
+- Cash, gift cards, and precious metals
+
+See the [Prohibited and Restricted Items](https://koreahaul.com/shipping-info/restricted) page for full details.
+
+## Questions
+
+- **Do I pay on delivery?**
+    - **Prepaid (DDP):** in most cases no. Additional charges may apply due to incorrect information, inaccurate documents, undervaluation, or other import-related issues.
+    - **Recipient-paid (DAP):** you pay import charges at clearance or delivery.
+- **Is a small order duty-free?** Partly. Postal or urgent shipments with an FOB goods value of US$200 or less are generally exempt from customs duty, but 19% IVA can still apply.
+- **Can you buy from any Korean site?** Most of them. Submit the link through a [Buy For Me request](https://koreahaul.com/services/buy-for-me/create) and we will check.
+- **Can I combine orders?** Yes - consolidating saves on shipping (it can raise the declared value).
+
+## Ready to start?
+
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+
+---
+
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+
+:::note[Spotted something wrong?]
+Let us know. The first person to report an error that we correct gets a $10 coupon.
+:::
+
+**Our services are governed by these policies:**
+
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)

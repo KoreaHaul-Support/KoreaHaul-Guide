@@ -1,0 +1,109 @@
+---
+title: "Chile"
+description: "Everything you need to buy Korean products and get them to your door in Chile - from ordering to customs."
+lastUpdated: 2026-09-24
+sidebar:
+  order: 18
+---
+
+Everything you need to buy Korean products and get them to your door in Chile - from ordering to customs.
+
+*Last updated 17 September 2026*
+
+## How it works
+
+- **Buy For Me** - can't check out on a Korean site? Request through [Bunjang](https://koreahaul.com/bunjang), [KH Picks](https://koreahaul.com/koreahaul-shop), or the [custom request form](https://koreahaul.com/services/buy-for-me/create).
+- **Receive For Me** - ship your Korean orders to our warehouse. We receive and store them.
+- **Ship For Me** - we consolidate, pack, and ship your orders to Chile.
+
+:::note[Payment]
+PayPal, Wise, and Credit Card (3D Secure). See Payment Methods for limits.
+
+Payment processing fees vary by method and are added at checkout.
+:::
+
+## Delivery
+
+- **FedEx International Connect Plus** - prepaid import charges (DDP). Customs handling fee ₩6,000, or ₩12,000 where estimated import charges exceed ₩120,000. Estimated 3-5 business days.
+- **FedEx International Priority** - import charges paid by the recipient (DAP). Estimated 3-5 business days.
+- **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 10-20 business days.
+
+:::note
+**Prepaid (DDP)** = You pay import charges before your package is shipped.
+
+**Recipient-paid (DAP/DDU)** = You pay import charges when your package arrives in your country.
+:::
+
+*\\* Import charges may include duties, taxes, customs handling fees, and other import-related charges.\*
+
+To estimate the shipping cost and transit time, use the Shipping Calculator at [koreahaul.com](https://koreahaul.com/).
+
+*Maximum weight per shipment: 25 kg on FedEx International Connect Plus, 30 kg on FedEx International Priority, 20 kg on EMS Korea Post.*
+
+:::caution
+Chile may need the recipient's **RUT** (tax ID) for clearance. Missing or incorrect details can delay the shipment or hold VAT at the border.
+:::
+
+## Customs, duty and tax
+
+:::caution
+**Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
+:::
+
+- **Low-value shipments (US$500 or less):** Chile operates a simplified regime for low-value e-commerce shipments, with a customs de minimis of **US$500** per item. VAT is collected under the tax authority's (SII) simplified system rather than waived.
+- **We are not registered in Chile's simplified VAT system,** so we do not collect Chilean IVA at checkout. IVA is handled at import.
+- **IVA:** 19%.
+- **Duty:** commonly 6%, subject to product classification and customs assessment.
+- **Customs value** is generally based on CIF value and can include goods, international freight, insurance, and other applicable additions under Chilean customs rules.
+
+## What it costs
+
+On a $100 order (goods + shipping = $130), collected at import:
+
+- Duty: commonly 6% = about $7.80
+- IVA at 19% (on value plus duty): about US$26.18
+- **Estimated duty + IVA: about US$33.98**, plus any carrier or broker fee
+
+*Illustrative only. Final duty and tax are set by Chilean customs and the carrier.*
+
+## What we can't ship
+
+- Flammables and pressurized items (perfume, cologne, nail polish, aerosols, lighters, hand warmers)
+- Loose batteries and power banks
+- Alcohol, tobacco, and vapes
+- Fresh or perishable food, meat, plants, and seeds
+- Weapons, replicas, and self-defense sprays; counterfeit goods
+- Medicines and supplements (often restricted)
+- Sunscreen and other regulated cosmetic or drug products that may have extra import requirements
+- Cash, gift cards, and precious metals
+
+See the [Prohibited and Restricted Items](https://koreahaul.com/shipping-info/restricted) page for full details.
+
+## Questions
+
+- **Do I pay on delivery?**
+    - **Prepaid (DDP):** in most cases no. Additional charges may apply due to incorrect information, inaccurate documents, undervaluation, or other import-related issues.
+    - **Recipient-paid (DAP):** you pay import charges at clearance or delivery.
+- **Is a small order duty-free?** No.
+    - Chile's customs de minimis is US$500 per item, but that is a duty threshold, not a tax exemption.
+    - IVA at 19% is still collected at import.
+- **Can you buy from any Korean site?** Most of them. Submit the link through a [Buy For Me request](https://koreahaul.com/services/buy-for-me/create) and we will check.
+- **Can I combine orders?** Yes - consolidating saves on shipping (it can raise the declared value).
+
+## Ready to start?
+
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+
+---
+
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+
+:::note[Spotted something wrong?]
+Let us know. The first person to report an error that we correct gets a $10 coupon.
+:::
+
+**Our services are governed by these policies:**
+
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)

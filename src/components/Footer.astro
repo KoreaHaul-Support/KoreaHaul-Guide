@@ -1,0 +1,44 @@
+---
+// Replaces the "Ready to start?" block that was repeated at the bottom of every Notion page.
+import Default from '@astrojs/starlight/components/Footer.astro';
+
+const id = Astro.locals.starlightRoute?.id ?? '';
+const isHome = id === '' || id === 'index';
+---
+
+{
+  !isHome && (
+    <section class="kh-cta" aria-labelledby="kh-cta-title">
+      <h2 id="kh-cta-title">Ready to start?</h2>
+      <p>
+        <a class="kh-button" href="https://koreahaul.com/">Create a request</a>
+        <span>Add your Buy For Me link, or contact us with any questions.</span>
+      </p>
+      <p class="kh-small">
+        <em>
+          We do our best to keep this guide accurate and up to date, but customs rules change often
+          and mistakes can happen. For the final and most accurate information, please confirm with
+          your customs authority before you request our services.
+        </em>
+      </p>
+      <p class="kh-report">
+        <strong>Spotted something wrong?</strong> Let us know. The first person to report an error
+        that we correct gets a $10 coupon.
+      </p>
+      <p class="kh-small">
+        <strong>Our services are governed by these policies:</strong><br />
+        <span class="kh-links">
+          <a href="https://koreahaul.com/terms-of-service">Terms of Service</a>
+          <a href="https://koreahaul.com/privacy-policy">Privacy Policy</a>
+          <a href="https://koreahaul.com/support/shipping-policy">Shipping Policy</a>
+          <a href="https://koreahaul.com/support/refund-policy">Refund Policy</a>
+        </span>
+      </p>
+      <p class="kh-small">
+        Follow us on <a href="https://www.instagram.com/koreahaulofficial/">Instagram</a> and{' '}
+        <a href="https://www.tiktok.com/@koreahaulofficial">TikTok</a>
+      </p>
+    </section>
+  )
+}
+<Default />

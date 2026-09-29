@@ -1,0 +1,170 @@
+/* KoreaHaul Guide - responsive additions on top of Starlight defaults */
+
+/* Long URLs and email addresses never push the page sideways */
+.sl-markdown-content {
+  overflow-wrap: break-word;
+}
+.sl-markdown-content a,
+.sl-markdown-content code {
+  overflow-wrap: anywhere;
+}
+.sl-markdown-content img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Tables: normal grid on wide screens, scroll inside the table if still too wide */
+.sl-markdown-content table.kh-table {
+  width: 100%;
+  font-size: var(--sl-text-sm);
+}
+.sl-markdown-content table.kh-table td:first-child {
+  font-weight: 600;
+}
+
+/* Tables: stacked cards on phones (tablets and up keep the normal table) */
+@media (max-width: 40rem) {
+  .sl-markdown-content table.kh-table,
+  .sl-markdown-content table.kh-table tbody,
+  .sl-markdown-content table.kh-table tr,
+  .sl-markdown-content table.kh-table td {
+    display: block;
+    width: 100%;
+  }
+  .sl-markdown-content table.kh-table {
+    overflow: visible;
+    border: 0;
+  }
+  .sl-markdown-content table.kh-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+  .sl-markdown-content table.kh-table tr {
+    margin: 0 0 0.75rem;
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--sl-color-gray-5);
+    border-radius: 0.5rem;
+    background: var(--sl-color-gray-7, var(--sl-color-gray-6));
+  }
+  .sl-markdown-content table.kh-table td {
+    position: relative;
+    margin: 0;
+    padding: 0.4rem 0 0.4rem calc(36% + 0.75rem);
+    border: 0;
+    background: transparent;
+  }
+  .sl-markdown-content table.kh-table td + td {
+    border-top: 1px dashed var(--sl-color-gray-5);
+  }
+  .sl-markdown-content table.kh-table td::before {
+    content: attr(data-label);
+    position: absolute;
+    left: 0;
+    top: 0.4rem;
+    width: 36%;
+    font-weight: 600;
+    color: var(--sl-color-gray-3);
+  }
+  /* First cell is the card title */
+  .sl-markdown-content table.kh-table td:first-child {
+    padding: 0 0 0.5rem;
+    font-size: var(--sl-text-base);
+    color: var(--sl-color-white);
+  }
+  .sl-markdown-content table.kh-table td:first-child::before,
+  .sl-markdown-content table.kh-table td[data-label='']::before {
+    display: none;
+  }
+  .sl-markdown-content table.kh-table td[data-label=''] {
+    padding-left: 0;
+  }
+}
+
+/* Very narrow phones: label above value instead of side by side */
+@media (max-width: 24rem) {
+  .sl-markdown-content table.kh-table td:not(:first-child) {
+    padding-left: 0;
+  }
+  .sl-markdown-content table.kh-table td::before {
+    position: static;
+    display: block;
+    width: auto;
+  }
+}
+
+/* FAQ toggles on the home page */
+.sl-markdown-content details {
+  border: 1px solid var(--sl-color-gray-5);
+  border-radius: 0.5rem;
+  padding: 0.6rem 1rem;
+}
+.sl-markdown-content details + details {
+  margin-top: 0.5rem;
+}
+.sl-markdown-content summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+/* "Ready to start?" block at the bottom of each page */
+.kh-cta {
+  margin-top: 3rem;
+  padding: 1.25rem 1.25rem 0.5rem;
+  border: 1px solid var(--sl-color-gray-5);
+  border-radius: 0.75rem;
+  background: var(--sl-color-gray-7, var(--sl-color-gray-6));
+}
+.kh-cta h2 {
+  margin: 0 0 0.75rem;
+  font-size: var(--sl-text-h4);
+  color: var(--sl-color-white);
+}
+.kh-cta p {
+  margin: 0 0 1rem;
+}
+.kh-cta p:first-of-type {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+}
+.kh-button {
+  display: inline-block;
+  padding: 0.5rem 1.1rem;
+  border-radius: 999px;
+  background: var(--sl-color-accent);
+  color: var(--sl-color-black) !important;
+  font-weight: 600;
+  text-decoration: none;
+}
+.kh-button:hover {
+  background: var(--sl-color-accent-high);
+}
+.kh-small {
+  font-size: var(--sl-text-sm);
+  color: var(--sl-color-gray-2);
+}
+.kh-report {
+  padding: 0.6rem 0.9rem;
+  border-inline-start: 3px solid var(--sl-color-accent);
+  background: var(--sl-color-accent-low);
+  font-size: var(--sl-text-sm);
+}
+.kh-links {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1rem;
+}
+@media (max-width: 30rem) {
+  .kh-cta {
+    padding: 1rem 1rem 0.25rem;
+  }
+  .kh-button {
+    width: 100%;
+    text-align: center;
+  }
+}

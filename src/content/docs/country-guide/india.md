@@ -1,0 +1,113 @@
+---
+title: "India"
+description: "Everything you need to buy Korean products and get them to your door in India - from ordering to customs."
+lastUpdated: 2026-09-24
+sidebar:
+  order: 11
+---
+
+Everything you need to buy Korean products and get them to your door in India - from ordering to customs.
+
+*Last updated 17 September 2026*
+
+## How it works
+
+- **Buy For Me** - can't check out on a Korean site? Request through [Bunjang](https://koreahaul.com/bunjang), [KH Picks](https://koreahaul.com/koreahaul-shop), or the [custom request form](https://koreahaul.com/services/buy-for-me/create).
+- **Receive For Me** - ship your Korean orders to our warehouse. We receive and store them.
+- **Ship For Me** - we consolidate, pack, and ship your orders to India.
+
+:::note[Payment]
+Wise and Credit Card (3D Secure). See Payment Methods for limits.
+
+Payment processing fees vary by method and are added at checkout.
+:::
+
+## Delivery
+
+- **FedEx International Priority** - import charges paid by the recipient (DAP). Estimated 3-6 business days.
+- **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 7-15 business days.
+
+:::note
+**Recipient-paid (DAP/DDU)** = You pay import charges when your package arrives in your country.
+:::
+
+*Maximum weight per shipment: 30 kg on FedEx International Priority, 20 kg on EMS Korea Post.*
+
+*\\* Import charges may include duties, taxes, customs handling fees, and other import-related charges.\*
+
+To estimate the shipping cost and transit time, use the Shipping Calculator at [koreahaul.com](https://koreahaul.com/).
+
+:::caution[Before you order]
+- India requires recipient KYC documents and an authorization for courier clearance.
+- Individuals are commonly asked for a government photo ID and address proof.
+- The carrier may also request PAN or other details.
+- Missing or mismatched details can delay, return, or prevent clearance.
+:::
+
+## Customs, duty and tax
+
+:::caution
+**Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
+:::
+
+- **No general duty-free allowance.** Do not rely on a gift exemption: Indian Customs restricts gift clearance for e-commerce goods sent by post or courier. Marking an order a gift does not make it duty-free.
+- **Import duty (Basic Customs Duty):** varies by product and tariff classification, commonly around 10-20% or more.
+- **Social Welfare Surcharge:** generally 10% of the Basic Customs Duty.
+- **IGST (import GST):** applies on imports at 5%, 12%, 18%, or 28% depending on the product; many consumer goods are 18%.
+- **Customs value:**
+    - Starts with the CIF value (goods, freight, insurance), converted at the CBIC-notified exchange rate.
+    - Customs may add prescribed landing charges to set the assessable value.
+
+## What it costs
+
+On a US$100 order with US$30 shipping:
+
+- CIF value: about US$130, before Customs conversion to INR and any prescribed landing-charge addition
+- Assessable value: generally CIF value plus prescribed landing charges
+- Basic Customs Duty (example 10%): about US$13
+- Social Welfare Surcharge (10% of BCD): about US$1.30
+- IGST (example 18%, on assessable value plus BCD, SWS, and applicable additions): about US$26 before any landing-charge adjustment
+- **Estimated duty + tax: about US$40** in this simplified illustration, plus carrier, clearance, or other charges
+
+The actual total is normally a little higher if Customs adds landing charges, and can differ materially by tariff line, special or anti-dumping duty, compensation cess, exchange rate, or other product-specific charges.
+
+*Illustrative only. Final duty and tax are set by Indian Customs and the carrier.*
+
+## What we can't ship
+
+- Flammables and pressurized items (perfume, cologne, nail polish, aerosols, lighters, hand warmers)
+- Loose batteries and power banks
+- Alcohol, tobacco, and vapes
+- Fresh or perishable food, meat, plants, and seeds
+- Weapons, replicas, and self-defense sprays; counterfeit goods
+- Medicines and supplements (often restricted)
+- Sunscreen and other regulated cosmetic or drug products that may have extra import requirements
+- Drones, satellite phones, and certain electronics; cash, gift cards, and precious metals
+
+See the [Prohibited and Restricted Items](https://koreahaul.com/shipping-info/restricted) page for full details.
+
+## Questions
+
+- **Do I pay on delivery?** Yes. All services to India are recipient-paid (DAP), so you pay import charges at clearance or delivery.
+- **Is a small order tax-free?** No. Do not rely on a gift exemption for online or Buy For Me orders sent by courier or post.
+- **Do I need to provide ID?** Yes - India requires recipient KYC for courier clearance: commonly a government photo ID and address proof, and the carrier may also request PAN or other details.
+- **Can you buy from any Korean site?** Most of them. Submit the link through a [Buy For Me request](https://koreahaul.com/services/buy-for-me/create) and we will check.
+- **Can I combine orders?** Yes - consolidating saves on shipping (it can raise the declared value and duty).
+
+## Ready to start?
+
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+
+---
+
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+
+:::note[Spotted something wrong?]
+Let us know. The first person to report an error that we correct gets a $10 coupon.
+:::
+
+**Our services are governed by these policies:**
+
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)

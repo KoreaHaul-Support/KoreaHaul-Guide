@@ -1,0 +1,154 @@
+---
+title: "United States"
+description: "Everything you need to buy Korean products and get them to your door in the US - from ordering to customs."
+lastUpdated: 2026-09-27
+sidebar:
+  order: 14
+---
+
+Everything you need to buy Korean products and get them to your door in the US - from ordering to customs.
+
+*Last updated 17 September 2026*
+
+## How it works
+
+- **Buy For Me** - can't check out on a Korean site? Request through [Bunjang](https://koreahaul.com/bunjang), [KH Picks](https://koreahaul.com/koreahaul-shop), or the [custom request form](https://koreahaul.com/services/buy-for-me/create).
+- **Receive For Me** - ship your Korean orders to our warehouse. We receive and store them.
+- **Ship For Me** - we consolidate, pack, and ship your orders to the US.
+
+:::note[Payment]
+PayPal, Wise, and Credit Card (3D Secure). See Payment Methods for limits.
+
+Payment processing fees vary by method and are added at checkout.
+:::
+
+## Delivery
+
+:::caution
+**Maximum declared value per shipment: US$2,500.** We cannot ship above this.
+:::
+
+- **FedEx International Connect Plus** - prepaid import charges (DDP). Customs handling fee ₩6,000, or ₩12,000 where estimated import charges exceed ₩120,000. Estimated 3-5 business days.
+- **International Standard Shipping** - 10-30 business days.
+    - Available for shipments of declared value $200 or less.
+    - **Duties are included in the shipping price. Nothing more to pay on arrival.**
+    - Branded products not accepted.
+    - **K-beauty must be shipped separately**, with a ₩6,000 handling fee. Submit a separate Ship For Me request for them.
+    - Loss insurance included, but damage-in-transit claims are not offered.
+
+:::note
+**Prepaid (DDP)** = You pay import charges before your package is shipped.
+
+**Recipient-paid (DAP/DDU)** = You pay import charges when your package arrives in your country.
+:::
+
+Import charges may include duties, taxes, customs handling fees, and other import-related charges.
+
+To estimate the shipping cost and transit time, use the Shipping Calculator at [koreahaul.com](https://koreahaul.com/).
+
+*Maximum weight per shipment: 25 kg on FedEx International Connect Plus, 5 kg on International Standard Shipping.*
+
+## Customs, duty and tax
+
+:::caution
+**Customs clearance is your responsibility.** Before requesting our services, confirm that your items can be imported into your country. We ship what you request, but we cannot guarantee it will clear customs.
+:::
+
+:::caution
+**CPSC eFiling.** Since 8 July 2026, certain consumer products need safety certificate information filed electronically before they clear US customs. This includes some personal shipments.
+
+- Affects toys, plush dolls, children's and baby products, some clothing and footwear, electronics, and anything containing batteries.
+- K-pop albums, photocards and photobooks are generally not affected. Light sticks, character dolls, and battery-powered merchandise can be.
+- Certification has to come from the manufacturer or seller. Second-hand purchases on Bunjang, Karrot or Joongonara often have none.
+- Without it, clearance may be delayed, suspended, or refused.
+
+See** **[**CPSC eFiling**](/news/cpsc-efiling-for-us-shipments/) for U.S. shipments for the full details and forms.
+:::
+
+- **No more US$800 duty-free.** Duty, government fees, and entry requirements can apply at any value.
+- **Under US$2,500** uses simplified informal entry - not a duty-free limit.
+- **Origin matters.** Shipped from Korea is not the same as made in Korea; China-made stays Chinese-origin. Where the origin cannot be identified, we declare the item as made in China. This happens often with Bunjang purchases.
+- **Korea-origin.** A July 2026 forced-labor measure can bring combined duty to 12.5% when the base rate is below 12.5%.
+- **China-origin.** Can stack the base duty, the forced-labor duty, and a separate China tariff - much higher.
+- **Printed items** (photocards, posters, prints) can classify differently - do not assume they are exempt.
+- **No national sales tax** - state or local sales tax may apply by address.
+
+:::caution
+**HS codes.** US customs requires a 10-digit HTS code for each item. A missing or incorrect code can delay clearance and result in higher duty than you should have paid. Look up codes at [hts.usitc.gov](https://hts.usitc.gov/).
+:::
+
+## What it costs
+
+Estimated total for a $100 item, made in Korea vs made in China.
+
+- $100 item + $2 Buy For Me fee + $3 packing + $30 shipping, plus duty
+- $5 customs handling, only where duty is charged
+- Duty is calculated on $105 - item, service fee, and packing. Not shipping.
+- $30 shipping is a placeholder. Use the calculator for your real rate.
+
+| Item | Made in | Duty | Estimated total |
+| --- | --- | --- | --- |
+| Photocards | Korea | Free | $135 |
+| Photocards | China | 7.5% | $147.88 |
+| K-beauty set | Korea | 12.5% | $153.13 |
+| K-beauty set | China | 37.5% | $179.38 |
+| Cotton shirt | Korea | 19.7% | $160.69 |
+| Cotton shirt | China | 39.7% | $181.69 |
+| Sneakers | Korea | 20% | $161 |
+| Sneakers | China | 40% | $182 |
+
+*Illustrative only. Actual duty depends on the exact HTSUS classification and current rules; CBP makes the final call.*
+
+To check a rate yourself, use the tariff calculator at [flexport.com](https://flexport.com).
+
+**International Standard Shipping**
+
+- $100 goods + $2 Buy For Me fee + $3 packing + $30 shipping = **$135**
+- $135 is what you pay for the shipment.
+- Duty is included in the shipping price. No handling fee.
+- Available for shipments with a declared value of $200 or less
+- No branded products
+- K-beauty ships separately, $5 handling fee and its own Ship For Me request
+
+## What we can't ship
+
+- Flammables and pressurized items (perfume, cologne, nail polish, aerosols, lighters, hand warmers)
+- Loose batteries and power banks
+- Alcohol, tobacco, and vapes
+- Fresh or perishable food, meat, plants, and seeds
+- Weapons, replicas, and self-defense sprays; counterfeit goods
+- Medicines and supplements (often restricted)
+- Sunscreen and other FDA-regulated cosmetic or OTC drug products
+- Cash, gift cards, and precious metals
+
+See the [Prohibited and Restricted Items](https://koreahaul.com/shipping-info/restricted) page for full details.
+
+## Questions
+
+- **Do I pay on delivery?**
+    - **Prepaid (DDP):** in most cases no. Additional charges may apply due to incorrect information, inaccurate documents, undervaluation, or other import-related issues.
+    - **Recipient-paid (DAP):** you pay import charges at clearance or delivery.
+- **Is under US$2,500 duty-free?** No - that is an entry threshold, not a duty-free limit.
+    - Above US$2,500, a formal entry is required. It costs considerably more and takes longer to clear.
+    - The threshold applies to the total arriving at customs on the same day. Several shipments landing together can add up to more than US$2,500 and trigger a formal entry.
+- **Does Korea-made mean lower duty?** Often yes. Made-in-Korea generally lands well below made-in-China, and printed items like photocards can be Free.
+- **Can you buy from any Korean site?** Most of them. Submit the link through a [Buy For Me request](https://koreahaul.com/services/buy-for-me/create) and we will check.
+- **Can I combine orders?** Yes - consolidating saves on shipping (it can raise the declared value).
+
+## Ready to start?
+
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+
+---
+
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+
+:::note[Spotted something wrong?]
+Let us know. The first person to report an error that we correct gets a $10 coupon.
+:::
+
+**Our services are governed by these policies:**
+
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
