@@ -30,7 +30,7 @@ Shopping Tips (with 13 store pages), What to Buy.
 - Responsive styles: `src/styles/custom.css`
   - Tables become stacked cards on phones (under 640px), normal tables on tablet and desktop.
 - Table labels for the phone cards: `src/plugins/rehype-table-labels.mjs` (runs automatically)
-- Favicon placeholder: `public/favicon.svg` - replace with your logo.
+- Favicon: `public/favicon.ico` plus PNG sizes (32, 48, 192) and `apple-touch-icon.png` (180), made from the KoreaHaul K logo.
 
 ## To do by hand
 

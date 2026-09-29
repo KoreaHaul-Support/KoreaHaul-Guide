@@ -18,7 +18,13 @@ export default defineConfig({
       // Help-center layout: no "On this page" column, no Previous/Next buttons
       tableOfContents: false,
       pagination: false,
-      favicon: '/favicon.svg',
+      favicon: '/favicon.ico',
+      head: [
+        { tag: 'link', attrs: { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32.png' } },
+        { tag: 'link', attrs: { rel: 'icon', type: 'image/png', sizes: '48x48', href: '/favicon-48.png' } },
+        { tag: 'link', attrs: { rel: 'icon', type: 'image/png', sizes: '192x192', href: '/icon-192.png' } },
+        { tag: 'link', attrs: { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' } },
+      ],
       // Shown as text links in the header (see src/components/SocialIcons.astro)
       social: [{ icon: 'email', label: 'Contact us', href: 'mailto:support@koreahaul.com' }],
       customCss: [
