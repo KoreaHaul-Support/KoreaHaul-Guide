@@ -1,14 +1,14 @@
 ---
 title: "Peru"
 description: "Shipping from Korea to Peru: delivery options, customs duty and tax, what it costs, and items we cannot ship."
-lastUpdated: 2026-09-24
+lastUpdated: 2026-10-01
 sidebar:
   order: 21
 ---
 
 Everything you need to buy Korean products and get them to your door in Peru - from ordering to customs.
 
-*Last updated 24 September 2026*
+*Last updated 1 October 2026*
 
 ## How it works
 
@@ -28,7 +28,7 @@ Payment processing fees vary by method and are added at checkout.
 
 ## Delivery
 
-- **FedEx International Connect Plus** - prepaid import charges (DDP). Customs handling fee $5, or $10 where import charges exceed $100. Estimated 3-5 business days.
+- **FedEx International Connect Plus** - prepaid import charges (DDP). Customs handling fee ₩6,000, or ₩12,000 where estimated import charges exceed ₩120,000. Estimated 3-5 business days.
 - **FedEx International Priority** - import charges paid by the recipient (DAP). Estimated 2-3 business days.
 - **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 10-20 business days.
 

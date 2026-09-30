@@ -1,5 +1,5 @@
 TITLE: United Kingdom
-EDITED: 2026-09-24T17:39:05.923Z
+EDITED: 2026-10-01
 <content>
 Everything you need to buy Korean products and get them to your door in the United Kingdom - from ordering to customs.
 *Last updated 17 September 2026*
@@ -15,7 +15,7 @@ Everything you need to buy Korean products and get them to your door in the Unit
 - **FedEx International Connect Plus** - prepaid import charges (DDP). Customs handling fee ₩6,000, or ₩12,000 where estimated import charges exceed ₩120,000. Estimated 3-5 business days.
 - **International Standard Shipping** - prepaid import-charge service (DDP-style). Available for goods value under USD 155 only. Estimated 10-20 business days.
 	- Branded products not accepted.
-	- Customs handling fee \$5.
+	- Customs handling fee ₩6,000.
 	- Loss insurance included, up to USD \$155.
 - **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 5-10 business days.
 <callout icon="💡" color="gray_bg">
