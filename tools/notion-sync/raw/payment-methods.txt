@@ -1,5 +1,5 @@
 TITLE: Payment Methods
-EDITED: 2026-09-26T14:17:38.191Z
+EDITED: 2026-09-30T08:56:27.000Z
 <content>
 What you can pay with, by destination.
 *Last updated 26 September 2026*
@@ -94,7 +94,7 @@ Wise usually carries the lowest fee. Where it is available, it is often the chea
 	**To pay by Western Union or Bank Transfer**, contact us at [support@koreahaul.com](mailto:support@koreahaul.com) or on WhatsApp +82-10-5725-1222. These are arranged manually and are available for any destination on request.
 </callout>
 ## Order Limits
-The following limits apply per order:
+The following limits may apply per order and/or per payment:
 - PayPal: maximum KRW 500,000 per order
 - Credit Card (3D Secure): maximum KRW 500,000 per order
 - Alipay: maximum KRW 500,000 per order

@@ -1,14 +1,14 @@
 ---
 title: "Payment Methods"
 description: "Payment methods available for your country, the processing fee for each, and per-payment order limits."
-lastUpdated: 2026-09-26
+lastUpdated: 2026-09-30
 sidebar:
   order: 8
 ---
 
 What you can pay with, by destination.
 
-*Last updated 26 September 2026*
+*Last updated 30 September 2026*
 
 Available payment methods depend on the destination country, order value, risk assessment, and compliance requirements. KoreaHaul reserves the right to determine available payment methods and may refuse, restrict, or withdraw any payment method at its sole discretion.
 
@@ -49,7 +49,7 @@ Wise usually carries the lowest fee. Where it is available, it is often the chea
 
 ## Order Limits
 
-The following limits apply per order:
+The following limits may apply per order and/or per payment:
 
 - PayPal: maximum KRW 500,000 per order
 - Credit Card (3D Secure): maximum KRW 500,000 per order
