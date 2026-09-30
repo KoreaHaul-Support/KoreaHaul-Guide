@@ -1,5 +1,5 @@
 TITLE: LEGO
-EDITED: 2026-09-18T05:06:44.207Z
+EDITED: 2026-09-30T16:01:27.346Z
 <content>
 Retired LEGO sets are often cheaper in Korea than anywhere else.
 Demand is lower for some themes, so sets that command a premium abroad sit at ordinary prices here.
@@ -11,6 +11,7 @@ This is why so many Korean eBay sellers deal in retired LEGO.
 - **Naver Smart Stores** - exclusives and older sets.
 - [**Lotte On**](https://lotteon.com), [**SSG**](https://ssg.com) - during department store sale periods.
 - **Bunjang, Joongonara** - retired sets. Condition claims are the seller's, not ours. Retired sets need Premium Proxy.
+- [**Kream**](https://kream.co.kr) - authenticates LEGO sets before they ship, but box condition varies a lot. Retired sets need Premium Proxy.
 <callout color="yellow_bg">
 	**LEGO ships by FedEx only.** International Standard Shipping does not accept branded products, and LEGO is on that list.
 </callout>
