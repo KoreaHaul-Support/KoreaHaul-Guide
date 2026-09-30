@@ -25,7 +25,7 @@ On a CIF country the shipping cost is taxed too, so a cheap item with expensive 
 
 ## How you pay: DDP, DAP, DDU
 
-- **DDP** - Delivered Duty Paid. You pay estimated duty and tax to us at checkout. Nothing to pay on arrival. Any overpayment of more than ₩5,000 is refunded as Store Credit.
+- **DDP (Delivered Duty Paid):** Estimated import charges are paid at checkout, with nothing due on arrival. Any overpayment of duties and taxes over ₩5,000 will be refunded as Store Credit.
 - **DAP (Delivered At Place):** Import duties, taxes, and carrier fees are billed upon arrival. Refusing delivery does not cancel these charges. Refused shipments may be returned, stored, or disposed of by the carrier or customs, and all related costs remain the customer's responsibility.
 - **DDU** - Delivered Duty Unpaid. The old name for DAP. It was retired from Incoterms, so if you see it elsewhere it means the same thing: you pay on arrival.
 
