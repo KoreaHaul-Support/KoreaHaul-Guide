@@ -1,7 +1,7 @@
 ---
 title: "Fees"
 description: "Every KoreaHaul fee in Korean won: Buy For Me service fees, handling and packing options, storage, customs clearance, and payment."
-lastUpdated: 2026-09-23
+lastUpdated: 2026-09-30
 sidebar:
   order: 7
 ---
@@ -55,8 +55,8 @@ Optional. Choose when you request a shipment.
 | --- | --- | --- |
 | Inclusions Basic | ₩1,000 / unit | Albums only. Photocards and POBs. |
 | Inclusions Premium | ₩2,000 / unit | Albums only. Choose which inclusions to keep. |
-| Extra Protection | ₩3,000 / package | Extra bubble wrap and padding. |
-| Vacuum Packing | ₩6,000 / package | Shrinks clothing and bedding to cut weight. Only if size permits. |
+| Extra Protection | ₩3,000 / unit | Extra bubble wrap and padding. |
+| Vacuum Packing | ₩6,000 / unit | Shrinks clothing and bedding to cut weight. Only if size permits. |
 
 ## Packing options
 

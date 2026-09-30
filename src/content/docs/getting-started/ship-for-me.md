@@ -1,7 +1,7 @@
 ---
 title: "Ship For Me"
 description: "We pack everything in your warehouse into one shipment and send it to your country. How Ship For Me works, with handling and packing options."
-lastUpdated: 2026-09-24
+lastUpdated: 2026-09-30
 sidebar:
   order: 6
 ---
@@ -24,8 +24,8 @@ Chosen per item or per package.
 | --- | --- | --- |
 | Inclusions Basic | ₩1,000 / unit | Album purchases only. Photocards and POBs only. |
 | Inclusions Premium | ₩2,000 / unit | Album purchases only. Choose exactly which inclusions to keep. |
-| Extra Protection | ₩3,000 / package | Additional bubble wrap and protective padding. |
-| Vacuum Packing | ₩6,000 / package | Only if size permits. Compresses clothing and bedding to lower your chargeable weight. |
+| Extra Protection | ₩3,000 / unit | Additional bubble wrap and protective padding. |
+| Vacuum Packing | ₩6,000 / unit | Only if size permits. Compresses clothing and bedding to lower your chargeable weight. |
 
 ## Packing options
 

@@ -1,5 +1,5 @@
 TITLE: Fees
-EDITED: 2026-09-23T17:51:16.375Z
+EDITED: 2026-09-30T09:19:30.000Z
 <content>
 All prices in Korean won (KRW).
 ## Buy For Me service fee
@@ -49,12 +49,12 @@ Optional. Choose when you request a shipment.
 </tr>
 <tr>
 <td>Extra Protection</td>
-<td>₩3,000 / package</td>
+<td>₩3,000 / unit</td>
 <td>Extra bubble wrap and padding.</td>
 </tr>
 <tr>
 <td>Vacuum Packing</td>
-<td>₩6,000 / package</td>
+<td>₩6,000 / unit</td>
 <td>Shrinks clothing and bedding to cut weight. Only if size permits.</td>
 </tr>
 </table>

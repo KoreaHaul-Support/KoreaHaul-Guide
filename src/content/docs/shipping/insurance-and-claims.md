@@ -1,7 +1,7 @@
 ---
 title: "Insurance and claims"
 description: "What is covered if a shipment is lost or damaged, optional Shipping Insurance, how to lower the risk, and how to make a claim."
-lastUpdated: 2026-09-18
+lastUpdated: 2026-09-30
 sidebar:
   order: 4
 ---
@@ -50,7 +50,7 @@ What is covered, and whether a claim is paid, is decided by the carrier or insur
 
 ## Lower the risk before you ship
 
-- **Extra Protection, $3 per package.** Additional bubble wrap and padding. Worth it on ceramics, glass, tumblers, sealed booster boxes, and photobooks.
+- **Extra Protection, ₩3,000 per unit.** Additional bubble wrap and padding. Worth it on ceramics, glass, tumblers, sealed booster boxes, and photobooks.
 - **Optimized Pack, $2 + $1 per package.** Removes dead space, which is what lets contents move and break. Original parcel boxes may be removed, never sealed packaging.
 - Choose a service that covers damage if the contents matter.
 

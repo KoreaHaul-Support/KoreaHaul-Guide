@@ -1,5 +1,5 @@
 TITLE: Ship For Me
-EDITED: 2026-09-24T17:40:32.078Z
+EDITED: 2026-09-30T09:19:30.000Z
 <content>
 We pack everything in your warehouse into one shipment and send it to your country.
 ## How it works
@@ -28,12 +28,12 @@ Chosen per item or per package.
 </tr>
 <tr>
 <td>Extra Protection</td>
-<td>₩3,000 / package</td>
+<td>₩3,000 / unit</td>
 <td>Additional bubble wrap and protective padding.</td>
 </tr>
 <tr>
 <td>Vacuum Packing</td>
-<td>₩6,000 / package</td>
+<td>₩6,000 / unit</td>
 <td>Only if size permits. Compresses clothing and bedding to lower your chargeable weight.</td>
 </tr>
 </table>

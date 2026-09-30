@@ -1,7 +1,7 @@
 ---
 title: "How to spend less on shipping"
 description: "Ways to cut your shipping bill: consolidate and repack, watch your duty threshold, and pick the cheaper duty method."
-lastUpdated: 2026-09-23
+lastUpdated: 2026-09-30
 sidebar:
   order: 1
 ---
@@ -12,7 +12,7 @@ Shipping is usually the biggest line on your invoice, and the one you control mo
 
 - **Combine orders.** Two boxes cost far more than one box of the same weight.
 - **Watch volume, not just weight.** Carriers charge on box size too. A puffer jacket weighs nothing and ships expensive.
-- **Vacuum Packing, ₩6,000 per package.** On clothing and bedding it usually saves more than it costs.
+- **Vacuum Packing, ₩6,000 per unit.** On clothing and bedding it usually saves more than it costs.
 - **Optimized Pack, ₩2,000 + ₩1,000 per package.** We repack to cut volume and dead space. Original parcel boxes may be removed, never sealed packaging.
 
 <div class="kh-callout kh-callout--note">
