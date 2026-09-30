@@ -1,14 +1,14 @@
 ---
 title: "European Union"
 description: "Shipping from Korea to the EU: delivery options, customs duty, IOSS and VAT rates by country, cost examples, and items we cannot ship."
-lastUpdated: 2026-09-24
+lastUpdated: 2026-09-30
 sidebar:
   order: 22
 ---
 
 Everything you need to buy Korean products and get them to your door in the EU - from ordering to customs. EU customs-duty and IOSS rules are broadly harmonised across EU member states. VAT rates, local import procedures, carrier fees, product restrictions, and some national requirements can vary by destination country.
 
-*Last updated 24 September 2026*
+*Last updated 30 September 2026*
 
 ## How it works
 
@@ -32,7 +32,7 @@ Payment processing fees vary by method and are added at checkout.
 - **International Standard Shipping** - prepaid import-charge service (DDP-style). Available for goods value under EUR 150 (about USD 155) only. Estimated 10-20 business days.
     - For eligible orders with an intrinsic value of EUR 150 or less, VAT may be collected at checkout through IOSS.
     - IOSS availability depends on the selected service, destination, and final quote.
-    - Customs handling fee $5.
+    - Customs handling fee ₩6,000.
     - Branded products not accepted.
     - Loss insurance included, up to USD $155.
 - **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 5-10 business days.
