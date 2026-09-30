@@ -1,7 +1,7 @@
 ---
 title: "Duty & Tax Calculation"
 description: "How import duty and tax are worked out: customs value, FOB vs CIF, DDP vs DAP, and worked examples of what you pay at your border."
-lastUpdated: 2026-09-27
+lastUpdated: 2026-09-30
 sidebar:
   order: 2
 ---
@@ -26,7 +26,7 @@ On a CIF country the shipping cost is taxed too, so a cheap item with expensive 
 ## How you pay: DDP, DAP, DDU
 
 - **DDP** - Delivered Duty Paid. You pay estimated duty and tax to us at checkout. Nothing to pay on arrival. Any overpayment of more than ₩5,000 is refunded as Store Credit.
-- **DAP** - Delivered At Place. The carrier or customs bills you when the box arrives, usually with their own handling fee on top. Refusing a parcel to avoid duty is not an option - refused boxes come back to us and accrue storage.
+- **DAP (Delivered At Place):** Import duties, taxes, and carrier fees are billed upon arrival. Refusing delivery does not cancel these charges. Refused shipments may be returned, stored, or disposed of by the carrier or customs, and all related costs remain the customer's responsibility.
 - **DDU** - Delivered Duty Unpaid. The old name for DAP. It was retired from Incoterms, so if you see it elsewhere it means the same thing: you pay on arrival.
 
 Some services are locked to one method. FedEx International Connect Plus is DDP only. FedEx International Priority, EMS Korea Post, and SF Express are DAP only. International Standard Shipping supports both, depending on destination.
