@@ -54,4 +54,28 @@ Notion ("KoreaHaul Guide Version 1.2") is the source of truth. The converter liv
 - `convert.py` - turns `raw/` into `src/content/docs/`, and builds the home page and `/topics/` section pages
 
 After a Notion edit: update the matching file in `raw/`, run `python3 tools/notion-sync/convert.py`, commit, push.
-Do not edit files in `src/content/docs/` by hand - the next conversion overwrites them.
+Do not edit the English files in `src/content/docs/` by hand - the next conversion overwrites them.
+The converter leaves the translation folders (`es`, `ja`, `zh-cn`, `pt-br`, `fr`, `de`) alone.
+
+## Translations
+
+The site is in English plus 6 languages: Spanish (`/es/`), Japanese (`/ja/`),
+Chinese Simplified (`/zh-cn/`), Portuguese Brazil (`/pt-br/`), French (`/fr/`), German (`/de/`).
+English stays at the root and is the official version. Each translated page shows a note saying so.
+
+- `src/content/docs/<locale>/` - translated pages, same paths as English
+- `src/i18n/ui.ts` - header, hero, breadcrumb, footer and sidebar group text per language
+- `tools/i18n/STYLE.md` - translation rules (what stays in English, tone, no em dashes)
+- `tools/i18n/titles/<locale>.json` - translated page titles, so names match everywhere
+- `src/plugins/rehype-locale-links.mjs` - adds `/es/` etc. to internal links on translated pages
+
+After an English page changes:
+
+1. `python3 tools/i18n/status.py` - lists English pages changed since they were translated
+2. Re-translate those pages in all 6 languages (follow `STYLE.md`)
+3. `python3 tools/i18n/sync_topics.py` - refreshes the translated topic list pages
+4. `python3 tools/i18n/check.py` - checks markup, links, prices and emails against English
+5. `python3 tools/i18n/status.py --mark <path>` for each re-translated page, then commit and push
+
+A new English page with no translation yet still works: it shows in English under each
+language with a short "not translated yet" notice.

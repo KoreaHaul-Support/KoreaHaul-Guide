@@ -1,26 +1,33 @@
 ---
 // Page title with a simple breadcrumb (Home / Section) above it.
+// On translated pages, also a short note that the English version applies.
 import Default from '@astrojs/starlight/components/PageTitle.astro';
+import { useT, localePath } from '../i18n/ui';
 
-const id = Astro.locals.starlightRoute.id || '';
+const { id: rawId = '', locale } = Astro.locals.starlightRoute;
+const t = useT(locale);
+const id = locale ? rawId.replace(new RegExp(`^${locale}(/|$)`), '') : rawId;
+const L = (p: string) => localePath(p, locale);
+
 const SECTIONS: Record<string, [string, string]> = {
-  news: ['News & Updates', '/topics/news/'],
-  'getting-started': ['Getting Started & Services', '/topics/getting-started/'],
-  shipping: ['International Shipping Tips', '/topics/shipping/'],
-  'country-guide': ['Country Guide', '/country-guide/'],
-  'shopping-tips': ['Shopping Tips', '/topics/shopping-tips/'],
-  'what-to-buy': ['What to Buy', '/topics/what-to-buy/'],
+  news: [t('sec.news'), '/topics/news/'],
+  'getting-started': [t('sec.getting-started'), '/topics/getting-started/'],
+  shipping: [t('sec.shipping'), '/topics/shipping/'],
+  'country-guide': [t('sec.country-guide'), '/country-guide/'],
+  'shopping-tips': [t('sec.shopping-tips'), '/topics/shopping-tips/'],
+  'what-to-buy': [t('sec.what-to-buy'), '/topics/what-to-buy/'],
 };
 
 const parts = id.split('/');
-const crumbs: [string, string][] = [['Home', '/']];
+const crumbs: [string, string][] = [[t('home'), '/']];
 const section = SECTIONS[parts[0]];
 // The Country Guide overview is itself the section page, so it only gets "Home".
 if (section && id !== 'country-guide') crumbs.push(section);
 if (parts[0] === 'shopping-tips' && parts[1] === 'stores') {
-  crumbs.push(['Popular stores', '/shopping-tips/shop-from-popular-stores/']);
+  crumbs.push([t('popularStores'), '/shopping-tips/shop-from-popular-stores/']);
 }
 const show = id !== '' && id !== 'index';
+const englishHref = id && id !== 'index' ? `/${id}/` : '/';
 ---
 
 {
@@ -29,10 +36,17 @@ const show = id !== '' && id !== 'index';
       {crumbs.map(([label, href], i) => (
         <>
           {i > 0 && <span class="kh-crumb-sep" aria-hidden="true">/</span>}
-          <a href={href}>{label}</a>
+          <a href={L(href)}>{label}</a>
         </>
       ))}
     </nav>
   )
 }
 <Default />
+{
+  locale && show && !Astro.locals.starlightRoute.isFallback && (
+    <p class="kh-translated">
+      {t('translatedNote')}{' '}<a href={englishHref} hreflang="en" lang="en">{t('translatedLink')}</a>
+    </p>
+  )
+}

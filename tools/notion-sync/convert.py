@@ -314,8 +314,13 @@ def topic_page(t):
 
 if __name__ == "__main__":
     import shutil
+    # Clear the English pages, but keep the translations in docs/<locale>/
+    LOCALE_DIRS = {"es", "ja", "zh-cn", "pt-br", "fr", "de"}
     if OUT.exists():
-        shutil.rmtree(OUT)
+        for p in OUT.iterdir():
+            if p.name in LOCALE_DIRS:
+                continue
+            shutil.rmtree(p) if p.is_dir() else p.unlink()
     for slug, meta in TREE.items():
         dest = OUT / f"{meta['path']}.md"
         dest.parent.mkdir(parents=True, exist_ok=True)

@@ -782,3 +782,47 @@ h1#_top {
     padding-inline-end: 1rem;
   }
 }
+
+/* ---------- Translated pages ---------- */
+.kh-translated {
+  margin-top: 0.75rem;
+  padding: 0.55rem 0.8rem;
+  border-radius: 0.5rem;
+  background: var(--kh-cat-band);
+  color: var(--kh-cat-sub);
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+.kh-translated a {
+  color: var(--kh-cat-ink);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* Japanese and Chinese: use the right local fonts (the Korean font in the default
+   stack would draw shared characters in Korean style), and no tight letter-spacing. */
+:root[lang='ja'] {
+  --sl-font: 'Inter Variable', 'Inter', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic UI', 'Yu Gothic', Meiryo, 'Noto Sans JP', system-ui, sans-serif;
+  --kh-serif: 'Fraunces Variable', 'Fraunces', 'Hiragino Sans', 'Yu Gothic UI', 'Yu Gothic', Meiryo, 'Noto Sans JP', sans-serif;
+}
+:root[lang='zh-CN'] {
+  --sl-font: 'Inter Variable', 'Inter', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans SC', system-ui, sans-serif;
+  --kh-serif: 'Fraunces Variable', 'Fraunces', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif;
+}
+:root:is([lang='ja'], [lang='zh-CN']) :is(h1, h2, h3, .kh-cat-title) {
+  letter-spacing: 0;
+}
+/* Theme picker: room for longer words like "Automático" */
+:root:is([lang='es'], [lang='pt-BR'], [lang='de']) starlight-theme-select label {
+  --sl-select-width: 7.5em !important;
+}
+starlight-lang-select label {
+  --sl-select-width: 8em !important;
+}
+/* Tablet widths: the header gets crowded in longer languages, so the
+   "Contact us" text link hides (Contact support stays on the home page and footer). */
+@media (min-width: 50rem) and (max-width: 72rem) {
+  .kh-head-link {
+    display: none;
+  }
+}

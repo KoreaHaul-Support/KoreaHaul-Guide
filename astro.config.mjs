@@ -2,6 +2,11 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import rehypeTableLabels from './src/plugins/rehype-table-labels.mjs';
+import rehypeLocaleLinks from './src/plugins/rehype-locale-links.mjs';
+import { SIDEBAR } from './src/i18n/ui.ts';
+
+// Sidebar group label plus its translations (see src/i18n/ui.ts)
+const tr = (label) => ({ label, translations: SIDEBAR[label] ?? {} });
 
 // Cloudflare Web Analytics.
 // Leave empty if Cloudflare's automatic setup is on for guides.koreahaul.com.
@@ -13,12 +18,24 @@ export default defineConfig({
   // Live domain: used for the sitemap and canonical URLs
   site: 'https://guides.koreahaul.com',
   markdown: {
-    rehypePlugins: [rehypeTableLabels],
+    rehypePlugins: [rehypeTableLabels, rehypeLocaleLinks],
   },
   integrations: [
     starlight({
       title: 'KoreaHaul Guide',
       description: 'How KoreaHaul works: buying, receiving and shipping Korean products worldwide.',
+      // English stays at the root (/fees/), translations get a prefix (/es/fees/).
+      // Rules for translators: tools/i18n/STYLE.md
+      defaultLocale: 'root',
+      locales: {
+        root: { label: 'English', lang: 'en' },
+        es: { label: 'Español', lang: 'es' },
+        'pt-br': { label: 'Português', lang: 'pt-BR' },
+        fr: { label: 'Français', lang: 'fr' },
+        de: { label: 'Deutsch', lang: 'de' },
+        ja: { label: '日本語', lang: 'ja' },
+        'zh-cn': { label: '简体中文', lang: 'zh-CN' },
+      },
       lastUpdated: true,
       // Help-center layout: no "On this page" column, no Previous/Next buttons
       tableOfContents: false,
@@ -59,9 +76,9 @@ export default defineConfig({
         defaultProps: { wrap: true },
       },
       sidebar: [
-        { label: 'Home', link: '/' },
+        { ...tr('Home'), slug: 'index' },
         {
-          label: 'News & Updates', collapsed: true,
+          ...tr('News & Updates'), collapsed: true,
           items: [
           { slug: 'news/chuseok-holiday-schedule' },
           { slug: 'news/currency-and-pricing-update' },
@@ -71,7 +88,7 @@ export default defineConfig({
           ],
         },
         {
-          label: 'Getting Started & Services', collapsed: true,
+          ...tr('Getting Started & Services'), collapsed: true,
           items: [
           { slug: 'getting-started' },
           { slug: 'getting-started/buy-for-me' },
@@ -84,16 +101,16 @@ export default defineConfig({
           ],
         },
         {
-          label: 'International Shipping Tips', collapsed: true,
+          ...tr('International Shipping Tips'), collapsed: true,
           items: [
           { slug: 'shipping/carriers-and-rates' },
           { slug: 'shipping/duty-and-tax-calculation' },
           {
-            label: 'Country Guide', collapsed: true,
+            ...tr('Country Guide'), collapsed: true,
             items: [
-            { label: 'Overview', slug: 'country-guide' },
+            { ...tr('Overview'), slug: 'country-guide' },
             {
-            label: 'Asia', collapsed: true,
+            ...tr('Asia'), collapsed: true,
             items: [
             { slug: 'country-guide/japan' },
             { slug: 'country-guide/china' },
@@ -109,14 +126,14 @@ export default defineConfig({
             ],
           },
             {
-            label: 'Oceania', collapsed: true,
+            ...tr('Oceania'), collapsed: true,
             items: [
             { slug: 'country-guide/australia' },
             { slug: 'country-guide/new-zealand' },
             ],
           },
             {
-            label: 'North America', collapsed: true,
+            ...tr('North America'), collapsed: true,
             items: [
             { slug: 'country-guide/united-states' },
             { slug: 'country-guide/canada' },
@@ -124,7 +141,7 @@ export default defineConfig({
             ],
           },
             {
-            label: 'South America', collapsed: true,
+            ...tr('South America'), collapsed: true,
             items: [
             { slug: 'country-guide/brazil' },
             { slug: 'country-guide/chile' },
@@ -134,7 +151,7 @@ export default defineConfig({
             ],
           },
             {
-            label: 'Europe', collapsed: true,
+            ...tr('Europe'), collapsed: true,
             items: [
             { slug: 'country-guide/european-union' },
             { slug: 'country-guide/united-kingdom' },
@@ -149,14 +166,14 @@ export default defineConfig({
           ],
         },
         {
-          label: 'Shopping Tips', collapsed: true,
+          ...tr('Shopping Tips'), collapsed: true,
           items: [
           { slug: 'shopping-tips/how-to-spend-less-on-shipping' },
           { slug: 'shopping-tips/price-comparison' },
           { slug: 'shopping-tips/naver-smart-stores-and-other-shops' },
           { slug: 'shopping-tips/shop-from-popular-stores' },
           {
-            label: 'Stores', collapsed: true,
+            ...tr('Stores'), collapsed: true,
             items: [
             { slug: 'shopping-tips/stores/bunjang' },
             { slug: 'shopping-tips/stores/kream' },
@@ -179,7 +196,7 @@ export default defineConfig({
           ],
         },
         {
-          label: 'What to Buy', collapsed: true,
+          ...tr('What to Buy'), collapsed: true,
           items: [
           { slug: 'what-to-buy/k-beauty' },
           { slug: 'what-to-buy/k-fashion' },
