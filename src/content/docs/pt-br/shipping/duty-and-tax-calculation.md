@@ -1,7 +1,7 @@
 ---
 title: "Cálculo de impostos de importação"
 description: "Como os impostos e taxas de importação são calculados: valor aduaneiro, FOB vs CIF, DDP vs DAP e exemplos práticos do que você paga na fronteira do seu país."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-03
 sidebar:
   order: 2
 ---

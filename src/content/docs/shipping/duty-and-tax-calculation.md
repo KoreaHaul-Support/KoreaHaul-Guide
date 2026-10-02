@@ -1,7 +1,7 @@
 ---
 title: "Duty & Tax Calculation"
 description: "How import duty and tax are worked out: customs value, FOB vs CIF, DDP vs DAP, and worked examples of what you pay at your border."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-03
 sidebar:
   order: 2
 ---
@@ -43,7 +43,7 @@ Import charges cover duties, tariffs, import taxes, VAT and GST, customs handlin
 | FedEx International Connect Plus | ₩6,000, or ₩12,000 where estimated import charges exceed ₩120,000 |
 | FedEx International Priority | n/a - DAP only |
 
-EMS Korea Post, SF Express, and FedEx International Priority are DAP only, so no DDP handling fee applies. The carrier and your local customs will charge you instead, if applicable.9
+EMS Korea Post, SF Express, and FedEx International Priority are DAP only, so no DDP handling fee applies. The carrier and your local customs will charge you instead, if applicable.
 
 Where a shipment is refused, returned, or seized, prepaid duties and customs handling fees are not refundable. Service fees and brokerage fees are never refundable.
 

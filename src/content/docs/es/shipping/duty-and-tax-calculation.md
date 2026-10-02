@@ -1,7 +1,7 @@
 ---
 title: "Cálculo de aranceles e impuestos"
 description: "Cómo se calculan los aranceles e impuestos de importación: valor en aduana, FOB frente a CIF, DDP frente a DAP, y ejemplos de lo que pagas en la frontera de tu país."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-03
 sidebar:
   order: 2
 ---

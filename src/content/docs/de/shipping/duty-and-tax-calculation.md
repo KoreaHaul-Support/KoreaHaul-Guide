@@ -1,7 +1,7 @@
 ---
 title: "Berechnung von Zöllen und Steuern"
 description: "So werden Einfuhrzölle und Steuern berechnet: Zollwert, FOB oder CIF, DDP oder DAP, und Rechenbeispiele dafür, was Sie an Ihrer Grenze zahlen."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-03
 sidebar:
   order: 2
 ---

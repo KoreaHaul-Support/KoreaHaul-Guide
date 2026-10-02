@@ -1,7 +1,7 @@
 ---
 title: "Assurance et réclamations"
 description: "Ce qui est couvert si un envoi est perdu ou endommagé, l'option Shipping Insurance, comment réduire le risque et comment faire une réclamation."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-03
 sidebar:
   order: 4
 ---
@@ -51,7 +51,7 @@ Ce qui est couvert, et le paiement ou non d'une réclamation, est décidé par l
 ## Réduisez le risque avant l'expédition
 
 - **Extra Protection, ₩3,000 par unité.** Papier bulle et rembourrage supplémentaires. Utile pour la céramique, le verre, les gourdes et mugs isothermes, les booster boxes scellées et les photobooks.
-- **Optimized Pack, $2 + $1 par colis.** Supprime l'espace vide, qui est ce qui permet au contenu de bouger et de se casser. Les cartons d'expédition d'origine peuvent être retirés, jamais les emballages scellés.
+- **Optimized Pack, ₩2,000 + ₩1,000 par colis.** Supprime l'espace vide, qui est ce qui permet au contenu de bouger et de se casser. Les cartons d'expédition d'origine peuvent être retirés, jamais les emballages scellés.
 - Choisissez un service qui couvre les dommages si le contenu compte pour vous.
 
 ## En cas de problème

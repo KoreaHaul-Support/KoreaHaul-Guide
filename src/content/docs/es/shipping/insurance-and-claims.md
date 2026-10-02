@@ -1,7 +1,7 @@
 ---
 title: "Seguro y reclamos"
 description: "Qué está cubierto si un envío se pierde o se daña, el Shipping Insurance opcional, cómo reducir el riesgo y cómo hacer un reclamo."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-03
 sidebar:
   order: 4
 ---
@@ -51,7 +51,7 @@ Qué está cubierto, y si un reclamo se paga, lo decide el transportista o la as
 ## Reduce el riesgo antes de enviar
 
 - **Extra Protection, ₩3,000 por unidad.** Plástico de burbujas y relleno adicionales. Vale la pena para cerámica, vidrio, termos, booster boxes sellados y photobooks.
-- **Optimized Pack, $2 + $1 por paquete.** Elimina el espacio vacío, que es lo que permite que el contenido se mueva y se rompa. Se pueden quitar las cajas de envío originales, nunca el empaque sellado.
+- **Optimized Pack, ₩2,000 + ₩1,000 por paquete.** Elimina el espacio vacío, que es lo que permite que el contenido se mueva y se rompa. Se pueden quitar las cajas de envío originales, nunca el empaque sellado.
 - Elige un servicio que cubra daños si el contenido es importante.
 
 ## Si algo sale mal

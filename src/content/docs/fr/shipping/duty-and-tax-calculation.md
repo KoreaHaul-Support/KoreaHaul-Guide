@@ -1,7 +1,7 @@
 ---
 title: "Calcul des droits et taxes"
 description: "Comment sont calculés les droits et taxes d'importation : valeur en douane, FOB ou CIF, DDP ou DAP, et exemples chiffrés de ce que vous payez à la frontière."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-03
 sidebar:
   order: 2
 ---

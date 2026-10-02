@@ -1,7 +1,7 @@
 ---
 title: "关税与税费计算"
 description: "进口关税和税费如何计算：海关价值、FOB 与 CIF、DDP 与 DAP，以及您在本国入境时需支付金额的计算示例。"
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-03
 sidebar:
   order: 2
 ---

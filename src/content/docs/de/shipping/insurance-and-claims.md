@@ -1,7 +1,7 @@
 ---
 title: "Versicherung und Schadensfälle"
 description: "Was abgedeckt ist, wenn eine Sendung verloren geht oder beschädigt wird, die optionale Shipping Insurance, wie Sie das Risiko senken und wie Sie einen Schaden melden."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-03
 sidebar:
   order: 4
 ---
@@ -51,7 +51,7 @@ Was abgedeckt ist und ob ein Schaden bezahlt wird, entscheidet der Versanddienst
 ## Senken Sie das Risiko vor dem Versand
 
 - **Extra Protection, ₩3,000 pro Stück.** Zusätzliche Luftpolsterfolie und Polsterung. Lohnt sich bei Keramik, Glas, Bechern, versiegelten Booster-Displays und Fotobüchern.
-- **Optimized Pack, $2 + $1 pro Paket.** Beseitigt Leerraum, durch den sich der Inhalt bewegen und zerbrechen kann. Originale Versandkartons können entfernt werden, versiegelte Verpackungen nie.
+- **Optimized Pack, ₩2,000 + ₩1,000 pro Paket.** Beseitigt Leerraum, durch den sich der Inhalt bewegen und zerbrechen kann. Originale Versandkartons können entfernt werden, versiegelte Verpackungen nie.
 - Wählen Sie einen Service, der Schäden abdeckt, wenn Ihnen der Inhalt wichtig ist.
 
 ## Wenn etwas schiefgeht

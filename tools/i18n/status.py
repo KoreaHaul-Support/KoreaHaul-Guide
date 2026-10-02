@@ -6,6 +6,7 @@ page as it was when the translations were last made.
 
   python3 tools/i18n/status.py              # list English pages changed since translation
   python3 tools/i18n/status.py --mark PATH  # after re-translating PATH in all languages
+                                            # (also copies the English lastUpdated date)
   python3 tools/i18n/status.py --mark-all   # mark every page as up to date
 
 The fingerprint ignores the lastUpdated date, so a date bump alone does not
@@ -53,6 +54,13 @@ if __name__ == "__main__":
     elif args[:1] == ["--mark"]:
         for p in args[1:]:
             m[p] = fingerprint(p)
+            # copy the English lastUpdated date into each translation
+            date = re.search(r"^lastUpdated:.*$", (DOCS / f"{p}.md").read_text(encoding="utf-8"), re.M)
+            for loc in LOCALES:
+                t = DOCS / loc / f"{p}.md"
+                if date and t.exists():
+                    txt = t.read_text(encoding="utf-8")
+                    t.write_text(re.sub(r"^lastUpdated:.*$", date.group(0), txt, count=1, flags=re.M), encoding="utf-8")
         save(m)
         print("marked:", ", ".join(args[1:]))
     else:

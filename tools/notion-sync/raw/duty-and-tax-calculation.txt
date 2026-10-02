@@ -1,5 +1,5 @@
 TITLE: Duty & Tax Calculation
-EDITED: 2026-09-30T09:37:32.000Z
+EDITED: 2026-10-03
 <content>
 What you pay at your border, and what decides it.
 ## The three things that set your bill
@@ -41,7 +41,7 @@ Import charges cover duties, tariffs, import taxes, VAT and GST, customs handlin
 <td>n/a - DAP only</td>
 </tr>
 </table>
-EMS Korea Post, SF Express, and FedEx International Priority are DAP only, so no DDP handling fee applies. The carrier and your local customs will charge you instead, if applicable.9
+EMS Korea Post, SF Express, and FedEx International Priority are DAP only, so no DDP handling fee applies. The carrier and your local customs will charge you instead, if applicable.
 Where a shipment is refused, returned, or seized, prepaid duties and customs handling fees are not refundable. Service fees and brokerage fees are never refundable.
 ## Worked examples
 Illustrative only. Your country page has the real figures for your destination. Our service fees and Korean domestic shipping normally form part of the FOB or CIF value, but they are left out of these examples to keep the arithmetic clear.

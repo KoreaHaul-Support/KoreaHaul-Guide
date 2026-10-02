@@ -1,5 +1,5 @@
 TITLE: Insurance and claims
-EDITED: 2026-09-30T09:19:30.000Z
+EDITED: 2026-10-03
 <content>
 What is covered if a shipment is lost or damaged, and what to do about it.
 ## What you get by default
@@ -83,7 +83,7 @@ Three of the four services do not cover damage in transit. If your items are fra
 What is covered, and whether a claim is paid, is decided by the carrier or insurer. We are not the insurer and do not make that decision.
 ## Lower the risk before you ship
 - **Extra Protection, ₩3,000 per unit.** Additional bubble wrap and padding. Worth it on ceramics, glass, tumblers, sealed booster boxes, and photobooks.
-- **Optimized Pack, \$2 + \$1 per package.** Removes dead space, which is what lets contents move and break. Original parcel boxes may be removed, never sealed packaging.
+- **Optimized Pack, ₩2,000 + ₩1,000 per package.** Removes dead space, which is what lets contents move and break. Original parcel boxes may be removed, never sealed packaging.
 - Choose a service that covers damage if the contents matter.
 ## If something goes wrong
 <callout color="yellow_bg">

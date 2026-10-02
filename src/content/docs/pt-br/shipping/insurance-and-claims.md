@@ -1,7 +1,7 @@
 ---
 title: "Seguro e reclamações"
 description: "O que está coberto se um envio for perdido ou danificado, o Shipping Insurance opcional, como reduzir o risco e como abrir uma reclamação."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-03
 sidebar:
   order: 4
 ---
@@ -51,7 +51,7 @@ O que é coberto, e se uma reclamação será paga, é decidido pela transportad
 ## Reduza o risco antes de enviar
 
 - **Extra Protection, ₩3,000 por unidade.** Plástico bolha e acolchoamento extras. Vale a pena para cerâmica, vidro, copos térmicos, booster boxes lacradas e photobooks.
-- **Optimized Pack, $2 + $1 por pacote.** Elimina os espaços vazios, que são o que deixa o conteúdo se mexer e quebrar. As caixas originais de envio podem ser removidas, nunca embalagens lacradas.
+- **Optimized Pack, ₩2,000 + ₩1,000 por pacote.** Elimina os espaços vazios, que são o que deixa o conteúdo se mexer e quebrar. As caixas originais de envio podem ser removidas, nunca embalagens lacradas.
 - Escolha um serviço que cubra danos se o conteúdo for importante.
 
 ## Se algo der errado

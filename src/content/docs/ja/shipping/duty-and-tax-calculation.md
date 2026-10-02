@@ -1,7 +1,7 @@
 ---
 title: "関税・税金の計算"
 description: "輸入関税と税金の計算方法: 課税価格、FOBとCIFの違い、DDPとDAPの違い、到着国でお支払いいただく金額の計算例。"
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-03
 sidebar:
   order: 2
 ---
