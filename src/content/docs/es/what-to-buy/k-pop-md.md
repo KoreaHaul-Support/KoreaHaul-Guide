@@ -1,7 +1,7 @@
 ---
 title: "Merch de K-pop"
 description: "Comprar álbumes, photocards, light sticks y season's greetings de K-pop: dónde comprar, preórdenes, inclusiones y notas de envío."
-lastUpdated: 2026-09-18
+lastUpdated: 2026-10-03
 sidebar:
   order: 3
 ---
@@ -12,9 +12,9 @@ sidebar:
 
 Empieza por la categoría K-Pop de [**KoreaHaul Picks (KH Picks)**](https://koreahaul.com/koreahaul-shop). Ahí catalogamos nombres y enlaces de productos para que puedas enviar una solicitud de Buy For Me en pocos clics. Son enlaces seleccionados, no inventario: nosotros no tenemos productos en stock.
 
-- [**Ktown4u**](https://ktown4u.com), [**Withmuu**](https://withmuu.com), [**Weverse Shop**](https://weverse.io)**, **[**Soundwave**](https://sound-wave.co.kr/), [**FANS**](https://app.fans/), [**YG Select**](https://ygselect.com)**, **[**SMtownstore**](https://smtownandstore.com/) - las principales tiendas oficiales de merch. Cuentan para charts distintos y tienen photocards exclusivas distintas, así que elige por las inclusiones, no por el precio.
+- [**Ktown4u**](https://ktown4u.com), [**Withmuu**](https://withmuu.com), [**Weverse Shop**](https://weverse.io), [**Soundwave**](https://sound-wave.co.kr/), [**FANS**](https://app.fans/), [**YG Select**](https://ygselect.com), [**SMtownstore**](https://smtownandstore.com/) - las principales tiendas oficiales de merch. Cuentan para charts distintos y tienen photocards exclusivas distintas, así que elige por las inclusiones, no por el precio.
 - [**Makestar**](https://www.makestar.com/) - compras grupales y álbumes de proyectos.
-- [**Ssolcommerce**](https://ssolcommerce.com)**, **[**fanplee**](https://fanplee.com/)  - más tiendas de álbumes y merch oficial de idols
+- [**Ssolcommerce**](https://ssolcommerce.com), [**fanplee**](https://fanplee.com/)  - más tiendas de álbumes y merch oficial de idols
 - [**Bunjang**](https://bunjang.co.kr), [**Joongonara**](https://web.joongna.com/) - photocards sueltas y versiones agotadas.
 
 <div class="kh-callout kh-callout--note">

@@ -1,7 +1,7 @@
 ---
 title: "Estados Unidos"
 description: "Envíos de Corea a Estados Unidos: opciones de envío, aranceles e impuestos de aduana, cuánto cuesta y artículos que no podemos enviar."
-lastUpdated: 2026-09-29
+lastUpdated: 2026-10-03
 sidebar:
   order: 14
 ---

@@ -1,7 +1,7 @@
 ---
 title: "K-Pop-Merch"
 description: "K-Pop-Alben, Fotokarten, Lightsticks und Season's Greetings kaufen: wo Sie kaufen, Vorbestellungen, Beilagen und Versandhinweise."
-lastUpdated: 2026-09-18
+lastUpdated: 2026-10-03
 sidebar:
   order: 3
 ---
@@ -12,9 +12,9 @@ Alben, Fotokarten, Lightsticks und Season's Greetings. Knappe Fristen und die gr
 
 Beginnen Sie mit der Kategorie K-Pop in [**KoreaHaul Picks (KH Picks)**](https://koreahaul.com/koreahaul-shop). Dort haben wir Produktnamen und Links gesammelt, damit Sie mit wenigen Klicks eine Buy For Me Anfrage einreichen können. Das sind ausgewählte Links, kein Lagerbestand: Wir halten selbst keine Produkte vorrätig.
 
-- [**Ktown4u**](https://ktown4u.com), [**Withmuu**](https://withmuu.com), [**Weverse Shop**](https://weverse.io)**, **[**Soundwave**](https://sound-wave.co.kr/), [**FANS**](https://app.fans/), [**YG Select**](https://ygselect.com)**, **[**SMtownstore**](https://smtownandstore.com/) - die wichtigsten offiziellen Merch-Shops. Sie zählen für unterschiedliche Charts und haben unterschiedliche exklusive Fotokarten, wählen Sie also nach Beilagen statt nach Preis.
+- [**Ktown4u**](https://ktown4u.com), [**Withmuu**](https://withmuu.com), [**Weverse Shop**](https://weverse.io), [**Soundwave**](https://sound-wave.co.kr/), [**FANS**](https://app.fans/), [**YG Select**](https://ygselect.com), [**SMtownstore**](https://smtownandstore.com/) - die wichtigsten offiziellen Merch-Shops. Sie zählen für unterschiedliche Charts und haben unterschiedliche exklusive Fotokarten, wählen Sie also nach Beilagen statt nach Preis.
 - [**Makestar**](https://www.makestar.com/) - Sammelbestellungen und Projektalben.
-- [**Ssolcommerce**](https://ssolcommerce.com)**, **[**fanplee**](https://fanplee.com/)  - weitere Shops für Alben und offizielles Idol-Merch
+- [**Ssolcommerce**](https://ssolcommerce.com), [**fanplee**](https://fanplee.com/)  - weitere Shops für Alben und offizielles Idol-Merch
 - [**Bunjang**](https://bunjang.co.kr), [**Joongonara**](https://web.joongna.com/) - einzelne Fotokarten und ausverkaufte Versionen.
 
 <div class="kh-callout kh-callout--note">

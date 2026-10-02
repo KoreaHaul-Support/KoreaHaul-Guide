@@ -1,14 +1,14 @@
 ---
 title: "United States"
 description: "Shipping from Korea to the United States: delivery options, customs duty and tax, what it costs, and items we cannot ship."
-lastUpdated: 2026-09-29
+lastUpdated: 2026-10-03
 sidebar:
   order: 14
 ---
 
 Everything you need to buy Korean products and get them to your door in the US - from ordering to customs.
 
-*Last updated 29 September 2026*
+*Last updated 3 October 2026*
 
 ## How it works
 
@@ -73,7 +73,7 @@ To estimate the shipping cost and transit time, use the Shipping Calculator at [
 - Certification has to come from the manufacturer or seller. Second-hand purchases on Bunjang, Karrot or Joongonara often have none.
 - Without it, clearance may be delayed, suspended, or refused.
 
-See** **[**CPSC eFiling**](/news/cpsc-efiling-for-us-shipments/) for U.S. shipments for the full details and forms.
+See [**CPSC eFiling**](/news/cpsc-efiling-for-us-shipments/) for U.S. shipments for the full details and forms.
 
 </div>
 

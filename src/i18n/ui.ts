@@ -35,6 +35,8 @@ const en = {
   followB: '',
   translatedNote: 'This page was translated from English. If anything differs, the English version applies.',
   translatedLink: 'Read in English',
+  fxNote:
+    'Amounts in brackets are estimates at the {source} rate on {date} ({rate}). Prices are set in KRW. What you pay in your currency depends on your payment method and the rate on the day you pay.',
 };
 type Dict = typeof en;
 
@@ -68,6 +70,8 @@ const es: Dict = {
   followB: '',
   translatedNote: 'Esta página fue traducida del inglés. Si algo no coincide, se aplica la versión en inglés.',
   translatedLink: 'Leer en inglés',
+  fxNote:
+    'Los montos entre paréntesis son estimaciones en dólares estadounidenses con la tasa media del mercado de Wise del {date} ({rate}). Los precios están en KRW. Lo que pagas en tu moneda depende de tu método de pago y de la tasa del día en que pagas.',
 };
 
 const ja: Dict = {
@@ -100,6 +104,8 @@ const ja: Dict = {
   followB: 'でフォローしてください',
   translatedNote: 'このページは英語から翻訳されています。内容に相違がある場合は、英語版が優先されます。',
   translatedLink: '英語で読む',
+  fxNote:
+    'かっこ内の金額は、{date}時点のWise仲値（{rate}）による日本円の目安です。料金は韓国ウォン（KRW）で設定されています。実際のお支払い額は、お支払い方法とお支払い当日のレートによって変わります。',
 };
 
 const zhCN: Dict = {
@@ -132,6 +138,8 @@ const zhCN: Dict = {
   followB: '上关注我们',
   translatedNote: '本页面译自英文。如有任何不一致，以英文版本为准。',
   translatedLink: '阅读英文版',
+  fxNote:
+    '括号内的金额是按 {date} Wise 中间价（{rate}）换算的人民币估算值。价格以韩元（KRW）计价。您实际支付的金额取决于付款方式和付款当天的汇率。',
 };
 
 const ptBR: Dict = {
@@ -164,6 +172,8 @@ const ptBR: Dict = {
   followB: '',
   translatedNote: 'Esta página foi traduzida do inglês. Se houver alguma diferença, vale a versão em inglês.',
   translatedLink: 'Ler em inglês',
+  fxNote:
+    'Os valores entre parênteses são estimativas em reais pela taxa média de mercado da Wise em {date} ({rate}). Os preços são definidos em KRW. O valor que você paga na sua moeda depende da forma de pagamento e da taxa do dia do pagamento.',
 };
 
 const fr: Dict = {
@@ -196,6 +206,8 @@ const fr: Dict = {
   followB: '',
   translatedNote: "Cette page a été traduite de l'anglais. En cas de différence, la version anglaise s'applique.",
   translatedLink: 'Lire en anglais',
+  fxNote:
+    'Les montants entre parenthèses sont des estimations en euros au taux moyen du marché de Wise du {date} ({rate}). Les prix sont fixés en KRW. Le montant payé dans votre devise dépend de votre moyen de paiement et du taux du jour du paiement.',
 };
 
 const de: Dict = {
@@ -228,6 +240,8 @@ const de: Dict = {
   followB: '',
   translatedNote: 'Diese Seite wurde aus dem Englischen übersetzt. Bei Abweichungen gilt die englische Version.',
   translatedLink: 'Auf Englisch lesen',
+  fxNote:
+    'Beträge in Klammern sind Schätzungen in Euro zum Wise-Mittelkurs vom {date} ({rate}). Die Preise sind in KRW festgelegt. Was Sie in Ihrer Währung zahlen, hängt von Ihrer Zahlungsmethode und dem Kurs am Zahlungstag ab.',
 };
 
 const DICTS: Record<string, Dict> = { en, es, ja, 'zh-cn': zhCN, 'pt-br': ptBR, fr, de };

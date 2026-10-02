@@ -826,3 +826,8 @@ starlight-lang-select label {
     display: none;
   }
 }
+
+.kh-fx-note {
+  display: block;
+  margin-top: 0.35rem;
+}

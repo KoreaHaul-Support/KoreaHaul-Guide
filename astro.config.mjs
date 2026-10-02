@@ -1,8 +1,10 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import remarkCjkFriendly from 'remark-cjk-friendly';
 import rehypeTableLabels from './src/plugins/rehype-table-labels.mjs';
 import rehypeLocaleLinks from './src/plugins/rehype-locale-links.mjs';
+import rehypeLocalCurrency from './src/plugins/rehype-local-currency.mjs';
 import { SIDEBAR } from './src/i18n/ui.ts';
 
 // Sidebar group label plus its translations (see src/i18n/ui.ts)
@@ -18,7 +20,9 @@ export default defineConfig({
   // Live domain: used for the sitemap and canonical URLs
   site: 'https://guides.koreahaul.com',
   markdown: {
-    rehypePlugins: [rehypeTableLabels, rehypeLocaleLinks],
+    // Bold/italic next to Japanese and Chinese punctuation, e.g. **課税価格（関税評価額）**は
+    remarkPlugins: [remarkCjkFriendly],
+    rehypePlugins: [rehypeTableLabels, rehypeLocaleLinks, rehypeLocalCurrency],
   },
   integrations: [
     starlight({

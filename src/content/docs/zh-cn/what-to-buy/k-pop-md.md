@@ -1,7 +1,7 @@
 ---
 title: "K-pop周边"
 description: "购买 K-pop 专辑、小卡、应援棒和年历（Season's Greetings）：在哪里购买、预购、专辑附赠品和运输说明。"
-lastUpdated: 2026-09-18
+lastUpdated: 2026-10-03
 sidebar:
   order: 3
 ---

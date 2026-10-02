@@ -1,5 +1,5 @@
 TITLE: United States
-EDITED: 2026-09-29T10:35:12.000Z
+EDITED: 2026-10-03
 <content>
 Everything you need to buy Korean products and get them to your door in the US - from ordering to customs.
 *Last updated 17 September 2026*
@@ -39,7 +39,7 @@ To estimate the shipping cost and transit time, use the Shipping Calculator at [
 	- K-pop albums, photocards and photobooks are generally not affected. Light sticks, character dolls, and battery-powered merchandise can be.
 	- Certification has to come from the manufacturer or seller. Second-hand purchases on Bunjang, Karrot or Joongonara often have none.
 	- Without it, clearance may be delayed, suspended, or refused.
-	See** **[**CPSC eFiling**](https://app.notion.com/p/3dedc07682c281a0ae6bfc823fb0196d) for U.S. shipments for the full details and forms.
+	See [**CPSC eFiling**](https://app.notion.com/p/3dedc07682c281a0ae6bfc823fb0196d) for U.S. shipments for the full details and forms.
 </callout>
 - **No more US\$800 duty-free.** Duty, government fees, and entry requirements can apply at any value.
 - **Under US\$2,500** uses simplified informal entry - not a duty-free limit.

@@ -1,7 +1,7 @@
 ---
 title: "États-Unis"
 description: "Expédition de la Corée vers les États-Unis : options de livraison, droits de douane et taxes, coûts et articles que nous ne pouvons pas expédier."
-lastUpdated: 2026-09-29
+lastUpdated: 2026-10-03
 sidebar:
   order: 14
 ---

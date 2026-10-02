@@ -77,5 +77,17 @@ After an English page changes:
 4. `python3 tools/i18n/check.py` - checks markup, links, prices and emails against English
 5. `python3 tools/i18n/status.py --mark <path>` for each re-translated page, then commit and push
 
+### Local currency estimates
+
+Translated pages show a local-currency estimate after each KRW amount, e.g.
+`₩2,000 (≈ 1,32 €)`: USD on Spanish, JPY on Japanese, CNY on Chinese, BRL on
+Portuguese, EUR on French and German. The site adds these at build time
+(`src/plugins/rehype-local-currency.mjs`); the Markdown keeps KRW only.
+Each page states the rate and date under the translation note.
+
+To update the rates: put today's Wise mid-market values (1 KRW in each currency)
+and the date in `src/i18n/rates.json`, then commit and push. Every page updates.
+Amounts in headings, ₩0, and amounts already next to another currency are left alone.
+
 A new English page with no translation yet still works: it shows in English under each
 language with a short "not translated yet" notice.

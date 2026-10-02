@@ -1,7 +1,7 @@
 ---
 title: "K-Pop MD"
 description: "Buying K-pop albums, photocards, light sticks, and season's greetings: where to buy, pre-orders, inclusions, and shipping notes."
-lastUpdated: 2026-09-18
+lastUpdated: 2026-10-03
 sidebar:
   order: 3
 ---
@@ -12,9 +12,9 @@ Albums, photocards, light sticks, and season's greetings. Tight deadlines and th
 
 Start with the K-Pop category on [**KoreaHaul Picks (KH Picks)**](https://koreahaul.com/koreahaul-shop). We have catalogued product names and links there so you can submit a Buy For Me request in a few clicks. These are curated links, not stock - we do not hold products ourselves.
 
-- [**Ktown4u**](https://ktown4u.com), [**Withmuu**](https://withmuu.com), [**Weverse Shop**](https://weverse.io)**, **[**Soundwave**](https://sound-wave.co.kr/), [**FANS**](https://app.fans/), [**YG Select**](https://ygselect.com)**, **[**SMtownstore**](https://smtownandstore.com/) - the main official MD shops. They count towards different charts and carry different exclusive photocards, so pick on inclusions rather than price.
+- [**Ktown4u**](https://ktown4u.com), [**Withmuu**](https://withmuu.com), [**Weverse Shop**](https://weverse.io), [**Soundwave**](https://sound-wave.co.kr/), [**FANS**](https://app.fans/), [**YG Select**](https://ygselect.com), [**SMtownstore**](https://smtownandstore.com/) - the main official MD shops. They count towards different charts and carry different exclusive photocards, so pick on inclusions rather than price.
 - [**Makestar**](https://www.makestar.com/) - group orders and project albums.
-- [**Ssolcommerce**](https://ssolcommerce.com)**, **[**fanplee**](https://fanplee.com/)  - more album and official idol merchandise shops
+- [**Ssolcommerce**](https://ssolcommerce.com), [**fanplee**](https://fanplee.com/)  - more album and official idol merchandise shops
 - [**Bunjang**](https://bunjang.co.kr), [**Joongonara**](https://web.joongna.com/) - individual photocards and sold-out versions.
 
 <div class="kh-callout kh-callout--note">

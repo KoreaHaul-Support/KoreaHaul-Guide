@@ -1,7 +1,7 @@
 ---
 title: "K-POPグッズ"
 description: "K-POPのアルバム、フォトカード、ペンライト、シーズングリーティングの購入: 購入先、予約注文、特典、配送の注意点。"
-lastUpdated: 2026-09-18
+lastUpdated: 2026-10-03
 sidebar:
   order: 3
 ---

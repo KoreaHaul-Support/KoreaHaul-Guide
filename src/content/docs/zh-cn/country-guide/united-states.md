@@ -1,7 +1,7 @@
 ---
 title: "美国"
 description: "从韩国寄往美国：配送方式、海关关税与税费、费用估算以及无法寄送的物品。"
-lastUpdated: 2026-09-29
+lastUpdated: 2026-10-03
 sidebar:
   order: 14
 ---

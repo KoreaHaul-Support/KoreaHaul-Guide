@@ -1,0 +1,20 @@
+{
+  "_note": "Estimates shown in brackets on translated pages. Value of 1 KRW in each currency. Source: Wise mid-market rate. Update the date with the rates.",
+  "date": "2026-10-03",
+  "source": "Wise mid-market",
+  "perKRW": {
+    "USD": 0.0007363,
+    "EUR": 0.0006603,
+    "JPY": 0.1175,
+    "CNY": 0.004989,
+    "BRL": 0.003843
+  },
+  "locales": {
+    "es": { "currency": "USD", "format": "es-419" },
+    "ja": { "currency": "JPY", "format": "ja" },
+    "zh-cn": { "currency": "CNY", "format": "zh-CN" },
+    "pt-br": { "currency": "BRL", "format": "pt-BR" },
+    "fr": { "currency": "EUR", "format": "fr" },
+    "de": { "currency": "EUR", "format": "de" }
+  }
+}

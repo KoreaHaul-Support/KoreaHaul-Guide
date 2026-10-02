@@ -1,7 +1,7 @@
 ---
 title: "Vereinigte Staaten"
 description: "Versand von Korea in die Vereinigten Staaten: Lieferoptionen, Zoll und Steuern, Kosten und Artikel, die wir nicht versenden können."
-lastUpdated: 2026-09-29
+lastUpdated: 2026-10-03
 sidebar:
   order: 14
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Estados Unidos"
 description: "Envio da Coreia para os Estados Unidos: opções de entrega, impostos e tributos de importação, quanto custa e itens que não podemos enviar."
-lastUpdated: 2026-09-29
+lastUpdated: 2026-10-03
 sidebar:
   order: 14
 ---
@@ -73,7 +73,7 @@ Para estimar o custo do frete e o prazo de entrega, use a Calculadora de frete e
 - A certificação precisa vir do fabricante ou do vendedor. Compras de usados no Bunjang, Karrot ou Joongonara muitas vezes não têm nenhuma.
 - Sem ela, o desembaraço pode atrasar, ser suspenso ou recusado.
 
-Veja** **[**eFiling da CPSC para envios aos EUA**](/news/cpsc-efiling-for-us-shipments/) para todos os detalhes e formulários.
+Veja [**eFiling da CPSC para envios aos EUA**](/news/cpsc-efiling-for-us-shipments/) para todos os detalhes e formulários.
 
 </div>
 

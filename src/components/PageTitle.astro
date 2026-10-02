@@ -3,6 +3,7 @@
 // On translated pages, also a short note that the English version applies.
 import Default from '@astrojs/starlight/components/PageTitle.astro';
 import { useT, localePath } from '../i18n/ui';
+import { rates, formatLocal, localCurrency } from '../i18n/money.mjs';
 
 const { id: rawId = '', locale } = Astro.locals.starlightRoute;
 const t = useT(locale);
@@ -28,6 +29,18 @@ if (parts[0] === 'shopping-tips' && parts[1] === 'stores') {
 }
 const show = id !== '' && id !== 'index';
 const englishHref = id && id !== 'index' ? `/${id}/` : '/';
+
+// Local-currency note, only on translated pages that show KRW amounts
+const body = Astro.locals.starlightRoute.entry.body ?? '';
+const hasKRW = /(?:₩|KRW ?)[1-9]/.test(body);
+const fx = locale && localCurrency(locale);
+const fxNote =
+  fx && hasKRW
+    ? t('fxNote')
+        .replace('{date}', new Intl.DateTimeFormat(fx.format, { dateStyle: 'long', timeZone: 'UTC' }).format(new Date(rates.date)))
+        .replace('{rate}', `₩1,000 = ${formatLocal(1000, locale)}`)
+        .replace('{source}', rates.source)
+    : '';
 ---
 
 {
@@ -47,6 +60,7 @@ const englishHref = id && id !== 'index' ? `/${id}/` : '/';
   locale && show && !Astro.locals.starlightRoute.isFallback && (
     <p class="kh-translated">
       {t('translatedNote')}{' '}<a href={englishHref} hreflang="en" lang="en">{t('translatedLink')}</a>
+      {fxNote && <span class="kh-fx-note">{fxNote}</span>}
     </p>
   )
 }

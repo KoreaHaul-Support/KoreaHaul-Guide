@@ -1,7 +1,7 @@
 ---
 title: "Merch K-pop"
 description: "Acheter des albums K-pop, des photocards, des light sticks et des season's greetings : où acheter, précommandes, inclusions et informations d'expédition."
-lastUpdated: 2026-09-18
+lastUpdated: 2026-10-03
 sidebar:
   order: 3
 ---
@@ -12,9 +12,9 @@ Albums, photocards, light sticks et season's greetings. Des délais serrés et l
 
 Commencez par la catégorie K-Pop de [**KoreaHaul Picks (KH Picks)**](https://koreahaul.com/koreahaul-shop). Nous y avons répertorié les noms et les liens des produits pour que vous puissiez envoyer une demande Buy For Me en quelques clics. Ce sont des liens sélectionnés, pas du stock : nous ne détenons pas de produits nous-mêmes.
 
-- [**Ktown4u**](https://ktown4u.com), [**Withmuu**](https://withmuu.com), [**Weverse Shop**](https://weverse.io)**, **[**Soundwave**](https://sound-wave.co.kr/), [**FANS**](https://app.fans/), [**YG Select**](https://ygselect.com)**, **[**SMtownstore**](https://smtownandstore.com/) - les principales boutiques de merch officiel. Elles comptent pour des classements différents et proposent des photocards exclusives différentes, donc choisissez selon les inclusions plutôt que selon le prix.
+- [**Ktown4u**](https://ktown4u.com), [**Withmuu**](https://withmuu.com), [**Weverse Shop**](https://weverse.io), [**Soundwave**](https://sound-wave.co.kr/), [**FANS**](https://app.fans/), [**YG Select**](https://ygselect.com), [**SMtownstore**](https://smtownandstore.com/) - les principales boutiques de merch officiel. Elles comptent pour des classements différents et proposent des photocards exclusives différentes, donc choisissez selon les inclusions plutôt que selon le prix.
 - [**Makestar**](https://www.makestar.com/) - commandes groupées et albums de projets.
-- [**Ssolcommerce**](https://ssolcommerce.com)**, **[**fanplee**](https://fanplee.com/)  - d'autres boutiques d'albums et de merch officiel d'idols
+- [**Ssolcommerce**](https://ssolcommerce.com), [**fanplee**](https://fanplee.com/)  - d'autres boutiques d'albums et de merch officiel d'idols
 - [**Bunjang**](https://bunjang.co.kr), [**Joongonara**](https://web.joongna.com/) - photocards à l'unité et versions épuisées.
 
 <div class="kh-callout kh-callout--note">

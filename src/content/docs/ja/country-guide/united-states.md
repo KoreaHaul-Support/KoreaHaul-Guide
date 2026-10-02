@@ -1,7 +1,7 @@
 ---
 title: "アメリカ"
 description: "韓国からアメリカへの配送: 配送方法、関税・税金、費用の目安、発送できない商品。"
-lastUpdated: 2026-09-29
+lastUpdated: 2026-10-03
 sidebar:
   order: 14
 ---
