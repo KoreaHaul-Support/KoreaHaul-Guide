@@ -28,7 +28,7 @@ PayPal、Wise 和信用卡（3D Secure）。限额请参阅“付款方式”。
 
 ## 配送
 
-- **FedEx International Connect Plus** - 预付进口费用（DDP）。清关手续费 ₩6,000；预估进口费用超过 ₩120,000 时为 ₩12,000。预计 3-5 个工作日。
+- **FedEx International Connect Plus** - 预付进口费用（DDP）。清关手续费 ₩6,000；预估进口费用超过 ₩120,000 时为 ₩12,000。预计 5-9 个工作日。
 - **FedEx International Priority** - 进口费用由收件人支付（DAP）。预计 4-7 个工作日。
 - **EMS** - 进口费用由收件人支付（DAP）。不可寄送任何类型的电池，包括内置电池。预计 10-20 个工作日。
 

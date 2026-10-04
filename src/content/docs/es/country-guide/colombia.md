@@ -28,7 +28,7 @@ Las comisiones de procesamiento de pago varían según el método y se suman al 
 
 ## Entrega
 
-- **FedEx International Connect Plus** - cargos de importación prepagados (DDP). Tarifa de gestión aduanera de ₩6,000, o ₩12,000 si los cargos de importación estimados superan ₩120,000. Tiempo estimado: 3-5 días hábiles.
+- **FedEx International Connect Plus** - cargos de importación prepagados (DDP). Tarifa de gestión aduanera de ₩6,000, o ₩12,000 si los cargos de importación estimados superan ₩120,000. Tiempo estimado: 5-9 días hábiles.
 - **FedEx International Priority** - el destinatario paga los cargos de importación (DAP). Tiempo estimado: 4-7 días hábiles.
 - **EMS** - el destinatario paga los cargos de importación (DAP). No se aceptan baterías de ningún tipo, incluidas las integradas. Tiempo estimado: 10-20 días hábiles.
 

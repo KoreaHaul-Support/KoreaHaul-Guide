@@ -28,7 +28,7 @@ Payment processing fees vary by method and are added at checkout.
 
 ## Delivery
 
-- **FedEx International Connect Plus** - prepaid import charges (DDP). Customs handling fee ₩6,000, or ₩12,000 where estimated import charges exceed ₩120,000. Estimated 3-5 business days.
+- **FedEx International Connect Plus** - prepaid import charges (DDP). Customs handling fee ₩6,000, or ₩12,000 where estimated import charges exceed ₩120,000. Estimated 5-9 business days.
 - **FedEx International Priority** - import charges paid by the recipient (DAP). Estimated 4-7 business days.
 - **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 10-20 business days.
 
