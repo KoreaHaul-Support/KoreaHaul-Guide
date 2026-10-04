@@ -14,7 +14,7 @@ sidebar:
 
 | 服务 | 丢失 | 运输途中损坏 |
 | --- | --- | --- |
-| FedEx | 仅在购买 Shipping Insurance（申报价值的 2%）时保障 | 仅在购买 Shipping Insurance（申报价值的 2%）时保障 |
+| FedEx | 默认保障最高 USD $100（约 KRW 135,000） | 默认保障最高 USD $100（约 KRW 135,000） |
 | EMS Korea Post | 按承运商政策 | 不保障 |
 | SF Express | 按承运商政策 | 不保障 |
 | International Standard Shipping | 因目的地而异，见下表 | 不保障 |
@@ -31,7 +31,7 @@ sidebar:
 
 韩元金额为约数，会随汇率变动。
 
-默认情况下，所有服务均不保障运输途中的损坏。FedEx 货件只有在您添加 Shipping Insurance 后才有保障。如果您的物品易碎，这是本页最重要的一点。
+四项服务中有三项不保障运输途中的损坏。如果您的物品易碎，这是本页最重要的一点。
 
 ## 可选的 Shipping Insurance（运输保险）
 

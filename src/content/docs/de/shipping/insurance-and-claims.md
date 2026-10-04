@@ -14,7 +14,7 @@ Jeder Service bietet den Schutz, den der Versanddienstleister gewährt. Das ist 
 
 | Service | Verlust | Transportschaden |
 | --- | --- | --- |
-| FedEx | Nur mit Shipping Insurance (2% des deklarierten Werts) | Nur mit Shipping Insurance (2% des deklarierten Werts) |
+| FedEx | Standardmäßig bis zu USD $100 (etwa KRW 135,000) | Standardmäßig bis zu USD $100 (etwa KRW 135,000) |
 | EMS Korea Post | Richtlinie des Versanddienstleisters | Nicht abgedeckt |
 | SF Express | Richtlinie des Versanddienstleisters | Nicht abgedeckt |
 | International Standard Shipping | Je nach Zielland, siehe unten | Nicht abgedeckt |
@@ -31,7 +31,7 @@ Jeder Service bietet den Schutz, den der Versanddienstleister gewährt. Das ist 
 
 Die KRW-Beträge sind ungefähre Werte und ändern sich mit dem Wechselkurs.
 
-Standardmäßig deckt kein Service Transportschäden ab. FedEx-Sendungen sind nur abgedeckt, wenn Sie Shipping Insurance hinzufügen. Wenn Ihre Artikel zerbrechlich sind, ist das die wichtigste Zeile auf dieser Seite.
+Drei der vier Services decken keine Transportschäden ab. Wenn Ihre Artikel zerbrechlich sind, ist das die wichtigste Zeile auf dieser Seite.
 
 ## Optionale Shipping Insurance
 

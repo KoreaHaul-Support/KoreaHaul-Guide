@@ -68,6 +68,7 @@ Una caja de ropa de 40 × 30 × 25 cm pesa 3 kg en la báscula, pero 40 × 30 ×
 
 ## Cobertura
 
+- FedEx incluye por defecto una cobertura de hasta USD $100 por pérdida y daños.
 - International Standard Shipping, EMS Korea Post y SF Express no cubren daños durante el transporte. La cobertura por pérdida en International Standard Shipping varía según el destino, desde $200 hasta ninguna.
 - El seguro cuesta el 2% del valor declarado y solo está disponible con FedEx.
 

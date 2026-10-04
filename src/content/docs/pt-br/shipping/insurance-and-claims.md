@@ -14,7 +14,7 @@ Todo serviço vem com a proteção que a transportadora oferece. Isso não é a 
 
 | Serviço | Perda | Dano durante o transporte |
 | --- | --- | --- |
-| FedEx | Somente com Shipping Insurance (2% do valor declarado) | Somente com Shipping Insurance (2% do valor declarado) |
+| FedEx | Até USD $100 (cerca de KRW 135,000), por padrão | Até USD $100 (cerca de KRW 135,000), por padrão |
 | EMS Korea Post | Política da transportadora | Sem cobertura |
 | SF Express | Política da transportadora | Sem cobertura |
 | International Standard Shipping | Varia conforme o destino: veja abaixo | Sem cobertura |
@@ -31,7 +31,7 @@ Todo serviço vem com a proteção que a transportadora oferece. Isso não é a 
 
 Os valores em KRW são aproximados e variam com o câmbio.
 
-Nenhum serviço cobre danos durante o transporte por padrão. Envios pela FedEx só têm cobertura se você adicionar o Shipping Insurance. Se seus itens forem frágeis, essa é a informação mais importante desta página.
+Três dos quatro serviços não cobrem danos durante o transporte. Se seus itens forem frágeis, essa é a informação mais importante desta página.
 
 ## Shipping Insurance opcional
 

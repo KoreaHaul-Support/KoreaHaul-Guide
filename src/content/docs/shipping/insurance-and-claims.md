@@ -14,7 +14,7 @@ Every service carries whatever protection the carrier provides. That is not the 
 
 | Service | Loss | Damage in transit |
 | --- | --- | --- |
-| FedEx | Only with Shipping Insurance (2% of declared value) | Only with Shipping Insurance (2% of declared value) |
+| FedEx | Up to USD $100 (about KRW 135,000), by default | Up to USD $100 (about KRW 135,000), by default |
 | EMS Korea Post | Carrier policy | Not covered |
 | SF Express | Carrier policy | Not covered |
 | International Standard Shipping | Varies by destination - see below | Not covered |
@@ -31,7 +31,7 @@ Every service carries whatever protection the carrier provides. That is not the 
 
 KRW figures are approximate and move with the exchange rate.
 
-No service covers damage in transit by default. FedEx shipments are covered only if you add Shipping Insurance. If your items are fragile, that is the most important line on this page.
+Three of the four services do not cover damage in transit. If your items are fragile, that is the most important line on this page.
 
 ## Optional Shipping Insurance
 

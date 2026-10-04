@@ -68,6 +68,7 @@ sidebar:
 
 ## 補償
 
+- FedExには、紛失と破損に対してUSD $100までの補償が標準で付いています。
 - International Standard Shipping、EMS Korea Post、SF Expressは、輸送中の破損を補償しません。International Standard Shippingの紛失補償は配送先によって異なり、$200から補償なしまでさまざまです。
 - 保険料は申告額の2%で、FedExのみでご利用いただけます。
 

@@ -68,6 +68,7 @@ Ein Karton mit Kleidung von 40 × 30 × 25 cm wiegt auf der Waage 3 kg, aber 40 
 
 ## Deckung
 
+- FedEx beinhaltet standardmäßig eine Deckung bis zu USD $100 bei Verlust und Beschädigung.
 - International Standard Shipping, EMS Korea Post und SF Express decken keine Transportschäden ab. Die Deckung bei Verlust mit International Standard Shipping hängt vom Zielland ab und reicht von $200 bis zu gar keiner.
 - Eine Versicherung kostet 2% des deklarierten Werts und ist nur bei FedEx verfügbar.
 

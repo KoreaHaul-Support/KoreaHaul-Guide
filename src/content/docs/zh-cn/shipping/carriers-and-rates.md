@@ -68,6 +68,7 @@ sidebar:
 
 ## 保障
 
+- FedEx 默认为丢失和损坏提供最高 USD $100 的保障。
 - International Standard Shipping、EMS Korea Post 和 SF Express 不承保运输途中的损坏。International Standard Shipping 的丢失保障因目的地而异，从 $200 到无保障不等。
 - 保险费用为申报价值的 2%，仅适用于 FedEx。
 
