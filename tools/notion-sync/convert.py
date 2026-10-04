@@ -213,6 +213,10 @@ def in_section(section):
 
 
 TOPICS = [
+    ("news", "News & Updates",
+     "Holiday schedules, pricing changes, and new customs rules.",
+     in_section("news")[:4], None,
+     [(None, in_section("news"))]),
     # key, title, description, card links, all-articles link, groups for the topic page
     ("getting-started", "Getting Started & Services",
      "How our services work, what they cost, how to pay, and what happens at the warehouse.",
@@ -233,10 +237,6 @@ TOPICS = [
      "Tips for K-beauty, K-pop, fashion, snacks, LEGO, and more.",
      ["k-beauty", "k-pop-md", "k-fashion", "lego"], None,
      [(None, in_section("what-to-buy"))]),
-    ("news", "News & Updates",
-     "Holiday schedules, pricing changes, and new customs rules.",
-     in_section("news")[:4], None,
-     [(None, in_section("news"))]),
 ]
 
 
