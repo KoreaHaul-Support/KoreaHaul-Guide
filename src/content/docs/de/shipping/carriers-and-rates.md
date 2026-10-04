@@ -1,7 +1,7 @@
 ---
 title: "Versanddienstleister und Tarife"
 description: "Die Versanddienstleister, die wir nutzen, wie das Versandgewicht berechnet wird, Deckung und Sendungsverfolgung, und wie Sie vor der Zahlung echte Angebote für Ihren Karton sehen."
-lastUpdated: 2026-09-19
+lastUpdated: 2026-10-05
 sidebar:
   order: 1
 ---
@@ -68,7 +68,6 @@ Ein Karton mit Kleidung von 40 × 30 × 25 cm wiegt auf der Waage 3 kg, aber 40 
 
 ## Deckung
 
-- FedEx enthält eine kostenlose Deckung bis USD $300 bei Verlust und Beschädigung.
 - International Standard Shipping, EMS Korea Post und SF Express decken keine Transportschäden ab. Die Deckung bei Verlust mit International Standard Shipping hängt vom Zielland ab und reicht von $200 bis zu gar keiner.
 - Eine Versicherung kostet 2% des deklarierten Werts und ist nur bei FedEx verfügbar.
 

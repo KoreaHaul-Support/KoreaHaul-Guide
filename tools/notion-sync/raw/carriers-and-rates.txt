@@ -1,5 +1,5 @@
 TITLE: Carriers & Rates
-EDITED: 2026-09-19T11:47:07.788Z
+EDITED: 2026-10-05
 <content>
 Prices and transit times differ by country. You see the real quote for your box before you pay, with every available carrier priced side by side.
 ## Services we use
@@ -65,7 +65,6 @@ We show both and mark which applies. Optimized Pack and Vacuum Packing often bri
 	A 40 × 30 × 25 cm box of clothing weighs 3 kg on the scale, but 40 × 30 × 25 ÷ 5000 = 6 kg volumetric. You are charged for 6 kg.
 </callout>
 ## Coverage
-- FedEx includes complimentary cover up to USD \$300 for loss and damage.
 - International Standard Shipping, EMS Korea Post, and SF Express do not cover damage in transit. Loss cover on International Standard Shipping varies by destination, from \$200 to none.
 - Insurance costs 2% of declared value and is available on FedEx only.
 See Insurance and claims for the full picture, including the destinations with no cover.

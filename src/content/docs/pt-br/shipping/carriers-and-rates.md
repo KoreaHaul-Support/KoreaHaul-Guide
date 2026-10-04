@@ -1,7 +1,7 @@
 ---
 title: "Transportadoras e tarifas"
 description: "As transportadoras que usamos, como o peso de envio é calculado, cobertura e rastreio, e como você vê orçamentos reais da sua caixa antes de pagar."
-lastUpdated: 2026-09-19
+lastUpdated: 2026-10-05
 sidebar:
   order: 1
 ---
@@ -68,7 +68,6 @@ Uma caixa de roupas de 40 × 30 × 25 cm pesa 3 kg na balança, mas 40 × 30 × 
 
 ## Cobertura
 
-- A FedEx inclui uma cobertura gratuita de até USD $300 contra perda e dano.
 - International Standard Shipping, EMS Korea Post e SF Express não cobrem danos durante o transporte. A cobertura contra perda no International Standard Shipping varia conforme o destino, de $200 a nenhuma.
 - O seguro custa 2% do valor declarado e está disponível somente na FedEx.
 

@@ -1,7 +1,7 @@
 ---
 title: "承运商与运费"
 description: "我们使用的承运商、运费重量的计算方式、保障与追踪，以及您如何在付款前看到您这一箱的实际报价。"
-lastUpdated: 2026-09-19
+lastUpdated: 2026-10-05
 sidebar:
   order: 1
 ---
@@ -68,7 +68,6 @@ sidebar:
 
 ## 保障
 
-- FedEx 免费提供最高 USD $300 的丢失和损坏保障。
 - International Standard Shipping、EMS Korea Post 和 SF Express 不承保运输途中的损坏。International Standard Shipping 的丢失保障因目的地而异，从 $200 到无保障不等。
 - 保险费用为申报价值的 2%，仅适用于 FedEx。
 

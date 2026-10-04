@@ -1,7 +1,7 @@
 ---
 title: "Transporteurs et tarifs"
 description: "Les transporteurs que nous utilisons, le calcul du poids d'expédition, la couverture et le suivi, et comment voir les devis réels pour votre carton avant de payer."
-lastUpdated: 2026-09-19
+lastUpdated: 2026-10-05
 sidebar:
   order: 1
 ---
@@ -68,7 +68,6 @@ Un carton de vêtements de 40 × 30 × 25 cm pèse 3 kg sur la balance, mais 40 
 
 ## Couverture
 
-- FedEx inclut une couverture gratuite jusqu'à USD $300 en cas de perte ou de dommage.
 - International Standard Shipping, EMS Korea Post et SF Express ne couvrent pas les dommages pendant le transport. La couverture en cas de perte avec International Standard Shipping varie selon la destination, de $200 à aucune.
 - L'assurance coûte 2% de la valeur déclarée et n'est disponible qu'avec FedEx.
 

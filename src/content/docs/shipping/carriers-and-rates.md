@@ -1,7 +1,7 @@
 ---
 title: "Carriers & Rates"
 description: "The carriers we use, how shipping weight is calculated, coverage and tracking, and how you see real quotes for your box before paying."
-lastUpdated: 2026-09-19
+lastUpdated: 2026-10-05
 sidebar:
   order: 1
 ---
@@ -68,7 +68,6 @@ A 40 × 30 × 25 cm box of clothing weighs 3 kg on the scale, but 40 × 30 × 25
 
 ## Coverage
 
-- FedEx includes complimentary cover up to USD $300 for loss and damage.
 - International Standard Shipping, EMS Korea Post, and SF Express do not cover damage in transit. Loss cover on International Standard Shipping varies by destination, from $200 to none.
 - Insurance costs 2% of declared value and is available on FedEx only.
 

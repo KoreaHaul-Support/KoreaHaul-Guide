@@ -1,7 +1,7 @@
 ---
 title: "保険と補償請求"
 description: "荷物の紛失や破損時の補償内容、任意のShipping Insurance、リスクを下げる方法、補償請求の手順。"
-lastUpdated: 2026-10-04
+lastUpdated: 2026-10-05
 sidebar:
   order: 4
 ---
@@ -14,7 +14,7 @@ sidebar:
 
 | サービス | 紛失 | 輸送中の破損 |
 | --- | --- | --- |
-| FedEx | USD $300（約KRW 405,000）まで無料で補償 | USD $300（約KRW 405,000）まで無料で補償 |
+| FedEx | Shipping Insurance（申告額の2%）加入時のみ | Shipping Insurance（申告額の2%）加入時のみ |
 | EMS Korea Post | 配送業者の規定による | 補償なし |
 | SF Express | 配送業者の規定による | 補償なし |
 | International Standard Shipping | 配送先によって異なる（下記参照） | 補償なし |
@@ -31,13 +31,7 @@ sidebar:
 
 KRWの金額は目安で、為替レートによって変動します。
 
-4つのサービスのうち3つは、輸送中の破損を補償しません。壊れやすい商品をお送りになる場合、このページで最も重要なポイントです。
-
-<div class="kh-callout kh-callout--caution">
-
-**FedExで$300を超える場合は、保険にご加入ください。** 無料の$300の補償は、$300以下の場合にのみ適用されます。それを超えるとまったく適用されないため、保険に加入していない$400の荷物には一切補償がありません。最初の$300分も補償されません。
-
-</div>
+初期設定では、輸送中の破損を補償するサービスはありません。FedExの荷物は、Shipping Insuranceを追加した場合のみ補償されます。壊れやすい商品をお送りになる場合、このページで最も重要なポイントです。
 
 ## 任意のShipping Insurance（配送保険）
 

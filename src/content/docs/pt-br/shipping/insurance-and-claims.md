@@ -1,7 +1,7 @@
 ---
 title: "Seguro e reclamações"
 description: "O que está coberto se um envio for perdido ou danificado, o Shipping Insurance opcional, como reduzir o risco e como abrir uma reclamação."
-lastUpdated: 2026-10-04
+lastUpdated: 2026-10-05
 sidebar:
   order: 4
 ---
@@ -14,7 +14,7 @@ Todo serviço vem com a proteção que a transportadora oferece. Isso não é a 
 
 | Serviço | Perda | Dano durante o transporte |
 | --- | --- | --- |
-| FedEx | Até USD $300 (cerca de KRW 405,000), gratuita | Até USD $300 (cerca de KRW 405,000), gratuita |
+| FedEx | Somente com Shipping Insurance (2% do valor declarado) | Somente com Shipping Insurance (2% do valor declarado) |
 | EMS Korea Post | Política da transportadora | Sem cobertura |
 | SF Express | Política da transportadora | Sem cobertura |
 | International Standard Shipping | Varia conforme o destino: veja abaixo | Sem cobertura |
@@ -31,13 +31,7 @@ Todo serviço vem com a proteção que a transportadora oferece. Isso não é a 
 
 Os valores em KRW são aproximados e variam com o câmbio.
 
-Três dos quatro serviços não cobrem danos durante o transporte. Se seus itens forem frágeis, essa é a informação mais importante desta página.
-
-<div class="kh-callout kh-callout--caution">
-
-**Mais de $300 na FedEx? Contrate o seguro.** A cobertura gratuita de $300 só vale para envios de até $300. Acima disso, ela não se aplica de forma alguma, então um envio de $400 sem seguro fica sem nenhuma cobertura, nem mesmo dos primeiros $300.
-
-</div>
+Nenhum serviço cobre danos durante o transporte por padrão. Envios pela FedEx só têm cobertura se você adicionar o Shipping Insurance. Se seus itens forem frágeis, essa é a informação mais importante desta página.
 
 ## Shipping Insurance opcional
 

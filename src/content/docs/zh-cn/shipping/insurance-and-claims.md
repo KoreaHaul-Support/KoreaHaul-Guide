@@ -1,7 +1,7 @@
 ---
 title: "保险与理赔"
 description: "货件丢失或损坏时的保障范围、可选的 Shipping Insurance、如何降低风险，以及如何提出理赔。"
-lastUpdated: 2026-10-04
+lastUpdated: 2026-10-05
 sidebar:
   order: 4
 ---
@@ -14,7 +14,7 @@ sidebar:
 
 | 服务 | 丢失 | 运输途中损坏 |
 | --- | --- | --- |
-| FedEx | 最高 USD $300（约 KRW 405,000），免费 | 最高 USD $300（约 KRW 405,000），免费 |
+| FedEx | 仅在购买 Shipping Insurance（申报价值的 2%）时保障 | 仅在购买 Shipping Insurance（申报价值的 2%）时保障 |
 | EMS Korea Post | 按承运商政策 | 不保障 |
 | SF Express | 按承运商政策 | 不保障 |
 | International Standard Shipping | 因目的地而异，见下表 | 不保障 |
@@ -31,13 +31,7 @@ sidebar:
 
 韩元金额为约数，会随汇率变动。
 
-四项服务中有三项不保障运输途中的损坏。如果您的物品易碎，这是本页最重要的一点。
-
-<div class="kh-callout kh-callout--caution">
-
-**FedEx 货件超过 $300？请购买保险。** $300 的免费保障仅适用于 $300 及以下的货件。超过该金额后完全不适用，因此一件未投保的 $400 货件没有任何保障，连前 $300 也不保障。
-
-</div>
+默认情况下，所有服务均不保障运输途中的损坏。FedEx 货件只有在您添加 Shipping Insurance 后才有保障。如果您的物品易碎，这是本页最重要的一点。
 
 ## 可选的 Shipping Insurance（运输保险）
 

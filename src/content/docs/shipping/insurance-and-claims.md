@@ -1,7 +1,7 @@
 ---
 title: "Insurance and claims"
 description: "What is covered if a shipment is lost or damaged, optional Shipping Insurance, how to lower the risk, and how to make a claim."
-lastUpdated: 2026-10-04
+lastUpdated: 2026-10-05
 sidebar:
   order: 4
 ---
@@ -14,7 +14,7 @@ Every service carries whatever protection the carrier provides. That is not the 
 
 | Service | Loss | Damage in transit |
 | --- | --- | --- |
-| FedEx | Up to USD $300 (about KRW 405,000), complimentary | Up to USD $300 (about KRW 405,000), complimentary |
+| FedEx | Only with Shipping Insurance (2% of declared value) | Only with Shipping Insurance (2% of declared value) |
 | EMS Korea Post | Carrier policy | Not covered |
 | SF Express | Carrier policy | Not covered |
 | International Standard Shipping | Varies by destination - see below | Not covered |
@@ -31,13 +31,7 @@ Every service carries whatever protection the carrier provides. That is not the 
 
 KRW figures are approximate and move with the exchange rate.
 
-Three of the four services do not cover damage in transit. If your items are fragile, that is the most important line on this page.
-
-<div class="kh-callout kh-callout--caution">
-
-**Over $300 on FedEx? Buy insurance.** The complimentary $300 cover applies only at or below $300. Above that it does not apply at all, so an uninsured $400 shipment has no cover whatsoever - not even the first $300.
-
-</div>
+No service covers damage in transit by default. FedEx shipments are covered only if you add Shipping Insurance. If your items are fragile, that is the most important line on this page.
 
 ## Optional Shipping Insurance
 
