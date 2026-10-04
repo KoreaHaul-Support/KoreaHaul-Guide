@@ -1,7 +1,7 @@
 ---
 title: "哥伦比亚"
 description: "从韩国寄往哥伦比亚：配送方式、海关关税与税费、费用以及我们无法寄送的物品。"
-lastUpdated: 2026-10-01
+lastUpdated: 2026-10-05
 sidebar:
   order: 20
 ---
@@ -29,7 +29,7 @@ sidebar:
 ## 配送
 
 - **FedEx International Connect Plus** - 预付进口费用（DDP）。清关手续费 ₩6,000；预估进口费用超过 ₩120,000 时为 ₩12,000。预计 3-5 个工作日。
-- **FedEx International Priority** - 进口费用由收件人支付（DAP）。预计 2-3 个工作日。
+- **FedEx International Priority** - 进口费用由收件人支付（DAP）。预计 4-7 个工作日。
 - **EMS** - 进口费用由收件人支付（DAP）。不可寄送任何类型的电池，包括内置电池。预计 10-20 个工作日。
 
 <div class="kh-callout kh-callout--note">

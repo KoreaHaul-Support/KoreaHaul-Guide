@@ -1,7 +1,7 @@
 ---
 title: "Pérou"
 description: "Expédition de la Corée vers le Pérou : options de livraison, droits de douane et taxes, coûts et articles que nous ne pouvons pas expédier."
-lastUpdated: 2026-10-01
+lastUpdated: 2026-10-05
 sidebar:
   order: 21
 ---
@@ -29,7 +29,7 @@ Les frais de traitement du paiement varient selon le moyen choisi et sont ajout�
 ## Livraison
 
 - **FedEx International Connect Plus** - frais d'importation prépayés (DDP). Frais de dédouanement de ₩6,000, ou ₩12,000 si les frais d'importation estimés dépassent ₩120,000. Délai estimé : 3-5 jours ouvrés.
-- **FedEx International Priority** - frais d'importation à la charge du destinataire (DAP). Délai estimé : 2-3 jours ouvrés.
+- **FedEx International Priority** - frais d'importation à la charge du destinataire (DAP). Délai estimé : 4-7 jours ouvrés.
 - **EMS** - frais d'importation à la charge du destinataire (DAP). Aucune batterie, quelle qu'elle soit, y compris intégrée. Délai estimé : 10-20 jours ouvrés.
 
 <div class="kh-callout kh-callout--note">

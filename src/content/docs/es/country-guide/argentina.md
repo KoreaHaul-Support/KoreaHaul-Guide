@@ -1,7 +1,7 @@
 ---
 title: "Argentina"
 description: "Envíos de Corea a Argentina: opciones de entrega, aranceles e impuestos de aduana, cuánto cuesta y artículos que no podemos enviar."
-lastUpdated: 2026-09-24
+lastUpdated: 2026-10-05
 sidebar:
   order: 19
 ---
@@ -28,7 +28,7 @@ Las comisiones de procesamiento de pago varían según el método y se suman al 
 
 ## Entrega
 
-- **FedEx International Priority** - el destinatario paga los cargos de importación (DAP). Tiempo estimado: 2-3 días hábiles.
+- **FedEx International Priority** - el destinatario paga los cargos de importación (DAP). Tiempo estimado: 4-7 días hábiles.
 - **EMS** - el destinatario paga los cargos de importación (DAP). No se aceptan baterías de ningún tipo, incluidas las integradas. Tiempo estimado: 10-20 días hábiles.
 
 <div class="kh-callout kh-callout--note">

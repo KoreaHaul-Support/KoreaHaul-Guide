@@ -1,7 +1,7 @@
 ---
 title: "Chili"
 description: "Expédition de la Corée vers le Chili : options de livraison, droits de douane et taxes, coûts et articles que nous ne pouvons pas expédier."
-lastUpdated: 2026-09-24
+lastUpdated: 2026-10-05
 sidebar:
   order: 18
 ---
@@ -29,7 +29,7 @@ Les frais de traitement du paiement varient selon le moyen choisi et sont ajout�
 ## Livraison
 
 - **FedEx International Connect Plus** - frais d'importation prépayés (DDP). Frais de dédouanement de ₩6,000, ou ₩12,000 si les frais d'importation estimés dépassent ₩120,000. Délai estimé : 3-5 jours ouvrés.
-- **FedEx International Priority** - frais d'importation payés par le destinataire (DAP). Délai estimé : 3-5 jours ouvrés.
+- **FedEx International Priority** - frais d'importation payés par le destinataire (DAP). Délai estimé : 4-7 jours ouvrés.
 - **EMS** - frais d'importation payés par le destinataire (DAP). Aucune batterie, même intégrée. Délai estimé : 10-20 jours ouvrés.
 
 <div class="kh-callout kh-callout--note">

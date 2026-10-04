@@ -1,7 +1,7 @@
 ---
 title: "Argentine"
 description: "Expédition de la Corée vers l'Argentine : options de livraison, droits de douane et taxes, coûts et articles que nous ne pouvons pas expédier."
-lastUpdated: 2026-09-24
+lastUpdated: 2026-10-05
 sidebar:
   order: 19
 ---
@@ -28,7 +28,7 @@ Les frais de traitement du paiement varient selon le moyen choisi et sont ajout�
 
 ## Livraison
 
-- **FedEx International Priority** - frais d'importation payés par le destinataire (DAP). Délai estimé : 2-3 jours ouvrés.
+- **FedEx International Priority** - frais d'importation payés par le destinataire (DAP). Délai estimé : 4-7 jours ouvrés.
 - **EMS** - frais d'importation payés par le destinataire (DAP). Aucune batterie, même intégrée. Délai estimé : 10-20 jours ouvrés.
 
 <div class="kh-callout kh-callout--note">

@@ -1,7 +1,7 @@
 ---
 title: "巴西"
 description: "从韩国寄往巴西：配送方式、海关关税与税费、费用以及我们无法寄送的物品。"
-lastUpdated: 2026-09-24
+lastUpdated: 2026-10-05
 sidebar:
   order: 17
 ---
@@ -28,7 +28,7 @@ sidebar:
 
 ## 配送
 
-- **FedEx International Priority** - 进口费用由收件人支付（DAP）。预计 2-3 个工作日。
+- **FedEx International Priority** - 进口费用由收件人支付（DAP）。预计 4-7 个工作日。
 - **EMS** - 进口费用由收件人支付（DAP）。不可寄送任何类型的电池，包括内置电池。预计 10-20 个工作日。
 
 <div class="kh-callout kh-callout--note">

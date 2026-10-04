@@ -1,7 +1,7 @@
 ---
 title: "アルゼンチン"
 description: "韓国からアルゼンチンへの発送: 配送方法、関税・税金、費用の目安、発送できない商品。"
-lastUpdated: 2026-09-24
+lastUpdated: 2026-10-05
 sidebar:
   order: 19
 ---
@@ -28,7 +28,7 @@ Wise、クレジットカード（3Dセキュア）をご利用いただけま�
 
 ## 配送
 
-- **FedEx International Priority** - 輸入諸費用は受取人払い（DAP）です。お届け目安は2-3営業日です。
+- **FedEx International Priority** - 輸入諸費用は受取人払い（DAP）です。お届け目安は4-7営業日です。
 - **EMS** - 輸入諸費用は受取人払い（DAP）です。内蔵型を含め、バッテリーは一切発送できません。お届け目安は10-20営業日です。
 
 <div class="kh-callout kh-callout--note">

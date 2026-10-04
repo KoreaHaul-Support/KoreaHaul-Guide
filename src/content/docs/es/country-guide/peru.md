@@ -1,7 +1,7 @@
 ---
 title: "Perú"
 description: "Envíos de Corea a Perú: opciones de envío, aranceles e impuestos de aduana, cuánto cuesta y artículos que no podemos enviar."
-lastUpdated: 2026-10-01
+lastUpdated: 2026-10-05
 sidebar:
   order: 21
 ---
@@ -29,7 +29,7 @@ Las tarifas de procesamiento de pago varían según el método y se agregan al p
 ## Envío
 
 - **FedEx International Connect Plus** - cargos de importación prepagados (DDP). Tarifa de gestión aduanera de ₩6,000, o de ₩12,000 si los cargos de importación estimados superan ₩120,000. Tiempo estimado: 3-5 días hábiles.
-- **FedEx International Priority** - cargos de importación pagados por el destinatario (DAP). Tiempo estimado: 2-3 días hábiles.
+- **FedEx International Priority** - cargos de importación pagados por el destinatario (DAP). Tiempo estimado: 4-7 días hábiles.
 - **EMS** - cargos de importación pagados por el destinatario (DAP). No se aceptan baterías de ningún tipo, ni siquiera integradas. Tiempo estimado: 10-20 días hábiles.
 
 <div class="kh-callout kh-callout--note">

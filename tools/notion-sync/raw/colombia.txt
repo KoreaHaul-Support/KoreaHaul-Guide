@@ -1,5 +1,5 @@
 TITLE: Colombia
-EDITED: 2026-10-01
+EDITED: 2026-10-05
 <content>
 Everything you need to buy Korean products and get them to your door in Colombia - from ordering to customs.
 *Last updated 17 September 2026*
@@ -13,7 +13,7 @@ Everything you need to buy Korean products and get them to your door in Colombia
 </callout>
 ## Delivery
 - **FedEx International Connect Plus** - prepaid import charges (DDP). Customs handling fee ₩6,000, or ₩12,000 where estimated import charges exceed ₩120,000. Estimated 3-5 business days.
-- **FedEx International Priority** - import charges paid by the recipient (DAP). Estimated 2-3 business days.
+- **FedEx International Priority** - import charges paid by the recipient (DAP). Estimated 4-7 business days.
 - **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 10-20 business days.
 <callout color="gray_bg">
 	**Prepaid (DDP)** = You pay import charges before your package is shipped.

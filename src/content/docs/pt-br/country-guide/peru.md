@@ -1,7 +1,7 @@
 ---
 title: "Peru"
 description: "Envio da Coreia para o Peru: opções de entrega, impostos e tributos de importação, quanto custa e itens que não podemos enviar."
-lastUpdated: 2026-10-01
+lastUpdated: 2026-10-05
 sidebar:
   order: 21
 ---
@@ -29,7 +29,7 @@ As taxas de processamento de pagamento variam conforme a forma escolhida e são 
 ## Entrega
 
 - **FedEx International Connect Plus** - encargos de importação pré-pagos (DDP). Taxa de desembaraço aduaneiro de ₩6,000, ou ₩12,000 quando os encargos de importação estimados passam de ₩120,000. Prazo estimado de 3-5 dias úteis.
-- **FedEx International Priority** - encargos de importação pagos pelo destinatário (DAP). Prazo estimado de 2-3 dias úteis.
+- **FedEx International Priority** - encargos de importação pagos pelo destinatário (DAP). Prazo estimado de 4-7 dias úteis.
 - **EMS** - encargos de importação pagos pelo destinatário (DAP). Não aceita baterias de nenhum tipo, nem mesmo embutidas. Prazo estimado de 10-20 dias úteis.
 
 <div class="kh-callout kh-callout--note">

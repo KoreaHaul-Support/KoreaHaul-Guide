@@ -1,7 +1,7 @@
 ---
 title: "チリ"
 description: "韓国からチリへの発送: 配送方法、関税・税金、費用の目安、発送できない商品。"
-lastUpdated: 2026-09-24
+lastUpdated: 2026-10-05
 sidebar:
   order: 18
 ---
@@ -29,7 +29,7 @@ PayPal、Wise、クレジットカード（3Dセキュア）をご利用いた�
 ## 配送
 
 - **FedEx International Connect Plus** - 輸入諸費用は前払い（DDP）です。通関手数料は₩6,000、輸入諸費用の見積額が₩120,000を超える場合は₩12,000です。お届け目安は3-5営業日です。
-- **FedEx International Priority** - 輸入諸費用は受取人払い（DAP）です。お届け目安は3-5営業日です。
+- **FedEx International Priority** - 輸入諸費用は受取人払い（DAP）です。お届け目安は4-7営業日です。
 - **EMS** - 輸入諸費用は受取人払い（DAP）です。内蔵型を含め、バッテリーは一切発送できません。お届け目安は10-20営業日です。
 
 <div class="kh-callout kh-callout--note">

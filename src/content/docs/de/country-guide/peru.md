@@ -1,7 +1,7 @@
 ---
 title: "Peru"
 description: "Versand von Korea nach Peru: Lieferoptionen, Zoll und Steuern, Kosten und Artikel, die wir nicht versenden können."
-lastUpdated: 2026-10-01
+lastUpdated: 2026-10-05
 sidebar:
   order: 21
 ---
@@ -29,7 +29,7 @@ Die Zahlungsgebühren hängen von der Zahlungsmethode ab und werden beim Bezahle
 ## Lieferung
 
 - **FedEx International Connect Plus** - Einfuhrabgaben im Voraus bezahlt (DDP). Zollabwicklungsgebühr ₩6,000 oder ₩12,000, wenn die geschätzten Einfuhrabgaben ₩120,000 übersteigen. Voraussichtlich 3-5 Werktage.
-- **FedEx International Priority** - Einfuhrabgaben zahlt der Empfänger (DAP). Voraussichtlich 2-3 Werktage.
+- **FedEx International Priority** - Einfuhrabgaben zahlt der Empfänger (DAP). Voraussichtlich 4-7 Werktage.
 - **EMS** - Einfuhrabgaben zahlt der Empfänger (DAP). Keinerlei Batterien, auch keine fest eingebauten. Voraussichtlich 10-20 Werktage.
 
 <div class="kh-callout kh-callout--note">
