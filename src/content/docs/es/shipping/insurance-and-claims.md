@@ -1,7 +1,7 @@
 ---
 title: "Seguro y reclamos"
 description: "Qué está cubierto si un envío se pierde o se daña, el Shipping Insurance opcional, cómo reducir el riesgo y cómo hacer un reclamo."
-lastUpdated: 2026-10-03
+lastUpdated: 2026-10-04
 sidebar:
   order: 4
 ---
@@ -25,7 +25,6 @@ Cada servicio incluye la protección que ofrezca el transportista. Eso no es lo 
 | --- | --- |
 | Estados Unidos | USD $200 (unos KRW 270,000) |
 | Unión Europea | USD $155 (unos KRW 209,000) |
-| Canadá | USD $50 (unos KRW 67,500) |
 | Japón, China, Hong Kong | USD $40 (unos KRW 54,000) |
 | México, Israel, Arabia Saudita, Turquía | Sin cobertura |
 | Todos los demás destinos | USD $50 (unos KRW 67,500) |

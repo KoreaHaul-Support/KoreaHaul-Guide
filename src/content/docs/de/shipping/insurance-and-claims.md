@@ -1,7 +1,7 @@
 ---
 title: "Versicherung und Schadensfälle"
 description: "Was abgedeckt ist, wenn eine Sendung verloren geht oder beschädigt wird, die optionale Shipping Insurance, wie Sie das Risiko senken und wie Sie einen Schaden melden."
-lastUpdated: 2026-10-03
+lastUpdated: 2026-10-04
 sidebar:
   order: 4
 ---
@@ -25,7 +25,6 @@ Jeder Service bietet den Schutz, den der Versanddienstleister gewährt. Das ist 
 | --- | --- |
 | Vereinigte Staaten | USD $200 (etwa KRW 270,000) |
 | Europäische Union | USD $155 (etwa KRW 209,000) |
-| Kanada | USD $50 (etwa KRW 67,500) |
 | Japan, China, Hongkong | USD $40 (etwa KRW 54,000) |
 | Mexiko, Israel, Saudi-Arabien, Türkei | Keine Deckung |
 | Alle anderen Länder | USD $50 (etwa KRW 67,500) |

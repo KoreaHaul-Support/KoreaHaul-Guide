@@ -1,7 +1,7 @@
 ---
 title: "Canada"
 description: "Expédition de la Corée vers le Canada : options de livraison, droits de douane et taxes, coûts et articles que nous ne pouvons pas expédier."
-lastUpdated: 2026-09-24
+lastUpdated: 2026-10-04
 sidebar:
   order: 15
 ---
@@ -29,17 +29,11 @@ Les frais de traitement du paiement varient selon le moyen choisi et sont ajout�
 ## Livraison
 
 - **FedEx International Priority** - frais d'importation payés par le destinataire (DAP). Délai estimé : 2-3 jours ouvrés.
-- **International Standard Shipping** - service KoreaHaul avec frais d'importation prépayés. Délai estimé : 10-20 jours ouvrés.
-    - **Disponible pour les envois d'une valeur déclarée de $99 ou moins.**
-    - **Pas de produits de marque.**
-    - Frais d'importation prépayés forfaitaires de 20% sur les envois éligibles, calculés sur la valeur déclarée, dédouanement compris.
-    - Il s'agit d'un prix de service KoreaHaul, et non d'un taux de droits de douane canadien universel.
-    - Assurance perte incluse, jusqu'à $50.
 - **EMS** - frais d'importation payés par le destinataire (DAP). Aucune batterie, même intégrée. Délai estimé : 5-10 jours ouvrés.
 
-<div class="kh-callout kh-callout--note">
+International Standard Shipping n'est plus disponible pour le Canada.
 
-**Prépayé (DDP)** = vous payez les frais d'importation avant l'expédition de votre colis.
+<div class="kh-callout kh-callout--note">
 
 **Payé par le destinataire (DAP/DDU)** = vous payez les frais d'importation à l'arrivée de votre colis dans votre pays.
 
@@ -49,7 +43,7 @@ Les frais d'importation peuvent comprendre des droits de douane, des taxes, des 
 
 Pour estimer le coût et le délai de livraison, utilisez le Shipping Calculator sur [koreahaul.com](https://koreahaul.com/).
 
-*Poids maximal par envoi : 30 kg avec FedEx International Priority, 5 kg avec International Standard Shipping, 20 kg avec EMS.*
+*Poids maximal par envoi : 30 kg avec FedEx International Priority, 20 kg avec EMS.*
 
 ## Douane, droits et taxes
 
@@ -65,7 +59,6 @@ Pour estimer le coût et le délai de livraison, utilisez le Shipping Calculator
 - **La valeur en douane** part du prix des marchandises ; l'expédition internationale est généralement exclue lorsqu'elle est indiquée séparément.
 - **Taxe sur les ventes :** TPS (GST) de 5% dans tout le pays, plus une taxe provinciale, jusqu'à 15% au total (TVH/HST) selon la province.
 - **Les droits et la taxe d'importation** dépendent normalement du produit, de la valeur en douane, de la destination et du pays d'origine.
-    - Pour les envois International Standard Shipping éligibles, KoreaHaul applique à la place un montant forfaitaire de frais d'importation prépayés de 20% calculé sur la valeur déclarée, dédouanement compris.
 
 Pour estimer vous-même les droits et taxes, utilisez l'[estimateur des droits et taxes de l'ASFC (CBSA)](https://www.cbsa-asfc.gc.ca/travel-voyage/dte-acl/est-cal-eng.html).
 
@@ -100,10 +93,6 @@ Pour une commande de $100 (valeur des marchandises ; le Canada exclut générale
 
 </div>
 
-**Avec International Standard Shipping :**
-
-- Pour les envois éligibles, KoreaHaul inclut les droits, taxes et frais de dédouanement estimés dans les frais d'importation prépayés forfaitaires de 20% (calculés sur la valeur déclarée).
-
 ## Ce que nous ne pouvons pas expédier
 
 - Produits inflammables et sous pression (parfum, eau de Cologne, vernis à ongles, aérosols, briquets, chauffe-mains)
@@ -119,9 +108,7 @@ Consultez la page [Articles interdits et soumis à restrictions](https://koreaha
 
 ## Questions
 
-- **Est-ce que je paie à la livraison ?**
-    - **Prépayé (DDP) :** dans la plupart des cas, non. Des frais supplémentaires peuvent s'appliquer en cas d'informations erronées, de documents inexacts, de sous-évaluation ou d'autres problèmes liés à l'importation.
-    - **Payé par le destinataire (DAP) :** vous payez les frais d'importation au dédouanement ou à la livraison.
+- **Est-ce que je paie à la livraison ?** Oui. FedEx International Priority et EMS sont tous deux payés par le destinataire (DAP) : vous payez donc les frais d'importation au dédouanement ou à la livraison.
 - **Une petite commande est-elle exonérée de droits ?** Seulement en dessous de CAD 20 (\~US$15) par la poste. La plupart des commandes sont taxées.
 - **Pouvez-vous acheter sur n'importe quel site coréen ?** Sur la plupart. Envoyez le lien via une [demande Buy For Me](https://koreahaul.com/services/buy-for-me/create) et nous vérifierons.
 - **Puis-je regrouper mes commandes ?** Oui. Le regroupement réduit les frais d'expédition (mais il peut augmenter la valeur déclarée).

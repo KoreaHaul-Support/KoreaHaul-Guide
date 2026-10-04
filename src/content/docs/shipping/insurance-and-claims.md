@@ -1,7 +1,7 @@
 ---
 title: "Insurance and claims"
 description: "What is covered if a shipment is lost or damaged, optional Shipping Insurance, how to lower the risk, and how to make a claim."
-lastUpdated: 2026-10-03
+lastUpdated: 2026-10-04
 sidebar:
   order: 4
 ---
@@ -25,7 +25,6 @@ Every service carries whatever protection the carrier provides. That is not the 
 | --- | --- |
 | United States | USD $200 (about KRW 270,000) |
 | European Union | USD $155 (about KRW 209,000) |
-| Canada | USD $50 (about KRW 67,500) |
 | Japan, China, Hong Kong | USD $40 (about KRW 54,000) |
 | Mexico, Israel, Saudi Arabia, Turkey | No cover |
 | Everywhere else | USD $50 (about KRW 67,500) |

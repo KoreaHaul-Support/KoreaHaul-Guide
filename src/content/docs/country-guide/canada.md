@@ -1,14 +1,14 @@
 ---
 title: "Canada"
 description: "Shipping from Korea to Canada: delivery options, customs duty and tax, what it costs, and items we cannot ship."
-lastUpdated: 2026-09-24
+lastUpdated: 2026-10-04
 sidebar:
   order: 15
 ---
 
 Everything you need to buy Korean products and get them to your door in Canada - from ordering to customs.
 
-*Last updated 24 September 2026*
+*Last updated 4 October 2026*
 
 ## How it works
 
@@ -29,17 +29,11 @@ Payment processing fees vary by method and are added at checkout.
 ## Delivery
 
 - **FedEx International Priority** - import charges paid by the recipient (DAP). Estimated 2-3 business days.
-- **International Standard Shipping** - KoreaHaul prepaid import-charge service. Estimated 10-20 business days.
-    - **Available for shipments with a declared value of $99 or less.**
-    - **No branded products.**
-    - Flat 20% prepaid import-charge on eligible shipments, based on declared value, including customs handling.
-    - This is a KoreaHaul service price, not a universal Canadian customs-duty rate.
-    - Loss insurance included, up to $50.
 - **EMS** - import charges paid by the recipient (DAP). No batteries of any kind, including built-in. Estimated 5-10 business days.
 
-<div class="kh-callout kh-callout--note">
+International Standard Shipping is no longer available for Canada.
 
-**Prepaid (DDP)** = You pay import charges before your package is shipped.
+<div class="kh-callout kh-callout--note">
 
 **Recipient-paid (DAP/DDU)** = You pay import charges when your package arrives in your country.
 
@@ -49,7 +43,7 @@ Import charges may include duties, taxes, customs handling fees, and other impor
 
 To estimate the shipping cost and transit time, use the Shipping Calculator at [koreahaul.com](https://koreahaul.com/).
 
-*Maximum weight per shipment: 30 kg on FedEx International Priority, 5 kg on International Standard Shipping, 20 kg on EMS.*
+*Maximum weight per shipment: 30 kg on FedEx International Priority, 20 kg on EMS.*
 
 ## Customs, duty and tax
 
@@ -65,7 +59,6 @@ To estimate the shipping cost and transit time, use the Shipping Calculator at [
 - **Value for duty** starts with the goods price; international shipping is generally excluded when shown separately.
 - **Sales tax:** 5% GST nationwide, plus a provincial tax - combined up to 15% (HST) depending on the province.
 - **Duty and import tax** normally depend on the product, customs value, destination, and country of origin.
-    - For eligible International Standard Shipping shipments, KoreaHaul instead quotes a flat 20% prepaid import-charge amount based on the declared value, including customs handling.
 
 To estimate duty and tax yourself, use the [CBSA duty and taxes estimator](https://www.cbsa-asfc.gc.ca/travel-voyage/dte-acl/est-cal-eng.html).
 
@@ -100,10 +93,6 @@ On a $100 order (goods value; Canada generally excludes international shipping w
 
 </div>
 
-**Via International Standard Shipping:**
-
-- For eligible shipments, KoreaHaul includes estimated duty, tax, and customs handling in the flat 20% prepaid import-charge (based on declared value).
-
 ## What we can't ship
 
 - Flammables and pressurized items (perfume, cologne, nail polish, aerosols, lighters, hand warmers)
@@ -119,9 +108,7 @@ See the [Prohibited and Restricted Items](https://koreahaul.com/shipping-info/re
 
 ## Questions
 
-- **Do I pay on delivery?**
-    - **Prepaid (DDP):** in most cases no. Additional charges may apply due to incorrect information, inaccurate documents, undervaluation, or other import-related issues.
-    - **Recipient-paid (DAP):** you pay import charges at clearance or delivery.
+- **Do I pay on delivery?** Yes. FedEx International Priority and EMS are both recipient-paid (DAP), so you pay import charges at clearance or delivery.
 - **Is a small order duty-free?** Only under CAD 20 (\~US$15) by mail. Most orders are taxed.
 - **Can you buy from any Korean site?** Most of them. Submit the link through a [Buy For Me request](https://koreahaul.com/services/buy-for-me/create) and we will check.
 - **Can I combine orders?** Yes - consolidating saves on shipping (it can raise the declared value).

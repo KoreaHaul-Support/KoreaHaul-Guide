@@ -1,7 +1,7 @@
 ---
 title: "保险与理赔"
 description: "货件丢失或损坏时的保障范围、可选的 Shipping Insurance、如何降低风险，以及如何提出理赔。"
-lastUpdated: 2026-10-03
+lastUpdated: 2026-10-04
 sidebar:
   order: 4
 ---
@@ -25,7 +25,6 @@ sidebar:
 | --- | --- |
 | 美国 | USD $200（约 KRW 270,000） |
 | 欧盟 | USD $155（约 KRW 209,000） |
-| 加拿大 | USD $50（约 KRW 67,500） |
 | 日本、中国、香港 | USD $40（约 KRW 54,000） |
 | 墨西哥、以色列、沙特阿拉伯、土耳其 | 无保障 |
 | 其他所有地区 | USD $50（约 KRW 67,500） |

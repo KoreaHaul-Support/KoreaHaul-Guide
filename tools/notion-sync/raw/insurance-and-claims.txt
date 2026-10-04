@@ -1,5 +1,5 @@
 TITLE: Insurance and claims
-EDITED: 2026-10-03
+EDITED: 2026-10-04
 <content>
 What is covered if a shipment is lost or damaged, and what to do about it.
 ## What you get by default
@@ -53,10 +53,6 @@ Every service carries whatever protection the carrier provides. That is not the 
 <tr>
 <td>European Union</td>
 <td>USD \$155 (about KRW 209,000)</td>
-</tr>
-<tr>
-<td>Canada</td>
-<td>USD \$50 (about KRW 67,500)</td>
 </tr>
 <tr>
 <td>Japan, China, Hong Kong</td>

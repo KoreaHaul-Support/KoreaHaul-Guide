@@ -1,7 +1,7 @@
 ---
 title: "Canadá"
 description: "Envíos de Corea a Canadá: opciones de entrega, aranceles e impuestos de aduana, cuánto cuesta y artículos que no podemos enviar."
-lastUpdated: 2026-09-24
+lastUpdated: 2026-10-04
 sidebar:
   order: 15
 ---
@@ -29,17 +29,11 @@ Las comisiones de procesamiento de pago varían según el método y se suman al 
 ## Entrega
 
 - **FedEx International Priority** - el destinatario paga los cargos de importación (DAP). Tiempo estimado: 2-3 días hábiles.
-- **International Standard Shipping** - servicio de KoreaHaul con cargos de importación prepagados. Tiempo estimado: 10-20 días hábiles.
-    - **Disponible para envíos con un valor declarado de $99 o menos.**
-    - **No se aceptan productos de marca.**
-    - Cargo de importación prepagado fijo del 20% en envíos que califican, calculado sobre el valor declarado e incluye la gestión aduanera.
-    - Es un precio de servicio de KoreaHaul, no una tasa de arancel aduanero general de Canadá.
-    - Incluye seguro contra pérdida de hasta $50.
 - **EMS** - el destinatario paga los cargos de importación (DAP). No se aceptan baterías de ningún tipo, incluidas las integradas. Tiempo estimado: 5-10 días hábiles.
 
-<div class="kh-callout kh-callout--note">
+International Standard Shipping ya no está disponible para Canadá.
 
-**Prepagado (DDP)** = Pagas los cargos de importación antes de que se envíe tu paquete.
+<div class="kh-callout kh-callout--note">
 
 **Pago por el destinatario (DAP/DDU)** = Pagas los cargos de importación cuando tu paquete llega a tu país.
 
@@ -49,7 +43,7 @@ Los cargos de importación pueden incluir aranceles, impuestos, tarifas de gesti
 
 Para estimar el costo de envío y el tiempo de tránsito, usa la Shipping Calculator (calculadora de envío) en [koreahaul.com](https://koreahaul.com/).
 
-*Peso máximo por envío: 30 kg con FedEx International Priority, 5 kg con International Standard Shipping, 20 kg con EMS.*
+*Peso máximo por envío: 30 kg con FedEx International Priority, 20 kg con EMS.*
 
 ## Aduana, aranceles e impuestos
 
@@ -65,7 +59,6 @@ Para estimar el costo de envío y el tiempo de tránsito, usa la Shipping Calcul
 - **El valor para el arancel** parte del precio de la mercancía; el envío internacional por lo general se excluye cuando aparece por separado.
 - **Impuesto a las ventas:** 5% de GST en todo el país, más un impuesto provincial, hasta un 15% combinado (HST) según la provincia.
 - **El arancel y el impuesto de importación** normalmente dependen del producto, el valor en aduana, el destino y el país de origen.
-    - Para los envíos de International Standard Shipping que califican, KoreaHaul cotiza en su lugar un cargo de importación prepagado fijo del 20% sobre el valor declarado, que incluye la gestión aduanera.
 
 Para estimar tú mismo el arancel y los impuestos, usa el [estimador de aranceles e impuestos de la CBSA](https://www.cbsa-asfc.gc.ca/travel-voyage/dte-acl/est-cal-eng.html).
 
@@ -100,10 +93,6 @@ En un pedido de $100 (valor de la mercancía; Canadá por lo general excluye el 
 
 </div>
 
-**Con International Standard Shipping:**
-
-- Para los envíos que califican, KoreaHaul incluye el arancel, los impuestos y la gestión aduanera estimados en el cargo de importación prepagado fijo del 20% (sobre el valor declarado).
-
 ## Lo que no podemos enviar
 
 - Inflamables y artículos presurizados (perfume, colonia, esmalte de uñas, aerosoles, encendedores, calentadores de manos)
@@ -119,9 +108,7 @@ Consulta la página [Prohibited and Restricted Items](https://koreahaul.com/ship
 
 ## Preguntas
 
-- **¿Pago al recibir?**
-    - **Prepagado (DDP):** en la mayoría de los casos, no. Pueden aplicarse cargos adicionales por información incorrecta, documentos inexactos, subvaloración u otros problemas relacionados con la importación.
-    - **Pago por el destinatario (DAP):** pagas los cargos de importación en el despacho o en la entrega.
+- **¿Pago al recibir?** Sí. FedEx International Priority y EMS son servicios con pago por el destinatario (DAP), así que pagas los cargos de importación en el despacho o en la entrega.
 - **¿Un pedido pequeño está libre de aranceles?** Solo si vale menos de CAD 20 (\~US$15) y llega por correo. La mayoría de los pedidos pagan impuestos.
 - **¿Pueden comprar en cualquier sitio coreano?** En la mayoría. Envía el enlace mediante una [solicitud de Buy For Me](https://koreahaul.com/services/buy-for-me/create) y lo revisamos.
 - **¿Puedo combinar pedidos?** Sí. Consolidar ahorra en el envío (aunque puede aumentar el valor declarado).

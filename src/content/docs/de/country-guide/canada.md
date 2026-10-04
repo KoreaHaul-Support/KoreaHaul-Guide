@@ -1,7 +1,7 @@
 ---
 title: "Kanada"
 description: "Versand von Korea nach Kanada: Versandoptionen, Zoll und Steuern, Kosten und Artikel, die wir nicht versenden können."
-lastUpdated: 2026-09-24
+lastUpdated: 2026-10-04
 sidebar:
   order: 15
 ---
@@ -29,17 +29,11 @@ Die Zahlungsgebühren hängen von der Methode ab und werden beim Bezahlen hinzug
 ## Versand
 
 - **FedEx International Priority** - Einfuhrabgaben zahlt der Empfänger (DAP). Voraussichtlich 2-3 Werktage.
-- **International Standard Shipping** - Service von KoreaHaul mit im Voraus bezahlten Einfuhrabgaben. Voraussichtlich 10-20 Werktage.
-    - **Verfügbar für Sendungen mit einem deklarierten Wert von $99 oder weniger.**
-    - **Keine Markenprodukte.**
-    - Pauschal 20% im Voraus bezahlte Einfuhrabgaben auf berechtigte Sendungen, berechnet auf den deklarierten Wert, inklusive Zollabwicklung.
-    - Das ist ein Servicepreis von KoreaHaul, kein allgemeiner kanadischer Zollsatz.
-    - Versicherung gegen Verlust inklusive, bis zu $50.
 - **EMS** - Einfuhrabgaben zahlt der Empfänger (DAP). Keinerlei Akkus oder Batterien, auch keine eingebauten. Voraussichtlich 5-10 Werktage.
 
-<div class="kh-callout kh-callout--note">
+International Standard Shipping ist für Kanada nicht mehr verfügbar.
 
-**Im Voraus bezahlt (DDP)** = Sie zahlen die Einfuhrabgaben, bevor Ihr Paket versendet wird.
+<div class="kh-callout kh-callout--note">
 
 **Vom Empfänger bezahlt (DAP/DDU)** = Sie zahlen die Einfuhrabgaben, wenn Ihr Paket in Ihrem Land ankommt.
 
@@ -49,7 +43,7 @@ Einfuhrabgaben können Zölle, Steuern, Zollabwicklungsgebühren und andere einf
 
 Versandkosten und Laufzeit können Sie mit dem Shipping Calculator (Versandrechner) auf [koreahaul.com](https://koreahaul.com/) schätzen.
 
-*Höchstgewicht pro Sendung: 30 kg mit FedEx International Priority, 5 kg mit International Standard Shipping, 20 kg mit EMS.*
+*Höchstgewicht pro Sendung: 30 kg mit FedEx International Priority, 20 kg mit EMS.*
 
 ## Zoll, Abgaben und Steuern
 
@@ -65,7 +59,6 @@ Versandkosten und Laufzeit können Sie mit dem Shipping Calculator (Versandrechn
 - **Der Zollwert** geht vom Warenpreis aus; der internationale Versand ist in der Regel ausgenommen, wenn er separat ausgewiesen ist.
 - **Umsatzsteuer:** 5% GST landesweit plus eine Provinzsteuer - zusammen bis zu 15% (HST), je nach Provinz.
 - **Zoll und Einfuhrsteuer** hängen normalerweise vom Produkt, Zollwert, Zielort und Ursprungsland ab.
-    - Für berechtigte Sendungen mit International Standard Shipping berechnet KoreaHaul stattdessen pauschal 20% im Voraus bezahlte Einfuhrabgaben auf den deklarierten Wert, inklusive Zollabwicklung.
 
 Wenn Sie Zoll und Steuern selbst schätzen möchten, nutzen Sie den [Zoll- und Steuerrechner der CBSA](https://www.cbsa-asfc.gc.ca/travel-voyage/dte-acl/est-cal-eng.html).
 
@@ -100,10 +93,6 @@ Bei einer Bestellung über $100 (Warenwert; Kanada schließt den internationalen
 
 </div>
 
-**Mit International Standard Shipping:**
-
-- Für berechtigte Sendungen sind geschätzter Zoll, Steuern und Zollabwicklung in den pauschalen 20% im Voraus bezahlter Einfuhrabgaben enthalten (auf Basis des deklarierten Werts).
-
 ## Was wir nicht versenden können
 
 - Entzündliche und unter Druck stehende Artikel (Parfüm, Eau de Cologne, Nagellack, Sprühdosen, Feuerzeuge, Taschenwärmer)
@@ -119,9 +108,7 @@ Alle Details finden Sie auf der Seite [Prohibited and Restricted Items](https://
 
 ## Fragen
 
-- **Zahle ich bei der Lieferung?**
-    - **Im Voraus bezahlt (DDP):** in den meisten Fällen nicht. Zusätzliche Kosten können durch falsche Angaben, fehlerhafte Dokumente, Unterbewertung oder andere einfuhrbezogene Probleme entstehen.
-    - **Vom Empfänger bezahlt (DAP):** Sie zahlen die Einfuhrabgaben bei der Verzollung oder Zustellung.
+- **Zahle ich bei der Lieferung?** Ja. FedEx International Priority und EMS werden beide vom Empfänger bezahlt (DAP), daher zahlen Sie die Einfuhrabgaben bei der Verzollung oder Zustellung.
 - **Ist eine kleine Bestellung zollfrei?** Nur unter CAD 20 (\~US$15) per Post. Die meisten Bestellungen werden besteuert.
 - **Können Sie auf jeder koreanischen Website kaufen?** Auf den meisten. Senden Sie den Link über eine [Buy For Me Anfrage](https://koreahaul.com/services/buy-for-me/create), und wir prüfen es.
 - **Kann ich Bestellungen zusammenfassen?** Ja - das Zusammenfassen spart Versandkosten (es kann aber den deklarierten Wert erhöhen).

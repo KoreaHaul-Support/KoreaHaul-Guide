@@ -1,7 +1,7 @@
 ---
 title: "Canadá"
 description: "Envio da Coreia para o Canadá: opções de entrega, impostos de importação, quanto custa e itens que não podemos enviar."
-lastUpdated: 2026-09-24
+lastUpdated: 2026-10-04
 sidebar:
   order: 15
 ---
@@ -29,17 +29,11 @@ As taxas de processamento de pagamento variam conforme o método e são adiciona
 ## Entrega
 
 - **FedEx International Priority** - encargos de importação pagos pelo destinatário (DAP). Prazo estimado de 2-3 dias úteis.
-- **International Standard Shipping** - serviço da KoreaHaul com encargos de importação pré-pagos. Prazo estimado de 10-20 dias úteis.
-    - **Disponível para envios com valor declarado de $99 ou menos.**
-    - **Sem produtos de marca.**
-    - Encargo de importação pré-pago fixo de 20% nos envios elegíveis, calculado sobre o valor declarado, com o desembaraço aduaneiro incluído.
-    - Este é um preço de serviço da KoreaHaul, não uma alíquota de imposto de importação válida para todo o Canadá.
-    - Seguro contra perda incluído, até $50.
 - **EMS** - encargos de importação pagos pelo destinatário (DAP). Nenhum tipo de bateria, nem mesmo embutida. Prazo estimado de 5-10 dias úteis.
 
-<div class="kh-callout kh-callout--note">
+O International Standard Shipping não está mais disponível para o Canadá.
 
-**Pré-pago (DDP)** = você paga os encargos de importação antes de o pacote ser enviado.
+<div class="kh-callout kh-callout--note">
 
 **Pago pelo destinatário (DAP/DDU)** = você paga os encargos de importação quando o pacote chega ao seu país.
 
@@ -49,7 +43,7 @@ Os encargos de importação podem incluir impostos de importação, tributos, ta
 
 Para estimar o custo do frete e o prazo de entrega, use a Calculadora de frete em [koreahaul.com](https://koreahaul.com/).
 
-*Peso máximo por envio: 30 kg no FedEx International Priority, 5 kg no International Standard Shipping, 20 kg no EMS.*
+*Peso máximo por envio: 30 kg no FedEx International Priority, 20 kg no EMS.*
 
 ## Alfândega e impostos
 
@@ -65,7 +59,6 @@ Para estimar o custo do frete e o prazo de entrega, use a Calculadora de frete e
 - **O valor para fins de imposto** parte do preço das mercadorias; o frete internacional em geral fica de fora quando aparece separado.
 - **Imposto sobre vendas:** 5% de GST em todo o país, mais um imposto provincial - somando até 15% (HST), dependendo da província.
 - **O imposto de importação e os tributos** normalmente dependem do produto, do valor aduaneiro, do destino e do país de origem.
-    - Nos envios elegíveis do International Standard Shipping, a KoreaHaul cobra em vez disso um encargo de importação pré-pago fixo de 20% sobre o valor declarado, com o desembaraço aduaneiro incluído.
 
 Para estimar os impostos por conta própria, use o [estimador de impostos da CBSA](https://www.cbsa-asfc.gc.ca/travel-voyage/dte-acl/est-cal-eng.html).
 
@@ -100,10 +93,6 @@ Em um pedido de $100 (valor das mercadorias; o Canadá em geral exclui o frete i
 
 </div>
 
-**Pelo International Standard Shipping:**
-
-- Nos envios elegíveis, a KoreaHaul inclui o imposto de importação, os tributos e o desembaraço aduaneiro estimados no encargo de importação pré-pago fixo de 20% (calculado sobre o valor declarado).
-
 ## O que não podemos enviar
 
 - Inflamáveis e itens pressurizados (perfume, colônia, esmalte, aerossóis, isqueiros, aquecedores de mão)
@@ -119,9 +108,7 @@ Veja a página [Itens proibidos e restritos](https://koreahaul.com/shipping-info
 
 ## Perguntas
 
-- **Eu pago na entrega?**
-    - **Pré-pago (DDP):** na maioria dos casos, não. Podem ser cobrados valores adicionais por informações incorretas, documentos imprecisos, subfaturamento ou outros problemas ligados à importação.
-    - **Pago pelo destinatário (DAP):** você paga os encargos de importação no desembaraço ou na entrega.
+- **Eu pago na entrega?** Sim. O FedEx International Priority e o EMS são pagos pelo destinatário (DAP), então você paga os encargos de importação no desembaraço ou na entrega.
 - **Um pedido pequeno fica isento de impostos?** Só abaixo de CAD 20 (\~US$15) por correio. A maioria dos pedidos é tributada.
 - **Vocês compram em qualquer site coreano?** Na maioria deles. Envie o link por uma [solicitação de Buy For Me](https://koreahaul.com/services/buy-for-me/create) e nós verificamos.
 - **Posso juntar pedidos?** Sim - consolidar economiza no frete (mas pode aumentar o valor declarado).

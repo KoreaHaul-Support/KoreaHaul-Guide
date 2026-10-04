@@ -1,7 +1,7 @@
 ---
 title: "Assurance et réclamations"
 description: "Ce qui est couvert si un envoi est perdu ou endommagé, l'option Shipping Insurance, comment réduire le risque et comment faire une réclamation."
-lastUpdated: 2026-10-03
+lastUpdated: 2026-10-04
 sidebar:
   order: 4
 ---
@@ -25,7 +25,6 @@ Chaque service bénéficie de la protection fournie par le transporteur, quelle 
 | --- | --- |
 | États-Unis | USD $200 (environ KRW 270,000) |
 | Union européenne | USD $155 (environ KRW 209,000) |
-| Canada | USD $50 (environ KRW 67,500) |
 | Japon, Chine, Hong Kong | USD $40 (environ KRW 54,000) |
 | Mexique, Israël, Arabie saoudite, Turquie | Aucune couverture |
 | Partout ailleurs | USD $50 (environ KRW 67,500) |

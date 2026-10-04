@@ -1,7 +1,7 @@
 ---
 title: "加拿大"
 description: "从韩国寄往加拿大：配送方式、海关关税与税费、费用以及我们无法寄送的物品。"
-lastUpdated: 2026-09-24
+lastUpdated: 2026-10-04
 sidebar:
   order: 15
 ---
@@ -29,17 +29,11 @@ PayPal、Wise 和信用卡（3D Secure）。限额请参阅“付款方式”。
 ## 配送
 
 - **FedEx International Priority** - 进口费用由收件人支付（DAP）。预计 2-3 个工作日。
-- **International Standard Shipping** - KoreaHaul 预付进口费用服务。预计 10-20 个工作日。
-    - **适用于申报价值在 $99 及以下的货件。**
-    - **不可寄送品牌商品。**
-    - 符合条件的货件按申报价值统一收取 20% 预付进口费用，已包含清关手续费。
-    - 这是 KoreaHaul 的服务价格，并非加拿大统一的海关关税税率。
-    - 含丢失保险，最高 $50。
 - **EMS** - 进口费用由收件人支付（DAP）。不可寄送任何类型的电池，包括内置电池。预计 5-10 个工作日。
 
-<div class="kh-callout kh-callout--note">
+International Standard Shipping 已不再支持寄往加拿大。
 
-**预付（DDP）** = 包裹寄出前，由您支付进口费用。
+<div class="kh-callout kh-callout--note">
 
 **收件人支付（DAP/DDU）** = 包裹到达您所在国家/地区时，由您支付进口费用。
 
@@ -49,7 +43,7 @@ PayPal、Wise 和信用卡（3D Secure）。限额请参阅“付款方式”。
 
 如需估算运费和运输时间，请使用 [koreahaul.com](https://koreahaul.com/) 上的运费计算器（Shipping Calculator）。
 
-*每批货件最大重量：FedEx International Priority 30 kg，International Standard Shipping 5 kg，EMS 20 kg。*
+*每批货件最大重量：FedEx International Priority 30 kg，EMS 20 kg。*
 
 ## 海关、关税与税费
 
@@ -65,7 +59,6 @@ PayPal、Wise 和信用卡（3D Secure）。限额请参阅“付款方式”。
 - **完税价格**以商品价格为起点；国际运费如单独列示，一般不计入。
 - **销售税：** 全国统一 5% GST，另加省税，视省份不同合计最高 15%（HST）。
 - **关税和进口税**通常取决于商品、完税价格、目的地和原产国。
-    - 对于符合条件的 International Standard Shipping 货件，KoreaHaul 则按申报价值统一报价 20% 预付进口费用，已包含清关手续费。
 
 如需自行估算关税和税费，请使用 [CBSA 关税与税费估算工具](https://www.cbsa-asfc.gc.ca/travel-voyage/dte-acl/est-cal-eng.html)。
 
@@ -100,10 +93,6 @@ PayPal、Wise 和信用卡（3D Secure）。限额请参阅“付款方式”。
 
 </div>
 
-**通过 International Standard Shipping：**
-
-- 对于符合条件的货件，KoreaHaul 将预估的关税、税费和清关手续费包含在统一的 20% 预付进口费用中（按申报价值计算）。
-
 ## 无法寄送的物品
 
 - 易燃品和压力容器（香水、古龙水、指甲油、喷雾、打火机、暖宝宝）
@@ -119,9 +108,7 @@ PayPal、Wise 和信用卡（3D Secure）。限额请参阅“付款方式”。
 
 ## 常见问题
 
-- **需要在收货时付款吗？**
-    - **预付（DDP）：** 大多数情况下不需要。如因信息有误、单据不准确、低报价值或其他进口相关问题，可能会产生额外费用。
-    - **收件人支付（DAP）：** 您需要在清关或派送时支付进口费用。
+- **需要在收货时付款吗？** 是的。FedEx International Priority 和 EMS 均为收件人支付（DAP），您需要在清关或派送时支付进口费用。
 - **小额订单免税吗？** 仅限通过邮政寄送且低于 CAD 20（\~US$15）的订单。大多数订单需要缴税。
 - **可以从任何韩国网站代购吗？** 大多数都可以。请通过 [Buy For Me 请求](https://koreahaul.com/services/buy-for-me/create)提交链接，我们会为您确认。
 - **可以合并订单吗？** 可以。合并寄送能节省运费（但可能提高申报价值）。

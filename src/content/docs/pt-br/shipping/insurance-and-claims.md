@@ -1,7 +1,7 @@
 ---
 title: "Seguro e reclamações"
 description: "O que está coberto se um envio for perdido ou danificado, o Shipping Insurance opcional, como reduzir o risco e como abrir uma reclamação."
-lastUpdated: 2026-10-03
+lastUpdated: 2026-10-04
 sidebar:
   order: 4
 ---
@@ -25,7 +25,6 @@ Todo serviço vem com a proteção que a transportadora oferece. Isso não é a 
 | --- | --- |
 | Estados Unidos | USD $200 (cerca de KRW 270,000) |
 | União Europeia | USD $155 (cerca de KRW 209,000) |
-| Canadá | USD $50 (cerca de KRW 67,500) |
 | Japão, China, Hong Kong | USD $40 (cerca de KRW 54,000) |
 | México, Israel, Arábia Saudita, Turquia | Sem cobertura |
 | Todos os outros lugares | USD $50 (cerca de KRW 67,500) |
