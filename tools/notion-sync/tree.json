@@ -6,6 +6,14 @@
   "notion": "3dbdc07682c28184bb8acd96dc55bc29",
   "section": "root"
  },
+ "koreahaul-launch-giveaway": {
+  "title": "KoreaHaul Launch Giveaway",
+  "path": "news/koreahaul-launch-giveaway",
+  "order": 0,
+  "notion": "3efdc07682c281999f4be98d61cab71a",
+  "section": "news",
+  "desc": "Get a free gift when your Buy For Me total reaches a spend tier, 1 October to 30 November 2026. Gift tiers, how to claim, and terms."
+ },
  "chuseok-holiday-schedule": {
   "title": "Chuseok holiday schedule",
   "path": "news/chuseok-holiday-schedule",
