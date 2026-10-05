@@ -52,7 +52,6 @@ Check out photos of the gifts on our [Instagram](https://www.instagram.com/korea
 
 - BTS Turntable Keyring
 - BTS Headphone Keyring
-- TXT Doll
 - Pokémon TCG MEGA Expansion Pack Ninja Spinner Box (30 packs, Korean ver.)
 - CORTIS Rope
 - CORTIS Fabric Photo Binder

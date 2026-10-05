@@ -52,7 +52,6 @@ Découvrez les photos des cadeaux sur notre compte [Instagram](https://www.insta
 
 - Porte-clés platine vinyle BTS
 - Porte-clés casque audio BTS
-- Peluche TXT
 - Pokémon TCG MEGA Expansion Pack Ninja Spinner Box (30 boosters, version coréenne)
 - Corde CORTIS
 - Classeur photo en tissu CORTIS
