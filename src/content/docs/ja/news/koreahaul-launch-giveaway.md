@@ -1,7 +1,7 @@
 ---
 title: "KoreaHaulローンチ記念プレゼント"
 description: "2026年10月1日から11月30日まで、Buy For Meのご購入合計額が対象の金額帯に達すると無料ギフトをプレゼント。金額帯別のギフト、受け取り方法、利用規約について。"
-lastUpdated: 2026-10-05
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -11,6 +11,8 @@ sidebar:
 <div class="kh-callout kh-callout--caution">
 
 **2026年10月1日 - 11月30日。** ローンチを記念して、Buy For Meのご購入合計額が対象の金額帯に達すると**無料ギフト**をプレゼントします。
+
+KREAM、Soldout、Bunjang、Pocamarket、Daangn (Karrot)、Joongonara、X、Instagramなどのプラットフォームからのご注文は対象外です。
 
 </div>
 

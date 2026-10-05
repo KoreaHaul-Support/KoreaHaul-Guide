@@ -1,7 +1,7 @@
 ---
 title: "Cadeaux de lancement KoreaHaul"
 description: "Recevez un cadeau offert lorsque le total de vos achats Buy For Me atteint un palier, du 1er octobre au 30 novembre 2026. Paliers de cadeaux, comment en profiter et conditions."
-lastUpdated: 2026-10-05
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -11,6 +11,8 @@ Publié le 5 octobre 2026
 <div class="kh-callout kh-callout--caution">
 
 **Du 1er octobre au 30 novembre 2026.** Pour fêter notre lancement, recevez un **cadeau OFFERT** lorsque le total de vos achats Buy For Me atteint un palier.
+
+Les commandes passées sur KREAM, Soldout, Bunjang, Pocamarket, Daangn (Karrot), Joongonara, X, Instagram ou des plateformes similaires ne sont pas éligibles.
 
 </div>
 

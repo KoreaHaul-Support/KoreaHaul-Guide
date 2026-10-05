@@ -1,7 +1,7 @@
 ---
 title: "Regalos de lanzamiento de KoreaHaul"
 description: "Recibe un regalo gratis cuando el total de tus pedidos de Buy For Me alcance un nivel de gasto, del 1 de octubre al 30 de noviembre de 2026. Niveles de regalos, cómo pedir el tuyo y condiciones."
-lastUpdated: 2026-10-05
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -11,6 +11,8 @@ Publicado el 5 de octubre de 2026
 <div class="kh-callout kh-callout--caution">
 
 **Del 1 de octubre al 30 de noviembre de 2026.** Para celebrar nuestro lanzamiento, recibe un **regalo GRATIS** cuando el total de tus pedidos de Buy For Me alcance un nivel de gasto.
+
+Los pedidos de KREAM, Soldout, Bunjang, Pocamarket, Daangn (Karrot), Joongonara, X, Instagram o plataformas similares no participan.
 
 </div>
 

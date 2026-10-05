@@ -1,7 +1,7 @@
 ---
 title: "Brindes de lançamento da KoreaHaul"
 description: "Ganhe um brinde quando o total do seu Buy For Me atingir uma faixa de gasto, de 1º de outubro a 30 de novembro de 2026. Faixas de brindes, como resgatar e termos."
-lastUpdated: 2026-10-05
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -11,6 +11,8 @@ Publicado em 5 de outubro de 2026
 <div class="kh-callout kh-callout--caution">
 
 **De 1º de outubro a 30 de novembro de 2026.** Para comemorar o nosso lançamento, ganhe um **brinde GRÁTIS** quando o total do seu Buy For Me atingir uma faixa de gasto.
+
+Pedidos feitos no KREAM, Soldout, Bunjang, Pocamarket, Daangn (Karrot), Joongonara, X, Instagram ou plataformas parecidas não participam.
 
 </div>
 

@@ -1,7 +1,7 @@
 ---
 title: "KoreaHaul 上线赠品活动"
 description: "2026年10月1日至11月30日，Buy For Me 消费总额达到指定档位即可获赠免费礼品。介绍赠品档位、领取方式和条款。"
-lastUpdated: 2026-10-05
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -11,6 +11,8 @@ sidebar:
 <div class="kh-callout kh-callout--caution">
 
 **2026年10月1日 - 11月30日。** 为庆祝上线，您的 Buy For Me 消费总额达到指定档位，即可获得一份 **免费赠品**。
+
+来自 KREAM、Soldout、Bunjang、Pocamarket、Daangn (Karrot)、Joongonara、X、Instagram 或类似平台的订单不参加本活动。
 
 </div>
 
