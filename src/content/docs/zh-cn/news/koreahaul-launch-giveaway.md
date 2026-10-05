@@ -52,6 +52,9 @@ sidebar:
 
 - BTS 唱机钥匙扣
 - BTS 耳机钥匙扣
+- BTS 头巾钥匙扣套装
+- BTS 围巾
+- BTS 发圈
 - Pokémon TCG MEGA Expansion Pack Ninja Spinner Box（30 包，韩文版）
 - CORTIS Rope
 - CORTIS 布面卡册

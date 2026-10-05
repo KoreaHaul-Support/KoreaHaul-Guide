@@ -52,6 +52,9 @@ Veja fotos dos brindes no nosso [Instagram](https://www.instagram.com/koreahaulo
 
 - Chaveiro toca-discos do BTS
 - Chaveiro fone de ouvido do BTS
+- Kit de chaveiros bandana do BTS
+- Cachecol do BTS
+- Scrunchie do BTS
 - Pokémon TCG MEGA Expansion Pack Ninja Spinner Box (30 pacotes, versão coreana)
 - CORTIS Rope
 - Fichário de fotos em tecido do CORTIS

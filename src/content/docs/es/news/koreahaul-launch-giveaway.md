@@ -52,6 +52,9 @@ Mira las fotos de los regalos en nuestro [Instagram](https://www.instagram.com/k
 
 - Llavero de tocadiscos de BTS
 - Llavero de audífonos de BTS
+- Set de llaveros de bandana de BTS
+- Bufanda de BTS
+- Scrunchie de BTS
 - Pokémon TCG MEGA Expansion Pack Ninja Spinner Box (30 sobres, versión coreana)
 - Cuerda de CORTIS
 - Carpeta de fotos de tela de CORTIS

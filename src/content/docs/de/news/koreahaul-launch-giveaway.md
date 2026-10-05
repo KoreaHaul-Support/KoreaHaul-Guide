@@ -52,6 +52,9 @@ Fotos der Geschenke finden Sie auf unserem [Instagram](https://www.instagram.com
 
 - BTS Plattenspieler-Schlüsselanhänger
 - BTS Kopfhörer-Schlüsselanhänger
+- BTS Bandana-Schlüsselanhänger-Set
+- BTS Schal
+- BTS Scrunchie
 - Pokémon TCG MEGA Expansion Pack Ninja Spinner Box (30 Packs, koreanische Version)
 - CORTIS Rope
 - CORTIS Fotobinder aus Stoff

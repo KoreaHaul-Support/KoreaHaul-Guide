@@ -52,6 +52,9 @@ Buy For Meのご注文を合計し、対象の金額帯に達したら、お好�
 
 - BTSターンテーブルキーリング
 - BTSヘッドホンキーリング
+- BTSバンダナキーリングセット
+- BTSスカーフ
+- BTSシュシュ
 - Pokémon TCG MEGA Expansion Pack Ninja Spinner Box（30パック入り、韓国語版）
 - CORTISロープ
 - CORTISファブリックフォトバインダー
