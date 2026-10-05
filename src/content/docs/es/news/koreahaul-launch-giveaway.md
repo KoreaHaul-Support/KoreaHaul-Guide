@@ -62,7 +62,7 @@ Mira las fotos de los regalos en nuestro [Instagram](https://www.instagram.com/k
 
 ### ₩500,000+
 
-- Light Stick oficial (SEVENTEEN, TWICE, NMIXX o DAY6)
+- Light Stick oficial (TWICE, NMIXX o DAY6)
 - Llavero de BIGBANG
 - Kit de membresía de BLACKPINK
 - Pokémon TCG MEGA Expansion Pack Inferno X Box (30 sobres, versión coreana)

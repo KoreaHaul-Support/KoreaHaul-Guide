@@ -62,7 +62,7 @@ Veja fotos dos brindes no nosso [Instagram](https://www.instagram.com/koreahaulo
 
 ### ₩500,000+
 
-- Light Stick oficial (SEVENTEEN, TWICE, NMIXX ou DAY6)
+- Light Stick oficial (TWICE, NMIXX ou DAY6)
 - Chaveiro do BIGBANG
 - Membership Kit do BLACKPINK
 - Pokémon TCG MEGA Expansion Pack Inferno X Box (30 pacotes, versão coreana)
