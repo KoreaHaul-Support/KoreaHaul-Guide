@@ -3,7 +3,7 @@ title: "Moyens de paiement"
 description: "Les moyens de paiement disponibles pour votre pays, les frais de traitement de chacun et les limites de commande par paiement."
 lastUpdated: 2026-09-30
 sidebar:
-  order: 8
+  order: 9
 ---
 
 Comment payer, selon votre destination.

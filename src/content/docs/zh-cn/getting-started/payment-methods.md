@@ -3,7 +3,7 @@ title: "付款方式"
 description: "您所在国家可用的付款方式、各自的手续费，以及每笔付款的订单限额。"
 lastUpdated: 2026-09-30
 sidebar:
-  order: 8
+  order: 9
 ---
 
 按目的地列出的可用付款方式。
