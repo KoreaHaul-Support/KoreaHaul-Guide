@@ -1,4 +1,12 @@
 {
+ "adding-more-payment-currencies": {
+  "title": "Adding more payment currencies and updating the payment system",
+  "path": "news/adding-more-payment-currencies",
+  "order": 0,
+  "notion": "3f0dc07682c2814fa09ddf1f7f83ef98",
+  "section": "news",
+  "desc": "We are adding more payment currencies. Checkout may be briefly interrupted while we update the payment system, and what to do if it is."
+ },
  "index": {
   "title": "KoreaHaul Guide",
   "path": "index",
@@ -9,7 +17,7 @@
  "koreahaul-launch-giveaway": {
   "title": "KoreaHaul Launch Giveaway",
   "path": "news/koreahaul-launch-giveaway",
-  "order": 0,
+  "order": 1,
   "notion": "3efdc07682c281999f4be98d61cab71a",
   "section": "news",
   "desc": "Get a free gift when your Buy For Me total reaches a spend tier, 1 October to 30 November 2026. Gift tiers, how to claim, and terms."
@@ -17,7 +25,7 @@
  "chuseok-holiday-schedule": {
   "title": "Chuseok holiday schedule",
   "path": "news/chuseok-holiday-schedule",
-  "order": 1,
+  "order": 2,
   "notion": "3dbdc07682c28109ac80d136c2e936f3",
   "section": "news",
   "desc": "Our warehouse is closed 24-27 September for Chuseok. How the holiday affects Buy For Me orders, domestic deliveries, check-ins, and support."
@@ -25,7 +33,7 @@
  "currency-and-pricing-update": {
   "title": "Currency and pricing update",
   "path": "news/currency-and-pricing-update",
-  "order": 2,
+  "order": 3,
   "notion": "3dfdc07682c281d7a734cbd7049916ad",
   "section": "news",
   "desc": "Korean won is now our base currency. How pricing works, service fees in won, no exchange rate markup, and the launch promotion."
@@ -33,7 +41,7 @@
  "cpsc-efiling-for-us-shipments": {
   "title": "CPSC eFiling for U.S. shipments",
   "path": "news/cpsc-efiling-for-us-shipments",
-  "order": 3,
+  "order": 4,
   "notion": "3dedc07682c281a0ae6bfc823fb0196d",
   "section": "news",
   "desc": "New U.S. CPSC eFiling rules for shipments to the United States: which products are affected, including K-pop merch, and what to do."
@@ -41,7 +49,7 @@
  "customs-handling-fee-ranges-updated": {
   "title": "Customs handling fee ranges updated",
   "path": "news/customs-handling-fee-ranges-updated",
-  "order": 4,
+  "order": 5,
   "notion": "3dbdc07682c281ba9c50ee7622f0cfe3",
   "section": "news",
   "desc": "Updated DDP customs handling fees for International Standard Shipping and FedEx International Connect Plus."
@@ -49,7 +57,7 @@
  "unboxing-media-free-for-receive-for-me": {
   "title": "Unboxing media stays free for Receive For Me",
   "path": "news/unboxing-media-free-for-receive-for-me",
-  "order": 5,
+  "order": 6,
   "notion": "3dbdc07682c281fb8a8cfbf745f9b13e",
   "section": "news",
   "desc": "Unboxing photos and video stay free for Receive For Me requests. What is included, why it matters, and when the offer ends."

@@ -3,7 +3,7 @@ title: "Chuseok（秋夕）連休のスケジュール"
 description: "Chuseokのため、当社倉庫は9月24日から27日まで休業します。連休がBuy For Meの注文、韓国国内の配送、入庫、サポートに与える影響について。"
 lastUpdated: 2026-09-22
 sidebar:
-  order: 1
+  order: 2
 ---
 
 2026年9月12日掲載

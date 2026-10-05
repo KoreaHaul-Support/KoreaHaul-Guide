@@ -3,7 +3,7 @@ title: "Novas faixas da taxa de desembaraço aduaneiro"
 description: "Taxas de desembaraço aduaneiro DDP atualizadas para International Standard Shipping e FedEx International Connect Plus."
 lastUpdated: 2026-09-23
 sidebar:
-  order: 4
+  order: 5
 ---
 
 Publicado em 17 de setembro de 2026

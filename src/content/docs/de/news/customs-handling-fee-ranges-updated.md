@@ -3,7 +3,7 @@ title: "Neue Stufen der Zollabwicklungsgebühr"
 description: "Aktualisierte DDP-Zollabwicklungsgebühren für International Standard Shipping und FedEx International Connect Plus."
 lastUpdated: 2026-09-23
 sidebar:
-  order: 4
+  order: 5
 ---
 
 Veröffentlicht am 17. September 2026

@@ -3,7 +3,7 @@ title: "Mise à jour des devises et des prix"
 description: "Le won coréen est désormais notre devise de base. Comment fonctionnent les prix, les frais de service en wons, l'absence de marge sur le taux de change et la promotion de lancement."
 lastUpdated: 2026-09-23
 sidebar:
-  order: 2
+  order: 3
 ---
 
 *Publié le 24 septembre 2026*

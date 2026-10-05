@@ -3,7 +3,7 @@ title: "Currency and pricing update"
 description: "Korean won is now our base currency. How pricing works, service fees in won, no exchange rate markup, and the launch promotion."
 lastUpdated: 2026-09-23
 sidebar:
-  order: 2
+  order: 3
 ---
 
 *Posted 24 September 2026*

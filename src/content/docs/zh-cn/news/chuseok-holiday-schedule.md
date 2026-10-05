@@ -3,7 +3,7 @@ title: "Chuseok（韩国中秋）假期安排"
 description: "我们的仓库将于 9 月 24 日至 27 日因 Chuseok 休息。假期对 Buy For Me 订单、韩国国内配送、入库和客服的影响。"
 lastUpdated: 2026-09-22
 sidebar:
-  order: 1
+  order: 2
 ---
 
 发布于 2026年9月12日

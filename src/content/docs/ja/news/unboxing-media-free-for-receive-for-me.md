@@ -3,7 +3,7 @@ title: "Receive For Meの開封写真・動画は引き続き無料"
 description: "Receive For Meリクエストの開封写真・動画は引き続き無料です。含まれる内容、その重要性、キャンペーンの終了時期について。"
 lastUpdated: 2026-09-23
 sidebar:
-  order: 5
+  order: 6
 ---
 
 2026年9月5日掲載

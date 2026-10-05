@@ -3,7 +3,7 @@ title: "通関手数料の料金帯を改定"
 description: "International Standard ShippingとFedEx International Connect PlusのDDP通関手数料を改定しました。"
 lastUpdated: 2026-09-23
 sidebar:
-  order: 4
+  order: 5
 ---
 
 2026年9月17日掲載

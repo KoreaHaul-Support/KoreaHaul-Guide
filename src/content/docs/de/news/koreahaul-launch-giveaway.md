@@ -3,7 +3,7 @@ title: "KoreaHaul Launch-Giveaway"
 description: "Erhalten Sie ein kostenloses Geschenk, wenn Ihre Buy For Me Summe eine Ausgabenstufe erreicht, vom 1. Oktober bis 30. November 2026. Geschenkstufen, Einlösung und Bedingungen."
 lastUpdated: 2026-10-05
 sidebar:
-  order: 0
+  order: 1
 ---
 
 Veröffentlicht am 5. Oktober 2026

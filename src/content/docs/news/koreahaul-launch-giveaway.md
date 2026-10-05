@@ -3,7 +3,7 @@ title: "KoreaHaul Launch Giveaway"
 description: "Get a free gift when your Buy For Me total reaches a spend tier, 1 October to 30 November 2026. Gift tiers, how to claim, and terms."
 lastUpdated: 2026-10-05
 sidebar:
-  order: 0
+  order: 1
 ---
 
 Posted 5 October 2026

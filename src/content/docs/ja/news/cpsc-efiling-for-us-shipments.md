@@ -3,7 +3,7 @@ title: "米国向け発送のCPSC eFiling"
 description: "アメリカ向け発送に関する米国CPSCの新しいeFilingルール: K-POPグッズを含む対象商品と、お客様にしていただくこと。"
 lastUpdated: 2026-09-18
 sidebar:
-  order: 3
+  order: 4
 ---
 
 *2026年9月18日掲載*

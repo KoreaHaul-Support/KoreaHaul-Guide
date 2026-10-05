@@ -3,7 +3,7 @@ title: "Customs handling fee ranges updated"
 description: "Updated DDP customs handling fees for International Standard Shipping and FedEx International Connect Plus."
 lastUpdated: 2026-09-23
 sidebar:
-  order: 4
+  order: 5
 ---
 
 Posted 17 September 2026

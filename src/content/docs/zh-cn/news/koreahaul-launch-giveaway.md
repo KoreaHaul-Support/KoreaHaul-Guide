@@ -3,7 +3,7 @@ title: "KoreaHaul 上线赠品活动"
 description: "2026年10月1日至11月30日，Buy For Me 消费总额达到指定档位即可获赠免费礼品。介绍赠品档位、领取方式和条款。"
 lastUpdated: 2026-10-05
 sidebar:
-  order: 0
+  order: 1
 ---
 
 发布于 2026年10月5日

@@ -3,7 +3,7 @@ title: "KoreaHaulローンチ記念プレゼント"
 description: "2026年10月1日から11月30日まで、Buy For Meのご購入合計額が対象の金額帯に達すると無料ギフトをプレゼント。金額帯別のギフト、受け取り方法、利用規約について。"
 lastUpdated: 2026-10-05
 sidebar:
-  order: 0
+  order: 1
 ---
 
 2026年10月5日掲載

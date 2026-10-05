@@ -3,7 +3,7 @@ title: "eFiling de CPSC para envíos a EE. UU."
 description: "Nuevas reglas de eFiling de la CPSC de EE. UU. para envíos a Estados Unidos: qué productos se ven afectados, incluido el merch de K-pop, y qué hacer."
 lastUpdated: 2026-09-18
 sidebar:
-  order: 3
+  order: 4
 ---
 
 *Publicado el 18 de septiembre de 2026*

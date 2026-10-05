@@ -1,0 +1,22 @@
+TITLE: Adding more payment currencies and updating the payment system
+EDITED: 2026-10-05T13:30:06.998Z
+<content>
+Posted 5 October 2026
+We're adding more currencies to our payment methods so you can pay in your own currency.
+While we make this change, checkout may be briefly interrupted. Some payment methods or currencies may not be available for a short time.
+## What to do
+- If a payment method doesn't load, try again later or pick another method.
+- Payments you've already made are not affected.
+- If you see an error, email [support@koreahaul.com](mailto:support@koreahaul.com) with your request number (for example BF260900059).
+We'll update this notice when the new currencies are live. Thank you for your patience.
+---
+## Ready to start?
+[Create a request](https://koreahaul.com/) - add your Buy For Me link, or contact us with any questions.
+*We do our best to keep this guide accurate and up to date, but customs rules change often and mistakes can happen. For the final and most accurate information, please confirm with your customs authority before you request our services.*
+<callout color="gray_bg">
+	**Spotted something wrong?** Let us know. The first person to report an error that we correct gets a \$10 coupon.
+</callout>
+**Our services are governed by these policies:**
+[Terms of Service](https://koreahaul.com/terms-of-service) · [Privacy Policy](https://koreahaul.com/privacy-policy) · [Shipping Policy](https://koreahaul.com/support/shipping-policy) · [Refund Policy](https://koreahaul.com/support/refund-policy)
+Follow us on [Instagram](https://www.instagram.com/koreahaulofficial/) and [TikTok](https://www.tiktok.com/@koreahaulofficial)
+</content>

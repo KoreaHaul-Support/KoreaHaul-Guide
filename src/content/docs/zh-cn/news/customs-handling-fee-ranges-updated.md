@@ -3,7 +3,7 @@ title: "清关手续费区间已更新"
 description: "International Standard Shipping 和 FedEx International Connect Plus 的 DDP 清关手续费已更新。"
 lastUpdated: 2026-09-23
 sidebar:
-  order: 4
+  order: 5
 ---
 
 发布于 2026年9月17日

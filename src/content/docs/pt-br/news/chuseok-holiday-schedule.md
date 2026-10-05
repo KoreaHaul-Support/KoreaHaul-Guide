@@ -3,7 +3,7 @@ title: "Calendário do feriado de Chuseok"
 description: "Nosso armazém fica fechado de 24 a 27 de setembro por causa do Chuseok. Como o feriado afeta pedidos do Buy For Me, entregas nacionais, entradas no armazém e o suporte."
 lastUpdated: 2026-09-22
 sidebar:
-  order: 1
+  order: 2
 ---
 
 Publicado em 12 de setembro de 2026

@@ -3,7 +3,7 @@ title: "Chuseok holiday schedule"
 description: "Our warehouse is closed 24-27 September for Chuseok. How the holiday affects Buy For Me orders, domestic deliveries, check-ins, and support."
 lastUpdated: 2026-09-22
 sidebar:
-  order: 1
+  order: 2
 ---
 
 Posted 12 September 2026

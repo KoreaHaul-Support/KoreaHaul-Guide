@@ -3,7 +3,7 @@ title: "Calendrier des congés de Chuseok"
 description: "Notre entrepôt est fermé du 24 au 27 septembre pour Chuseok. Les effets de ces congés sur les commandes Buy For Me, les livraisons nationales, les enregistrements et le support."
 lastUpdated: 2026-09-22
 sidebar:
-  order: 1
+  order: 2
 ---
 
 Publié le 12 septembre 2026

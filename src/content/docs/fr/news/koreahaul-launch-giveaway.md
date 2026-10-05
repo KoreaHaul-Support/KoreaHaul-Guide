@@ -3,7 +3,7 @@ title: "Cadeaux de lancement KoreaHaul"
 description: "Recevez un cadeau offert lorsque le total de vos achats Buy For Me atteint un palier, du 1er octobre au 30 novembre 2026. Paliers de cadeaux, comment en profiter et conditions."
 lastUpdated: 2026-10-05
 sidebar:
-  order: 0
+  order: 1
 ---
 
 Publié le 5 octobre 2026

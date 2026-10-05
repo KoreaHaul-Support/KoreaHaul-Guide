@@ -3,7 +3,7 @@ title: "Nouvelles tranches des frais de dédouanement"
 description: "Mise à jour des frais de dédouanement DDP pour International Standard Shipping et FedEx International Connect Plus."
 lastUpdated: 2026-09-23
 sidebar:
-  order: 4
+  order: 5
 ---
 
 Publié le 17 septembre 2026

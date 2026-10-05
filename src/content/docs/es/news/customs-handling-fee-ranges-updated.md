@@ -3,7 +3,7 @@ title: "Nuevos rangos de la tarifa de gestión aduanera"
 description: "Tarifas actualizadas de gestión aduanera DDP para International Standard Shipping y FedEx International Connect Plus."
 lastUpdated: 2026-09-23
 sidebar:
-  order: 4
+  order: 5
 ---
 
 Publicado el 17 de septiembre de 2026

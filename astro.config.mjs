@@ -84,6 +84,7 @@ export default defineConfig({
         {
           ...tr('News & Updates'), collapsed: true,
           items: [
+          { slug: 'news/adding-more-payment-currencies' },
           { slug: 'news/koreahaul-launch-giveaway' },
           { slug: 'news/chuseok-holiday-schedule' },
           { slug: 'news/currency-and-pricing-update' },

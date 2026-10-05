@@ -3,7 +3,7 @@ title: "Actualización de monedas y precios"
 description: "El won coreano ahora es nuestra moneda base. Cómo funcionan los precios, las tarifas de servicio en wones, sin recargo por tipo de cambio y la promoción de lanzamiento."
 lastUpdated: 2026-09-23
 sidebar:
-  order: 2
+  order: 3
 ---
 
 *Publicado el 24 de septiembre de 2026*

@@ -3,7 +3,7 @@ title: "寄往美国货件的CPSC eFiling"
 description: "针对寄往美国货件的美国 CPSC eFiling 新规：哪些商品受影响（包括 K-pop 周边），以及您需要做什么。"
 lastUpdated: 2026-09-18
 sidebar:
-  order: 3
+  order: 4
 ---
 
 *发布于 2026年9月18日*

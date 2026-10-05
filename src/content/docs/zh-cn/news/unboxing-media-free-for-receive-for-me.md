@@ -3,7 +3,7 @@ title: "Receive For Me开箱照片和视频继续免费"
 description: "Receive For Me 请求的开箱照片和视频继续免费。包含哪些内容、为什么重要，以及优惠何时结束。"
 lastUpdated: 2026-09-23
 sidebar:
-  order: 5
+  order: 6
 ---
 
 发布于 2026年9月5日

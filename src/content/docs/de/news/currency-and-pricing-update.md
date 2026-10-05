@@ -3,7 +3,7 @@ title: "Aktualisierung von Währungen und Preisen"
 description: "Der koreanische Won ist jetzt unsere Basiswährung. So funktionieren die Preise, Servicegebühren in Won, kein Wechselkursaufschlag und die Launch-Aktion."
 lastUpdated: 2026-09-23
 sidebar:
-  order: 2
+  order: 3
 ---
 
 *Veröffentlicht am 24. September 2026*

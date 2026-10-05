@@ -3,7 +3,7 @@ title: "Zeitplan für die Chuseok-Feiertage"
 description: "Unser Lager ist wegen Chuseok vom 24. bis 27. September geschlossen. So wirkt sich der Feiertag auf Buy For Me Bestellungen, Inlandslieferungen, Check-ins und den Support aus."
 lastUpdated: 2026-09-22
 sidebar:
-  order: 1
+  order: 2
 ---
 
 Veröffentlicht am 12. September 2026

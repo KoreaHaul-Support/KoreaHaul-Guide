@@ -3,7 +3,7 @@ title: "Regalos de lanzamiento de KoreaHaul"
 description: "Recibe un regalo gratis cuando el total de tus pedidos de Buy For Me alcance un nivel de gasto, del 1 de octubre al 30 de noviembre de 2026. Niveles de regalos, cómo pedir el tuyo y condiciones."
 lastUpdated: 2026-10-05
 sidebar:
-  order: 0
+  order: 1
 ---
 
 Publicado el 5 de octubre de 2026
