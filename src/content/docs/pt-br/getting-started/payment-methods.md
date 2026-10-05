@@ -3,7 +3,7 @@ title: "Formas de pagamento"
 description: "Formas de pagamento disponíveis para o seu país, a taxa de processamento de cada uma e os limites por pagamento."
 lastUpdated: 2026-09-30
 sidebar:
-  order: 9
+  order: 8
 ---
 
 Como você pode pagar, de acordo com o destino.

@@ -118,18 +118,10 @@
   "section": "getting-started",
   "desc": "Every KoreaHaul fee in Korean won: Buy For Me service fees, handling and packing options, storage, customs clearance, and payment."
  },
- "how-to-estimate-your-quote": {
-  "title": "How to Estimate Your Quote",
-  "path": "getting-started/how-to-estimate-your-quote",
-  "order": 8,
-  "notion": "3f0dc07682c281358b69f59c0a2c50d8",
-  "section": "getting-started",
-  "desc": "Work out what your order will cost before you buy: the purchase invoice, the shipping invoice, import charges and payment fees, with a worked example."
- },
  "payment-methods": {
   "title": "Payment Methods",
   "path": "getting-started/payment-methods",
-  "order": 9,
+  "order": 8,
   "notion": "3dedc07682c281628995d37e379cbb24",
   "section": "getting-started",
   "desc": "Payment methods available for your country, the processing fee for each, and per-payment order limits."

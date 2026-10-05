@@ -103,7 +103,6 @@ export default defineConfig({
           { slug: 'getting-started/warehouse' },
           { slug: 'getting-started/ship-for-me' },
           { slug: 'getting-started/fees' },
-          { slug: 'getting-started/how-to-estimate-your-quote' },
           { slug: 'getting-started/payment-methods' },
           ],
         },

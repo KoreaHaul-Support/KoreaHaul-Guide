@@ -3,7 +3,7 @@ title: "Zahlungsmethoden"
 description: "Die für Ihr Land verfügbaren Zahlungsmethoden, die Bearbeitungsgebühr für jede Methode und die Limits pro Zahlung."
 lastUpdated: 2026-09-30
 sidebar:
-  order: 9
+  order: 8
 ---
 
 Womit Sie bezahlen können, nach Zielland.
