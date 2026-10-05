@@ -62,7 +62,7 @@ sidebar:
 
 ### ₩500,000+
 
-- 官方 Light Stick（TWICE、NMIXX 或 DAY6）
+- 官方 Light Stick（TWICE 或 DAY6）
 - BIGBANG 钥匙扣
 - BLACKPINK 会员礼包（Membership Kit）
 - Pokémon TCG MEGA Expansion Pack Inferno X Box（30 包，韩文版）

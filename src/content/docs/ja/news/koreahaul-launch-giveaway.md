@@ -62,7 +62,7 @@ Buy For Meのご注文を合計し、対象の金額帯に達したら、お好�
 
 ### ₩500,000以上
 
-- 公式Light Stick（TWICE、NMIXX、DAY6のいずれか）
+- 公式Light Stick（TWICE、DAY6のいずれか）
 - BIGBANGキーリング
 - BLACKPINKメンバーシップキット
 - Pokémon TCG MEGA Expansion Pack Inferno X Box（30パック入り、韓国語版）

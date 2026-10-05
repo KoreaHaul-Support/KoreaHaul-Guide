@@ -62,7 +62,7 @@ Découvrez les photos des cadeaux sur notre compte [Instagram](https://www.insta
 
 ### ₩500,000+
 
-- Light Stick officiel (TWICE, NMIXX ou DAY6)
+- Light Stick officiel (TWICE ou DAY6)
 - Porte-clés BIGBANG
 - Membership Kit BLACKPINK
 - Pokémon TCG MEGA Expansion Pack Inferno X Box (30 boosters, version coréenne)
