@@ -20,68 +20,70 @@ Veja fotos dos brindes no nosso [Instagram](https://www.instagram.com/koreahaulo
 
 ## Brindes por faixa de gasto
 
+Estoque em 5 de outubro de 2026. Os brindes vão para os primeiros clientes que os solicitarem.
+
 ### ₩100,000+
 
-- Peças de Light Stick do BTS (versão ARMY, ARIRANG, ARIRANG RED ou BTS)
-- Photocards (SEVENTEEN, RIIZE, THE BOYZ, Lee Jun-ho, IVE ou DAY6)
-- Cartão de transporte ITZY WowPass
-- Season's Greetings 2026 ((G)I-DLE, Kiss of Life, Lee Jun-ho, DAY6, ENHYPEN, THE BOYZ, SEVENTEEN, WayV ou IVE)
-- Calendário 2026 do SEVENTEEN
-- Calendário 2026 do TXT
+- Peças de Light Stick do BTS: ARMY (restam 25), ARIRANG (restam 5), ARIRANG RED (restam 15) ou versão BTS (restam 25)
+- Photocards: SEVENTEEN (restam 2 conjuntos) ou RIIZE (resta 1 conjunto)
+- Cartão de transporte ITZY WowPass (restam 6)
+- Season's Greetings 2026: (G)I-DLE (restam 3), Kiss of Life (restam 3), Lee Jun-ho (resta 1), DAY6 (restam 3), ENHYPEN (resta 1), THE BOYZ (restam 3), SEVENTEEN (restam 5), WayV (resta 1) ou IVE (restam 5). Lee Jun-ho, DAY6, THE BOYZ e IVE vêm com photocards.
+- Calendário 2026 do SEVENTEEN (restam 5)
+- Calendário 2026 do TXT (restam 2)
 - Cupom Olive Young de ₩5,000
 
 ### ₩200,000+
 
-- Cartão de transporte Stray Kids WowPass
-- Photocards (TWICE, ZEROBASEONE, Stray Kids ou Hearts2Hearts)
-- Season's Greetings 2026 (TWICE, NCT DREAM ou NCT 127)
-- Carimbo da turnê do BTS em Busan
-- Pôster BTS Arirang (membro aleatório: Jungkook, V, Jin ou BTS)
-- Alça multiuso do BTS (vermelha ou preta)
+- Cartão de transporte Stray Kids WowPass (restam 15)
+- Photocards: TWICE (resta 1 conjunto), ZEROBASEONE (restam 2 conjuntos), Stray Kids (resta 1 conjunto) ou Hearts2Hearts (resta 1 conjunto)
+- Season's Greetings 2026: TWICE (resta 1), NCT DREAM (resta 1) ou NCT 127 (resta 1)
+- Carimbo da turnê do BTS em Busan (resta 1)
+- Pôster BTS Arirang, membro aleatório: Jungkook, V, Jin ou BTS (restam 10)
+- Alça multiuso do BTS, vermelha ou preta (restam 2)
 - Cupom Olive Young de ₩10,000
 
 ### ₩300,000+
 
-- Cachecol da turnê do BTS
-- Chaveiro de skate do BTS
-- Chaveiro Light Stick do BTS Ver. 4
-- Suporte para Light Stick do BTS
+- Cachecol da turnê do BTS (resta 1)
+- Chaveiro de skate do BTS (restam 2)
+- Chaveiro Light Stick do BTS Ver. 4 (restam 10)
+- Suporte para Light Stick do BTS (restam 20)
 - Cupom Olive Young de ₩15,000
 
 ### ₩400,000+
 
-- Chaveiro toca-discos do BTS
-- Chaveiro fone de ouvido do BTS
-- Kit de chaveiros bandana do BTS
-- Cachecol do BTS
-- Scrunchie do BTS
-- Pokémon TCG MEGA Expansion Pack Ninja Spinner Box (30 pacotes, versão coreana)
-- CORTIS Rope
-- Fichário de fotos em tecido do CORTIS
+- Chaveiro toca-discos do BTS (restam 5)
+- Chaveiro fone de ouvido do BTS (restam 2)
+- Kit de chaveiros bandana do BTS (restam 3)
+- Cachecol do BTS (restam 3)
+- Scrunchie do BTS (restam 3)
+- Pokémon TCG MEGA Expansion Pack Ninja Spinner Box, 30 pacotes, versão coreana (restam 5)
+- CORTIS Rope (restam 10)
+- Fichário de fotos em tecido do CORTIS (restam 3)
 - Cupom Olive Young de ₩20,000
 
 ### ₩500,000+
 
-- Light Stick oficial (TWICE ou DAY6)
-- Chaveiro do BIGBANG
-- Membership Kit do BLACKPINK
-- Pokémon TCG MEGA Expansion Pack Inferno X Box (30 pacotes, versão coreana)
+- Light Stick oficial: TWICE (restam 3) ou DAY6 (restam 3)
+- Chaveiro do BIGBANG (restam 5)
+- Membership Kit do BLACKPINK (resta 1)
+- Pokémon TCG MEGA Expansion Pack Inferno X Box, 30 pacotes, versão coreana (restam 3)
 - Cupom Olive Young de ₩25,000
 
 ### ₩1,000,000+
 
-- Boné BTS 'What's Your Love Song'
-- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs
-- Light Stick oficial do BTS Ver. 4
-- Light Stick oficial do CORTIS
-- Light Stick oficial do G-Dragon
+- Boné BTS 'What's Your Love Song' (resta 1)
+- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs (resta 1 conjunto)
+- Light Stick oficial do BTS Ver. 4 (restam 30)
+- Light Stick oficial do CORTIS (restam 20)
+- Light Stick oficial do G-Dragon (restam 5)
 - Cupom Olive Young de ₩50,000
 
 ### ₩3,000,000+
 
-- Moletom com capuz do BTS (L)
-- Moletom com capuz do BIGBANG (M, L ou XL)
-- Light Stick oficial do 20º aniversário do BIGBANG
+- Moletom com capuz do BTS, tamanho L (restam 2)
+- Moletom com capuz do BIGBANG: M (resta 1), L (resta 1) ou XL (resta 1)
+- Light Stick oficial do 20º aniversário do BIGBANG (restam 3)
 - Cupom Olive Young de ₩150,000
 
 ## Como resgatar

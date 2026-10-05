@@ -20,68 +20,70 @@ Buy For Meのご注文を合計し、対象の金額帯に達したら、お好�
 
 ## 金額帯別のギフト
 
+在庫数は2026年10月5日時点のものです。ギフトはお申し込みの早い方から順にお渡しします。
+
 ### ₩100,000以上
 
-- BTS Light Stickパーツ（ARMY、ARIRANG、ARIRANG RED、BTSのいずれかのバージョン）
-- フォトカード（SEVENTEEN、RIIZE、THE BOYZ、Lee Jun-ho、IVE、DAY6のいずれか）
-- ITZY WowPass交通カード
-- 2026 Season's Greetings（(G)I-DLE、Kiss of Life、Lee Jun-ho、DAY6、ENHYPEN、THE BOYZ、SEVENTEEN、WayV、IVEのいずれか）
-- SEVENTEEN 2026カレンダー
-- TXT 2026カレンダー
+- BTS Light Stickパーツ: ARMY（残り25個）、ARIRANG（残り5個）、ARIRANG RED（残り15個）、BTSバージョン（残り25個）のいずれか
+- フォトカード: SEVENTEEN（残り2セット）、RIIZE（残り1セット）のいずれか
+- ITZY WowPass交通カード（残り6個）
+- 2026 Season's Greetings: (G)I-DLE（残り3個）、Kiss of Life（残り3個）、Lee Jun-ho（残り1個）、DAY6（残り3個）、ENHYPEN（残り1個）、THE BOYZ（残り3個）、SEVENTEEN（残り5個）、WayV（残り1個）、IVE（残り5個）のいずれか。Lee Jun-ho、DAY6、THE BOYZ、IVEにはフォトカードが付きます。
+- SEVENTEEN 2026カレンダー（残り5個）
+- TXT 2026カレンダー（残り2個）
 - ₩5,000 Olive Youngクーポン
 
 ### ₩200,000以上
 
-- Stray Kids WowPass交通カード
-- フォトカード（TWICE、ZEROBASEONE、Stray Kids、Hearts2Heartsのいずれか）
-- 2026 Season's Greetings（TWICE、NCT DREAM、NCT 127のいずれか）
-- BTS Tour Stamp Busan
-- BTS Arirangポスター（メンバーはランダム: Jungkook、V、Jin、BTS）
-- BTSマルチストラップ（RedまたはBlack）
+- Stray Kids WowPass交通カード（残り15個）
+- フォトカード: TWICE（残り1セット）、ZEROBASEONE（残り2セット）、Stray Kids（残り1セット）、Hearts2Hearts（残り1セット）のいずれか
+- 2026 Season's Greetings: TWICE（残り1個）、NCT DREAM（残り1個）、NCT 127（残り1個）のいずれか
+- BTS Tour Stamp Busan（残り1個）
+- BTS Arirangポスター、メンバーはランダム: Jungkook、V、Jin、BTS（残り10個）
+- BTSマルチストラップ、RedまたはBlack（残り2個）
 - ₩10,000 Olive Youngクーポン
 
 ### ₩300,000以上
 
-- BTSツアースカーフ
-- BTSスケートキーリング
-- BTS Light Stickキーリング Ver. 4
-- BTS Light Stickクレードル
+- BTSツアースカーフ（残り1個）
+- BTSスケートキーリング（残り2個）
+- BTS Light Stickキーリング Ver. 4（残り10個）
+- BTS Light Stickクレードル（残り20個）
 - ₩15,000 Olive Youngクーポン
 
 ### ₩400,000以上
 
-- BTSターンテーブルキーリング
-- BTSヘッドホンキーリング
-- BTSバンダナキーリングセット
-- BTSスカーフ
-- BTSシュシュ
-- Pokémon TCG MEGA Expansion Pack Ninja Spinner Box（30パック入り、韓国語版）
-- CORTISロープ
-- CORTISファブリックフォトバインダー
+- BTSターンテーブルキーリング（残り5個）
+- BTSヘッドホンキーリング（残り2個）
+- BTSバンダナキーリングセット（残り3個）
+- BTSスカーフ（残り3個）
+- BTSシュシュ（残り3個）
+- Pokémon TCG MEGA Expansion Pack Ninja Spinner Box、30パック入り、韓国語版（残り5個）
+- CORTISロープ（残り10個）
+- CORTISファブリックフォトバインダー（残り3個）
 - ₩20,000 Olive Youngクーポン
 
 ### ₩500,000以上
 
-- 公式Light Stick（TWICE、DAY6のいずれか）
-- BIGBANGキーリング
-- BLACKPINKメンバーシップキット
-- Pokémon TCG MEGA Expansion Pack Inferno X Box（30パック入り、韓国語版）
+- 公式Light Stick: TWICE（残り3個）、DAY6（残り3個）のいずれか
+- BIGBANGキーリング（残り5個）
+- BLACKPINKメンバーシップキット（残り1個）
+- Pokémon TCG MEGA Expansion Pack Inferno X Box、30パック入り、韓国語版（残り3個）
 - ₩25,000 Olive Youngクーポン
 
 ### ₩1,000,000以上
 
-- BTS 'What's Your Love Song'キャップ
-- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs
-- BTS公式Light Stick Ver. 4
-- CORTIS公式Light Stick
-- G-Dragon公式Light Stick
+- BTS 'What's Your Love Song'キャップ（残り1個）
+- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs（残り1セット）
+- BTS公式Light Stick Ver. 4（残り30個）
+- CORTIS公式Light Stick（残り20個）
+- G-Dragon公式Light Stick（残り5個）
 - ₩50,000 Olive Youngクーポン
 
 ### ₩3,000,000以上
 
-- BTSパーカー（L）
-- BIGBANGパーカー（M、L、XLのいずれか）
-- BIGBANG 20周年記念公式Light Stick
+- BTSパーカー、サイズL（残り2個）
+- BIGBANGパーカー: M（残り1個）、L（残り1個）、XL（残り1個）のいずれか
+- BIGBANG 20周年記念公式Light Stick（残り3個）
 - ₩150,000 Olive Youngクーポン
 
 ## 受け取り方法

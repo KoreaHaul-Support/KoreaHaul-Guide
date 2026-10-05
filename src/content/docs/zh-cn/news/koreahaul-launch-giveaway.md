@@ -20,68 +20,70 @@ sidebar:
 
 ## 各档位赠品
 
+库存数量截至 2026年10月5日。赠品按领取先后发放，先到先得。
+
 ### ₩100,000+
 
-- BTS Light Stick 配件（ARMY、ARIRANG、ARIRANG RED 或 BTS 版本）
-- 小卡（SEVENTEEN、RIIZE、THE BOYZ、Lee Jun-ho、IVE 或 DAY6）
-- ITZY WowPass 交通卡
-- 2026 Season's Greetings（(G)I-DLE、Kiss of Life、Lee Jun-ho、DAY6、ENHYPEN、THE BOYZ、SEVENTEEN、WayV 或 IVE）
-- SEVENTEEN 2026 日历
-- TXT 2026 日历
+- BTS Light Stick 配件：ARMY（剩余 25 个）、ARIRANG（剩余 5 个）、ARIRANG RED（剩余 15 个）或 BTS 版本（剩余 25 个）
+- 小卡：SEVENTEEN（剩余 2 套）或 RIIZE（剩余 1 套）
+- ITZY WowPass 交通卡（剩余 6 个）
+- 2026 Season's Greetings：(G)I-DLE（剩余 3 个）、Kiss of Life（剩余 3 个）、Lee Jun-ho（剩余 1 个）、DAY6（剩余 3 个）、ENHYPEN（剩余 1 个）、THE BOYZ（剩余 3 个）、SEVENTEEN（剩余 5 个）、WayV（剩余 1 个）或 IVE（剩余 5 个）。Lee Jun-ho、DAY6、THE BOYZ 和 IVE 附赠小卡。
+- SEVENTEEN 2026 日历（剩余 5 个）
+- TXT 2026 日历（剩余 2 个）
 - ₩5,000 Olive Young 优惠券
 
 ### ₩200,000+
 
-- Stray Kids WowPass 交通卡
-- 小卡（TWICE、ZEROBASEONE、Stray Kids 或 Hearts2Hearts）
-- 2026 Season's Greetings（TWICE、NCT DREAM 或 NCT 127）
-- BTS 釜山巡演印章（Tour Stamp Busan）
-- BTS Arirang 海报（成员随机：Jungkook、V、Jin 或 BTS）
-- BTS 多功能挂绳（红色或黑色）
+- Stray Kids WowPass 交通卡（剩余 15 个）
+- 小卡：TWICE（剩余 1 套）、ZEROBASEONE（剩余 2 套）、Stray Kids（剩余 1 套）或 Hearts2Hearts（剩余 1 套）
+- 2026 Season's Greetings：TWICE（剩余 1 个）、NCT DREAM（剩余 1 个）或 NCT 127（剩余 1 个）
+- BTS 釜山巡演印章（Tour Stamp Busan）（剩余 1 个）
+- BTS Arirang 海报，成员随机：Jungkook、V、Jin 或 BTS（剩余 10 个）
+- BTS 多功能挂绳，红色或黑色（剩余 2 个）
 - ₩10,000 Olive Young 优惠券
 
 ### ₩300,000+
 
-- BTS 巡演围巾
-- BTS 滑板钥匙扣
-- BTS Light Stick 钥匙扣 Ver. 4
-- BTS Light Stick 底座
+- BTS 巡演围巾（剩余 1 个）
+- BTS 滑板钥匙扣（剩余 2 个）
+- BTS Light Stick 钥匙扣 Ver. 4（剩余 10 个）
+- BTS Light Stick 底座（剩余 20 个）
 - ₩15,000 Olive Young 优惠券
 
 ### ₩400,000+
 
-- BTS 唱机钥匙扣
-- BTS 耳机钥匙扣
-- BTS 头巾钥匙扣套装
-- BTS 围巾
-- BTS 发圈
-- Pokémon TCG MEGA Expansion Pack Ninja Spinner Box（30 包，韩文版）
-- CORTIS Rope
-- CORTIS 布面卡册
+- BTS 唱机钥匙扣（剩余 5 个）
+- BTS 耳机钥匙扣（剩余 2 个）
+- BTS 头巾钥匙扣套装（剩余 3 个）
+- BTS 围巾（剩余 3 个）
+- BTS 发圈（剩余 3 个）
+- Pokémon TCG MEGA Expansion Pack Ninja Spinner Box，30 包，韩文版（剩余 5 个）
+- CORTIS Rope（剩余 10 个）
+- CORTIS 布面卡册（剩余 3 个）
 - ₩20,000 Olive Young 优惠券
 
 ### ₩500,000+
 
-- 官方 Light Stick（TWICE 或 DAY6）
-- BIGBANG 钥匙扣
-- BLACKPINK 会员礼包（Membership Kit）
-- Pokémon TCG MEGA Expansion Pack Inferno X Box（30 包，韩文版）
+- 官方 Light Stick：TWICE（剩余 3 个）或 DAY6（剩余 3 个）
+- BIGBANG 钥匙扣（剩余 5 个）
+- BLACKPINK 会员礼包（Membership Kit）（剩余 1 个）
+- Pokémon TCG MEGA Expansion Pack Inferno X Box，30 包，韩文版（剩余 3 个）
 - ₩25,000 Olive Young 优惠券
 
 ### ₩1,000,000+
 
-- BTS 'What's Your Love Song' 棒球帽
-- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs
-- BTS 官方 Light Stick Ver. 4
-- CORTIS 官方 Light Stick
-- G-Dragon 官方 Light Stick
+- BTS 'What's Your Love Song' 棒球帽（剩余 1 个）
+- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs（剩余 1 套）
+- BTS 官方 Light Stick Ver. 4（剩余 30 个）
+- CORTIS 官方 Light Stick（剩余 20 个）
+- G-Dragon 官方 Light Stick（剩余 5 个）
 - ₩50,000 Olive Young 优惠券
 
 ### ₩3,000,000+
 
-- BTS 连帽衫（L）
-- BIGBANG 连帽衫（M、L 或 XL）
-- BIGBANG 20 周年官方 Light Stick
+- BTS 连帽衫，L 码（剩余 2 个）
+- BIGBANG 连帽衫：M（剩余 1 个）、L（剩余 1 个）或 XL（剩余 1 个）
+- BIGBANG 20 周年官方 Light Stick（剩余 3 个）
 - ₩150,000 Olive Young 优惠券
 
 ## 如何领取

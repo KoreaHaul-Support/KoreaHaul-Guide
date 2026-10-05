@@ -20,68 +20,70 @@ Check out photos of the gifts on our [Instagram](https://www.instagram.com/korea
 
 ## Gifts by spend tier
 
+Stock as of 5 October 2026. Gifts go to the first customers to claim them.
+
 ### ₩100,000+
 
-- BTS Light Stick Parts (ARMY, ARIRANG, ARIRANG RED or BTS version)
-- Photocards (SEVENTEEN, RIIZE, THE BOYZ, Lee Jun-ho, IVE or DAY6)
-- ITZY WowPass Transit Card
-- 2026 Season's Greetings ((G)I-DLE, Kiss of Life, Lee Jun-ho, DAY6, ENHYPEN, THE BOYZ, SEVENTEEN, WayV or IVE)
-- SEVENTEEN 2026 Calendar
-- TXT 2026 Calendar
+- BTS Light Stick Parts: ARMY (25 left), ARIRANG (5 left), ARIRANG RED (15 left) or BTS version (25 left)
+- Photocards: SEVENTEEN (2 sets left) or RIIZE (1 set left)
+- ITZY WowPass Transit Card (6 left)
+- 2026 Season's Greetings: (G)I-DLE (3 left), Kiss of Life (3 left), Lee Jun-ho (1 left), DAY6 (3 left), ENHYPEN (1 left), THE BOYZ (3 left), SEVENTEEN (5 left), WayV (1 left) or IVE (5 left). Lee Jun-ho, DAY6, THE BOYZ and IVE come with photocards.
+- SEVENTEEN 2026 Calendar (5 left)
+- TXT 2026 Calendar (2 left)
 - ₩5,000 Olive Young Coupon
 
 ### ₩200,000+
 
-- Stray Kids WowPass Transit Card
-- Photocards (TWICE, ZEROBASEONE, Stray Kids or Hearts2Hearts)
-- 2026 Season's Greetings (TWICE, NCT DREAM or NCT 127)
-- BTS Tour Stamp Busan
-- BTS Arirang Poster (random member: Jungkook, V, Jin or BTS)
-- BTS Multi Strap (Red or Black)
+- Stray Kids WowPass Transit Card (15 left)
+- Photocards: TWICE (1 set left), ZEROBASEONE (2 sets left), Stray Kids (1 set left) or Hearts2Hearts (1 set left)
+- 2026 Season's Greetings: TWICE (1 left), NCT DREAM (1 left) or NCT 127 (1 left)
+- BTS Tour Stamp Busan (1 left)
+- BTS Arirang Poster, random member: Jungkook, V, Jin or BTS (10 left)
+- BTS Multi Strap, Red or Black (2 left)
 - ₩10,000 Olive Young Coupon
 
 ### ₩300,000+
 
-- BTS Tour Scarf
-- BTS Skate Keyring
-- BTS Light Stick Keyring Ver. 4
-- BTS Light Stick Cradle
+- BTS Tour Scarf (1 left)
+- BTS Skate Keyring (2 left)
+- BTS Light Stick Keyring Ver. 4 (10 left)
+- BTS Light Stick Cradle (20 left)
 - ₩15,000 Olive Young Coupon
 
 ### ₩400,000+
 
-- BTS Turntable Keyring
-- BTS Headphone Keyring
-- BTS Bandana Keyring Set
-- BTS Scarf
-- BTS Scrunchie
-- Pokémon TCG MEGA Expansion Pack Ninja Spinner Box (30 packs, Korean ver.)
-- CORTIS Rope
-- CORTIS Fabric Photo Binder
+- BTS Turntable Keyring (5 left)
+- BTS Headphone Keyring (2 left)
+- BTS Bandana Keyring Set (3 left)
+- BTS Scarf (3 left)
+- BTS Scrunchie (3 left)
+- Pokémon TCG MEGA Expansion Pack Ninja Spinner Box, 30 packs, Korean ver. (5 left)
+- CORTIS Rope (10 left)
+- CORTIS Fabric Photo Binder (3 left)
 - ₩20,000 Olive Young Coupon
 
 ### ₩500,000+
 
-- Official Light Stick (TWICE or DAY6)
-- BIGBANG Keyring
-- BLACKPINK Membership Kit
-- Pokémon TCG MEGA Expansion Pack Inferno X Box (30 packs, Korean ver.)
+- Official Light Stick: TWICE (3 left) or DAY6 (3 left)
+- BIGBANG Keyring (5 left)
+- BLACKPINK Membership Kit (1 left)
+- Pokémon TCG MEGA Expansion Pack Inferno X Box, 30 packs, Korean ver. (3 left)
 - ₩25,000 Olive Young Coupon
 
 ### ₩1,000,000+
 
-- BTS 'What's Your Love Song' Cap
-- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs
-- BTS Official Light Stick Ver. 4
-- CORTIS Official Light Stick
-- G-Dragon Official Light Stick
+- BTS 'What's Your Love Song' Cap (1 left)
+- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs (1 set left)
+- BTS Official Light Stick Ver. 4 (30 left)
+- CORTIS Official Light Stick (20 left)
+- G-Dragon Official Light Stick (5 left)
 - ₩50,000 Olive Young Coupon
 
 ### ₩3,000,000+
 
-- BTS Hoodie (L)
-- BIGBANG Hoodie (M, L or XL)
-- BIGBANG 20th Anniversary Official Light Stick
+- BTS Hoodie, size L (2 left)
+- BIGBANG Hoodie: M (1 left), L (1 left) or XL (1 left)
+- BIGBANG 20th Anniversary Official Light Stick (3 left)
 - ₩150,000 Olive Young Coupon
 
 ## How to claim
