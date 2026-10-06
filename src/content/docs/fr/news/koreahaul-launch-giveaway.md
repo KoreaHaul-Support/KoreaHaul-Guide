@@ -8,6 +8,8 @@ sidebar:
 
 Publié le 5 octobre 2026
 
+**Mise à jour du 6 octobre 2026 :** Suite à vos retours, nous avons abaissé les paliers du cadeau et supprimé les deux paliers les plus élevés. Les meilleurs cadeaux, comme les light sticks officiels, sont désormais disponibles dès ₩500,000.
+
 <div class="kh-callout kh-callout--caution">
 
 **Du 1er octobre au 30 novembre 2026.** Pour fêter notre lancement, recevez un **cadeau OFFERT** lorsque le total de vos achats Buy For Me atteint un palier.

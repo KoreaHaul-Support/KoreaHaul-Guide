@@ -8,6 +8,8 @@ sidebar:
 
 Posted 5 October 2026
 
+**Update, 6 October 2026:** Thanks to your feedback, we have lowered the giveaway tiers and removed the two highest tiers. Top gifts like official light sticks now start at ₩500,000.
+
 <div class="kh-callout kh-callout--caution">
 
 **Oct 1 - Nov 30, 2026.** To celebrate our launch, get a **FREE gift** when your Buy For Me total reaches a spend tier.

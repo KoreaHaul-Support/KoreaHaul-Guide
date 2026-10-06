@@ -8,6 +8,8 @@ sidebar:
 
 Publicado em 5 de outubro de 2026
 
+**Atualização, 6 de outubro de 2026:** Graças ao seu feedback, reduzimos as faixas do sorteio e removemos as duas faixas mais altas. Os melhores brindes, como os light sticks oficiais, agora começam em ₩500,000.
+
 <div class="kh-callout kh-callout--caution">
 
 **De 1º de outubro a 30 de novembro de 2026.** Para comemorar o nosso lançamento, ganhe um **brinde GRÁTIS** quando o total do seu Buy For Me atingir uma faixa de gasto.

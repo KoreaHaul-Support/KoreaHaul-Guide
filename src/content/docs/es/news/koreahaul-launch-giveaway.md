@@ -8,6 +8,8 @@ sidebar:
 
 Publicado el 5 de octubre de 2026
 
+**Actualización, 6 de octubre de 2026:** Gracias a tus comentarios, bajamos los niveles del sorteo y eliminamos los dos niveles más altos. Los mejores regalos, como los light sticks oficiales, ahora empiezan desde ₩500,000.
+
 <div class="kh-callout kh-callout--caution">
 
 **Del 1 de octubre al 30 de noviembre de 2026.** Para celebrar nuestro lanzamiento, recibe un **regalo GRATIS** cuando el total de tus pedidos de Buy For Me alcance un nivel de gasto.

@@ -8,6 +8,8 @@ sidebar:
 
 Veröffentlicht am 5. Oktober 2026
 
+**Update vom 6. Oktober 2026:** Aufgrund Ihres Feedbacks haben wir die Geschenkstufen gesenkt und die zwei höchsten Stufen entfernt. Top-Geschenke wie offizielle Light Sticks gibt es jetzt schon ab ₩500,000.
+
 <div class="kh-callout kh-callout--caution">
 
 **1. Okt. - 30. Nov. 2026.** Zur Feier unseres Starts erhalten Sie ein **GRATIS-Geschenk**, wenn Ihre Buy For Me Summe eine Ausgabenstufe erreicht.
