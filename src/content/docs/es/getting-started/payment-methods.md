@@ -3,7 +3,7 @@ title: "Métodos de pago"
 description: "Los métodos de pago disponibles para tu país, la tarifa de procesamiento de cada uno y los límites por pago."
 lastUpdated: 2026-09-30
 sidebar:
-  order: 8
+  order: 9
 ---
 
 Con qué puedes pagar, según el destino.
