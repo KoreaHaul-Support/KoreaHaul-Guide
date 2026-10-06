@@ -24,7 +24,9 @@ Fotos der Geschenke finden Sie auf unserem [Instagram](https://www.instagram.com
 
 Lagerbestand mit Stand vom 5. Oktober 2026. Die Geschenke erhalten die ersten Kunden, die sie anfordern.
 
-### ₩100,000+
+USD-Beträge sind nur Schätzungen. Ihre Ausgaben werden in KRW gezählt.
+
+### ₩100,000+ (ca. $75)
 
 - BTS Light Stick Teile: ARMY (noch 25), ARIRANG (noch 5), ARIRANG RED (noch 15) oder Version BTS (noch 25)
 - Fotokarten: SEVENTEEN (noch 2 Sets) oder RIIZE (noch 1 Set)
@@ -34,7 +36,7 @@ Lagerbestand mit Stand vom 5. Oktober 2026. Die Geschenke erhalten die ersten Ku
 - TXT Kalender 2026 (noch 2)
 - Olive Young Gutschein über ₩5,000
 
-### ₩200,000+
+### ₩200,000+ (ca. $145)
 
 - Stray Kids WowPass Verkehrskarte (noch 15)
 - Fotokarten: TWICE (noch 1 Set), ZEROBASEONE (noch 2 Sets), Stray Kids (noch 1 Set) oder Hearts2Hearts (noch 1 Set)
@@ -44,7 +46,7 @@ Lagerbestand mit Stand vom 5. Oktober 2026. Die Geschenke erhalten die ersten Ku
 - BTS Multi Strap, Rot oder Schwarz (noch 2)
 - Olive Young Gutschein über ₩10,000
 
-### ₩300,000+
+### ₩300,000+ (ca. $220)
 
 - BTS Tour-Schal (noch 1)
 - BTS Skate-Schlüsselanhänger (noch 2)
@@ -52,7 +54,7 @@ Lagerbestand mit Stand vom 5. Oktober 2026. Die Geschenke erhalten die ersten Ku
 - BTS Light Stick Halterung (noch 20)
 - Olive Young Gutschein über ₩15,000
 
-### ₩400,000+
+### ₩400,000+ (ca. $295)
 
 - BTS Plattenspieler-Schlüsselanhänger (noch 5)
 - BTS Kopfhörer-Schlüsselanhänger (noch 2)
@@ -64,29 +66,18 @@ Lagerbestand mit Stand vom 5. Oktober 2026. Die Geschenke erhalten die ersten Ku
 - CORTIS Fotobinder aus Stoff (noch 3)
 - Olive Young Gutschein über ₩20,000
 
-### ₩500,000+
+### ₩500,000+ (ca. $370)
 
-- Offizieller Light Stick: TWICE (noch 3) oder DAY6 (noch 3)
+- Offizieller BTS Light Stick Ver. 4 (noch 30)
+- Offizieller CORTIS Light Stick (noch 20)
+- Offizieller G-Dragon Light Stick (noch 5)
+- Offizieller TWICE Light Stick (noch 3)
+- Offizieller DAY6 Light Stick (noch 3)
+- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs (noch 1 Set)
 - BIGBANG Schlüsselanhänger (noch 5)
 - BLACKPINK Membership Kit (noch 1)
 - Pokémon TCG MEGA Expansion Pack Inferno X Box, 30 Packs, koreanische Version (noch 3)
 - Olive Young Gutschein über ₩25,000
-
-### ₩1,000,000+
-
-- BTS 'What's Your Love Song' Cap (noch 1)
-- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs (noch 1 Set)
-- Offizieller BTS Light Stick Ver. 4 (noch 30)
-- Offizieller CORTIS Light Stick (noch 20)
-- Offizieller G-Dragon Light Stick (noch 5)
-- Olive Young Gutschein über ₩50,000
-
-### ₩3,000,000+
-
-- BTS Hoodie, Größe L (noch 2)
-- BIGBANG Hoodie: M (noch 1), L (noch 1) oder XL (noch 1)
-- Offizieller BIGBANG 20th Anniversary Light Stick (noch 3)
-- Olive Young Gutschein über ₩150,000
 
 ## So lösen Sie Ihr Geschenk ein
 

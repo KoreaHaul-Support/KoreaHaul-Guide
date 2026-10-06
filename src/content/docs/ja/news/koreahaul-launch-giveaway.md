@@ -24,7 +24,9 @@ Buy For Meのご注文を合計し、対象の金額帯に達したら、お好�
 
 在庫数は2026年10月5日時点のものです。ギフトはお申し込みの早い方から順にお渡しします。
 
-### ₩100,000以上
+USDの金額は目安です。購入金額はKRWで計算されます。
+
+### ₩100,000以上（約$75）
 
 - BTS Light Stickパーツ: ARMY（残り25個）、ARIRANG（残り5個）、ARIRANG RED（残り15個）、BTSバージョン（残り25個）のいずれか
 - フォトカード: SEVENTEEN（残り2セット）、RIIZE（残り1セット）のいずれか
@@ -34,7 +36,7 @@ Buy For Meのご注文を合計し、対象の金額帯に達したら、お好�
 - TXT 2026カレンダー（残り2個）
 - ₩5,000 Olive Youngクーポン
 
-### ₩200,000以上
+### ₩200,000以上（約$145）
 
 - Stray Kids WowPass交通カード（残り15個）
 - フォトカード: TWICE（残り1セット）、ZEROBASEONE（残り2セット）、Stray Kids（残り1セット）、Hearts2Hearts（残り1セット）のいずれか
@@ -44,7 +46,7 @@ Buy For Meのご注文を合計し、対象の金額帯に達したら、お好�
 - BTSマルチストラップ、RedまたはBlack（残り2個）
 - ₩10,000 Olive Youngクーポン
 
-### ₩300,000以上
+### ₩300,000以上（約$220）
 
 - BTSツアースカーフ（残り1個）
 - BTSスケートキーリング（残り2個）
@@ -52,7 +54,7 @@ Buy For Meのご注文を合計し、対象の金額帯に達したら、お好�
 - BTS Light Stickクレードル（残り20個）
 - ₩15,000 Olive Youngクーポン
 
-### ₩400,000以上
+### ₩400,000以上（約$295）
 
 - BTSターンテーブルキーリング（残り5個）
 - BTSヘッドホンキーリング（残り2個）
@@ -64,29 +66,18 @@ Buy For Meのご注文を合計し、対象の金額帯に達したら、お好�
 - CORTISファブリックフォトバインダー（残り3個）
 - ₩20,000 Olive Youngクーポン
 
-### ₩500,000以上
+### ₩500,000以上（約$370）
 
-- 公式Light Stick: TWICE（残り3個）、DAY6（残り3個）のいずれか
+- BTS公式Light Stick Ver. 4（残り30個）
+- CORTIS公式Light Stick（残り20個）
+- G-Dragon公式Light Stick（残り5個）
+- TWICE公式Light Stick（残り3個）
+- DAY6公式Light Stick（残り3個）
+- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs（残り1セット）
 - BIGBANGキーリング（残り5個）
 - BLACKPINKメンバーシップキット（残り1個）
 - Pokémon TCG MEGA Expansion Pack Inferno X Box、30パック入り、韓国語版（残り3個）
 - ₩25,000 Olive Youngクーポン
-
-### ₩1,000,000以上
-
-- BTS 'What's Your Love Song'キャップ（残り1個）
-- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs（残り1セット）
-- BTS公式Light Stick Ver. 4（残り30個）
-- CORTIS公式Light Stick（残り20個）
-- G-Dragon公式Light Stick（残り5個）
-- ₩50,000 Olive Youngクーポン
-
-### ₩3,000,000以上
-
-- BTSパーカー、サイズL（残り2個）
-- BIGBANGパーカー: M（残り1個）、L（残り1個）、XL（残り1個）のいずれか
-- BIGBANG 20周年記念公式Light Stick（残り3個）
-- ₩150,000 Olive Youngクーポン
 
 ## 受け取り方法
 

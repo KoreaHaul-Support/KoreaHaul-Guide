@@ -24,7 +24,9 @@ sidebar:
 
 库存数量截至 2026年10月5日。赠品按领取先后发放，先到先得。
 
-### ₩100,000+
+美元金额仅为估算。您的消费金额按韩元（KRW）计算。
+
+### ₩100,000+（约 $75）
 
 - BTS Light Stick 配件：ARMY（剩余 25 个）、ARIRANG（剩余 5 个）、ARIRANG RED（剩余 15 个）或 BTS 版本（剩余 25 个）
 - 小卡：SEVENTEEN（剩余 2 套）或 RIIZE（剩余 1 套）
@@ -34,7 +36,7 @@ sidebar:
 - TXT 2026 日历（剩余 2 个）
 - ₩5,000 Olive Young 优惠券
 
-### ₩200,000+
+### ₩200,000+（约 $145）
 
 - Stray Kids WowPass 交通卡（剩余 15 个）
 - 小卡：TWICE（剩余 1 套）、ZEROBASEONE（剩余 2 套）、Stray Kids（剩余 1 套）或 Hearts2Hearts（剩余 1 套）
@@ -44,7 +46,7 @@ sidebar:
 - BTS 多功能挂绳，红色或黑色（剩余 2 个）
 - ₩10,000 Olive Young 优惠券
 
-### ₩300,000+
+### ₩300,000+（约 $220）
 
 - BTS 巡演围巾（剩余 1 个）
 - BTS 滑板钥匙扣（剩余 2 个）
@@ -52,7 +54,7 @@ sidebar:
 - BTS Light Stick 底座（剩余 20 个）
 - ₩15,000 Olive Young 优惠券
 
-### ₩400,000+
+### ₩400,000+（约 $295）
 
 - BTS 唱机钥匙扣（剩余 5 个）
 - BTS 耳机钥匙扣（剩余 2 个）
@@ -64,29 +66,18 @@ sidebar:
 - CORTIS 布面卡册（剩余 3 个）
 - ₩20,000 Olive Young 优惠券
 
-### ₩500,000+
+### ₩500,000+（约 $370）
 
-- 官方 Light Stick：TWICE（剩余 3 个）或 DAY6（剩余 3 个）
+- BTS 官方 Light Stick Ver. 4（剩余 30 个）
+- CORTIS 官方 Light Stick（剩余 20 个）
+- G-Dragon 官方 Light Stick（剩余 5 个）
+- TWICE 官方 Light Stick（剩余 3 个）
+- DAY6 官方 Light Stick（剩余 3 个）
+- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs（剩余 1 套）
 - BIGBANG 钥匙扣（剩余 5 个）
 - BLACKPINK 会员礼包（Membership Kit）（剩余 1 个）
 - Pokémon TCG MEGA Expansion Pack Inferno X Box，30 包，韩文版（剩余 3 个）
 - ₩25,000 Olive Young 优惠券
-
-### ₩1,000,000+
-
-- BTS 'What's Your Love Song' 棒球帽（剩余 1 个）
-- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs（剩余 1 套）
-- BTS 官方 Light Stick Ver. 4（剩余 30 个）
-- CORTIS 官方 Light Stick（剩余 20 个）
-- G-Dragon 官方 Light Stick（剩余 5 个）
-- ₩50,000 Olive Young 优惠券
-
-### ₩3,000,000+
-
-- BTS 连帽衫，L 码（剩余 2 个）
-- BIGBANG 连帽衫：M（剩余 1 个）、L（剩余 1 个）或 XL（剩余 1 个）
-- BIGBANG 20 周年官方 Light Stick（剩余 3 个）
-- ₩150,000 Olive Young 优惠券
 
 ## 如何领取
 

@@ -24,7 +24,9 @@ Veja fotos dos brindes no nosso [Instagram](https://www.instagram.com/koreahaulo
 
 Estoque em 5 de outubro de 2026. Os brindes vão para os primeiros clientes que os solicitarem.
 
-### ₩100,000+
+Os valores em USD são apenas estimativas. Seu gasto é contado em KRW.
+
+### ₩100,000+ (cerca de $75)
 
 - Peças de Light Stick do BTS: ARMY (restam 25), ARIRANG (restam 5), ARIRANG RED (restam 15) ou versão BTS (restam 25)
 - Photocards: SEVENTEEN (restam 2 conjuntos) ou RIIZE (resta 1 conjunto)
@@ -34,7 +36,7 @@ Estoque em 5 de outubro de 2026. Os brindes vão para os primeiros clientes que 
 - Calendário 2026 do TXT (restam 2)
 - Cupom Olive Young de ₩5,000
 
-### ₩200,000+
+### ₩200,000+ (cerca de $145)
 
 - Cartão de transporte Stray Kids WowPass (restam 15)
 - Photocards: TWICE (resta 1 conjunto), ZEROBASEONE (restam 2 conjuntos), Stray Kids (resta 1 conjunto) ou Hearts2Hearts (resta 1 conjunto)
@@ -44,7 +46,7 @@ Estoque em 5 de outubro de 2026. Os brindes vão para os primeiros clientes que 
 - Alça multiuso do BTS, vermelha ou preta (restam 2)
 - Cupom Olive Young de ₩10,000
 
-### ₩300,000+
+### ₩300,000+ (cerca de $220)
 
 - Cachecol da turnê do BTS (resta 1)
 - Chaveiro de skate do BTS (restam 2)
@@ -52,7 +54,7 @@ Estoque em 5 de outubro de 2026. Os brindes vão para os primeiros clientes que 
 - Suporte para Light Stick do BTS (restam 20)
 - Cupom Olive Young de ₩15,000
 
-### ₩400,000+
+### ₩400,000+ (cerca de $295)
 
 - Chaveiro toca-discos do BTS (restam 5)
 - Chaveiro fone de ouvido do BTS (restam 2)
@@ -64,29 +66,18 @@ Estoque em 5 de outubro de 2026. Os brindes vão para os primeiros clientes que 
 - Fichário de fotos em tecido do CORTIS (restam 3)
 - Cupom Olive Young de ₩20,000
 
-### ₩500,000+
+### ₩500,000+ (cerca de $370)
 
-- Light Stick oficial: TWICE (restam 3) ou DAY6 (restam 3)
+- Light Stick oficial do BTS Ver. 4 (restam 30)
+- Light Stick oficial do CORTIS (restam 20)
+- Light Stick oficial do G-Dragon (restam 5)
+- Light Stick oficial do TWICE (restam 3)
+- Light Stick oficial do DAY6 (restam 3)
+- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs (resta 1 conjunto)
 - Chaveiro do BIGBANG (restam 5)
 - Membership Kit do BLACKPINK (resta 1)
 - Pokémon TCG MEGA Expansion Pack Inferno X Box, 30 pacotes, versão coreana (restam 3)
 - Cupom Olive Young de ₩25,000
-
-### ₩1,000,000+
-
-- Boné BTS 'What's Your Love Song' (resta 1)
-- Jin '#RUNSEOKJIN_EP.TOUR in GOYANG' The Original + Challenge Book + POBs (resta 1 conjunto)
-- Light Stick oficial do BTS Ver. 4 (restam 30)
-- Light Stick oficial do CORTIS (restam 20)
-- Light Stick oficial do G-Dragon (restam 5)
-- Cupom Olive Young de ₩50,000
-
-### ₩3,000,000+
-
-- Moletom com capuz do BTS, tamanho L (restam 2)
-- Moletom com capuz do BIGBANG: M (resta 1), L (resta 1) ou XL (resta 1)
-- Light Stick oficial do 20º aniversário do BIGBANG (restam 3)
-- Cupom Olive Young de ₩150,000
 
 ## Como resgatar
 
