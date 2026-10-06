@@ -1,5 +1,5 @@
 TITLE: United States
-EDITED: 2026-10-03
+EDITED: 2026-10-06
 <content>
 Everything you need to buy Korean products and get them to your door in the US - from ordering to customs.
 *Last updated 17 September 2026*
@@ -20,7 +20,7 @@ Everything you need to buy Korean products and get them to your door in the US -
 	- Available for shipments of declared value \$200 or less.
 	- **Duties are included in the shipping price. Nothing more to pay on arrival.**
 	- Branded products not accepted.
-	- **K-beauty must be shipped separately**, with a ₩6,000 handling fee. Submit a separate Ship For Me request for them.
+	- **Cosmetics (K-beauty) not accepted.** Ship them by FedEx International Connect Plus.
 	- Loss insurance included, but damage-in-transit claims are not offered.
 <callout icon="💡" color="gray_bg">
 	**Prepaid (DDP)** = You pay import charges before your package is shipped.
@@ -127,7 +127,7 @@ To check a rate yourself, use the tariff calculator at [flexport.com](https://fl
 - Duty is included in the shipping price. No handling fee.
 - Available for shipments with a declared value of \$200 or less
 - No branded products
-- K-beauty ships separately, \$5 handling fee and its own Ship For Me request
+- No cosmetics (K-beauty)
 ## What we can't ship
 - Flammables and pressurized items (perfume, cologne, nail polish, aerosols, lighters, hand warmers)
 - Loose batteries and power banks

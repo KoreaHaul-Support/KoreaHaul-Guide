@@ -1,7 +1,7 @@
 ---
 title: "韩妆"
 description: "在哪里购买韩妆、大型促销何时举行，以及化妆品的海关和运输限制。"
-lastUpdated: 2026-09-23
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -65,7 +65,9 @@ Olive Young 大约每个季度举办一次大型促销，各品牌还会叠加�
 
 <div class="kh-callout kh-callout--caution">
 
-**使用 International Standard Shipping 寄往美国？** 韩妆必须单独寄送，并收取 ₩6,000 的处理费。请为韩妆单独提交 Ship For Me 请求。
+<p class="kh-callout-title">要寄往美国？</p>
+
+International Standard Shipping 不接受韩妆。请通过 FedEx International Connect Plus 寄送。
 
 </div>
 

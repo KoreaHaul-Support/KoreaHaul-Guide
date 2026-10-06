@@ -1,7 +1,7 @@
 ---
 title: "Como economizar no frete"
 description: "Formas de reduzir o custo do frete: junte e reembale os pedidos, fique de olho no limite de isenção do imposto de importação e escolha o método de pagamento de impostos mais barato."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -44,7 +44,9 @@ A taxa de desembaraço aduaneiro é cobrada além do próprio imposto de importa
 
 <div class="kh-callout kh-callout--caution">
 
-**Vai enviar K-beauty para os Estados Unidos pelo International Standard Shipping?** Os cosméticos precisam ser enviados separadamente, com uma taxa de manuseio de ₩6,000. Faça uma solicitação de Ship For Me separada para eles.
+<p class="kh-callout-title">Vai enviar K-beauty para os Estados Unidos?</p>
+
+O International Standard Shipping não aceita cosméticos. Envie esses produtos por FedEx International Connect Plus.
 
 </div>
 

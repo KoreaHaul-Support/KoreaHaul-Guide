@@ -1,7 +1,7 @@
 ---
 title: "K-Beauty"
 description: "Onde comprar K-beauty, quando acontecem as grandes promoções e os limites de alfândega e envio para cosméticos."
-lastUpdated: 2026-09-23
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -65,7 +65,9 @@ Esse limite vale especificamente para K-beauty.
 
 <div class="kh-callout kh-callout--caution">
 
-**Vai enviar para os Estados Unidos com International Standard Shipping?** O K-beauty precisa ser enviado separadamente, com uma taxa de manuseio de ₩6,000. Envie uma solicitação de Ship For Me separada para ele.
+<p class="kh-callout-title">Vai enviar para os Estados Unidos?</p>
+
+O International Standard Shipping não aceita K-beauty. Envie esses produtos por FedEx International Connect Plus.
 
 </div>
 

@@ -1,5 +1,5 @@
 TITLE: K-Beauty
-EDITED: 2026-09-23T17:01:09.147Z
+EDITED: 2026-10-06
 <content>
 The most shipped category out of our warehouse, and the one with the most customs surprises.
 ## Where to buy
@@ -36,7 +36,7 @@ Olive Young runs major sales roughly quarterly, and brands stack their own event
 	- Check your country page before ordering in bulk.
 </callout>
 <callout icon="🇺🇸" color="yellow_bg">
-	**Shipping to the United States on International Standard Shipping?** K-beauty must be shipped separately, with a ₩6,000 handling fee. Submit a separate Ship For Me request for them.
+	**Shipping to the United States?** International Standard Shipping does not accept K-beauty. Ship it by FedEx International Connect Plus.
 </callout>
 - **Perfume, nail polish, and aerosols cannot be shipped at all.** No carrier will take them.
 - **Sunscreen and SPF cushion compacts** are regulated as over-the-counter drugs in some countries. Where that applies, they cannot be shipped at all. Checking your country's rules is your responsibility.

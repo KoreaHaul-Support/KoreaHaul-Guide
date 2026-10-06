@@ -1,7 +1,7 @@
 ---
 title: "K-Beauty"
 description: "Dónde comprar K-beauty, cuándo son las grandes rebajas y los límites de aduana y envío para cosméticos."
-lastUpdated: 2026-09-23
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -65,7 +65,9 @@ Este límite aplica específicamente a la K-beauty.
 
 <div class="kh-callout kh-callout--caution">
 
-**¿Envías a Estados Unidos con International Standard Shipping?** La K-beauty debe enviarse por separado, con una tarifa de manejo de ₩6,000. Envía una solicitud de Ship For Me aparte para ella.
+<p class="kh-callout-title">¿Envías a Estados Unidos?</p>
+
+International Standard Shipping no acepta K-beauty. Envíala por FedEx International Connect Plus.
 
 </div>
 

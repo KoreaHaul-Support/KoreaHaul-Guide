@@ -1,14 +1,14 @@
 ---
 title: "États-Unis"
 description: "Expédition de la Corée vers les États-Unis : options de livraison, droits de douane et taxes, coûts et articles que nous ne pouvons pas expédier."
-lastUpdated: 2026-10-03
+lastUpdated: 2026-10-06
 sidebar:
   order: 14
 ---
 
 Tout ce qu'il vous faut pour acheter des produits coréens et les recevoir chez vous aux États-Unis, de la commande à la douane.
 
-*Dernière mise à jour : 29 septembre 2026*
+*Dernière mise à jour : 6 octobre 2026*
 
 ## Comment ça marche
 
@@ -39,7 +39,7 @@ Les frais de traitement du paiement varient selon le moyen choisi et sont ajout�
     - Disponible pour les envois d'une valeur déclarée inférieure ou égale à $200.
     - **Les droits sont inclus dans le prix d'expédition. Rien de plus à payer à l'arrivée.**
     - Produits de marque non acceptés.
-    - **Les produits K-beauty doivent être expédiés séparément**, avec des frais de traitement de ₩6,000. Envoyez une demande Ship For Me distincte pour ces produits.
+    - **Cosmétiques (K-beauty) non acceptés.** Expédiez-les avec FedEx International Connect Plus.
     - Assurance perte incluse, mais les réclamations pour dommages pendant le transport ne sont pas proposées.
 
 <div class="kh-callout kh-callout--note">
@@ -122,7 +122,7 @@ Pour vérifier un taux vous-même, utilisez le calculateur de droits de douane s
 - Les droits sont inclus dans le prix d'expédition. Pas de frais de dédouanement.
 - Disponible pour les envois d'une valeur déclarée inférieure ou égale à $200
 - Pas de produits de marque
-- Les produits K-beauty sont expédiés séparément, avec $5 de frais de traitement et leur propre demande Ship For Me
+- Pas de cosmétiques (K-beauty)
 
 ## Ce que nous ne pouvons pas expédier
 

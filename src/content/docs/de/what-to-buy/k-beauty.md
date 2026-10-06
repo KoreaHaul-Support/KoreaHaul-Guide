@@ -1,7 +1,7 @@
 ---
 title: "K-Beauty"
 description: "Wo Sie K-Beauty kaufen, wann die großen Sales stattfinden, und die Zoll- und Versandgrenzen für Kosmetik."
-lastUpdated: 2026-09-23
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -65,7 +65,9 @@ Diese Begrenzung gilt speziell für K-Beauty.
 
 <div class="kh-callout kh-callout--caution">
 
-**Versand in die Vereinigten Staaten mit International Standard Shipping?** K-Beauty muss separat versendet werden, mit einer Handling-Gebühr von ₩6,000. Reichen Sie dafür eine separate Ship For Me Anfrage ein.
+<p class="kh-callout-title">Versand in die Vereinigten Staaten?</p>
+
+International Standard Shipping nimmt kein K-Beauty an. Versenden Sie es per FedEx International Connect Plus.
 
 </div>
 

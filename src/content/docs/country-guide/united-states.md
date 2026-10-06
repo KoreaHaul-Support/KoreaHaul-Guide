@@ -1,14 +1,14 @@
 ---
 title: "United States"
 description: "Shipping from Korea to the United States: delivery options, customs duty and tax, what it costs, and items we cannot ship."
-lastUpdated: 2026-10-03
+lastUpdated: 2026-10-06
 sidebar:
   order: 14
 ---
 
 Everything you need to buy Korean products and get them to your door in the US - from ordering to customs.
 
-*Last updated 3 October 2026*
+*Last updated 6 October 2026*
 
 ## How it works
 
@@ -39,7 +39,7 @@ Payment processing fees vary by method and are added at checkout.
     - Available for shipments of declared value $200 or less.
     - **Duties are included in the shipping price. Nothing more to pay on arrival.**
     - Branded products not accepted.
-    - **K-beauty must be shipped separately**, with a ₩6,000 handling fee. Submit a separate Ship For Me request for them.
+    - **Cosmetics (K-beauty) not accepted.** Ship them by FedEx International Connect Plus.
     - Loss insurance included, but damage-in-transit claims are not offered.
 
 <div class="kh-callout kh-callout--note">
@@ -122,7 +122,7 @@ To check a rate yourself, use the tariff calculator at [flexport.com](https://fl
 - Duty is included in the shipping price. No handling fee.
 - Available for shipments with a declared value of $200 or less
 - No branded products
-- K-beauty ships separately, $5 handling fee and its own Ship For Me request
+- No cosmetics (K-beauty)
 
 ## What we can't ship
 

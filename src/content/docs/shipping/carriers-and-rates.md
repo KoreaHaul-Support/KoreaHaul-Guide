@@ -1,7 +1,7 @@
 ---
 title: "Carriers & Rates"
 description: "The carriers we use, how shipping weight is calculated, coverage and tracking, and how you see real quotes for your box before paying."
-lastUpdated: 2026-10-05
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -25,6 +25,8 @@ Prices and transit times differ by country. You see the real quote for your box 
 ## Restrictions
 
 **Branded products.** International Standard Shipping does not accept them. Nike, Adidas, LEGO, Pokémon, Casio, Chanel, Louis Vuitton, Gucci and similar must go by FedEx, EMS Korea Post, or SF Express.
+
+**Cosmetics to the United States.** International Standard Shipping does not accept them. Ship K-beauty to the US by FedEx International Connect Plus.
 
 **Batteries.** Must be built into the device. Loose batteries and power banks cannot be shipped by any service. Every carrier that accepts them caps it at 1 to 2 devices per shipment.
 

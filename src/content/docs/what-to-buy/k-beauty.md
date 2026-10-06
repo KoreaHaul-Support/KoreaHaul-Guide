@@ -1,7 +1,7 @@
 ---
 title: "K-Beauty"
 description: "Where to buy K-beauty, when the big sales happen, and the customs and shipping limits for cosmetics."
-lastUpdated: 2026-09-23
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -65,7 +65,9 @@ This limit applies to K-beauty specifically.
 
 <div class="kh-callout kh-callout--caution">
 
-**Shipping to the United States on International Standard Shipping?** K-beauty must be shipped separately, with a ₩6,000 handling fee. Submit a separate Ship For Me request for them.
+<p class="kh-callout-title">Shipping to the United States?</p>
+
+International Standard Shipping does not accept K-beauty. Ship it by FedEx International Connect Plus.
 
 </div>
 

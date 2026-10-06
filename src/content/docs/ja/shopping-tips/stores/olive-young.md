@@ -1,14 +1,14 @@
 ---
 title: "Olive Young"
 description: "韓国最大のコスメストアOlive Youngでの購入: Buy For Meのプラン、数量制限、コスメの配送の注意点。"
-lastUpdated: 2026-09-26
+lastUpdated: 2026-10-06
 sidebar:
   order: 5
 ---
 
 韓国最大のコスメストアで、1か所で最も幅広い韓国コスメブランドがそろいます。
 
-*最終更新日: 2026年9月26日*
+*最終更新日: 2026年10月6日*
 
 [Olive Youngを見る](https://www.oliveyoung.co.kr/)
 
@@ -24,7 +24,7 @@ sidebar:
 ## 配送の注意点
 
 - 韓国コスメはスペイン、メキシコ、トルコには発送できません。
-- **アメリカ（International Standard Shippingの場合）:** コスメは別送が必要で、₩6,000の取扱手数料がかかります。コスメ用に別のShip For Meリクエストを送信してください。
+- **アメリカ:** International Standard Shippingではコスメを取り扱えません。FedEx International Connect Plusで発送してください。
 - 香水、ネイルポリッシュ、スプレー缶は発送できません。
 - 日焼け止めやSPF製品は、国によっては医薬品として規制されており、発送できない場合があります。
 - リクエストの前に、お住まいの国の国別ガイドでコスメのルールを確認してください。

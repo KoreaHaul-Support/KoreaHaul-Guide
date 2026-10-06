@@ -1,5 +1,5 @@
 TITLE: How to spend less on shipping
-EDITED: 2026-09-30T09:19:30.000Z
+EDITED: 2026-10-06
 <content>
 Shipping is usually the biggest line on your invoice, and the one you control most.
 ## Cut the cost
@@ -23,7 +23,7 @@ The customs handling fee is charged on top of the duty itself, and it differs by
 	**To the United States, International Standard Shipping includes duties in the shipping price.** Nothing more to pay on arrival.
 </callout>
 <callout icon="🇺🇸" color="yellow_bg">
-	**Shipping K-beauty to the United States on International Standard Shipping?** Cosmetics must be shipped separately, with a ₩6,000 handling fee. Submit a separate Ship For Me request for them.
+	**Shipping K-beauty to the United States?** International Standard Shipping does not accept cosmetics. Ship them by FedEx International Connect Plus.
 </callout>
 <callout icon="💰" color="gray_bg">
 	On DDP we prepay an estimate. If customs assesses less than we collected, anything over ₩5,000 comes back to you as Store Credit.

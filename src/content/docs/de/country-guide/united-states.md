@@ -1,14 +1,14 @@
 ---
 title: "Vereinigte Staaten"
 description: "Versand von Korea in die Vereinigten Staaten: Lieferoptionen, Zoll und Steuern, Kosten und Artikel, die wir nicht versenden können."
-lastUpdated: 2026-10-03
+lastUpdated: 2026-10-06
 sidebar:
   order: 14
 ---
 
 Alles, was Sie brauchen, um koreanische Produkte zu kaufen und bis an Ihre Haustür in den USA zu bekommen - von der Bestellung bis zum Zoll.
 
-*Zuletzt aktualisiert am 29. September 2026*
+*Zuletzt aktualisiert am 6. Oktober 2026*
 
 ## So funktioniert es
 
@@ -39,7 +39,7 @@ Die Zahlungsgebühren hängen von der Zahlungsmethode ab und werden beim Bezahle
     - Verfügbar für Sendungen mit einem angegebenen Wert von $200 oder weniger.
     - **Zölle sind im Versandpreis enthalten. Bei Ankunft ist nichts mehr zu zahlen.**
     - Markenprodukte werden nicht angenommen.
-    - **K-Beauty muss separat versendet werden**, mit einer Bearbeitungsgebühr von ₩6,000. Stellen Sie dafür eine separate Ship For Me Anfrage.
+    - **Kosmetik (K-Beauty) wird nicht angenommen.** Versenden Sie sie per FedEx International Connect Plus.
     - Verlustversicherung inklusive, Ansprüche wegen Transportschäden werden jedoch nicht angeboten.
 
 <div class="kh-callout kh-callout--note">
@@ -122,7 +122,7 @@ Um einen Zollsatz selbst zu prüfen, nutzen Sie den Zollrechner auf [flexport.co
 - Der Zoll ist im Versandpreis enthalten. Keine Bearbeitungsgebühr.
 - Verfügbar für Sendungen mit einem angegebenen Wert von $200 oder weniger
 - Keine Markenprodukte
-- K-Beauty wird separat versendet, mit $5 Bearbeitungsgebühr und einer eigenen Ship For Me Anfrage
+- Keine Kosmetik (K-Beauty)
 
 ## Was wir nicht versenden können
 

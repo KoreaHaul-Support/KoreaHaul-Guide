@@ -1,7 +1,7 @@
 ---
 title: "K-Beauty"
 description: "Où acheter la K-beauty, quand ont lieu les grandes soldes, et les limites douanières et d'expédition pour les cosmétiques."
-lastUpdated: 2026-09-23
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -65,7 +65,9 @@ Cette limite s'applique spécifiquement à la K-beauty.
 
 <div class="kh-callout kh-callout--caution">
 
-**Vous expédiez vers les États-Unis avec International Standard Shipping ?** La K-beauty doit être expédiée séparément, avec des frais de manutention de ₩6,000. Envoyez une demande Ship For Me distincte pour ces articles.
+<p class="kh-callout-title">Vous expédiez vers les États-Unis ?</p>
+
+International Standard Shipping n'accepte pas la K-beauty. Expédiez-la avec FedEx International Connect Plus.
 
 </div>
 

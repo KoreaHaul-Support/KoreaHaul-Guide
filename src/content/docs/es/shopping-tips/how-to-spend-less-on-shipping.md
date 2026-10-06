@@ -1,7 +1,7 @@
 ---
 title: "Cómo ahorrar en el envío"
 description: "Formas de reducir lo que pagas de envío: combina y vuelve a empacar, cuida el umbral de aranceles y elige el método de aranceles más barato."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -44,7 +44,9 @@ La tarifa de gestión aduanera se cobra además del arancel, y varía según el 
 
 <div class="kh-callout kh-callout--caution">
 
-**¿Envías K-beauty a Estados Unidos con International Standard Shipping?** Los cosméticos deben enviarse por separado, con una tarifa de manejo de ₩6,000. Haz una solicitud de Ship For Me aparte para ellos.
+<p class="kh-callout-title">¿Envías K-beauty a Estados Unidos?</p>
+
+International Standard Shipping no acepta cosméticos. Envíalos por FedEx International Connect Plus.
 
 </div>
 

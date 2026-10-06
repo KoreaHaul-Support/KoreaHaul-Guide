@@ -1,7 +1,7 @@
 ---
 title: "送料を節約する方法"
 description: "送料を抑える方法: 荷物をまとめて再梱包する、関税の免税基準額に注意する、より安い関税の支払い方法を選ぶ。"
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -44,7 +44,9 @@ sidebar:
 
 <div class="kh-callout kh-callout--caution">
 
-**International Standard Shippingで韓国コスメをアメリカに発送しますか？** 化粧品は別送が必要で、₩6,000の取り扱い手数料がかかります。化粧品用に別のShip For Meリクエストを送信してください。
+<p class="kh-callout-title">韓国コスメをアメリカに発送しますか？</p>
+
+International Standard Shippingでは化粧品を取り扱えません。FedEx International Connect Plusで発送してください。
 
 </div>
 

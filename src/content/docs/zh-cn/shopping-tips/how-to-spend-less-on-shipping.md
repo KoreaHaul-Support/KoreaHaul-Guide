@@ -1,7 +1,7 @@
 ---
 title: "如何节省运费"
 description: "降低运费的方法：合并并重新包装、留意免税额度，并选择更便宜的关税方式。"
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -44,7 +44,9 @@ sidebar:
 
 <div class="kh-callout kh-callout--caution">
 
-**通过 International Standard Shipping 将韩妆寄往美国？** 化妆品必须单独寄送，并收取 ₩6,000 的手续费。请为其单独提交一个 Ship For Me 请求。
+<p class="kh-callout-title">要将韩妆寄往美国？</p>
+
+International Standard Shipping 不接受化妆品。请通过 FedEx International Connect Plus 寄送。
 
 </div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to spend less on shipping"
 description: "Ways to cut your shipping bill: consolidate and repack, watch your duty threshold, and pick the cheaper duty method."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -44,7 +44,9 @@ The customs handling fee is charged on top of the duty itself, and it differs by
 
 <div class="kh-callout kh-callout--caution">
 
-**Shipping K-beauty to the United States on International Standard Shipping?** Cosmetics must be shipped separately, with a ₩6,000 handling fee. Submit a separate Ship For Me request for them.
+<p class="kh-callout-title">Shipping K-beauty to the United States?</p>
+
+International Standard Shipping does not accept cosmetics. Ship them by FedEx International Connect Plus.
 
 </div>
 

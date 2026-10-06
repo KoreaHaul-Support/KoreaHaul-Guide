@@ -1,14 +1,14 @@
 ---
 title: "Estados Unidos"
 description: "Envio da Coreia para os Estados Unidos: opções de entrega, impostos e tributos de importação, quanto custa e itens que não podemos enviar."
-lastUpdated: 2026-10-03
+lastUpdated: 2026-10-06
 sidebar:
   order: 14
 ---
 
 Tudo o que você precisa para comprar produtos coreanos e recebê-los em casa nos EUA, do pedido à alfândega.
 
-*Atualizado em 29 de setembro de 2026*
+*Atualizado em 6 de outubro de 2026*
 
 ## Como funciona
 
@@ -39,7 +39,7 @@ As taxas de processamento de pagamento variam conforme a forma escolhida e são 
     - Disponível para envios com valor declarado de $200 ou menos.
     - **O imposto de importação já está incluído no preço do frete. Não há mais nada a pagar na chegada.**
     - Não aceita produtos de marca.
-    - **Produtos de K-beauty precisam ser enviados separadamente**, com taxa de manuseio de ₩6,000. Envie uma solicitação de Ship For Me separada para eles.
+    - **Não aceita cosméticos (K-beauty).** Envie esses produtos por FedEx International Connect Plus.
     - Seguro contra perda incluído, mas não oferecemos reclamações por danos durante o transporte.
 
 <div class="kh-callout kh-callout--note">
@@ -122,7 +122,7 @@ Para conferir uma alíquota por conta própria, use a calculadora de tarifas em 
 - O imposto de importação já está incluído no preço do frete. Sem taxa de manuseio.
 - Disponível para envios com valor declarado de $200 ou menos
 - Sem produtos de marca
-- K-beauty é enviado separadamente, com taxa de manuseio de $5 e uma solicitação de Ship For Me própria
+- Sem cosméticos (K-beauty)
 
 ## O que não podemos enviar
 

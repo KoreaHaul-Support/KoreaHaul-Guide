@@ -1,7 +1,7 @@
 ---
 title: "Transportadoras e tarifas"
 description: "As transportadoras que usamos, como o peso de envio é calculado, cobertura e rastreio, e como você vê orçamentos reais da sua caixa antes de pagar."
-lastUpdated: 2026-10-05
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -25,6 +25,8 @@ Os preços e prazos de entrega variam de país para país. Você vê o orçament
 ## Restrições
 
 **Produtos de marca.** O International Standard Shipping não aceita esses produtos. Nike, Adidas, LEGO, Pokémon, Casio, Chanel, Louis Vuitton, Gucci e similares precisam ir por FedEx, EMS Korea Post ou SF Express.
+
+**Cosméticos para os Estados Unidos.** O International Standard Shipping não aceita esses produtos. Envie K-beauty para os EUA por FedEx International Connect Plus.
 
 **Baterias.** Precisam estar embutidas no aparelho. Baterias soltas e power banks não podem ser enviados por nenhum serviço. Todas as transportadoras que aceitam baterias limitam a 1 a 2 aparelhos por envio.
 

@@ -1,7 +1,7 @@
 ---
 title: "Versanddienstleister und Tarife"
 description: "Die Versanddienstleister, die wir nutzen, wie das Versandgewicht berechnet wird, Deckung und Sendungsverfolgung, und wie Sie vor der Zahlung echte Angebote für Ihren Karton sehen."
-lastUpdated: 2026-10-05
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -25,6 +25,8 @@ Preise und Laufzeiten unterscheiden sich je nach Land. Sie sehen das echte Angeb
 ## Einschränkungen
 
 **Markenprodukte.** International Standard Shipping nimmt sie nicht an. Nike, Adidas, LEGO, Pokémon, Casio, Chanel, Louis Vuitton, Gucci und Ähnliche müssen per FedEx, EMS Korea Post oder SF Express verschickt werden.
+
+**Kosmetik in die Vereinigten Staaten.** International Standard Shipping nimmt sie nicht an. Versenden Sie K-Beauty in die USA per FedEx International Connect Plus.
 
 **Batterien.** Sie müssen im Gerät eingebaut sein. Lose Batterien und Powerbanks können mit keinem Service versendet werden. Jeder Versanddienstleister, der sie annimmt, begrenzt sie auf 1 bis 2 Geräte pro Sendung.
 

@@ -1,7 +1,7 @@
 ---
 title: "韓国コスメ"
 description: "韓国コスメの購入先、大型セールの時期、コスメの通関と配送の制限。"
-lastUpdated: 2026-09-23
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -65,7 +65,9 @@ Olive Youngはおよそ四半期ごとに大型セールを開催し、ブラン
 
 <div class="kh-callout kh-callout--caution">
 
-**International Standard Shippingでアメリカに発送しますか？** 韓国コスメは別送が必要で、₩6,000の取扱手数料がかかります。コスメ用に別のShip For Meリクエストを送信してください。
+<p class="kh-callout-title">アメリカに発送しますか？</p>
+
+International Standard Shippingでは韓国コスメを取り扱えません。FedEx International Connect Plusで発送してください。
 
 </div>
 

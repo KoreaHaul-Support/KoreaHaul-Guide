@@ -1,7 +1,7 @@
 ---
 title: "Comment réduire vos frais de livraison"
 description: "Des moyens de réduire votre facture d'expédition : regrouper et reconditionner, surveiller votre seuil de franchise de droits et choisir la méthode de paiement des droits la moins chère."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -44,7 +44,9 @@ Les frais de dédouanement s'ajoutent aux droits eux-mêmes, et ils varient selo
 
 <div class="kh-callout kh-callout--caution">
 
-**Vous expédiez de la K-beauty vers les États-Unis avec International Standard Shipping ?** Les cosmétiques doivent être expédiés séparément, avec des frais de traitement de ₩6,000. Envoyez une demande Ship For Me séparée pour eux.
+<p class="kh-callout-title">Vous expédiez de la K-beauty vers les États-Unis ?</p>
+
+International Standard Shipping n'accepte pas les cosmétiques. Expédiez-les avec FedEx International Connect Plus.
 
 </div>
 

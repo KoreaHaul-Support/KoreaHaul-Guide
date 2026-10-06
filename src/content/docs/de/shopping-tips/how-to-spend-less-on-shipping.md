@@ -1,7 +1,7 @@
 ---
 title: "So sparen Sie Versandkosten"
 description: "So senken Sie Ihre Versandkosten: Bestellungen zusammenfassen und neu verpacken, die Zollfreigrenze im Blick behalten und die günstigere Verzollungsmethode wählen."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-06
 sidebar:
   order: 1
 ---
@@ -44,7 +44,9 @@ Die Zollabwicklungsgebühr kommt zum eigentlichen Zoll hinzu und unterscheidet s
 
 <div class="kh-callout kh-callout--caution">
 
-**Sie versenden K-Beauty mit International Standard Shipping in die Vereinigten Staaten?** Kosmetik muss separat versendet werden, mit einer Bearbeitungsgebühr von ₩6,000. Reichen Sie dafür eine eigene Ship For Me Anfrage ein.
+<p class="kh-callout-title">Sie versenden K-Beauty in die Vereinigten Staaten?</p>
+
+International Standard Shipping nimmt keine Kosmetik an. Versenden Sie sie per FedEx International Connect Plus.
 
 </div>
 

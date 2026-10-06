@@ -1,14 +1,14 @@
 ---
 title: "Olive Young"
 description: "Buying from Olive Young, Korea's biggest beauty store: Buy For Me tier, quantity limits, and shipping notes for cosmetics."
-lastUpdated: 2026-09-26
+lastUpdated: 2026-10-06
 sidebar:
   order: 5
 ---
 
 Korea's biggest beauty store, with the widest range of K-beauty brands in one place.
 
-*Last updated 26 September 2026*
+*Last updated 6 October 2026*
 
 [Visit Olive Young](https://www.oliveyoung.co.kr/)
 
@@ -24,7 +24,7 @@ Korea's biggest beauty store, with the widest range of K-beauty brands in one pl
 ## Shipping notes
 
 - K-beauty cannot be shipped to Spain, Mexico, or Turkey.
-- **United States on International Standard Shipping:** cosmetics must ship separately, with a ₩6,000 handling fee. Submit a separate Ship For Me request for them.
+- **United States:** International Standard Shipping does not accept cosmetics. Ship them by FedEx International Connect Plus.
 - Perfume, nail polish, and aerosols cannot be shipped.
 - Sunscreen and SPF products are regulated as drugs in some countries and may not be shippable.
 - Check your country guide for cosmetics rules before you request.

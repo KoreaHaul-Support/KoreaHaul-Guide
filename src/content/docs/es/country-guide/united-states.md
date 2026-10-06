@@ -1,14 +1,14 @@
 ---
 title: "Estados Unidos"
 description: "Envíos de Corea a Estados Unidos: opciones de envío, aranceles e impuestos de aduana, cuánto cuesta y artículos que no podemos enviar."
-lastUpdated: 2026-10-03
+lastUpdated: 2026-10-06
 sidebar:
   order: 14
 ---
 
 Todo lo que necesitas para comprar productos coreanos y recibirlos en tu puerta en Estados Unidos, desde el pedido hasta la aduana.
 
-*Última actualización: 29 de septiembre de 2026*
+*Última actualización: 6 de octubre de 2026*
 
 ## Cómo funciona
 
@@ -39,7 +39,7 @@ Las tarifas de procesamiento de pago varían según el método y se agregan al p
     - Disponible para envíos con un valor declarado de $200 o menos.
     - **Los aranceles están incluidos en el precio del envío. No pagas nada más al recibirlo.**
     - No se aceptan productos de marca.
-    - **El K-beauty se debe enviar por separado**, con una tarifa de gestión de ₩6,000. Envía una solicitud de Ship For Me aparte para esos productos.
+    - **No se aceptan cosméticos (K-beauty).** Envíalos por FedEx International Connect Plus.
     - Seguro por pérdida incluido, pero no se ofrecen reclamos por daños en tránsito.
 
 <div class="kh-callout kh-callout--note">
@@ -122,7 +122,7 @@ Para revisar una tasa por tu cuenta, usa la calculadora de aranceles de [flexpor
 - Los aranceles están incluidos en el precio del envío. Sin tarifa de gestión.
 - Disponible para envíos con un valor declarado de $200 o menos
 - No se aceptan productos de marca
-- El K-beauty se envía por separado, con una tarifa de gestión de $5 y su propia solicitud de Ship For Me
+- No se aceptan cosméticos (K-beauty)
 
 ## Lo que no podemos enviar
 
