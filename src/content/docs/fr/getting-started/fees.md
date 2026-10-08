@@ -1,7 +1,7 @@
 ---
 title: "Frais"
 description: "Tous les frais KoreaHaul en wons coréens : frais de service Buy For Me, options de manutention et d'emballage, stockage, dédouanement et paiement."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-08
 sidebar:
   order: 7
 ---
@@ -44,6 +44,7 @@ Basic et Standard sont à **₩0** pour les demandes envoyées au plus tard le 3
 - Sets LEGO retirés de la vente
 - Cartes Pokémon de grande valeur
 - Articles de plus de ₩500,000
+- Codes de coupons numériques des plateformes de seconde main (Karrot, Bunjang, Joongonara et similaires)
 
 Pour le retrait sur place Premium, contactez-nous d'abord pour confirmer la disponibilité avant d'envoyer votre demande.
 

@@ -1,14 +1,14 @@
 ---
 title: "Formas de pagamento"
 description: "Formas de pagamento disponíveis para o seu país, a taxa de processamento de cada uma e os limites por pagamento."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-08
 sidebar:
   order: 9
 ---
 
 Como você pode pagar, de acordo com o destino.
 
-*Última atualização: 30 de setembro de 2026*
+*Última atualização: 8 de outubro de 2026*
 
 As formas de pagamento disponíveis dependem do país de destino, do valor do pedido, da análise de risco e de requisitos de conformidade. A KoreaHaul se reserva o direito de definir as formas de pagamento disponíveis e pode recusar, restringir ou retirar qualquer forma de pagamento a seu exclusivo critério.
 
@@ -40,6 +40,8 @@ As formas de pagamento disponíveis dependem do país de destino, do valor do pe
 As taxas variam conforme a forma de pagamento e são adicionadas no checkout. Elas cobrem o custo da transação cobrado pelo provedor de pagamento.
 
 A Wise costuma ter a menor taxa. Onde está disponível, muitas vezes é a forma mais barata de pagar.
+
+Códigos de cupom digital comprados em plataformas de usados só podem ser pagos por Wise ou transferência bancária.
 
 <div class="kh-callout kh-callout--note">
 

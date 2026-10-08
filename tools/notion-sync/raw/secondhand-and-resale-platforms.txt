@@ -1,5 +1,5 @@
 TITLE: Secondhand & Resale Platforms
-EDITED: 2026-09-26T13:46:36.452Z
+EDITED: 2026-10-08
 <content>
 KREAM, Bunjang, Joongonara, Karrot, and Soldout are where sold-out and discontinued Korean items surface. They are also where most problems start.
 <callout icon="⚠️" color="yellow_bg">
@@ -13,6 +13,13 @@ KREAM, Bunjang, Joongonara, Karrot, and Soldout are where sold-out and discontin
 	- **Basic ₩2,000** - KREAM and Soldout, and Bunjang or Karrot Safe Payment listings that can be bought outright.
 	- **Standard ₩5,000** - Joongonara, Karrot sellers who agree to ship, and any listing where we have to negotiate or ask the seller questions.
 	- **Premium ₩30,000 per unit** - Karrot listings that need in-person pickup.
+<callout icon="🎟️" color="yellow_bg">
+	**Digital coupon codes from secondhand platforms**
+	Requests for digital coupon codes, gift cards or mobile vouchers from Karrot (Daangn), Bunjang, Joongonara, X, Instagram or similar sellers have extra requirements, because of the risk of seller fraud:
+	- **Premium Buy For Me only** (₩30,000 per code). Basic and Standard are not available. For example, 3 codes cost ₩90,000 in fees. The launch promotion does not apply.
+	- **Pay by Wise or Bank Transfer only.** PayPal, credit card, Alipay and WeChat Pay are not accepted for these requests.
+	- **Codes are sent only to your registered email.** They are not shipped.
+</callout>
 ## Reduce the risk
 - Request extra photos before we buy. That needs Standard Buy For Me, since we have to message the seller.
 - Check the seller's rating and how long the listing has been up.

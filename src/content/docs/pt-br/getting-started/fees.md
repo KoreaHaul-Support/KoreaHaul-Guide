@@ -1,7 +1,7 @@
 ---
 title: "Taxas"
 description: "Todas as taxas da KoreaHaul em won coreano: taxas de serviço do Buy For Me, opções de manuseio e embalagem, armazenamento, desembaraço aduaneiro e pagamento."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-08
 sidebar:
   order: 7
 ---
@@ -44,6 +44,7 @@ Basic e Standard custam **₩0** para solicitações enviadas até 31 de dezembr
 - Sets de LEGO descontinuados
 - Cartas Pokémon de alto valor
 - Itens com preço acima de ₩500,000
+- Códigos de cupom digital de plataformas de usados (Karrot, Bunjang, Joongonara e similares)
 
 Para a retirada presencial do Premium, fale com a gente antes de enviar sua solicitação para confirmar a disponibilidade.
 

@@ -1,5 +1,5 @@
 TITLE: Fees
-EDITED: 2026-09-30T09:19:30.000Z
+EDITED: 2026-10-08
 <content>
 All prices in Korean won (KRW).
 ## Buy For Me service fee
@@ -23,6 +23,7 @@ Charged per product line, not per unit. Three copies of the same album count as 
 - Retired LEGO sets
 - High-value Pokémon cards
 - Items priced over ₩500,000
+- Digital coupon codes from secondhand platforms (Karrot, Bunjang, Joongonara and similar)
 For Premium offline pickup, contact us first to confirm availability before submitting your request.
 ## Handling options
 Optional. Choose when you request a shipment.

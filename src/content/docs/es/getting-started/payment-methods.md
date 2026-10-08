@@ -1,14 +1,14 @@
 ---
 title: "Métodos de pago"
 description: "Los métodos de pago disponibles para tu país, la tarifa de procesamiento de cada uno y los límites por pago."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-08
 sidebar:
   order: 9
 ---
 
 Con qué puedes pagar, según el destino.
 
-*Última actualización: 30 de septiembre de 2026*
+*Última actualización: 8 de octubre de 2026*
 
 Los métodos de pago disponibles dependen del país de destino, el valor del pedido, la evaluación de riesgo y los requisitos de cumplimiento. KoreaHaul se reserva el derecho de definir los métodos de pago disponibles y puede rechazar, restringir o retirar cualquier método de pago a su entera discreción.
 
@@ -40,6 +40,8 @@ Los métodos de pago disponibles dependen del país de destino, el valor del ped
 Las tarifas varían según el método y se suman al pagar. Cubren el costo de la transacción que cobra el proveedor de pago.
 
 Wise suele tener la tarifa más baja. Donde está disponible, a menudo es la forma más barata de pagar.
+
+Los códigos de cupón digitales comprados en plataformas de segunda mano solo se pueden pagar con Wise o transferencia bancaria.
 
 <div class="kh-callout kh-callout--note">
 

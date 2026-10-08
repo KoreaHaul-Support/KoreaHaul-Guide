@@ -1,14 +1,14 @@
 ---
 title: "Bunjang"
 description: "Como comprar no Bunjang, o maior marketplace de usados da Coreia, pela KoreaHaul: plano do Buy For Me, o que saber e observações de envio."
-lastUpdated: 2026-09-26
+lastUpdated: 2026-10-08
 sidebar:
   order: 1
 ---
 
 O maior marketplace de usados da Coreia para K-pop, moda, colecionáveis e itens esgotados.
 
-*Atualizado em 26 de setembro de 2026*
+*Atualizado em 8 de outubro de 2026*
 
 [Visitar o Bunjang](https://m.bunjang.co.kr/) - ou veja os anúncios na [página do Bunjang da KoreaHaul](https://koreahaul.com/bunjang).
 
@@ -25,6 +25,7 @@ O maior marketplace de usados da Coreia para K-pop, moda, colecionáveis e itens
 
 ## Bom saber
 
+- **Códigos de cupom digital** exigem o Premium Buy For Me (₩30,000 por código) e pagamento por Wise ou transferência bancária, por causa do risco de fraude do vendedor. Os códigos são enviados somente para o seu e-mail cadastrado.
 - Os itens são vendidos por pessoas físicas, não pelo Bunjang. O estado do item e a precisão do anúncio são responsabilidade do vendedor.
 - Confira as fotos e a descrição com atenção antes de fazer a solicitação.
 - O estado da caixa nunca é motivo para devolução.

@@ -1,7 +1,7 @@
 ---
 title: "Tarifas"
 description: "Todas las tarifas de KoreaHaul en wones coreanos: tarifas de servicio de Buy For Me, opciones de manejo y empaque, almacenamiento, despacho de aduana y pago."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-08
 sidebar:
   order: 7
 ---
@@ -44,6 +44,7 @@ Basic y Standard cuestan **₩0** en solicitudes enviadas hasta el 31 de diciemb
 - Sets de LEGO descontinuados
 - Cartas Pokémon de alto valor
 - Artículos de más de ₩500,000
+- Códigos de cupón digitales de plataformas de segunda mano (Karrot, Bunjang, Joongonara y similares)
 
 Para la recogida en tienda física con Premium, contáctanos primero para confirmar la disponibilidad antes de enviar tu solicitud.
 

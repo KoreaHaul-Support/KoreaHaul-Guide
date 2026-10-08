@@ -1,14 +1,14 @@
 ---
 title: "Payment Methods"
 description: "Payment methods available for your country, the processing fee for each, and per-payment order limits."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-08
 sidebar:
   order: 9
 ---
 
 What you can pay with, by destination.
 
-*Last updated 30 September 2026*
+*Last updated 8 October 2026*
 
 Available payment methods depend on the destination country, order value, risk assessment, and compliance requirements. KoreaHaul reserves the right to determine available payment methods and may refuse, restrict, or withdraw any payment method at its sole discretion.
 
@@ -40,6 +40,8 @@ Available payment methods depend on the destination country, order value, risk a
 Fees vary by method and are added at checkout. They cover the transaction cost charged by the payment provider.
 
 Wise usually carries the lowest fee. Where it is available, it is often the cheapest way to pay.
+
+Digital coupon codes bought on secondhand platforms can only be paid by Wise or Bank Transfer.
 
 <div class="kh-callout kh-callout--note">
 

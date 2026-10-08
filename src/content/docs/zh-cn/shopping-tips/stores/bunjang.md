@@ -1,14 +1,14 @@
 ---
 title: "Bunjang"
 description: "通过 KoreaHaul 在韩国最大的二手交易平台 Bunjang 上购物：Buy For Me 服务等级、须知事项和运输说明。"
-lastUpdated: 2026-09-26
+lastUpdated: 2026-10-08
 sidebar:
   order: 1
 ---
 
 韩国最大的二手交易平台，有 K-pop、时尚、收藏品和已售罄的商品。
 
-*最后更新：2026年9月26日*
+*最后更新：2026年10月8日*
 
 [访问 Bunjang](https://m.bunjang.co.kr/) - 或在 [KoreaHaul 的 Bunjang 页面](https://koreahaul.com/bunjang)浏览商品。
 
@@ -25,6 +25,7 @@ sidebar:
 
 ## 须知
 
+- **数字优惠券码**需要 Premium Buy For Me（每个码 ₩30,000），并须通过 Wise 或 银行转账 付款，因为存在卖家欺诈风险。兑换码只会发送到您的注册邮箱。
 - 商品由个人卖家出售，而不是由 Bunjang 出售。商品状况和页面信息的准确性由卖家负责。
 - 提交请求前请仔细查看照片和描述。
 - 包装盒状况在任何情况下都不能作为退货理由。

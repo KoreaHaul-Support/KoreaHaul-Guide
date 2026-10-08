@@ -1,5 +1,5 @@
 TITLE: Payment Methods
-EDITED: 2026-09-30T08:56:27.000Z
+EDITED: 2026-10-08
 <content>
 What you can pay with, by destination.
 *Last updated 26 September 2026*
@@ -90,6 +90,7 @@ Available payment methods depend on the destination country, order value, risk a
 ## Processing fees
 Fees vary by method and are added at checkout. They cover the transaction cost charged by the payment provider.
 Wise usually carries the lowest fee. Where it is available, it is often the cheapest way to pay.
+Digital coupon codes bought on secondhand platforms can only be paid by Wise or Bank Transfer.
 <callout color="gray_bg">
 	**To pay by Western Union or Bank Transfer**, contact us at [support@koreahaul.com](mailto:support@koreahaul.com) or on WhatsApp +82-10-5725-1222. These are arranged manually and are available for any destination on request.
 </callout>

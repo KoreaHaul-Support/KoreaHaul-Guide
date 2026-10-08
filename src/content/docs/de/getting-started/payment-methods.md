@@ -1,14 +1,14 @@
 ---
 title: "Zahlungsmethoden"
 description: "Die für Ihr Land verfügbaren Zahlungsmethoden, die Bearbeitungsgebühr für jede Methode und die Limits pro Zahlung."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-08
 sidebar:
   order: 9
 ---
 
 Womit Sie bezahlen können, nach Zielland.
 
-*Zuletzt aktualisiert am 30. September 2026*
+*Zuletzt aktualisiert am 8. Oktober 2026*
 
 Welche Zahlungsmethoden verfügbar sind, hängt vom Zielland, vom Bestellwert, von der Risikobewertung und von Compliance-Anforderungen ab. KoreaHaul behält sich das Recht vor, die verfügbaren Zahlungsmethoden festzulegen, und kann jede Zahlungsmethode nach eigenem Ermessen ablehnen, einschränken oder zurückziehen.
 
@@ -40,6 +40,8 @@ Welche Zahlungsmethoden verfügbar sind, hängt vom Zielland, vom Bestellwert, v
 Die Gebühren hängen von der Methode ab und werden beim Bezahlen hinzugefügt. Sie decken die Transaktionskosten, die der Zahlungsanbieter berechnet.
 
 Wise hat in der Regel die niedrigste Gebühr. Wo Wise verfügbar ist, ist es oft die günstigste Art zu bezahlen.
+
+Digitale Gutscheincodes, die auf Second-Hand-Plattformen gekauft werden, können nur per Wise oder Banküberweisung bezahlt werden.
 
 <div class="kh-callout kh-callout--note">
 

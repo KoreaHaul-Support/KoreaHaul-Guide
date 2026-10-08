@@ -1,7 +1,7 @@
 ---
 title: "二手与转售平台"
 description: "在 KREAM、Bunjang、Joongonara、Karrot 和 Soldout 上购物：有哪些不同、如何降低风险，以及各平台的说明。"
-lastUpdated: 2026-09-26
+lastUpdated: 2026-10-08
 sidebar:
   order: 5
 ---
@@ -23,6 +23,18 @@ sidebar:
     - **Basic ₩2,000** - KREAM 和 Soldout，以及 Bunjang 或 Karrot 上可直接购买的安全支付商品。
     - **Standard ₩5,000** - Joongonara、同意寄送的 Karrot 卖家，以及任何需要我们议价或向卖家提问的商品。
     - **每件 Premium ₩30,000** - 需要当面取货的 Karrot 商品。
+
+<div class="kh-callout kh-callout--caution">
+
+**来自二手平台的数字优惠券码**
+
+从 Karrot (Daangn)、Bunjang、Joongonara、X、Instagram 或类似卖家处购买数字优惠券码、礼品卡或手机兑换券时，由于存在卖家欺诈风险，需满足以下额外要求：
+
+- **仅限 Premium Buy For Me**（每个码 ₩30,000）。不提供 Basic 和 Standard。例如，3 个码的服务费为 ₩90,000。上线优惠不适用。
+- **仅限通过 Wise 或 银行转账 付款。** 此类请求不接受 PayPal、信用卡、Alipay 和 WeChat Pay。
+- **兑换码只会发送到您的注册邮箱。** 不会寄送实物。
+
+</div>
 
 ## 降低风险
 

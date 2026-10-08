@@ -1,14 +1,14 @@
 ---
 title: "Daangn (Karrot)"
 description: "Comprar en Daangn (Karrot), el mercado de segunda mano de barrio de Corea: nivel de Buy For Me, qué saber y notas de envío."
-lastUpdated: 2026-09-26
+lastUpdated: 2026-10-08
 sidebar:
   order: 4
 ---
 
 El mercado de segunda mano de barrio de Corea. Los vendedores normalmente venden en su zona, en persona.
 
-*Última actualización: 26 de septiembre de 2026*
+*Última actualización: 8 de octubre de 2026*
 
 [Visitar Daangn](https://www.daangn.com/)
 
@@ -26,6 +26,7 @@ El mercado de segunda mano de barrio de Corea. Los vendedores normalmente venden
 
 ## Bueno saber
 
+- **Códigos de cupón digitales**: necesitan Premium Buy For Me (₩30,000 por código) y pago con Wise o transferencia bancaria, por el riesgo de fraude del vendedor. Los códigos se envían solo a tu email registrado.
 - Muchos vendedores de Daangn solo venden en persona dentro de su barrio. Contáctanos primero para confirmar que podemos llegar al lugar.
 - Los anuncios vuelan. Manda el enlace en cuanto lo encuentres.
 - El estado y la exactitud del anuncio son responsabilidad del vendedor.

@@ -1,7 +1,7 @@
 ---
 title: "中古・リセールプラットフォーム"
 description: "KREAM、Bunjang、Joongonara、Karrot、Soldoutでの購入について: 何が違うのか、リスクを減らす方法、各プラットフォームの注意点。"
-lastUpdated: 2026-09-26
+lastUpdated: 2026-10-08
 sidebar:
   order: 5
 ---
@@ -23,6 +23,18 @@ KREAM、Bunjang、Joongonara、Karrot、Soldoutは、売り切れや販売終了
     - **Basic ₩2,000** - KREAMとSoldout、およびBunjangやKarrotのSafe Payment（安全決済）でそのまま購入できる出品。
     - **Standard ₩5,000** - Joongonara、発送に応じてくれるKarrotの販売者、および販売者との交渉や質問が必要なすべての出品。
     - **Premium 1点あたり₩30,000** - 対面での受け取りが必要なKarrotの出品。
+
+<div class="kh-callout kh-callout--caution">
+
+**中古プラットフォームのデジタルクーポンコード**
+
+Karrot (Daangn)、Bunjang、Joongonara、X、Instagramなどの販売者から、デジタルクーポンコード、ギフトカード、モバイル商品券を購入するリクエストには、販売者による詐欺のリスクがあるため、追加の条件があります。
+
+- **Premium Buy For Meのみ**（1コードあたり₩30,000）。BasicとStandardはご利用いただけません。例えば、3コードの場合は手数料が₩90,000になります。ローンチキャンペーンは対象外です。
+- **お支払いはWiseまたは銀行振込のみ。** これらのリクエストでは、PayPal、クレジットカード、Alipay、WeChat Payはご利用いただけません。
+- **コードはご登録のメールアドレスにのみお送りします。** 発送はしません。
+
+</div>
 
 ## リスクを減らす
 

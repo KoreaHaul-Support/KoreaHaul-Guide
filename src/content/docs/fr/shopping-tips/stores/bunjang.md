@@ -1,14 +1,14 @@
 ---
 title: "Bunjang"
 description: "Acheter sur Bunjang, la plus grande marketplace de seconde main de Corée, via KoreaHaul : formule Buy For Me, ce qu'il faut savoir et informations d'expédition."
-lastUpdated: 2026-09-26
+lastUpdated: 2026-10-08
 sidebar:
   order: 1
 ---
 
 La plus grande marketplace de seconde main de Corée pour la K-pop, la mode, les objets de collection et les articles épuisés.
 
-*Dernière mise à jour : 26 septembre 2026*
+*Dernière mise à jour : 8 octobre 2026*
 
 [Visiter Bunjang](https://m.bunjang.co.kr/) ou parcourir les annonces sur [la page Bunjang de KoreaHaul](https://koreahaul.com/bunjang).
 
@@ -25,6 +25,7 @@ La plus grande marketplace de seconde main de Corée pour la K-pop, la mode, les
 
 ## Bon à savoir
 
+- **Les codes de coupons numériques** nécessitent Premium Buy For Me (₩30,000 par code) et un paiement par Wise ou virement bancaire, en raison du risque de fraude du vendeur. Les codes sont envoyés uniquement à votre adresse e-mail enregistrée.
 - Les articles sont vendus par des particuliers, pas par Bunjang. L'état de l'article et l'exactitude de l'annonce relèvent de la responsabilité du vendeur.
 - Examinez attentivement les photos et la description avant d'envoyer votre demande.
 - L'état de la boîte ne justifie jamais un retour.

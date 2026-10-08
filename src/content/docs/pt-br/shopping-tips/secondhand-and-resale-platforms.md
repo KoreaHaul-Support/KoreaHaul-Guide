@@ -1,7 +1,7 @@
 ---
 title: "Plataformas de usados e revenda"
 description: "Comprar no KREAM, Bunjang, Joongonara, Karrot e Soldout: o que muda, como reduzir o risco e observações sobre cada plataforma."
-lastUpdated: 2026-09-26
+lastUpdated: 2026-10-08
 sidebar:
   order: 5
 ---
@@ -23,6 +23,18 @@ Essas plataformas vendem **no estado em que se encontra**. Depois que fazemos o 
     - **Basic ₩2,000** - KREAM e Soldout, e anúncios do Bunjang ou do Karrot com Pagamento Seguro (Safe Payment) que podem ser comprados direto.
     - **Standard ₩5,000** - Joongonara, vendedores do Karrot que aceitam enviar e qualquer anúncio em que precisemos negociar ou fazer perguntas ao vendedor.
     - **Premium ₩30,000 por unidade** - anúncios do Karrot que exigem retirada presencial.
+
+<div class="kh-callout kh-callout--caution">
+
+**Códigos de cupom digital de plataformas de usados**
+
+Solicitações de códigos de cupom digital, gift cards ou vouchers para celular de vendedores do Karrot (Daangn), Bunjang, Joongonara, X, Instagram ou similares têm requisitos extras, por causa do risco de fraude do vendedor:
+
+- **Somente Premium Buy For Me** (₩30,000 por código). Basic e Standard não estão disponíveis. Por exemplo, 3 códigos custam ₩90,000 em taxas. A promoção de lançamento não se aplica.
+- **Pagamento somente por Wise ou transferência bancária.** PayPal, cartão de crédito, Alipay e WeChat Pay não são aceitos para essas solicitações.
+- **Os códigos são enviados somente para o seu e-mail cadastrado.** Nada é enviado fisicamente.
+
+</div>
 
 ## Reduza o risco
 

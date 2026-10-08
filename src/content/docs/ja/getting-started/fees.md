@@ -1,7 +1,7 @@
 ---
 title: "料金"
 description: "KoreaHaulのすべての料金を韓国ウォンで掲載: Buy For Me サービス料、取り扱い・梱包オプション、保管料、通関手数料、お支払い。"
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-08
 sidebar:
   order: 7
 ---
@@ -44,6 +44,7 @@ sidebar:
 - 販売終了したLEGOセット
 - 高額なポケモンカード
 - ₩500,000を超える商品
+- 中古プラットフォーム（Karrot、Bunjang、Joongonaraなど）のデジタルクーポンコード
 
 Premiumの店頭受け取りをご希望の場合は、リクエストを送信する前にまずお問い合わせいただき、対応可能かご確認ください。
 

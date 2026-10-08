@@ -1,7 +1,7 @@
 ---
 title: "Gebühren"
 description: "Alle KoreaHaul-Gebühren in koreanischen Won: Servicegebühren für Buy For Me, Handling- und Verpackungsoptionen, Lagerung, Zollabfertigung und Zahlung."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-08
 sidebar:
   order: 7
 ---
@@ -44,6 +44,7 @@ Basic und Standard kosten **₩0** für Anfragen, die bis zum 31. Dezember 2026 
 - Ausgelaufene LEGO-Sets
 - Hochwertige Pokémon-Karten
 - Artikel über ₩500,000
+- Digitale Gutscheincodes von Second-Hand-Plattformen (Karrot, Bunjang, Joongonara und ähnliche)
 
 Für eine Premium-Abholung vor Ort kontaktieren Sie uns bitte zuerst, um die Verfügbarkeit zu bestätigen, bevor Sie Ihre Anfrage einreichen.
 

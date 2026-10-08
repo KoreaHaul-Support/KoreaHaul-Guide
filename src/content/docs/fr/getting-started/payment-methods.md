@@ -1,14 +1,14 @@
 ---
 title: "Moyens de paiement"
 description: "Les moyens de paiement disponibles pour votre pays, les frais de traitement de chacun et les limites de commande par paiement."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-08
 sidebar:
   order: 9
 ---
 
 Comment payer, selon votre destination.
 
-*Dernière mise à jour : 30 septembre 2026*
+*Dernière mise à jour : 8 octobre 2026*
 
 Les moyens de paiement disponibles dépendent du pays de destination, de la valeur de la commande, de l'évaluation des risques et des exigences de conformité. KoreaHaul se réserve le droit de déterminer les moyens de paiement disponibles et peut refuser, restreindre ou retirer tout moyen de paiement à sa seule discrétion.
 
@@ -40,6 +40,8 @@ Les moyens de paiement disponibles dépendent du pays de destination, de la vale
 Les frais varient selon le moyen de paiement et sont ajoutés lors du paiement. Ils couvrent le coût de transaction facturé par le prestataire de paiement.
 
 Wise applique généralement les frais les plus bas. Là où il est disponible, c'est souvent le moyen de paiement le moins cher.
+
+Les codes de coupons numériques achetés sur des plateformes de seconde main ne peuvent être payés que par Wise ou virement bancaire.
 
 <div class="kh-callout kh-callout--note">
 

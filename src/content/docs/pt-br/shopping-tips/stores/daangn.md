@@ -1,14 +1,14 @@
 ---
 title: "Daangn (Karrot)"
 description: "Como comprar no Daangn (Karrot), o marketplace de usados de bairro da Coreia: plano do Buy For Me, o que saber e observações de envio."
-lastUpdated: 2026-09-26
+lastUpdated: 2026-10-08
 sidebar:
   order: 4
 ---
 
 O marketplace de usados de bairro da Coreia. Os vendedores normalmente negociam localmente, pessoalmente.
 
-*Atualizado em 26 de setembro de 2026*
+*Atualizado em 8 de outubro de 2026*
 
 [Visitar o Daangn](https://www.daangn.com/)
 
@@ -26,6 +26,7 @@ O marketplace de usados de bairro da Coreia. Os vendedores normalmente negociam 
 
 ## Bom saber
 
+- **Códigos de cupom digital** exigem o Premium Buy For Me (₩30,000 por código) e pagamento por Wise ou transferência bancária, por causa do risco de fraude do vendedor. Os códigos são enviados somente para o seu e-mail cadastrado.
 - Muitos vendedores do Daangn só negociam pessoalmente, dentro do próprio bairro. Fale com a gente antes para confirmarmos se conseguimos chegar ao local.
 - Os anúncios saem rápido. Mande o link assim que encontrar.
 - O estado do item e a precisão do anúncio são responsabilidade do vendedor.

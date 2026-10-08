@@ -1,7 +1,7 @@
 ---
 title: "费用"
 description: "以韩元列出的 KoreaHaul 全部费用：Buy For Me 服务费、处理与包装选项、仓储、清关以及付款。"
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-08
 sidebar:
   order: 7
 ---
@@ -44,6 +44,7 @@ sidebar:
 - 已停产的 LEGO 套装
 - 高价值 Pokémon 卡牌
 - 单价超过 ₩500,000 的商品
+- 来自二手平台（Karrot、Bunjang、Joongonara 等）的数字优惠券码
 
 如需 Premium 线下代取，请在提交请求前先联系我们确认是否可以提供。
 

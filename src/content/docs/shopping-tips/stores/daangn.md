@@ -1,14 +1,14 @@
 ---
 title: "Daangn (Karrot)"
 description: "Buying on Daangn (Karrot), Korea's neighbourhood second-hand marketplace: Buy For Me tier, what to know, and shipping notes."
-lastUpdated: 2026-09-26
+lastUpdated: 2026-10-08
 sidebar:
   order: 4
 ---
 
 Korea's neighbourhood second-hand marketplace. Sellers usually trade locally, face to face.
 
-*Last updated 26 September 2026*
+*Last updated 8 October 2026*
 
 [Visit Daangn](https://www.daangn.com/)
 
@@ -26,6 +26,7 @@ Korea's neighbourhood second-hand marketplace. Sellers usually trade locally, fa
 
 ## Good to know
 
+- **Digital coupon codes** need Premium Buy For Me (₩30,000 per code) and payment by Wise or Bank Transfer, because of the risk of seller fraud. Codes are sent only to your registered email.
 - Many Daangn sellers only trade in person within their neighbourhood. Contact us first so we can confirm we can reach the location.
 - Listings go quickly. Send the link as soon as you find it.
 - Condition and accuracy of the listing are the seller's responsibility.

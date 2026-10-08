@@ -1,7 +1,7 @@
 ---
 title: "Fees"
 description: "Every KoreaHaul fee in Korean won: Buy For Me service fees, handling and packing options, storage, customs clearance, and payment."
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-08
 sidebar:
   order: 7
 ---
@@ -44,6 +44,7 @@ Basic and Standard are **₩0** for requests submitted by 31 December 2026. Prem
 - Retired LEGO sets
 - High-value Pokémon cards
 - Items priced over ₩500,000
+- Digital coupon codes from secondhand platforms (Karrot, Bunjang, Joongonara and similar)
 
 For Premium offline pickup, contact us first to confirm availability before submitting your request.
 
