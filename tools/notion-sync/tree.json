@@ -1,12 +1,4 @@
 {
- "bunjang-system-maintenance": {
-  "title": "Bunjang System Maintenance Notice",
-  "path": "news/bunjang-system-maintenance",
-  "order": -1,
-  "notion": "3f5dc07682c281a8ad14f8f18b16c3d6",
-  "section": "news",
-  "desc": "Our Bunjang system is under maintenance until Monday 12 October 2026. Use the custom Buy For Me form to request Bunjang items in the meantime."
- },
  "adding-more-payment-currencies": {
   "title": "Adding more payment currencies and updating the payment system",
   "path": "news/adding-more-payment-currencies",
