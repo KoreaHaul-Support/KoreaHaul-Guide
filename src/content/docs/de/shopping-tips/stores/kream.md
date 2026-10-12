@@ -1,14 +1,14 @@
 ---
 title: "Kream"
 description: "Einkaufen auf Kream, Koreas größter Resale-Plattform für Sneaker, Streetwear und Luxusartikel: Buy For Me Stufe, was Sie wissen sollten, und Versand."
-lastUpdated: 2026-09-26
+lastUpdated: 2026-10-12
 sidebar:
   order: 2
 ---
 
 Koreas größte Resale-Plattform für Sneaker, Streetwear und Luxusartikel. Kream prüft die Artikel, bevor sie an Käufer versendet werden.
 
-*Zuletzt aktualisiert am 26. September 2026*
+*Zuletzt aktualisiert am 12. Oktober 2026*
 
 [Kream besuchen](https://kream.co.kr/)
 
@@ -20,6 +20,7 @@ Koreas größte Resale-Plattform für Sneaker, Streetwear und Luxusartikel. Krea
 
 - **Grünes Blitzsymbol** - der Artikel liegt bereits im Lager von Kream und wurde geprüft. Er wird am schnellsten versendet.
 - **Kein Symbol** - der Verkäufer schickt den Artikel zuerst an Kream. Rechnen Sie mit 5 oder mehr zusätzlichen Tagen.
+- So prüft Kream die Artikel: [Prüfverfahren und Standards](https://kream.co.kr/content/16357) (auf Koreanisch).
 - Die Preise ändern sich je nach Größe. Geben Sie in Ihrer Anfrage die genaue Größe an.
 - Vergleichen Sie mit [Soldout](https://www.soldout.co.kr/): Derselbe Artikel wird oft auf beiden angeboten.
 

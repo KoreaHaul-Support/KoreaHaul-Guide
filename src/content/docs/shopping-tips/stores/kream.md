@@ -1,14 +1,14 @@
 ---
 title: "Kream"
 description: "Buying on Kream, Korea's largest resale platform for sneakers, streetwear, and luxury: Buy For Me tier, what to know, and shipping."
-lastUpdated: 2026-09-26
+lastUpdated: 2026-10-12
 sidebar:
   order: 2
 ---
 
 Korea's largest resale platform for sneakers, streetwear, and luxury goods. Kream checks items before they ship to buyers.
 
-*Last updated 26 September 2026*
+*Last updated 12 October 2026*
 
 [Visit Kream](https://kream.co.kr/)
 
@@ -20,6 +20,7 @@ Korea's largest resale platform for sneakers, streetwear, and luxury goods. Krea
 
 - **Green lightning icon** - the item is already in Kream's warehouse and has been checked. It ships fastest.
 - **No icon** - the seller sends the item to Kream first. Allow 5 or more extra days.
+- See how Kream checks items: [Inspection process and standards](https://kream.co.kr/content/16357) (in Korean).
 - Prices change by size. Give us the exact size in your request.
 - Compare with [Soldout](https://www.soldout.co.kr/) - the same item is often listed on both.
 

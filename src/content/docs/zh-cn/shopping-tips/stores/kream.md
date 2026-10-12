@@ -1,14 +1,14 @@
 ---
 title: "Kream"
 description: "在韩国最大的运动鞋、街头服饰和奢侈品转售平台 Kream 上购物：Buy For Me 服务等级、须知事项和运输说明。"
-lastUpdated: 2026-09-26
+lastUpdated: 2026-10-12
 sidebar:
   order: 2
 ---
 
 韩国最大的运动鞋、街头服饰和奢侈品转售平台。Kream 会在商品寄给买家前进行检验。
 
-*最后更新：2026年9月26日*
+*最后更新：2026年10月12日*
 
 [访问 Kream](https://kream.co.kr/)
 
@@ -20,6 +20,7 @@ sidebar:
 
 - **绿色闪电图标** - 商品已在 Kream 仓库中并已通过检验。发货最快。
 - **没有图标** - 卖家会先将商品寄给 Kream。请预留 5 天或更多额外时间。
+- 了解 Kream 如何检验商品：[检验流程与标准](https://kream.co.kr/content/16357)（韩语）。
 - 价格因尺码而异。请在请求中写明准确的尺码。
 - 请与 [Soldout](https://www.soldout.co.kr/) 比较 - 同一件商品往往在两个平台上都有出售。
 
