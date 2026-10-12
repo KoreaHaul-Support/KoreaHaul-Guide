@@ -1,4 +1,12 @@
 {
+ "shipping-rates-lowered": {
+  "title": "Shipping Rates Lowered",
+  "path": "news/shipping-rates-lowered",
+  "order": -1,
+  "notion": "3f7dc07682c281f187cde144f057d814",
+  "section": "news",
+  "desc": "Lower shipping rates from 12 October 2026: FedEx to every country we ship to, and International Standard Shipping to the EU and the United States."
+ },
  "adding-more-payment-currencies": {
   "title": "Adding more payment currencies and updating the payment system",
   "path": "news/adding-more-payment-currencies",
