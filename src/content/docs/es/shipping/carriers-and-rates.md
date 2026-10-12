@@ -1,7 +1,7 @@
 ---
 title: "Transportistas y tarifas"
 description: "Los transportistas que usamos, cómo se calcula el peso de envío, la cobertura y el seguimiento, y cómo ves cotizaciones reales para tu caja antes de pagar."
-lastUpdated: 2026-10-06
+lastUpdated: 2026-10-12
 sidebar:
   order: 1
 ---
@@ -71,7 +71,7 @@ Una caja de ropa de 40 × 30 × 25 cm pesa 3 kg en la báscula, pero 40 × 30 ×
 ## Cobertura
 
 - FedEx incluye por defecto una cobertura de hasta USD $100 por pérdida y daños.
-- International Standard Shipping, EMS Korea Post y SF Express no cubren daños durante el transporte. La cobertura por pérdida en International Standard Shipping varía según el destino, desde $200 hasta ninguna.
+- International Standard Shipping y SF Express no cubren daños durante el transporte. EMS Korea Post cubre pérdidas y daños según su propia política. La cobertura por pérdida en International Standard Shipping varía según el destino, desde $200 hasta ninguna.
 - El seguro cuesta el 2% del valor declarado y solo está disponible con FedEx.
 
 Consulta Seguro y reclamos para ver el panorama completo, incluidos los destinos sin cobertura.

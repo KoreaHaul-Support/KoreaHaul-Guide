@@ -1,7 +1,7 @@
 ---
 title: "配送業者と送料"
 description: "当社が利用する配送業者、配送重量の計算方法、補償と追跡、お支払い前に箱ごとの実際の見積もりを確認する方法。"
-lastUpdated: 2026-10-06
+lastUpdated: 2026-10-12
 sidebar:
   order: 1
 ---
@@ -71,7 +71,7 @@ sidebar:
 ## 補償
 
 - FedExには、紛失と破損に対してUSD $100までの補償が標準で付いています。
-- International Standard Shipping、EMS Korea Post、SF Expressは、輸送中の破損を補償しません。International Standard Shippingの紛失補償は配送先によって異なり、$200から補償なしまでさまざまです。
+- International Standard ShippingとSF Expressは、輸送中の破損を補償しません。EMS Korea Postは、同社の規定に基づき紛失と破損を補償します。International Standard Shippingの紛失補償は配送先によって異なり、$200から補償なしまでさまざまです。
 - 保険料は申告額の2%で、FedExのみでご利用いただけます。
 
 補償のない配送先を含む詳細は、「保険と補償請求」をご覧ください。

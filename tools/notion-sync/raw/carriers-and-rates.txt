@@ -1,5 +1,5 @@
 TITLE: Carriers & Rates
-EDITED: 2026-10-06
+EDITED: 2026-10-12
 <content>
 Prices and transit times differ by country. You see the real quote for your box before you pay, with every available carrier priced side by side.
 ## Services we use
@@ -67,7 +67,7 @@ We show both and mark which applies. Optimized Pack and Vacuum Packing often bri
 </callout>
 ## Coverage
 - FedEx includes cover up to USD \$100 for loss and damage by default.
-- International Standard Shipping, EMS Korea Post, and SF Express do not cover damage in transit. Loss cover on International Standard Shipping varies by destination, from \$200 to none.
+- International Standard Shipping and SF Express do not cover damage in transit. EMS Korea Post covers loss and damage under its own carrier policy. Loss cover on International Standard Shipping varies by destination, from \$200 to none.
 - Insurance costs 2% of declared value and is available on FedEx only.
 See Insurance and claims for the full picture, including the destinations with no cover.
 ## Tracking

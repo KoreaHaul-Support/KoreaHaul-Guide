@@ -1,7 +1,7 @@
 ---
 title: "Versicherung und Schadensfälle"
 description: "Was abgedeckt ist, wenn eine Sendung verloren geht oder beschädigt wird, die optionale Shipping Insurance, wie Sie das Risiko senken und wie Sie einen Schaden melden."
-lastUpdated: 2026-10-05
+lastUpdated: 2026-10-12
 sidebar:
   order: 4
 ---
@@ -15,7 +15,7 @@ Jeder Service bietet den Schutz, den der Versanddienstleister gewährt. Das ist 
 | Service | Verlust | Transportschaden |
 | --- | --- | --- |
 | FedEx | Standardmäßig bis zu USD $100 (etwa KRW 135,000) | Standardmäßig bis zu USD $100 (etwa KRW 135,000) |
-| EMS Korea Post | Richtlinie des Versanddienstleisters | Nicht abgedeckt |
+| EMS Korea Post | Richtlinie des Versanddienstleisters | Richtlinie des Versanddienstleisters |
 | SF Express | Richtlinie des Versanddienstleisters | Nicht abgedeckt |
 | International Standard Shipping | Je nach Zielland, siehe unten | Nicht abgedeckt |
 
@@ -31,7 +31,7 @@ Jeder Service bietet den Schutz, den der Versanddienstleister gewährt. Das ist 
 
 Die KRW-Beträge sind ungefähre Werte und ändern sich mit dem Wechselkurs.
 
-Drei der vier Services decken keine Transportschäden ab. Wenn Ihre Artikel zerbrechlich sind, ist das die wichtigste Zeile auf dieser Seite.
+Zwei der vier Services decken keine Transportschäden ab. Wenn Ihre Artikel zerbrechlich sind, ist das die wichtigste Zeile auf dieser Seite.
 
 ## Optionale Shipping Insurance
 

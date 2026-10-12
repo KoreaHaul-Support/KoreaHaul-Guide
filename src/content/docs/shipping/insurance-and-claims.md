@@ -1,7 +1,7 @@
 ---
 title: "Insurance and claims"
 description: "What is covered if a shipment is lost or damaged, optional Shipping Insurance, how to lower the risk, and how to make a claim."
-lastUpdated: 2026-10-05
+lastUpdated: 2026-10-12
 sidebar:
   order: 4
 ---
@@ -15,7 +15,7 @@ Every service carries whatever protection the carrier provides. That is not the 
 | Service | Loss | Damage in transit |
 | --- | --- | --- |
 | FedEx | Up to USD $100 (about KRW 135,000), by default | Up to USD $100 (about KRW 135,000), by default |
-| EMS Korea Post | Carrier policy | Not covered |
+| EMS Korea Post | Carrier policy | Carrier policy |
 | SF Express | Carrier policy | Not covered |
 | International Standard Shipping | Varies by destination - see below | Not covered |
 
@@ -31,7 +31,7 @@ Every service carries whatever protection the carrier provides. That is not the 
 
 KRW figures are approximate and move with the exchange rate.
 
-Three of the four services do not cover damage in transit. If your items are fragile, that is the most important line on this page.
+Two of the four services do not cover damage in transit. If your items are fragile, that is the most important line on this page.
 
 ## Optional Shipping Insurance
 

@@ -1,7 +1,7 @@
 ---
 title: "Seguro y reclamos"
 description: "Qué está cubierto si un envío se pierde o se daña, el Shipping Insurance opcional, cómo reducir el riesgo y cómo hacer un reclamo."
-lastUpdated: 2026-10-05
+lastUpdated: 2026-10-12
 sidebar:
   order: 4
 ---
@@ -15,7 +15,7 @@ Cada servicio incluye la protección que ofrezca el transportista. Eso no es lo 
 | Servicio | Pérdida | Daño durante el transporte |
 | --- | --- | --- |
 | FedEx | Hasta USD $100 (unos KRW 135,000), por defecto | Hasta USD $100 (unos KRW 135,000), por defecto |
-| EMS Korea Post | Según la política del transportista | Sin cobertura |
+| EMS Korea Post | Según la política del transportista | Según la política del transportista |
 | SF Express | Según la política del transportista | Sin cobertura |
 | International Standard Shipping (envío internacional estándar) | Varía según el destino: ver abajo | Sin cobertura |
 
@@ -31,7 +31,7 @@ Cada servicio incluye la protección que ofrezca el transportista. Eso no es lo 
 
 Las cifras en KRW son aproximadas y cambian según el tipo de cambio.
 
-Tres de los cuatro servicios no cubren daños durante el transporte. Si tus artículos son frágiles, esta es la línea más importante de esta página.
+Dos de los cuatro servicios no cubren daños durante el transporte. Si tus artículos son frágiles, esta es la línea más importante de esta página.
 
 ## Shipping Insurance opcional
 

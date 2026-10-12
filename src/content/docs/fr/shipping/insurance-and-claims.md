@@ -1,7 +1,7 @@
 ---
 title: "Assurance et réclamations"
 description: "Ce qui est couvert si un envoi est perdu ou endommagé, l'option Shipping Insurance, comment réduire le risque et comment faire une réclamation."
-lastUpdated: 2026-10-05
+lastUpdated: 2026-10-12
 sidebar:
   order: 4
 ---
@@ -15,7 +15,7 @@ Chaque service bénéficie de la protection fournie par le transporteur, quelle 
 | Service | Perte | Dommages pendant le transport |
 | --- | --- | --- |
 | FedEx | Jusqu'à USD $100 (environ KRW 135,000), par défaut | Jusqu'à USD $100 (environ KRW 135,000), par défaut |
-| EMS Korea Post | Politique du transporteur | Non couverts |
+| EMS Korea Post | Politique du transporteur | Politique du transporteur |
 | SF Express | Politique du transporteur | Non couverts |
 | International Standard Shipping | Variable selon la destination, voir ci-dessous | Non couverts |
 
@@ -31,7 +31,7 @@ Chaque service bénéficie de la protection fournie par le transporteur, quelle 
 
 Les montants en KRW sont approximatifs et varient avec le taux de change.
 
-Trois des quatre services ne couvrent pas les dommages pendant le transport. Si vos articles sont fragiles, c'est la ligne la plus importante de cette page.
+Deux des quatre services ne couvrent pas les dommages pendant le transport. Si vos articles sont fragiles, c'est la ligne la plus importante de cette page.
 
 ## Shipping Insurance (assurance expédition) en option
 
