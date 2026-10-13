@@ -84,6 +84,7 @@ export default defineConfig({
         {
           ...tr('News & Updates'), collapsed: true,
           items: [
+          { slug: 'news/refund-handling-fee-updated' },
           { slug: 'news/bunjang-and-seasons-greetings-discount' },
           { slug: 'news/shipping-rates-lowered' },
           { slug: 'news/adding-more-payment-currencies' },

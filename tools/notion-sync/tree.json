@@ -1,4 +1,12 @@
 {
+ "refund-handling-fee-updated": {
+  "title": "Refund Handling Fee Updated",
+  "path": "news/refund-handling-fee-updated",
+  "order": -3,
+  "notion": "3f8dc07682c28161a4cbcbe8b14a935f",
+  "section": "news",
+  "desc": "From 12 October 2026, refunds to your original payment method have a 2% handling fee plus payment provider fees. Store Credit refunds have no processing fees."
+ },
  "bunjang-and-seasons-greetings-discount": {
   "title": "₩5,000 Off Bunjang Orders and 2027 Season's Greetings",
   "path": "news/bunjang-and-seasons-greetings-discount",
