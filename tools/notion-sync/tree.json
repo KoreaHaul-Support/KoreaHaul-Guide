@@ -1,4 +1,12 @@
 {
+ "bunjang-and-seasons-greetings-discount": {
+  "title": "₩5,000 Off Bunjang Orders and 2027 Season's Greetings",
+  "path": "news/bunjang-and-seasons-greetings-discount",
+  "order": -2,
+  "notion": "3f8dc07682c28158abfaf7601936f04c",
+  "section": "news",
+  "desc": "₩5,000 off Bunjang orders until 30 November 2026 and 2027 Season's Greetings until 31 December 2026, plus a ₩5,000 sign-up coupon. Example cost and coupon terms."
+ },
  "shipping-rates-lowered": {
   "title": "Shipping Rates Lowered",
   "path": "news/shipping-rates-lowered",
