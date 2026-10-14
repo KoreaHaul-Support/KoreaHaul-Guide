@@ -1,7 +1,7 @@
 ---
 title: "Bunjang订单立减₩5,000及2027 Season's Greetings优惠"
 description: "2026年11月30日前的Bunjang订单和2026年12月31日前的2027 Season's Greetings（年历）均立减₩5,000，另有₩5,000注册优惠券。附费用示例和优惠券使用条款。"
-lastUpdated: 2026-10-13
+lastUpdated: 2026-10-15
 sidebar:
   order: -2
 ---
@@ -36,6 +36,7 @@ sidebar:
 
 ## 优惠券使用条款
 
+- 每张优惠券（包括注册优惠券）每个账户仅限使用一次。
 - 每张优惠券仅可用于对应的购买：Bunjang 订单或 Season's Greetings 订单。
 - 如果优惠券用于错误的购买，将无法兑换，订单也会被取消。
 - 取消产生的所有费用，包括支付手续费和退款处理费，均由客户承担。

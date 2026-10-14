@@ -1,7 +1,7 @@
 ---
 title: "₩5,000 Off Bunjang Orders and 2027 Season's Greetings"
 description: "₩5,000 off Bunjang orders until 30 November 2026 and 2027 Season's Greetings until 31 December 2026, plus a ₩5,000 sign-up coupon. Example cost and coupon terms."
-lastUpdated: 2026-10-13
+lastUpdated: 2026-10-15
 sidebar:
   order: -2
 ---
@@ -36,6 +36,7 @@ Not in the USA? It usually still costs less than buying directly from the store 
 
 ## Coupon terms
 
+- Each coupon, including the sign-up coupon, can be used once per account.
 - Each coupon only works on the purchase it is for: Bunjang orders or Season's Greetings orders.
 - If a coupon is applied to the wrong purchase, it cannot be redeemed and the order will be cancelled.
 - Any fees from the cancellation, including payment processing and refund handling fees, are the customer's responsibility.

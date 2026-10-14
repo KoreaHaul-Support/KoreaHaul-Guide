@@ -1,7 +1,7 @@
 ---
 title: "₩5,000 de desconto no Bunjang e nos Season's Greetings 2027"
 description: "₩5,000 de desconto em pedidos do Bunjang até 30 de novembro de 2026 e nos Season's Greetings 2027 até 31 de dezembro de 2026, além de um cupom de cadastro de ₩5,000. Exemplo de custo e condições dos cupons."
-lastUpdated: 2026-10-13
+lastUpdated: 2026-10-15
 sidebar:
   order: -2
 ---
@@ -36,6 +36,7 @@ Não está nos EUA? Normalmente ainda sai mais barato do que comprar direto na l
 
 ## Condições dos cupons
 
+- Cada cupom, incluindo o cupom de cadastro, pode ser usado uma vez por conta.
 - Cada cupom só vale para a compra a que se destina: pedidos do Bunjang ou pedidos de Season's Greetings.
 - Se um cupom for aplicado na compra errada, ele não poderá ser resgatado e o pedido será cancelado.
 - Quaisquer taxas do cancelamento, incluindo taxas de processamento do pagamento e de reembolso, são de responsabilidade do cliente.

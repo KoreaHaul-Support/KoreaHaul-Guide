@@ -1,7 +1,7 @@
 ---
 title: "₩5,000 Rabatt auf Bunjang-Bestellungen und 2027 Season's Greetings"
 description: "₩5,000 Rabatt auf Bunjang-Bestellungen bis 30. November 2026 und auf 2027 Season's Greetings bis 31. Dezember 2026, dazu ein Willkommensgutschein über ₩5,000. Beispielkosten und Gutscheinbedingungen."
-lastUpdated: 2026-10-13
+lastUpdated: 2026-10-15
 sidebar:
   order: -2
 ---
@@ -36,6 +36,7 @@ Sie wohnen nicht in den USA? Meist ist es trotzdem günstiger als ein Kauf direk
 
 ## Gutscheinbedingungen
 
+- Jeder Gutschein, einschließlich des Willkommensgutscheins, kann pro Konto nur einmal verwendet werden.
 - Jeder Gutschein gilt nur für den Kauf, für den er bestimmt ist: Bunjang-Bestellungen oder Season's-Greetings-Bestellungen.
 - Wird ein Gutschein auf den falschen Kauf angewendet, kann er nicht eingelöst werden und die Bestellung wird storniert.
 - Alle Gebühren, die durch die Stornierung entstehen, einschließlich Zahlungs- und Rückerstattungsgebühren, trägt der Kunde.
