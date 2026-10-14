@@ -173,6 +173,7 @@ export default defineConfig({
           },
           { slug: 'shipping/hs-codes-for-common-items' },
           { slug: 'shipping/insurance-and-claims' },
+          { slug: 'shipping/restricted-brands' },
           ],
         },
         {

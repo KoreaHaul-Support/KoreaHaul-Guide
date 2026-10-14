@@ -1,7 +1,7 @@
 ---
 title: "配送業者と送料"
 description: "当社が利用する配送業者、配送重量の計算方法、補償と追跡、お支払い前に箱ごとの実際の見積もりを確認する方法。"
-lastUpdated: 2026-10-12
+lastUpdated: 2026-10-15
 sidebar:
   order: 1
 ---
@@ -24,7 +24,7 @@ sidebar:
 
 ## 制限事項
 
-**ブランド品。** International Standard Shippingでは取り扱えません。Nike、Adidas、LEGO、Pokémon、Casio、Chanel、Louis Vuitton、Gucciなどは、FedEx、EMS Korea Post、SF Expressで発送する必要があります。
+**ブランド品。** International Standard Shippingでは取り扱えません。Nike、Adidas、LEGO、Pokémon、Casio、Chanel、Louis Vuitton、Gucciなどは、FedEx、EMS Korea Post、SF Expressで発送する必要があります。 [取扱不可ブランドの一覧](/shipping/restricted-brands/)もご確認ください。
 
 **アメリカへの化粧品。** International Standard Shippingでは取り扱えません。アメリカへの韓国コスメはFedEx International Connect Plusで発送してください。
 

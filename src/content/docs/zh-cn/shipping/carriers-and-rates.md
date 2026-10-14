@@ -1,7 +1,7 @@
 ---
 title: "承运商与运费"
 description: "我们使用的承运商、运费重量的计算方式、保障与追踪，以及您如何在付款前看到您这一箱的实际报价。"
-lastUpdated: 2026-10-12
+lastUpdated: 2026-10-15
 sidebar:
   order: 1
 ---
@@ -24,7 +24,7 @@ sidebar:
 
 ## 限制
 
-**品牌商品。** International Standard Shipping 不接受品牌商品。Nike、Adidas、LEGO、Pokémon、Casio、Chanel、Louis Vuitton、Gucci 等品牌商品必须通过 FedEx、EMS Korea Post 或 SF Express 寄送。
+**品牌商品。** International Standard Shipping 不接受品牌商品。Nike、Adidas、LEGO、Pokémon、Casio、Chanel、Louis Vuitton、Gucci 等品牌商品必须通过 FedEx、EMS Korea Post 或 SF Express 寄送。 查看完整的[限制品牌列表](/shipping/restricted-brands/)。
 
 **寄往美国的化妆品。** International Standard Shipping 不接受化妆品。寄往美国的韩妆请通过 FedEx International Connect Plus 寄送。
 

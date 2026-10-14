@@ -190,6 +190,14 @@
   "section": "shipping",
   "desc": "What is covered if a shipment is lost or damaged, optional Shipping Insurance, how to lower the risk, and how to make a claim."
  },
+ "restricted-brands": {
+  "title": "Restricted Brands for International Standard Shipping",
+  "path": "shipping/restricted-brands",
+  "order": 5,
+  "notion": "3f9dc07682c281cd82cfd578c39d0374",
+  "section": "shipping",
+  "desc": "Brands International Standard Shipping does not accept, the rule for luxury goods, and which carriers to use for branded products instead."
+ },
  "country-guide": {
   "title": "Country Guide",
   "path": "country-guide/index",
