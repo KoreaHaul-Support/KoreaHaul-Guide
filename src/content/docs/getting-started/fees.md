@@ -1,7 +1,7 @@
 ---
 title: "Fees"
 description: "Every KoreaHaul fee in Korean won: Buy For Me service fees, handling and packing options, storage, customs clearance, and payment."
-lastUpdated: 2026-10-08
+lastUpdated: 2026-10-16
 sidebar:
   order: 7
 ---
@@ -83,6 +83,9 @@ Need something not listed here? Custom services are available on request. Email 
 | Unboxing media | ₩2,000 / parcel | Photos and/or video. Included with every Buy For Me tier. Free for Receive For Me during launch. |
 | Return | ₩5,000 | Any return not caused by the seller. No handling fee if the seller is at fault. Return shipping and other costs are paid by you. |
 | Seller cancellation | ₩1,000 | Handling fee if the seller cancels your order before shipment. |
+| Collect-on-delivery parcel (착불) | Courier fee at cost + ₩3,000 | A Korean seller sends your parcel to our warehouse with the shipping fee due on arrival. We pay the courier, then add the courier fee plus a ₩3,000 handling fee to your invoice. |
+| Half-price delivery pickup (반값택배) | ₩2,000 / package | A Korean seller sends your parcel by convenience store half-price delivery (GS25, CU and similar). We collect it from the store and bring it to our warehouse. |
+| Extra care packing | From ₩10,000 | Items that need special handling, such as large or bulky items, retired LEGO sets, high-value Pokémon cards and other high-value items. The final price depends on what the item needs. |
 | Storage | ₩1,000 / day / package | After 45 free days. ₩2,000 per day if dimensional weight is 10 kg or more. |
 
 ## Storage

@@ -1,5 +1,5 @@
 TITLE: Fees
-EDITED: 2026-10-08
+EDITED: 2026-10-16
 <content>
 All prices in Korean won (KRW).
 ## Buy For Me service fee
@@ -131,6 +131,21 @@ Optional. Choose when you request a shipment.
 <td>Seller cancellation</td>
 <td>₩1,000</td>
 <td>Handling fee if the seller cancels your order before shipment.</td>
+</tr>
+<tr>
+<td>Collect-on-delivery parcel (착불)</td>
+<td>Courier fee at cost + ₩3,000</td>
+<td>A Korean seller sends your parcel to our warehouse with the shipping fee due on arrival. We pay the courier, then add the courier fee plus a ₩3,000 handling fee to your invoice.</td>
+</tr>
+<tr>
+<td>Half-price delivery pickup (반값택배)</td>
+<td>₩2,000 / package</td>
+<td>A Korean seller sends your parcel by convenience store half-price delivery (GS25, CU and similar). We collect it from the store and bring it to our warehouse.</td>
+</tr>
+<tr>
+<td>Extra care packing</td>
+<td>From ₩10,000</td>
+<td>Items that need special handling, such as large or bulky items, retired LEGO sets, high-value Pokémon cards and other high-value items. The final price depends on what the item needs.</td>
 </tr>
 <tr>
 <td>Storage</td>

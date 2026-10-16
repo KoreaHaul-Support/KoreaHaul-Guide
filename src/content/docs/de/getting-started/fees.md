@@ -1,7 +1,7 @@
 ---
 title: "Gebühren"
 description: "Alle KoreaHaul-Gebühren in koreanischen Won: Servicegebühren für Buy For Me, Handling- und Verpackungsoptionen, Lagerung, Zollabfertigung und Zahlung."
-lastUpdated: 2026-10-08
+lastUpdated: 2026-10-16
 sidebar:
   order: 7
 ---
@@ -83,6 +83,9 @@ Sie brauchen etwas, das hier nicht aufgeführt ist? Individuelle Services sind a
 | Unboxing-Medien | ₩2,000 / Paket | Fotos und/oder Video. In jeder Buy For Me Stufe enthalten. Für Receive For Me während der Launch-Phase kostenlos. |
 | Rücksendung | ₩5,000 | Jede Rücksendung, die nicht vom Verkäufer verursacht wurde. Keine Bearbeitungsgebühr, wenn der Verkäufer verantwortlich ist. Rückversand und sonstige Kosten tragen Sie. |
 | Stornierung durch den Verkäufer | ₩1,000 | Bearbeitungsgebühr, wenn der Verkäufer Ihre Bestellung vor dem Versand storniert. |
+| Unfreies Paket (착불) | Versandkosten zum Selbstkostenpreis + ₩3,000 | Ein koreanischer Verkäufer schickt Ihr Paket unfrei an unser Lager, die Versandkosten sind bei Ankunft fällig. Wir bezahlen den Paketdienst und stellen Ihnen diese Kosten plus ₩3,000 Bearbeitungsgebühr in Rechnung. |
+| Abholung Halbpreis-Versand (반값택배) | ₩2,000 / Paket | Ein koreanischer Verkäufer schickt Ihr Paket per Halbpreis-Versand über einen Convenience Store (GS25, CU und ähnliche). Wir holen es im Laden ab und bringen es in unser Lager. |
+| Sorgfältige Verpackung | Ab ₩10,000 | Artikel, die besondere Behandlung brauchen, zum Beispiel große oder sperrige Artikel, eingestellte LEGO-Sets, hochwertige Pokémon-Karten und andere wertvolle Artikel. Der Endpreis hängt davon ab, was der Artikel braucht. |
 | Lagerung | ₩1,000 / Tag / Paket | Nach 45 kostenlosen Tagen. ₩2,000 pro Tag bei einem Volumengewicht von 10 kg oder mehr. |
 
 ## Lagerung

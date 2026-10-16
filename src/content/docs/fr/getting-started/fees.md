@@ -1,7 +1,7 @@
 ---
 title: "Frais"
 description: "Tous les frais KoreaHaul en wons coréens : frais de service Buy For Me, options de manutention et d'emballage, stockage, dédouanement et paiement."
-lastUpdated: 2026-10-08
+lastUpdated: 2026-10-16
 sidebar:
   order: 7
 ---
@@ -83,6 +83,9 @@ Besoin d'un service qui ne figure pas ici ? Des services personnalisés sont dis
 | Médias de déballage | ₩2,000 / colis | Photos et/ou vidéo. Inclus avec chaque niveau Buy For Me. Gratuit pour Receive For Me pendant le lancement. |
 | Retour | ₩5,000 | Tout retour non causé par le vendeur. Aucuns frais de traitement si le vendeur est en faute. L'expédition retour et les autres coûts sont à votre charge. |
 | Annulation par le vendeur | ₩1,000 | Frais de traitement si le vendeur annule votre commande avant l'expédition. |
+| Colis en port dû (착불) | Frais du transporteur au coût réel + ₩3,000 | Un vendeur coréen envoie votre colis à notre entrepôt avec les frais de port payables à l'arrivée. Nous payons le transporteur, puis ajoutons ces frais et ₩3,000 de frais de traitement à votre facture. |
+| Retrait de livraison à moitié prix (반값택배) | ₩2,000 / colis | Un vendeur coréen envoie votre colis via la livraison à moitié prix des supérettes (GS25, CU et similaires). Nous le récupérons au magasin et l'apportons à notre entrepôt. |
+| Emballage soigné | À partir de ₩10,000 | Articles qui demandent une manipulation particulière, comme les articles grands ou encombrants, les sets LEGO retirés, les cartes Pokémon de grande valeur et les autres articles de valeur. Le prix final dépend des besoins de l'article. |
 | Stockage | ₩1,000 / jour / colis | Après 45 jours gratuits. ₩2,000 par jour si le poids volumétrique est de 10 kg ou plus. |
 
 ## Stockage

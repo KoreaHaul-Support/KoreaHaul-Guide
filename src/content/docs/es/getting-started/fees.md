@@ -1,7 +1,7 @@
 ---
 title: "Tarifas"
 description: "Todas las tarifas de KoreaHaul en wones coreanos: tarifas de servicio de Buy For Me, opciones de manejo y empaque, almacenamiento, despacho de aduana y pago."
-lastUpdated: 2026-10-08
+lastUpdated: 2026-10-16
 sidebar:
   order: 7
 ---
@@ -83,6 +83,9 @@ Opcionales. Elígelas cuando solicites un envío.
 | Fotos y video del unboxing | ₩2,000 / paquete | Fotos y/o video. Incluido en todos los niveles de Buy For Me. Gratis para Receive For Me durante el lanzamiento. |
 | Devolución | ₩5,000 | Cualquier devolución que no sea culpa del vendedor. Sin tarifa de manejo si la culpa es del vendedor. El envío de la devolución y otros costos corren por tu cuenta. |
 | Cancelación del vendedor | ₩1,000 | Tarifa de manejo si el vendedor cancela tu pedido antes del envío. |
+| Paquete con envío contra reembolso (착불) | Tarifa de mensajería al costo + ₩3,000 | Un vendedor coreano envía tu paquete a nuestro almacén con el envío a pagar en destino. Pagamos a la mensajería y añadimos a tu factura esa tarifa más ₩3,000 de manejo. |
+| Recogida de envío a mitad de precio (반값택배) | ₩2,000 / paquete | Un vendedor coreano envía tu paquete con el servicio de envío a mitad de precio de tiendas de conveniencia (GS25, CU y similares). Lo recogemos en la tienda y lo llevamos a nuestro almacén. |
+| Empaque con cuidado extra | Desde ₩10,000 | Artículos que requieren un manejo especial, como artículos grandes o voluminosos, sets de LEGO retirados, cartas Pokémon de alto valor y otros artículos de alto valor. El precio final depende de lo que necesite el artículo. |
 | Almacenamiento | ₩1,000 / día / paquete | Después de 45 días gratis. ₩2,000 por día si el peso volumétrico es de 10 kg o más. |
 
 ## Almacenamiento

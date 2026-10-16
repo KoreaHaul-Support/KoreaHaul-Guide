@@ -1,7 +1,7 @@
 ---
 title: "Taxas"
 description: "Todas as taxas da KoreaHaul em won coreano: taxas de serviço do Buy For Me, opções de manuseio e embalagem, armazenamento, desembaraço aduaneiro e pagamento."
-lastUpdated: 2026-10-08
+lastUpdated: 2026-10-16
 sidebar:
   order: 7
 ---
@@ -83,6 +83,9 @@ Precisa de algo que não está nesta lista? Serviços personalizados estão disp
 | Mídia de unboxing | ₩2,000 / encomenda | Fotos e/ou vídeo. Incluída em todos os níveis do Buy For Me. Grátis no Receive For Me durante o lançamento. |
 | Devolução | ₩5,000 | Qualquer devolução que não seja causada pelo vendedor. Sem taxa de manuseio se a culpa for do vendedor. O frete de devolução e outros custos ficam por sua conta. |
 | Cancelamento pelo vendedor | ₩1,000 | Taxa de manuseio se o vendedor cancelar seu pedido antes do envio. |
+| Pacote com frete a pagar na entrega (착불) | Frete da transportadora pelo custo + ₩3,000 | Um vendedor coreano envia seu pacote ao nosso armazém com o frete a pagar na chegada. Pagamos a transportadora e acrescentamos à sua fatura esse valor mais ₩3,000 de manuseio. |
+| Retirada de entrega pela metade do preço (반값택배) | ₩2,000 / pacote | Um vendedor coreano envia seu pacote pela entrega pela metade do preço das lojas de conveniência (GS25, CU e similares). Retiramos na loja e levamos ao nosso armazém. |
+| Embalagem com cuidado extra | A partir de ₩10,000 | Itens que precisam de manuseio especial, como itens grandes ou volumosos, sets de LEGO aposentados, cartas Pokémon de alto valor e outros itens de alto valor. O preço final depende do que o item precisa. |
 | Armazenamento | ₩1,000 / dia / pacote | Após os 45 dias grátis. ₩2,000 por dia se o peso dimensional for de 10 kg ou mais. |
 
 ## Armazenamento
